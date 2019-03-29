@@ -1,0 +1,29 @@
+language: minimal
+
+install:
+  # 7zip
+  - sudo apt-get install p7zip-full
+  # sqlitebiter
+  - wget https://github.com/thombashi/sqlitebiter/releases/download/v0.23.8/sqlitebiter_0.23.8_amd64.deb -O sqlitebiter.deb
+  - sudo dpkg -i sqlitebiter.deb
+  # wikifolio universe xlsx file
+  - wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
+
+before_script:
+  - DATE=$(date +%d_%m_%Y_%H%M)
+  - SQLITE_TARGET_FILE="Investment_Universe_$DATE.sqlite"
+
+script:
+  # convert xlsx to sqlite
+  - sqlitebiter -v --debug -i 'ISIN,WKN,Anlageuniversum(Gruppe),Anlageuniversum,SecurityType' -o $SQLITE_TARGET_FILE file Investment_Universe.de.xlsx
+  - 7z a -tzip -mm=lzma -mx9 $SQLITE_TARGET_FILE.zip $SQLITE_TARGET_FILE 
+  - ls -lh
+  # update readme (append)
+  - cat README.md >> index.html
+  - echo -e '\n## SQLite\n\n['$SQLITE_TARGET_FILE'.zip]('$SQLITE_TARGET_FILE'.zip)\n' >> index.html
+
+after_success:
+  - ./publish.sh 
+env:
+  global:
+  - secure: iaCDp+838NhaUlgFcIBqCzp3d20fZFAc2UuPyGV6k85qRuhnnB3fMV9AhX64AumrFUq9Cw3H/x1RTCSMQ0o8jZgmqTWMJkIueTRJ7IXhm68gVUy8D2jD/fveK7XBywAtKAhC9nxUu/qv4aY4C30fP7wIYS4UvDG1tW/aNVq+gNiqv7o6rU7rJJYfeN6tTj+W7LSjcsuxXMihXnGIknV8ntmZdJKcEf1/vRFz+/ucBVqdxD/PZq8aO/B9GbZ3mK8Rhj0ecd3gMJCRIOCiVMyLE/4seEahKxDyMBg0VQikUlmd8RSmzF9MGEHkwkZPTV6bKEygGhqIYCTVIP7c3czk8U6evyKCfMr6XX0/J0cBFYavn5GYBtmB83QBlPtFo9SBtGsFkbmeLVqrQ4KOlcnkYdf5z1YAIw+o5zKlY2WWy/RaUXKSpV7KnfcqyPEf5OU1XRHKJnnxY4BLvBNhRxeeSN61JphSYMzjSbs9fFHRHZ6c0e8NcExBlvy2GHmNTN0ihxtse1CPUetNB4cLuN3nw+ux5kGIYm5cnIZy3H7LGseBLioTKjFFJ5eU80DXZmlUWrAP4Qt2WIsFo+nQVnQEvMKRobJyTwBErmbvZNofsTcmroTLWkasUhJx05SnxWTywxgPEQiI+I5IubC8TEAwpYecJFCJZfd9E2eZHGDfhmo=
