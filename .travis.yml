@@ -18,9 +18,11 @@ script:
   - sqlitebiter -v --debug -i 'ISIN,WKN,Anlageuniversum(Gruppe),Anlageuniversum,SecurityType' -o $SQLITE_TARGET_FILE file Investment_Universe.de.xlsx
   - 7z a -tzip -mm=lzma -mx9 $SQLITE_TARGET_FILE.zip $SQLITE_TARGET_FILE 
   - ls -lh
-  # update readme (append)
-  - cat README.md >> index.html
-  - echo -e '\n## SQLite\n\n['$SQLITE_TARGET_FILE'.zip]('$SQLITE_TARGET_FILE'.zip)\n' >> index.html
+  # write new README
+  - echo -n > README.md
+  - echo -e '# Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) im Überblick:\n' >> README.md
+  - echo -e '\n## Excel\n\n- [Investment_Universe.de.xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx)\n' >> README.md
+  - echo -e '\n## SQLite\n\n- ['$SQLITE_TARGET_FILE'.zip]('$SQLITE_TARGET_FILE'.zip)\n' >> README.md
 
 after_success:
   - ./publish.sh 
