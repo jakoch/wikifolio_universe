@@ -12,17 +12,18 @@ install:
 before_script:
   - DATE=$(date +%d_%m_%Y_%H%M)
   - SQLITE_FILE="Investment_Universe_$DATE.sqlite"
+  - function getFilesize { ls -sh "$1" | awk '{print $1}'; }
 
 script:
   # convert xlsx to sqlite
   - sqlitebiter -v --debug -i 'ISIN,WKN,Anlageuniversum(Gruppe),Anlageuniversum,SecurityType' -o $SQLITE_FILE file Investment_Universe.de.xlsx
   # 1. original EXCEL file
   - EXCEL_FILENAME="Investment_Universe.de.xlsx"
-  - EXCEL_FILESIZE=$(stat -c%s "$EXCEL_FILENAME")
+  - EXCEL_FILESIZE=$(getFilesize "$EXCEL_FILENAME")
   # 2. compress sqlite, get filesize
   - SQLITE_ZIP_FILENAME=$SQLITE_FILE.zip
   - 7z a -mx9 $SQLITE_ZIP_FILENAME $SQLITE_FILE 
-  - SQLITE_ZIP_FILESIZE=$(stat -c%s "$SQLITE_ZIP_FILENAME")
+  - SQLITE_ZIP_FILESIZE=$(getFilesize "$SQLITE_ZIP_FILENAME")
   # show folder
   - ls -lh
   # write new README
