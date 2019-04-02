@@ -12,7 +12,6 @@ install:
 before_script:
   - DATE=$(date +%d_%m_%Y_%H%M)
   - SQLITE_FILE="Investment_Universe_$DATE.sqlite"
-  - COMPRESS="7z a -mm=lzma2 -mx9"
 
 script:
   # convert xlsx to sqlite
@@ -22,11 +21,11 @@ script:
   - EXCEL_FILESIZE=$(stat -c%s "$EXCEL_FILENAME")
   # 2. compress EXCEL, get filesize
   - EXCEL_7Z_FILENAME="Investment_Universe.de.xlsx.7z"
-  - $COMPRESS $EXCEL_7Z_FILENAME $EXCEL_FILENAME
+  - 7z a -mm=lzma2 -mx9 $EXCEL_7Z_FILENAME $EXCEL_FILENAME
   - EXCEL_7Z_FILESIZE=$(stat -c%s "$EXCEL_7Z_FILENAME")
   # 3. compress sqlite, get filesize
   - SQLITE_7Z_FILENAME=$SQLITE_FILE.7z
-  - $COMPRESS $SQLITE_7Z_FILENAME $SQLITE_FILE 
+  - 7z a -mm=lzma2 -mx9 $SQLITE_7Z_FILENAME $SQLITE_FILE 
   - SQLITE_7Z_FILESIZE=$(stat -c%s "$SQLITE_7Z_FILENAME")
   # show folder
   - ls -lh
