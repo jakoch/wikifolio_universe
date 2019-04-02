@@ -4,25 +4,40 @@ install:
   # 7zip
   - sudo apt-get install p7zip-full
   # sqlitebiter
-  - wget https://github.com/thombashi/sqlitebiter/releases/download/v0.23.8/sqlitebiter_0.23.8_amd64.deb -O sqlitebiter.deb
+  - wget https://github.com/thombashi/sqlitebiter/releases/download/v0.27.1/sqlitebiter_0.27.1_amd64.deb -O sqlitebiter.deb
   - sudo dpkg -i sqlitebiter.deb
   # wikifolio universe xlsx file
   - wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
 
 before_script:
   - DATE=$(date +%d_%m_%Y_%H%M)
-  - SQLITE_TARGET_FILE="Investment_Universe_$DATE.sqlite"
+  - SQLITE_FILE="Investment_Universe_$DATE.sqlite"
+  - COMPRESS="7z a -mm=lzma2 -mx9"
 
 script:
   # convert xlsx to sqlite
-  - sqlitebiter -v --debug -i 'ISIN,WKN,Anlageuniversum(Gruppe),Anlageuniversum,SecurityType' -o $SQLITE_TARGET_FILE file Investment_Universe.de.xlsx
-  - 7z a -tzip -mm=lzma -mx9 $SQLITE_TARGET_FILE.zip $SQLITE_TARGET_FILE 
+  - sqlitebiter -v --debug -i 'ISIN,WKN,Anlageuniversum(Gruppe),Anlageuniversum,SecurityType' -o $SQLITE_FILE file Investment_Universe.de.xlsx
+  # 1. original EXCEL file
+  - EXCEL_FILENAME="Investment_Universe.de.xlsx"
+  - EXCEL_FILESIZE=$(stat -c%s "$EXCEL_FILENAME")
+  # 2. compress EXCEL, get filesize
+  - EXCEL_7Z_FILENAME="Investment_Universe.de.xlsx.7z"
+  - $COMPRESS $EXCEL_7Z_FILENAME $EXCEL_FILENAME
+  - EXCEL_7Z_FILESIZE=$(stat -c%s "$EXCEL_7Z_FILENAME")
+  # 3. compress sqlite, get filesize
+  - SQLITE_7Z_FILENAME=$SQLITE_FILE.7z
+  - $COMPRESS $SQLITE_7Z_FILENAME $SQLITE_FILE 
+  - SQLITE_7Z_FILESIZE=$(stat -c%s "$SQLITE_7Z_FILENAME")
+  # show folder
   - ls -lh
   # write new README
   - echo -n > README.md
   - echo -e '# Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) im Überblick:\n' >> README.md
-  - echo -e '\n## Excel\n\n- [Investment_Universe.de.xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx)\n' >> README.md
-  - echo -e '\n## SQLite\n\n- ['$SQLITE_TARGET_FILE'.zip]('$SQLITE_TARGET_FILE'.zip)\n' >> README.md
+  - echo -e '\n## Excel\n' >> README.md
+  - echo -e '\n- [Investment_Universe.de.xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) ('$EXCEL_FILESIZE')\n' >> README.md
+  - echo -e '\n- ['$EXCEL_7Z_FILENAME']('$EXCEL_7Z_FILENAME') ('$EXCEL_7Z_FILESIZE')\n' >> README.md
+  - echo -e '\n## SQLite\n' >> README.md
+  - echo -e '\n- ['$SQLITE_7Z_FILENAME']('$SQLITE_7Z_FILENAME') ('$SQLITE_7Z_FILESIZE')\n' >> README.md
 
 after_success:
   - ./publish.sh 
