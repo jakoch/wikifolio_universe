@@ -31,8 +31,12 @@ script:
   #
   # sqlite export sqlite to csv
   - sqlite3 -header -csv $SQLITE_FILE "select * from Anlageuniversum;" > $SQLITE_FILE.csv
-  # sed replacement on first line of file, change column name "Anlageuniversum(Gruppe)" to "Anlagegruppe"
+  # sed replacement on first line of file: 
+  # change column name "Anlageuniversum(Gruppe)" to "Anlagegruppe"
   - sed -i '1!b;s/Anlageuniversum(Gruppe)/Anlagegruppe/' $SQLITE_FILE.csv
+  # sed replacement on first line of file:
+  # change column name "Whitelist für institutionelle Produkte – Schweiz" to "WhitelistSchweiz"
+  - sed -i '1!b;s/Whitelist für institutionelle Produkte – Schweiz/WhitelistSchweiz/' $SQLITE_FILE.csv
   # delete original sqlite file
   - rm $SQLITE_FILE
   # show folder
