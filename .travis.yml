@@ -28,6 +28,7 @@ script:
   #
   ## the following command needs sqlite3 v3.25.x
   # - sqlite3 sqlite\*.sqlite "alter table Anlageuniversum rename column \"Anlageuniversum(Gruppe)\" to Anlagegruppe;" ".exit"
+  # - sqlite3 sqlite\*.sqlite "alter table Anlageuniversum rename column \"Whitelist für institutionelle Produkte – Schweiz\" to WhitelistSchweiz;" ".exit"
   #
   # sqlite export sqlite to csv
   - sqlite3 -header -csv $SQLITE_FILE "select * from Anlageuniversum;" > $SQLITE_FILE.csv
