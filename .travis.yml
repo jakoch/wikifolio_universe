@@ -24,13 +24,13 @@ script:
   - EXCEL_FILENAME="Investment_Universe.de.xlsx"
   - EXCEL_FILESIZE=$(getFilesize "$EXCEL_FILENAME")
   # ------------------------------------------------------------------------------
-  # rename "Anlageuniversum(Gruppe)"" to "Anlagegruppe"
+  # 1 Rename Columns
   #
   ## the following command needs sqlite3 v3.25.x
   # - sqlite3 sqlite\*.sqlite "alter table Anlageuniversum rename column \"Anlageuniversum(Gruppe)\" to Anlagegruppe;" ".exit"
   # - sqlite3 sqlite\*.sqlite "alter table Anlageuniversum rename column \"Whitelist für institutionelle Produkte – Schweiz\" to WhitelistSchweiz;" ".exit"
   #
-  # sqlite export sqlite to csv
+  # sqlite export to csv
   - sqlite3 -header -csv $SQLITE_FILE "select * from Anlageuniversum;" > $SQLITE_FILE.csv
   # sed replacement on first line of file: 
   # change column name "Anlageuniversum(Gruppe)" to "Anlagegruppe"
@@ -42,7 +42,7 @@ script:
   - rm $SQLITE_FILE
   # show folder
   - ls -lash
-  # sqlite3 cli import csv file create db file
+  # sqlite import csv file -> create sqlite file
   - sqlite3 -csv $SQLITE_FILE ".import $SQLITE_FILE.csv Anlageuniversum"
   # ------------------------------------------------------------------------------
   # 2. compress sqlite, get filesize
@@ -58,6 +58,27 @@ script:
   - echo -e '\n- [Investment_Universe.de.xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) ('$EXCEL_FILESIZE')\n' >> README.md
   - echo -e '\n## SQLite\n' >> README.md
   - echo -e '\n- ['$SQLITE_ZIP_FILENAME']('$SQLITE_ZIP_FILENAME') ('$SQLITE_ZIP_FILESIZE')\n' >> README.md
+  - echo -e '\n### SQLite database for each SecurityType\n' >> README.md
+  # ------------------------------------------------------------------------------
+  # 2 Export Database for each SecurityType
+  #
+  - |
+    for $SECURITYTYPE in $( sqlite3 $SQLITE_FILE "select distinct SecurityType from Anlageuniversum" ); 
+    do 
+      echo Exporting each SecurityType table to a CSV file SECURITYTYPE:;
+      sqlite3 -header -csv $SQLITE_FILE "select * from $SECURITYTYPE;" > $SECURITYTYPE.csv;
+      echo Creating SQLite database file for each SecurityType CSV file;
+      sqlite3 -csv $SECURITYTYPE_$DATE.sqlite ".import $SECURITYTYPE.csv $SECURITYTYPE";
+      echo Removing CSV file;
+      rm $SECURITYTYPE.csv;
+      echo Create ZIP file;
+      eval "$SECURITYTYPE_ZIP_FILENAME=$SECURITYTYPE_$DATE.sqlite.zip";
+      7z a -mx9 $SECURITYTYPE_ZIP_FILENAME $SECURITYTYPE_$DATE.sqlite; 
+      eval "$SECURITYTYPE_ZIP_FILESIZE=$(getFilesize "$SECURITYTYPE_ZIP_FILENAME")";
+      echo Append README.md;
+      echo -e '\n- ['$SECURITYTYPE_ZIP_FILENAME']('$SECURITYTYPE_ZIP_FILENAME') ('$SECURITYTYPE_ZIP_FILESIZE')\n' >> README.md;
+    done;
+  # ------------------------------------------------------------------------------
 
 after_success:
   - ./publish.sh 
