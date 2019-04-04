@@ -63,20 +63,20 @@ script:
   # 2 Export Database for each SecurityType
   #
   - |
-    for $SECURITYTYPE in $( sqlite3 $SQLITE_FILE "select distinct SecurityType from Anlageuniversum" ); 
+    for $s in $( sqlite3 $SQLITE_FILE "select distinct SecurityType from Anlageuniversum" ); 
     do 
       echo Exporting each SecurityType table to a CSV file SECURITYTYPE:;
-      sqlite3 -header -csv $SQLITE_FILE "select * from $SECURITYTYPE;" > $SECURITYTYPE.csv;
+      sqlite3 -header -csv $SQLITE_FILE "select * from $s;" > $s.csv;
       echo Creating SQLite database file for each SecurityType CSV file;
-      sqlite3 -csv $SECURITYTYPE_$DATE.sqlite ".import $SECURITYTYPE.csv $SECURITYTYPE";
+      sqlite3 -csv $s_$DATE.sqlite ".import $s.csv $s";
       echo Removing CSV file;
-      rm $SECURITYTYPE.csv;
+      rm $s.csv;
       echo Create ZIP file;
-      eval "$SECURITYTYPE_ZIP_FILENAME=$SECURITYTYPE_$DATE.sqlite.zip";
-      7z a -mx9 $SECURITYTYPE_ZIP_FILENAME $SECURITYTYPE_$DATE.sqlite; 
-      eval "$SECURITYTYPE_ZIP_FILESIZE=$(getFilesize "$SECURITYTYPE_ZIP_FILENAME")";
+      eval "$s_ZIP_FILENAME=$s_$DATE.sqlite.zip";
+      7z a -mx9 $s_ZIP_FILENAME $s_$DATE.sqlite; 
+      eval "$s_ZIP_FILESIZE=$(getFilesize "$s_ZIP_FILENAME")";
       echo Append README.md;
-      echo -e '\n- ['$SECURITYTYPE_ZIP_FILENAME']('$SECURITYTYPE_ZIP_FILENAME') ('$SECURITYTYPE_ZIP_FILESIZE')\n' >> README.md;
+      echo -e '\n- ['$s_ZIP_FILENAME']('$s_ZIP_FILENAME') ('$s_ZIP_FILESIZE')\n' >> README.md;
     done;
   # ------------------------------------------------------------------------------
 
