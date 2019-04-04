@@ -35,15 +35,17 @@ script:
   - sed -i '1!b;s/Anlageuniversum(Gruppe)/Anlagegruppe/' $SQLITE_FILE.csv
   # delete original sqlite file
   - rm $SQLITE_FILE
+  # show folder
+  - ls -lash
   # sqlite3 cli import csv file create db file
-  - sqlite3 -csv $SQLITE_FILE ".import '$SQLITE_FILE'.csv Anlageuniversum"
+  - sqlite3 -csv $SQLITE_FILE ".import $SQLITE_FILE.csv Anlageuniversum"
   # ------------------------------------------------------------------------------
   # 2. compress sqlite, get filesize
   - SQLITE_ZIP_FILENAME=$SQLITE_FILE.zip
   - 7z a -mx9 $SQLITE_ZIP_FILENAME $SQLITE_FILE 
   - SQLITE_ZIP_FILESIZE=$(getFilesize "$SQLITE_ZIP_FILENAME")
   # show folder
-  - ls -lh
+  - ls -lash
   # write new README
   - echo -n > README.md
   - echo -e '# Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) im Überblick:\n' >> README.md
