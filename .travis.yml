@@ -1,5 +1,8 @@
 language: minimal
 
+before_install:
+  - sqlite3 -version
+
 install:
   # 7zip
   - sudo apt-get install p7zip-full
@@ -16,10 +19,25 @@ before_script:
 
 script:
   # convert xlsx to sqlite
-  - sqlitebiter -v --debug -i 'ISIN,WKN,Anlageuniversum(Gruppe),Anlageuniversum,SecurityType' -o $SQLITE_FILE file Investment_Universe.de.xlsx
+  - sqlitebiter -v --debug -o $SQLITE_FILE file Investment_Universe.de.xlsx
   # 1. original EXCEL file
   - EXCEL_FILENAME="Investment_Universe.de.xlsx"
   - EXCEL_FILESIZE=$(getFilesize "$EXCEL_FILENAME")
+  # ------------------------------------------------------------------------------
+  # rename "Anlageuniversum(Gruppe)"" to "Anlagegruppe"
+  #
+  ## the following command needs sqlite3 v3.25.x
+  # - sqlite3 sqlite\*.sqlite "alter table Anlageuniversum rename column \"Anlageuniversum(Gruppe)\" to Anlagegruppe;" ".exit"
+  #
+  # sqlite export sqlite to csv
+  - sqlite3 -header -csv $SQLITE_FILE "select * from Anlageuniversum;" > $SQLITE_FILE.csv
+  # sed replacement on first line of file, change column name "Anlageuniversum(Gruppe)" to "Anlagegruppe"
+  - sed -i '1!b;s/Anlageuniversum(Gruppe)/Anlagegruppe/' $SQLITE_FILE.csv
+  # delete original sqlite file
+  - rm $SQLITE_FILE
+  # sqlite3 cli import csv file create db file
+  - sqlite3 -csv $SQLITE_FILE ".import '$SQLITE_FILE'.csv Anlageuniversum"
+  # ------------------------------------------------------------------------------
   # 2. compress sqlite, get filesize
   - SQLITE_ZIP_FILENAME=$SQLITE_FILE.zip
   - 7z a -mx9 $SQLITE_ZIP_FILENAME $SQLITE_FILE 
