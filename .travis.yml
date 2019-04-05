@@ -76,9 +76,9 @@ script:
       echo Removing CSV file;
       rm $SECURITYTYPE.csv;
       echo Create ZIP file;
-      eval "$SECURITYTYPE_ZIP_FILENAME=$SECURITYTYPE_$DATE.sqlite.zip";
+      $SECURITYTYPE_ZIP_FILENAME=$SECURITYTYPE_$DATE.sqlite.zip;
       7z a -mx9 $SECURITYTYPE_ZIP_FILENAME $SECURITYTYPE_$DATE.sqlite; 
-      eval "$SECURITYTYPE_ZIP_FILESIZE=$(getFilesize "$SECURITYTYPE_ZIP_FILENAME")";
+      $SECURITYTYPE_ZIP_FILESIZE=$(getFilesize "$SECURITYTYPE_ZIP_FILENAME");
       echo Append README.md;
       echo -e '\n- ['$SECURITYTYPE_ZIP_FILENAME']('$SECURITYTYPE_ZIP_FILENAME') ('$SECURITYTYPE_ZIP_FILESIZE')\n' >> README.md;
     done;
