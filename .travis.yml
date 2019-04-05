@@ -38,12 +38,14 @@ script:
   # sed replacement on first line of file:
   # change column name "Whitelist für institutionelle Produkte – Schweiz" to "WhitelistSchweiz"
   - sed -i '1!b;s/Whitelist für institutionelle Produkte – Schweiz/WhitelistSchweiz/' $SQLITE_FILE.csv
-  # delete original sqlite file
-  - rm $SQLITE_FILE
+  # cleanup: delete original sqlite file, before importing to same filename
+  - rm $SQLITE_FILE 
   # show folder
   - ls -lash
   # sqlite import csv file -> create sqlite file
   - sqlite3 -csv $SQLITE_FILE ".import $SQLITE_FILE.csv Anlageuniversum"
+  # cleanup: remove tmp csv file
+  - rm $SQLITE_FILE.csv
   # ------------------------------------------------------------------------------
   # 2. compress sqlite, get filesize
   - SQLITE_ZIP_FILENAME=$SQLITE_FILE.zip

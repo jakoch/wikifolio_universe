@@ -9,6 +9,7 @@ remove_unneeded_files() {
   # from git
   git rm .travis.yml
   git rm publish.sh
+  git rm -r query
   # from build
   rm sqlitebiter.deb  
   rm *.sqlite
