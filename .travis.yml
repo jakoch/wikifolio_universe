@@ -58,16 +58,23 @@ script:
   - echo -e '\n- [Investment_Universe.de.xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) ('$EXCEL_FILESIZE')\n' >> README.md
   - echo -e '\n## SQLite\n' >> README.md
   - echo -e '\n- ['$SQLITE_ZIP_FILENAME']('$SQLITE_ZIP_FILENAME') ('$SQLITE_ZIP_FILESIZE')\n' >> README.md
-  - echo -e '\n### SQLite database for each SecurityType\n' >> README.md
   # ------------------------------------------------------------------------------
-  # 2 Export Database for each SecurityType
+  # 2 Create Table for each SecurityType 
+  # sqlite export the database to csv, while applying a sql query
+  - sqlite3 -header -csv $SQLITE_FILE < query/create-tables-for-securitytypes.sql > universe-with-securitytype-tables.csv
+  # sqlite import csv file -> create sqlite file
+  - sqlite3 -csv universe-with-securitytype-tables.sqlite ".import universe-with-securitytype-tables.csv"
+  # ------------------------------------------------------------------------------
+  # 3 Export Database for each SecurityType Table
   #
+  - echo -e '\n##### by SecurityType\n' >> README.md
   - |
-    for SECURITYTYPE in $( sqlite3 $SQLITE_FILE "select distinct SecurityType from Anlageuniversum" ); 
+    for SECURITYTYPE in $( sqlite3 universe-with-securitytype-tables.sqlite "select distinct SecurityType from Anlageuniversum" ); 
     do 
-      echo Exporting each SecurityType table to a CSV file SECURITYTYPE:;
+      echo SecurityType: $SECURITYTYPE;
+      echo Exporting to CSV file;
       sqlite3 -header -csv $SQLITE_FILE "select * from $SECURITYTYPE;" > $SECURITYTYPE.csv;
-      echo Creating SQLite database file for each SecurityType CSV file;
+      echo Creating SQLite for CSV file;
       sqlite3 -csv $SECURITYTYPE_$DATE.sqlite ".import $SECURITYTYPE.csv $SECURITYTYPE";
       echo Removing CSV file;
       rm $SECURITYTYPE.csv;
