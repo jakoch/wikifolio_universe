@@ -60,16 +60,13 @@ script:
   - echo -e '\n- ['$SQLITE_ZIP_FILENAME']('$SQLITE_ZIP_FILENAME') ('$SQLITE_ZIP_FILESIZE')\n' >> README.md
   # ------------------------------------------------------------------------------
   # 2 Create Table for each SecurityType 
-  # sqlite export the database to csv, while applying a sql query
-  - sqlite3 -header -csv $SQLITE_FILE < query/create-tables-for-securitytypes.sql > universe-with-securitytype-tables.csv
-  # sqlite import csv file -> create sqlite file
-  - sqlite3 -csv universe-with-securitytype-tables.sqlite ".import universe-with-securitytype-tables.csv"
+  - sqlite3 $SQLITE_FILE < query/create-tables-for-securitytypes.sql
   # ------------------------------------------------------------------------------
   # 3 Export Database for each SecurityType Table
   #
   - echo -e '\n##### by SecurityType\n' >> README.md
   - |
-    for SECURITYTYPE in $( sqlite3 universe-with-securitytype-tables.sqlite "select distinct SecurityType from Anlageuniversum" ); 
+    for SECURITYTYPE in $( sqlite3 $SQLITE_FILE "select distinct SecurityType from Anlageuniversum" ); 
     do 
       echo SecurityType: $SECURITYTYPE;
       echo Exporting to CSV file;
