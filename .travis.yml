@@ -14,7 +14,7 @@ install:
   - wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
 
 before_script:
-  - DATE=$(date +%d_%m_%Y_%H%M)
+  - DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)
   - SQLITE_FILE="Investment_Universe_$DATE.sqlite"
   - function getFilesize { ls -sh "$1" | awk '{print $1}'; }
 
