@@ -1,4 +1,5 @@
-language: minimal
+language: php
+php: 7.3
 
 before_install:
   - sqlite3 -version
