@@ -73,11 +73,13 @@ script:
     do 
       echo SecurityType: $SECURITYTYPE;
       echo Exporting to CSV file;
-      sqlite3 -header -csv $SQLITE_FILE "select * from $SECURITYTYPE;" > $SECURITYTYPE.csv;
+      sqlite3 -header -csv $SQLITE_FILE "select * from $SECURITYTYPE;" > $SECURITYTYPE-$DATE.csv;
       echo Creating SQLite for CSV file;
-      sqlite3 -csv $SECURITYTYPE-$DATE.sqlite ".import $SECURITYTYPE.csv $SECURITYTYPE";
-      echo Removing CSV file;
-      rm $SECURITYTYPE.csv;
+      sqlite3 -csv $SECURITYTYPE-$DATE.sqlite ".import $SECURITYTYPE-$DATE.csv $SECURITYTYPE";
+      #echo Removing CSV file;
+      #rm $SECURITYTYPE-DATE.csv;
+      echo Move CSV file into csv-diffs folder for diffing;
+      mv $SECURITYTYPE-$DATE.csv csv-diffs/
       echo Create ZIP file;
       declare -A ZIP_FILENAME=();
       ZIP_FILENAME[$SECURITYTYPE]=$SECURITYTYPE-$DATE.sqlite.zip
