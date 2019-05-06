@@ -7,7 +7,7 @@
 - [x] Konvertierung in eine SQLite Datenbank
 - [x] Erstellung einer SQLite Datenbank je SecurityType (Stock, ETF, Derivatives, Wikifolio)
 - [x] Automatische Veröffentlichung 
-  - [x] Travis-CI Cronjob triggert "Master" branch rebuild 
-  - [x] Push Results to "gh-pages" branch
+  - [x] Travis-CI Cronjob (daily) triggers a "master" branch rebuild 
+  - [x] build artifacts are pushed to "gh-pages" branch
 - [ ] Daily Database Diff
 - [ ] RSS Feed
