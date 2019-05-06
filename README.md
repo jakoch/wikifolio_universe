@@ -6,5 +6,8 @@
 - [x] Download der Excel-Datei [Investment_Universe.de.xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) 
 - [x] Konvertierung in eine SQLite Datenbank
 - [x] Erstellung einer SQLite Datenbank je SecurityType (Stock, ETF, Derivatives, Wikifolio)
+- [x] Automatische Veröffentlichung 
+  - [x] Travis-CI Cronjob triggert "Master" branch rebuild 
+  - [x] Push Results to "gh-pages" branch
 - [ ] Daily Database Diff
 - [ ] RSS Feed
