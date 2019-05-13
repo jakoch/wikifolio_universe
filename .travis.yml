@@ -71,15 +71,14 @@ script:
   - |
     for SECURITYTYPE in $( sqlite3 $SQLITE_FILE "select distinct SecurityType from Anlageuniversum" ); 
     do 
+      echo -e '\n-----';
       echo SecurityType: $SECURITYTYPE;
       echo Exporting to CSV file;
       sqlite3 -header -csv $SQLITE_FILE "select * from $SECURITYTYPE;" > $SECURITYTYPE-$DATE.csv;
       echo Creating SQLite for CSV file;
       sqlite3 -csv $SECURITYTYPE-$DATE.sqlite ".import $SECURITYTYPE-$DATE.csv $SECURITYTYPE";
-      #echo Removing CSV file;
-      #rm $SECURITYTYPE-DATE.csv;
-      echo Move CSV file into csv-diffs folder for diffing;
-      mv $SECURITYTYPE-$DATE.csv csv-diffs/
+      echo Moving CSV file into csv folder for diffing;
+      mv $SECURITYTYPE-$DATE.csv csv/
       echo Create ZIP file;
       declare -A ZIP_FILENAME=();
       ZIP_FILENAME[$SECURITYTYPE]=$SECURITYTYPE-$DATE.sqlite.zip
@@ -88,6 +87,7 @@ script:
       declare ZIP_FILESIZE[$SECURITYTYPE]=$(getFilesize ${ZIP_FILENAME[$SECURITYTYPE]});
       echo Append README.md;
       echo -e '\n- ['${ZIP_FILENAME[$SECURITYTYPE]}']('${ZIP_FILENAME[$SECURITYTYPE]}') ('${ZIP_FILESIZE[$SECURITYTYPE]}')\n' >> README.md;
+      echo -e '\n-----';
     done;
   # ------------------------------------------------------------------------------
 
