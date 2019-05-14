@@ -33,7 +33,7 @@ upload_files() {
   fi
   # git push
   git remote add origin-pages https://${GH_TOKEN}@github.com/jakoch/wikifolio_universe > /dev/null 2>&1
-  git push -f --set-upstream origin-pages gh-pages > /dev/null 2>&1
+  git push --set-upstream origin-pages gh-pages > /dev/null 2>&1
 }
 
 setup_git
