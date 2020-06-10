@@ -17,11 +17,14 @@ install:
   # sqlitebiter
   - wget https://github.com/thombashi/sqlitebiter/releases/download/v0.28.0/sqlitebiter_0.28.0_amd64.deb -O sqlitebiter.deb
   - sudo dpkg -i sqlitebiter.deb
+  - rm sqlitebiter.deb
   # wikifolio universe xlsx file
   - wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
 
 before_script:
+  - echo "de_DE UTF-8" > /etc/locale.gen && locale-gen de_DE.UTF-8
   - LANG=de_DE.UTF-8
+  - LANGUAGE=de_DE.UTF-8
   - LC_ALL=de_DE.UTF-8
   - DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)
   - SQLITE_FILE="Investment_Universe_$DATE.sqlite"
