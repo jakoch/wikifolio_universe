@@ -22,7 +22,7 @@ install:
   - wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
 
 before_script:
-  - sudo echo "de_DE UTF-8" > /etc/locale.gen && sudo locale-gen de_DE.UTF-8
+  - sudo locale-gen de_DE.UTF-8 && sudo update-locale
   - LANG=de_DE.UTF-8
   - LANGUAGE=de_DE.UTF-8
   - LC_ALL=de_DE.UTF-8
