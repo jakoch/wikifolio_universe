@@ -1,5 +1,12 @@
+sudo: required
+
 language: php
 php: 7.3
+
+addons:
+  apt:
+    packages:
+      - language-pack-de
 
 before_install:
   - sqlite3 -version
@@ -14,6 +21,8 @@ install:
   - wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
 
 before_script:
+  - LANG=de_DE.UTF-8
+  - LC_ALL=de_DE.UTF-8
   - DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)
   - SQLITE_FILE="Investment_Universe_$DATE.sqlite"
   - function getFilesize { ls -sh "$1" | awk '{print $1}'; }
