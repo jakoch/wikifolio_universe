@@ -3,11 +3,6 @@ sudo: required
 language: php
 php: 7.3
 
-addons:
-  apt:
-    packages:
-      - language-pack-de
-
 before_install:
   - sqlite3 -version
 
@@ -22,10 +17,6 @@ install:
   - wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
 
 before_script:
-  - sudo locale-gen de_DE.UTF-8 && sudo update-locale
-  - LANG=de_DE.UTF-8
-  - LANGUAGE=de_DE.UTF-8
-  - LC_ALL=de_DE.UTF-8
   - DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)
   - SQLITE_FILE="Investment_Universe_$DATE.sqlite"
   - function getFilesize { ls -sh "$1" | awk '{print $1}'; }
@@ -67,8 +58,9 @@ script:
   # show folder
   - ls -lash
   # write new README
+  # ghpages uses jekyll, which has UTF-8 issues. so instead of "Ü" use "&Uuml;"
   - echo -n > README.md
-  - echo -e '# Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) im Überblick:\n' >> README.md
+  - echo -e '# Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) im &Uuml;berblick:\n' >> README.md
   - echo -e '\n## Excel\n' >> README.md
   - echo -e '\n- [Investment_Universe.de.xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) ('$EXCEL_FILESIZE')\n' >> README.md
   - echo -e '\n## SQLite\n' >> README.md
