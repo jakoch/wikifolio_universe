@@ -42,6 +42,8 @@ script:
   # sed replacement on first line of file:
   # change column name "Whitelist für institutionelle Produkte – Schweiz" to "WhitelistSchweiz"
   - sed -i '1!b;s/Whitelist für institutionelle Produkte – Schweiz/WhitelistSchweiz/' $SQLITE_FILE.csv
+  # change column name "IC20 Whitelist" to "WhitelistIC20"
+  - sed -i '1!b;s/IC20 Whitelist/WhitelistIC20/' $SQLITE_FILE.csv  
   # cleanup: delete original sqlite file, before importing to same filename
   - rm $SQLITE_FILE 
   # show folder
