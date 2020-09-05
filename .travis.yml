@@ -26,7 +26,7 @@ script:
   # travis_wait injects output by interval to keep the worker alive.
   # https://docs.travis-ci.com/user/common-build-problems/#build-times-out-because-no-output-was-received
   # convert xlsx to sqlite
-  - travis_wait 30 sqlitebiter -v --debug --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
+  - travis_wait 40 sqlitebiter -v --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
   # 1. original EXCEL file
   - EXCEL_FILENAME="Investment_Universe.de.xlsx"
   - EXCEL_FILESIZE=$(getFilesize "$EXCEL_FILENAME")
