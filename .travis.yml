@@ -22,8 +22,11 @@ before_script:
   - function getFilesize { ls -sh "$1" | awk '{print $1}'; }
 
 script:
+  # we need to use "travis_wait 20" when calling sqlitebiter, because of "build timeouts, because-no-output received".
+  # travis_wait injects output by interval to keep the worker alive.
+  # https://docs.travis-ci.com/user/common-build-problems/#build-times-out-because-no-output-was-received
   # convert xlsx to sqlite
-  - sqlitebiter -v --debug --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
+  - travis_wait 20 sqlitebiter -v --debug --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
   # 1. original EXCEL file
   - EXCEL_FILENAME="Investment_Universe.de.xlsx"
   - EXCEL_FILESIZE=$(getFilesize "$EXCEL_FILENAME")
