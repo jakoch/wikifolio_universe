@@ -23,7 +23,7 @@ before_script:
 
 script:
   # convert xlsx to sqlite
-  - sqlitebiter -v --debug -o $SQLITE_FILE file Investment_Universe.de.xlsx
+  - sqlitebiter -v --debug --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
   # 1. original EXCEL file
   - EXCEL_FILENAME="Investment_Universe.de.xlsx"
   - EXCEL_FILESIZE=$(getFilesize "$EXCEL_FILENAME")
