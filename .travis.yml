@@ -10,7 +10,7 @@ install:
   # 7zip
   - sudo apt-get install p7zip-full
   # sqlitebiter
-  - wget https://github.com/thombashi/sqlitebiter/releases/download/v0.34.0/sqlitebiter_0.34.0_amd64.deb -O sqlitebiter.deb
+  - wget https://github.com/thombashi/sqlitebiter/releases/download/v0.35.2/sqlitebiter_0.35.2_amd64.deb -O sqlitebiter.deb
   - sudo dpkg -i sqlitebiter.deb
   - rm sqlitebiter.deb
   # wikifolio universe xlsx file
