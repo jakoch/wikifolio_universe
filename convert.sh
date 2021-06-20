@@ -30,7 +30,9 @@ convert() {
   sqlitebiter -v --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
 }
 
-function getFilesize { ls -sh "$1" | awk '{print $1}'; }
+getFilesize { 
+  ls -sh "$1" | awk '{print $1}'; 
+}
 
 get_xlsx_filename_and_size() {        
   EXCEL_FILENAME="Investment_Universe.de.xlsx"        
