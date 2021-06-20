@@ -42,7 +42,9 @@ jobs:
     - name: Setup Constants and Functions
       run: |
         DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)
+        echo 'DATE=$DATE' >> $GITHUB_ENV
         SQLITE_FILE="Investment_Universe_$DATE.sqlite"
+        echo 'SQLITE_FILE=$SQLITE_FILE' >> $GITHUB_ENV
         function getFilesize { ls -sh "$1" | awk '{print $1}'; }
         
     - name: Convert Investment_Universe .xlsx to .sqlite using sqlitebiter
