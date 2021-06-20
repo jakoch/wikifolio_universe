@@ -44,8 +44,14 @@ jobs:
     - name: 🙏 Convert XSLX to SQLITE
       run: . ./convert.sh && convert
       
-    - name: 🙏 Fix SQLITE and split tables
-      run: . ./convert.sh && fix_sqlite_and_split_tables
+    - name: 🙏 Cleanup SQLITE table
+      run: . ./convert.sh && cleanup_sqlite
+      
+    - name: 🙏 Create table for each security type
+      run: . ./convert.sh && create_tables_for_each_security_type           
+      
+    - name: ℹ  Show Files and Folders
+      run: . ./convert.sh && show_files_and_folders
     
     # Delete all files, which should not be published on the website branch.
     - name: ✗ Pre-Commit Cleanup
