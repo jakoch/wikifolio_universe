@@ -3,6 +3,8 @@
 export DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)        
 export SQLITE_FILE="Investment_Universe_$DATE.sqlite"
 
+echo "SQLITE_FILE=${SQLITE_FILE}" >> $GITHUB_ENV
+
 show_infos() {
   lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'
   echo -e "sqlite3 version:\n"
