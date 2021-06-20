@@ -3,8 +3,6 @@
 export DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)        
 export SQLITE_FILE="Investment_Universe_$DATE.sqlite"
 
-echo "SQLITE_FILE=${SQLITE_FILE}" >> $GITHUB_ENV
-
 show_infos() {
   echo -e "\nCPU Info:"
   lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'
@@ -46,7 +44,14 @@ getFilesize() {
   ls -sh "$1" | awk '{print $1}'; 
 }
 
+getSqliteFilename() {
+  pattern="Investment_Universe_*.sqlite"
+  files=( $pattern )
+  echo "${files[0]}"
+}
+
 fix_sqlite() {
+  SQLITE_FILE=$(getSqliteFilename)
   # rename_sqlite_columns
   ## the following command needs sqlite3 v3.25.x
   # - sqlite3 sqlite\*.sqlite "alter table Anlageuniversum rename column \"Anlageuniversum(Gruppe)\" to Anlagegruppe;" ".exit"
@@ -73,6 +78,7 @@ fix_sqlite() {
 }
 
 compress_sqlite() { 
+  SQLITE_FILE=$(getSqliteFilename)
   # compress sqlite, get filesize
   SQLITE_ZIP_FILENAME=$SQLITE_FILE.zip
   7z a -mx9 $SQLITE_ZIP_FILENAME $SQLITE_FILE 
@@ -94,10 +100,12 @@ compress_sqlite() {
 }
 
 create_table_for_each_security_type() {
+  SQLITE_FILE=$(getSqliteFilename)
   sqlite3 $SQLITE_FILE < query/create-tables-for-securitytypes.sql 
 }
 
 export_database_for_each_security_type_table() {
+  SQLITE_FILE=$(getSqliteFilename)
   echo -e '\n#### By SecurityType\n' >> README.md  
   for SECURITYTYPE in $( sqlite3 $SQLITE_FILE "select distinct SecurityType from Anlageuniversum" ); 
   do 
