@@ -45,7 +45,7 @@ jobs:
       run: . ./convert.sh && convert
       
     - name: 🙏 Fix SQLITE and split tables
-      run: . ./convert.sh
+      run: . ./convert.sh && fix_sqlite_and_split_tables
     
     # Delete all files, which should not be published on the website branch.
     - name: ✗ Pre-Commit Cleanup
