@@ -30,7 +30,7 @@ convert() {
   sqlitebiter -v --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
 }
 
-getFilesize { 
+getFilesize() { 
   ls -sh "$1" | awk '{print $1}'; 
 }
 
