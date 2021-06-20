@@ -26,4 +26,6 @@ jobs:
       uses: actions/checkout@v2
       
     - name: Exec Script
-      run: ./convert.sh 
+      run: |
+        chmod +x ./convert.sh 
+        ./convert.sh 
