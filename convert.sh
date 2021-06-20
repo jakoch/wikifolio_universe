@@ -119,7 +119,7 @@ show_files_and_folders() {
   # ./csv
   cd csv
   ls -lash
-  cd..
+  cd ..
 }
 
 show_cpu_info
