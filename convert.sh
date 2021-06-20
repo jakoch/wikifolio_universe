@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 show_infos() {
   lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'
