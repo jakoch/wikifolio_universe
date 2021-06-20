@@ -33,19 +33,19 @@ jobs:
     - name: ℹ Show Tool Versions
       run: |
         chmod +x ./convert.sh 
-        ./convert.sh && show_infos
+        . ./convert.sh && show_infos
       
     - name: 🔽 Install
-      run: ./convert.sh && install
+      run: . ./convert.sh && install
     
     - name: 🔽 Download Wikifolio Universe
-      run: ./convert.sh && download
+      run: . ./convert.sh && download
     
     - name: 🙏 Convert XSLX to SQLITE
-      run: ./convert.sh && convert
+      run: . ./convert.sh && convert
       
     - name: 🙏 Fix SQLITE and split tables
-      run: ./convert.sh
+      run: . ./convert.sh
     
     # Delete all files, which should not be published on the website branch.
     - name: ✗ Pre-Commit Cleanup
