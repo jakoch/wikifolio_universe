@@ -24,6 +24,9 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
+      
+    - name: CPU Info
+      run: lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'
     
     - name: Install 7zip
       run: sudo apt-get install p7zip-full
