@@ -30,10 +30,22 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       
-    - name: Convert
+    - name: ℹ Show Tool Versions
       run: |
         chmod +x ./convert.sh 
-        ./convert.sh 
+        ./convert.sh show_infos()
+      
+    - name: 🔽 Install
+      run: ./convert.sh install()
+    
+    - name: 🔽 Download Wikifolio Universe
+      run: ./convert.sh download()
+    
+    - name: 🙏 Convert XSLX to SQLITE
+      run: ./convert.sh convert()
+      
+    - name: 🙏 Fix SQLITE and split tables
+      run: ./convert.sh
     
     # Delete all files, which should not be published on the website branch.
     - name: ✗ Pre-Commit Cleanup
