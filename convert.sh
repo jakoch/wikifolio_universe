@@ -122,10 +122,10 @@ show_files_and_folders() {
   cd ..
 }
 
-show_cpu_info
-install
-download
-convert
+#show_cpu_info
+#install
+#download
+#convert
 get_xlsx_filename_and_size
 
 fix_sqlite
