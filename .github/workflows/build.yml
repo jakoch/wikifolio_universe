@@ -50,7 +50,7 @@ jobs:
     # Delete all files, which should not be published on the website branch.
     - name: ✗ Pre-Commit Cleanup
       run: |
-        rm -rf .git .github query
+        rm -rf convert.sh .git .github query
         ls
           
     # Re-initialize the cleaned repo and commit it.
