@@ -36,9 +36,9 @@ jobs:
     
     - name: Download wikifolio universe xlsx file
       run: |
+        ls -lahR *.xlsx
         wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
-        ls
-    
+            
     - name: Setup Constants and Functions
       run: |
         DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)
