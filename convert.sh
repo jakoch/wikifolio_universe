@@ -99,6 +99,7 @@ export_database_for_each_security_type_table() {
     echo Creating SQLite for CSV file;
     sqlite3 -csv $SECURITYTYPE-$DATE.sqlite ".import $SECURITYTYPE-$DATE.csv $SECURITYTYPE";
     echo Moving CSV file into csv folder for diffing;
+    mkdir -p csv
     mv $SECURITYTYPE-$DATE.csv csv/
     echo Create ZIP file;
     declare -A ZIP_FILENAME
