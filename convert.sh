@@ -20,7 +20,8 @@ install_sqlitebiter() {
 }
 
 install() {
-  install_7zip
+  # p7zip is pre-installed on github runner
+  #install_7zip 
   install_sqlitebiter
 }
 
