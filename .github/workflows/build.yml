@@ -25,39 +25,5 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       
-    - name: CPU Info
-      run: lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'
-    
-    - name: Install 7zip
-      run: sudo apt-get install p7zip-full
-    
-    - name: Install sqlitebiter
-      run: |
-        wget https://github.com/thombashi/sqlitebiter/releases/download/v0.35.2/sqlitebiter_0.35.2_amd64.deb -O sqlitebiter.deb
-        sudo dpkg -i sqlitebiter.deb
-        rm sqlitebiter.deb
-    
-    - name: Download wikifolio universe xlsx file
-      run: |       
-        wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
-        ls -lahR *.xlsx
-            
-    - name: Setup Constants and Functions
-      run: |
-        DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)        
-        SQLITE_FILE="Investment_Universe_$DATE.sqlite"
-        echo 'DATE=$DATE' >> $GITHUB_ENV
-        echo 'SQLITE_FILE=$SQLITE_FILE' >> $GITHUB_ENV        
-        
-    - name: Convert Investment_Universe .xlsx to .sqlite using sqlitebiter
-      run: |
-        ls -lahR *.xlsx
-        sqlitebiter -v --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
-      
-    - name: Store original XLSX filename and size
-      run: |
-        function getFilesize { ls -sh "$1" | awk '{print $1}'; }
-        EXCEL_FILENAME="Investment_Universe.de.xlsx"        
-        EXCEL_FILESIZE=$(getFilesize "$EXCEL_FILENAME")
-        echo 'EXCEL_FILENAME=$EXCEL_FILENAME' >> $GITHUB_ENV
-        echo 'EXCEL_FILESIZE=$EXCEL_FILESIZE' >> $GITHUB_ENV
+    - name: Exec Script
+      run: convert.sh 
