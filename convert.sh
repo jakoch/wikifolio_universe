@@ -5,7 +5,7 @@ export SQLITE_FILE="Investment_Universe_$DATE.sqlite"
 
 show_infos() {
   lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'
-  echo "sqlite3 version:"
+  echo -e "sqlite3 version:\n"
   sqlite3 -version
 }
 
