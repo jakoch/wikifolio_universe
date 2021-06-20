@@ -122,15 +122,13 @@ show_files_and_folders() {
   cd ..
 }
 
-#show_cpu_info
-#install
-#download
-#convert
-get_xlsx_filename_and_size
+fix_sqlite_and_split_tables() {
+  get_xlsx_filename_and_size
 
-fix_sqlite
-compress_sqlite
-create_table_for_each_security_type
-export_database_for_each_security_type_table
+  fix_sqlite
+  compress_sqlite
+  create_table_for_each_security_type
+  export_database_for_each_security_type_table
 
-show_files_and_folders
+  show_files_and_folders
+}
