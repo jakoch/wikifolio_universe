@@ -113,6 +113,15 @@ export_database_for_each_security_type_table() {
   done;
 }
 
+show_files_and_folders() {
+  # ./ (root folder)
+  ls -lash
+  # ./csv
+  cd csv
+  ls -lash
+  cd..
+}
+
 show_cpu_info
 install
 download
@@ -123,3 +132,5 @@ fix_sqlite
 compress_sqlite
 create_table_for_each_security_type
 export_database_for_each_security_type_table
+
+show_files_and_folders
