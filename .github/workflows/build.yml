@@ -1,0 +1,36 @@
+#
+# .github/workflows/build-on-windows.yml
+#
+# Copyright 2021 Jens A. Koch.
+# SPDX-License-Identifier: BSL-1.0
+# This file is part of https://github.com/jakoch/wikifolio_universe.
+#
+
+name: "Build"
+
+on: [push, pull_request]
+
+jobs:
+
+# ---------------------------------------------------------------------------------------
+
+  build:
+
+# ---------------------------------------------------------------------------------------
+    
+    name: "Build"
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Install 7zip
+      run: sudo apt-get install p7zip-full
+    - name: Install sqlitebiter
+      run: |
+        wget https://github.com/thombashi/sqlitebiter/releases/download/v0.35.2/sqlitebiter_0.35.2_amd64.deb -O sqlitebiter.deb
+        sudo dpkg -i sqlitebiter.deb
+        rm sqlitebiter.deb
+    - name: Download wikifolio universe xlsx file
+      run: wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
+    
