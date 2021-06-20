@@ -24,13 +24,29 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
+    
     - name: Install 7zip
       run: sudo apt-get install p7zip-full
+    
     - name: Install sqlitebiter
       run: |
         wget https://github.com/thombashi/sqlitebiter/releases/download/v0.35.2/sqlitebiter_0.35.2_amd64.deb -O sqlitebiter.deb
         sudo dpkg -i sqlitebiter.deb
         rm sqlitebiter.deb
+    
     - name: Download wikifolio universe xlsx file
       run: wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
     
+    - name: Setup Constants and Functions
+      run: |
+        DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)
+        SQLITE_FILE="Investment_Universe_$DATE.sqlite"
+        function getFilesize { ls -sh "$1" | awk '{print $1}'; }
+        
+    - name: Convert Investment_Universe .xlsx to .sqlite using sqlitebiter
+      run: sqlitebiter -v --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
+      
+    - name: Store original XLSX filename and size
+      run: |
+        EXCEL_FILENAME="Investment_Universe.de.xlsx"
+        EXCEL_FILESIZE=$(getFilesize "$EXCEL_FILENAME")
