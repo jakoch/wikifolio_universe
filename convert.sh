@@ -101,10 +101,10 @@ export_database_for_each_security_type_table() {
     echo Moving CSV file into csv folder for diffing;
     mv $SECURITYTYPE-$DATE.csv csv/
     echo Create ZIP file;
-    declare -A ZIP_FILENAME=();
+    declare -A ZIP_FILENAME
     ZIP_FILENAME[$SECURITYTYPE]=$SECURITYTYPE-$DATE.sqlite.zip
     7z a -mx9 ${ZIP_FILENAME[$SECURITYTYPE]} $SECURITYTYPE-$DATE.sqlite; 
-    declare -A ZIP_FILESIZE=();
+    declare -A ZIP_FILESIZE
     declare ZIP_FILESIZE[$SECURITYTYPE]=$(getFilesize ${ZIP_FILENAME[$SECURITYTYPE]});
     echo Append README.md;
     echo -e '\n- ['${ZIP_FILENAME[$SECURITYTYPE]}']('${ZIP_FILENAME[$SECURITYTYPE]}') ('${ZIP_FILESIZE[$SECURITYTYPE]}')\n' >> README.md;
