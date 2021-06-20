@@ -1,5 +1,8 @@
 #!/bin/bash
 
+DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)        
+SQLITE_FILE="Investment_Universe_$DATE.sqlite"
+
 show_infos() {
   lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'
   sqlite3 -version
@@ -25,9 +28,6 @@ download() {
 }
 
 convert() {
-  DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)        
-  SQLITE_FILE="Investment_Universe_$DATE.sqlite"
-  
   sqlitebiter -v --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
 }
 
