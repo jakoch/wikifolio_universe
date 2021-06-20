@@ -46,7 +46,9 @@ jobs:
         function getFilesize { ls -sh "$1" | awk '{print $1}'; }
         
     - name: Convert Investment_Universe .xlsx to .sqlite using sqlitebiter
-      run: sqlitebiter -v --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
+      run: |
+        ls -lahR *.xlsx
+        sqlitebiter -v --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
       
     - name: Store original XLSX filename and size
       run: |
