@@ -30,7 +30,10 @@ download() {
 }
 
 convert() {
+  # convert
   sqlitebiter -v --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
+  # show schema
+  sqlite3 $SQLITE_FILE ".schema"
 }
 
 getFilesize() { 
