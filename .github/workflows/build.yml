@@ -35,7 +35,9 @@ jobs:
         rm sqlitebiter.deb
     
     - name: Download wikifolio universe xlsx file
-      run: wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
+      run: |
+        wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
+        ls
     
     - name: Setup Constants and Functions
       run: |
