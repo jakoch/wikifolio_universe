@@ -1,8 +1,8 @@
 #!/bin/sh
 
 setup_git() {
-  git config --global user.email "travis@travis-ci.org"
-  git config --global user.name "Travis CI"
+  git config user.name "$GITHUB_ACTOR"
+  git config user.email "${GITHUB_ACTOR}@bots.github.com"
 }
 
 remove_unneeded_files() {
