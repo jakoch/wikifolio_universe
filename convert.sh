@@ -1,7 +1,7 @@
 #!/bin/bash
 
-DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)        
-SQLITE_FILE="Investment_Universe_$DATE.sqlite"
+export DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)        
+export SQLITE_FILE="Investment_Universe_$DATE.sqlite"
 
 show_infos() {
   lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'
@@ -35,11 +35,6 @@ getFilesize() {
   ls -sh "$1" | awk '{print $1}'; 
 }
 
-get_xlsx_filename_and_size() {        
-  EXCEL_FILENAME="Investment_Universe.de.xlsx"        
-  EXCEL_FILESIZE=$(getFilesize "$EXCEL_FILENAME")
-}
-
 fix_sqlite() {
   # rename_sqlite_columns
   ## the following command needs sqlite3 v3.25.x
@@ -66,7 +61,7 @@ fix_sqlite() {
   rm $SQLITE_FILE.csv
 }
 
-compress_sqlite() {
+compress_sqlite() { 
   # compress sqlite, get filesize
   SQLITE_ZIP_FILENAME=$SQLITE_FILE.zip
   7z a -mx9 $SQLITE_ZIP_FILENAME $SQLITE_FILE 
@@ -74,6 +69,9 @@ compress_sqlite() {
   # show folder
   ls -lash
   
+  EXCEL_FILENAME="Investment_Universe.de.xlsx"        
+  EXCEL_FILESIZE=$(getFilesize "$EXCEL_FILENAME")
+    
   # write new README
   # ghpages uses jekyll, which has UTF-8 issues. so instead of "Ü" use "&Uuml;"
   echo -n > README.md
@@ -122,13 +120,12 @@ show_files_and_folders() {
   cd ..
 }
 
-fix_sqlite_and_split_tables() {
-  get_xlsx_filename_and_size
-
+cleanup_sqlite() { 
   fix_sqlite
   compress_sqlite
-  create_table_for_each_security_type
-  export_database_for_each_security_type_table
+}
 
-  show_files_and_folders
+create_tables_for_each_security_type() {
+  create_table_for_each_security_type
+  export_database_for_each_security_type_table  
 }
