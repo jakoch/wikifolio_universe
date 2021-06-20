@@ -6,8 +6,9 @@ export SQLITE_FILE="Investment_Universe_$DATE.sqlite"
 echo "SQLITE_FILE=${SQLITE_FILE}" >> $GITHUB_ENV
 
 show_infos() {
+  echo -e "\nCPU Info:"
   lscpu | egrep 'Model name|Socket|Thread|NUMA|CPU\(s\)'
-  echo -e "sqlite3 version:\n"
+  echo -e "\nsqlite3 version:"
   sqlite3 -version
 }
 
@@ -28,6 +29,9 @@ install() {
 }
 
 download() {
+  echo -e "\nInvestment_Universe.de.xlsx Last-Modified:"
+  curl -sI https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx | grep -i Last-Modified
+  # download
   wget https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx -O Investment_Universe.de.xlsx
 }
 
