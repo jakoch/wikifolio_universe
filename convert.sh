@@ -103,15 +103,17 @@ compress_sqlite() {
   echo -e '\n- ['$SQLITE_ZIP_FILENAME']('$SQLITE_ZIP_FILENAME') ('$SQLITE_ZIP_FILESIZE')\n' >> README.md
 }
 
-create_table_for_each_security_type() {
+create_tables_for_each_security_type() {
   SQLITE_FILE=$(getSqliteFilename)
   sqlite3 $SQLITE_FILE < query/create-tables-for-securitytypes.sql 
 }
 
-export_database_for_each_security_type_table() {
+create_sqlite_for_each_security_type_table() {
   SQLITE_FILE=$(getSqliteFilename)
   
   echo -e '\n#### By SecurityType\n' >> README.md  
+  
+  echo -e '\nExporting SecurityType tables into sqlite database files'
   
   for SECURITYTYPE in $( sqlite3 $SQLITE_FILE "SELECT DISTINCT SecurityType FROM Anlageuniversum" ); 
   do 
@@ -154,6 +156,6 @@ cleanup_sqlite() {
 }
 
 create_tables_for_each_security_type() {
-  create_table_for_each_security_type
-  export_database_for_each_security_type_table  
+  create_tables_for_each_security_type
+  create_sqlite_for_each_security_type_table
 }
