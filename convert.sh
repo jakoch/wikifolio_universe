@@ -50,39 +50,42 @@ getSqliteFilename() {
   echo "${files[0]}"
 }
 
-fix_sqlite() {
+rename_sqlite_columns() {
   SQLITE_FILE=$(getSqliteFilename)
-  # rename_sqlite_columns
-  ## the following command needs sqlite3 v3.25.x
-  # - sqlite3 sqlite\*.sqlite "alter table Anlageuniversum rename column \"Anlageuniversum(Gruppe)\" to Anlagegruppe;" ".exit"
-  # - sqlite3 sqlite\*.sqlite "alter table Anlageuniversum rename column \"Whitelist für institutionelle Produkte – Schweiz\" to WhitelistSchweiz;" ".exit"
+  
+  # the following commands need sqlite3 v3.25.x. but we are currently (06-2021) only at v3.21 on ubuntu-latest.
   #
-  # sqlite export to csv
-  sqlite3 -header -csv $SQLITE_FILE "select * from Anlageuniversum;" > $SQLITE_FILE.csv
-  # sed replacement on first line of file: 
-  # change column name "Anlageuniversum(Gruppe)" to "Anlagegruppe"
-  sed -i '1!b;s/Anlageuniversum(Gruppe)/Anlagegruppe/' $SQLITE_FILE.csv
-  # sed replacement on first line of file:
-  # change column name "Whitelist für institutionelle Produkte – Schweiz" to "WhitelistSchweiz"
-  sed -i '1!b;s/Whitelist für institutionelle Produkte – Schweiz/WhitelistSchweiz/' $SQLITE_FILE.csv
-  # change column name "IC20 Whitelist" to "WhitelistIC20"
+  # sqlite3 $SQLITE_FILE "alter table Anlageuniversum rename column \"Anlageuniversum(Gruppe)\" to Anlagegruppe;" ".exit"
+  # sqlite3 $SQLITE_FILE "alter table Anlageuniversum rename column \"Whitelist für institutionelle Produkte – Schweiz\" to WhitelistSchweiz;" ".exit"
+  # sqlite3 $SQLITE_FILE "alter table Anlageuniversum rename column \"IC20 Whitelist\" to WhitelistIC20;" ".exit"
+
+  # export to temporary csv
+  sqlite3 -header -csv $SQLITE_FILE "SELECT * FROM Anlageuniversum;" > $SQLITE_FILE.csv
+  
+  # change column names on first line of file using sed replacement
+  sed -i '1!b;s/Anlageuniversum(Gruppe)/Anlagegruppe/' $SQLITE_FILE.csv  
+  sed -i '1!b;s/Whitelist für institutionelle Produkte – Schweiz/WhitelistSchweiz/' $SQLITE_FILE.csv  
   sed -i '1!b;s/IC20 Whitelist/WhitelistIC20/' $SQLITE_FILE.csv  
-  # cleanup: delete original sqlite file, before importing to same filename
+  
+  # delete original sqlite file, before importing to same filename
   rm $SQLITE_FILE 
+  # create sqlite file by importing the temporary csv file
+  sqlite3 -csv $SQLITE_FILE ".import $SQLITE_FILE.csv Anlageuniversum"
+  # remove temporary csv file
+  rm $SQLITE_FILE.csv
+  
   # show folder
   ls -lash
-  # sqlite import csv file -> create sqlite file
-  sqlite3 -csv $SQLITE_FILE ".import $SQLITE_FILE.csv Anlageuniversum"
-  # cleanup: remove tmp csv file
-  rm $SQLITE_FILE.csv
 }
 
 compress_sqlite() { 
   SQLITE_FILE=$(getSqliteFilename)
+  
   # compress sqlite, get filesize
   SQLITE_ZIP_FILENAME=$SQLITE_FILE.zip
   7z a -mx9 $SQLITE_ZIP_FILENAME $SQLITE_FILE 
   SQLITE_ZIP_FILESIZE=$(getFilesize "$SQLITE_ZIP_FILENAME")
+  
   # show folder
   ls -lash
   
@@ -106,41 +109,46 @@ create_table_for_each_security_type() {
 
 export_database_for_each_security_type_table() {
   SQLITE_FILE=$(getSqliteFilename)
+  
   echo -e '\n#### By SecurityType\n' >> README.md  
-  for SECURITYTYPE in $( sqlite3 $SQLITE_FILE "select distinct SecurityType from Anlageuniversum" ); 
+  
+  for SECURITYTYPE in $( sqlite3 $SQLITE_FILE "SELECT DISTINCT SecurityType FROM Anlageuniversum" ); 
   do 
     echo -e '\n-----';
     echo SecurityType: $SECURITYTYPE;
-    echo Exporting to CSV file;
-    sqlite3 -header -csv $SQLITE_FILE "select * from $SECURITYTYPE;" > $SECURITYTYPE-$DATE.csv;
-    echo Creating SQLite for CSV file;
+    
+    echo -e 'Exporting data selection to CSV file';
+    sqlite3 -header -csv $SQLITE_FILE "SELECT * FROM $SECURITYTYPE;" > $SECURITYTYPE-$DATE.csv;
+    
+    echo -e 'Creating SQLite for CSV file';
     sqlite3 -csv $SECURITYTYPE-$DATE.sqlite ".import $SECURITYTYPE-$DATE.csv $SECURITYTYPE";
-    echo Moving CSV file into csv folder for diffing;
+    
+    echo -e 'Moving CSV file into csv folder for diffing';
     mkdir -p csv
     mv $SECURITYTYPE-$DATE.csv csv/
-    echo Create ZIP file;
+    
+    echo -e 'Create ZIP file';
     declare -A ZIP_FILENAME
     ZIP_FILENAME[$SECURITYTYPE]=$SECURITYTYPE-$DATE.sqlite.zip
     7z a -mx9 ${ZIP_FILENAME[$SECURITYTYPE]} $SECURITYTYPE-$DATE.sqlite; 
     declare -A ZIP_FILESIZE
     declare ZIP_FILESIZE[$SECURITYTYPE]=$(getFilesize ${ZIP_FILENAME[$SECURITYTYPE]});
-    echo Append README.md;
+    
+    echo -e 'Append README.md';
     echo -e '\n- ['${ZIP_FILENAME[$SECURITYTYPE]}']('${ZIP_FILENAME[$SECURITYTYPE]}') ('${ZIP_FILESIZE[$SECURITYTYPE]}')\n' >> README.md;
     echo -e '\n-----';
   done;
 }
 
 show_files_and_folders() {
-  # ./ (root folder)
+  # show folder: ./ 
   ls -lash
-  # ./csv
-  cd csv
-  ls -lash
-  cd ..
+  # show folder: ./csv
+  ls -lash ./csv
 }
 
 cleanup_sqlite() { 
-  fix_sqlite
+  rename_sqlite_columns
   compress_sqlite
 }
 
