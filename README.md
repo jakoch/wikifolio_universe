@@ -1,4 +1,4 @@
-## wikifolio_universe [![Build Status](https://travis-ci.org/jakoch/wikifolio_universe.svg?branch=master)](https://travis-ci.org/jakoch/wikifolio_universe)
+## wikifolio_universe [![Build](https://github.com/jakoch/wikifolio_universe/actions/workflows/build.yml/badge.svg)](https://github.com/jakoch/wikifolio_universe/actions/workflows/build.yml)
 
 #### Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) als SQLite Datenbank: https://jakoch.github.io/wikifolio_universe/
 
