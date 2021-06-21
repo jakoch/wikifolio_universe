@@ -41,13 +41,13 @@ jobs:
     - name: 🔽 Download Wikifolio Universe
       run: . ./convert.sh && download
     
-    - name: 🙏 Convert XSLX to SQLITE
+    - name: 🙏 Convert Wikifolio Universe XSLX to SQLITE
       run: . ./convert.sh && convert
       
-    - name: 🙏 Cleanup SQLITE table
+    - name: 🙏 Rename database columns and compress SQLITE files
       run: . ./convert.sh && cleanup_sqlite
       
-    - name: 🙏 Create table for each security type
+    - name: 🙏 Create SQLITE file for each SecurityType table
       run: . ./convert.sh && create_tables_for_each_security_type           
       
     - name: ℹ  Show Files and Folders
