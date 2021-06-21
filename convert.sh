@@ -34,9 +34,10 @@ download() {
 }
 
 convert() {
-  # convert
+  echo -e "\nConvert xlsx to sqlite"
   sqlitebiter -v --max-workers 2 -o $SQLITE_FILE file Investment_Universe.de.xlsx
-  # show schema
+  
+  echo -e "\nShow database schema"
   sqlite3 $SQLITE_FILE ".schema"
 }
 
