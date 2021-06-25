@@ -48,7 +48,7 @@ jobs:
       run: . ./convert.sh && cleanup_sqlite
       
     - name: 🙏 Create SQLITE file for each SecurityType table
-      run: . ./convert.sh && create_tables_for_each_security_type           
+      run: . ./convert.sh && create_security_type_databases          
       
     - name: ℹ  Show Files and Folders
       run: . ./convert.sh && show_files_and_folders
