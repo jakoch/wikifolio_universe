@@ -155,7 +155,7 @@ cleanup_sqlite() {
   compress_sqlite
 }
 
-create_tables_for_each_security_type() {
+create_security_type_databases() {
   create_tables_for_each_security_type
   create_sqlite_for_each_security_type_table
 }
