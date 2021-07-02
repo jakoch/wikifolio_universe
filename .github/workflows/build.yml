@@ -8,7 +8,12 @@
 
 name: "Build"
 
-on: [push, pull_request]
+on:  
+  schedule: 
+    # Daily at 08:00.
+    - cron: '0 8 * * *' 
+  push:
+  pull_request:
 
 jobs:
 
@@ -25,5 +30,49 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       
-    - name: Exec Script
-      run: ./convert.sh 
+    - name: ℹ Show Tool Versions
+      run: |
+        chmod +x ./convert.sh 
+        . ./convert.sh && show_infos
+      
+    - name: 🔽 Install
+      run: . ./convert.sh && install
+    
+    - name: 🔽 Download Wikifolio Universe
+      run: . ./convert.sh && download
+    
+    - name: 🙏 Convert Wikifolio Universe XSLX to SQLITE
+      run: . ./convert.sh && convert
+      
+    - name: 🙏 Rename database columns and compress SQLITE files
+      run: . ./convert.sh && cleanup_sqlite
+      
+    - name: 🙏 Create SQLITE file for each SecurityType table
+      run: . ./convert.sh && create_security_type_databases          
+      
+    - name: ℹ  Show Files and Folders
+      run: . ./convert.sh && show_files_and_folders
+    
+    # Delete all files, which should not be published on the website branch.
+    - name: ✗ Pre-Commit Cleanup
+      run: |
+        rm -rf convert.sh .git .github query
+        ls
+          
+    # Re-initialize the cleaned repo and commit it.
+    - name: ✔ Commit
+      run: |
+        git init
+        git add -A
+        git config --local user.email "github-actions[bot]@users.noreply.jakoch.wikifolio_universe.org"
+        git config --local user.name "github-actions[bot]"
+        git commit -m "Publish docs from ${GITHUB_REPOSITORY}@${GITHUB_SHA:0:9}"
+          
+    # Push the repo to the gh-pages branch.
+    - name: 🚀 Push
+      uses: ad-m/github-push-action@v0.6.0 # https://github.com/ad-m/github-push-action
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: gh-pages
+        directory: ${{ env.GITHUB_WORKSPACE }}
+        force: true
