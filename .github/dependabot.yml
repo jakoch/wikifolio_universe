@@ -1,0 +1,15 @@
+# dependabot.yml
+# 
+# Dependabot updates dependencies automatically to their latest versions.
+# 
+# Docs: https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically
+
+version: 2
+
+updates:
+  # Enable automatic version updates for Github Actions
+  - package-ecosystem: "github-actions"
+    # Look for `.github/workflows` in the `root` directory
+    directory: "/"
+    schedule:
+      interval: "weekly"
