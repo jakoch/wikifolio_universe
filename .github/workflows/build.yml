@@ -30,35 +30,22 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: ℹ Show Tool Versions
+    - name: 🔽 Install
       run: |
         chmod +x ./convert.sh
-        . ./convert.sh && show_infos
-
-    - name: 🔽 Install
-      run: . ./convert.sh && install
-
-    - name: 🙏 Convert Wikifolio Universe XSLX to SQLITE
-      run: . ./convert.sh && convert
-
-    - name: 🙏 Compress SQLITE files
-      run: . ./convert.sh && compress
-
-    - name: 🙏 Create SQLITE file for each SecurityType table
-      run: . ./convert.sh && create_security_type_databases
-
-    - name: ℹ  Show Files and Folders
-      run: . ./convert.sh && show_files_and_folders
+        . ./convert.sh && run
 
     # Delete all files, which should not be published on the website branch.
     - name: ✗ Pre-Commit Cleanup
       run: |
-        rm -rf convert.sh .git .github query
+        cd data
+        rm -rf wiuc
         ls
 
     # Re-initialize the cleaned repo and commit it.
     - name: ✔ Commit
       run: |
+        cd data
         git init
         git add -A
         git config --local user.email "github-actions[bot]@users.noreply.jakoch.wikifolio_universe.org"
@@ -71,5 +58,5 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: gh-pages
-        directory: ${{ env.GITHUB_WORKSPACE }}
+        directory: ${{ env.GITHUB_WORKSPACE }}/data
         force: true
