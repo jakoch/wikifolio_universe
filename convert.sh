@@ -88,7 +88,7 @@ compress() {
   echo -e '\n ### Downloads vom '$DATE'\n' >> README.md
   echo -e '| | | |' >> README.md
   echo -e '|--|--|--|' >> README.md
-  echo -e '| **Investment Universe** | [sqlite]('data/sqlite/$SQLITE_ZIP_FILENAME') ('$SQLITE_ZIP_FILESIZE') | [xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) ('$EXCEL_FILESIZE') |' >> README.md
+  echo -e '| **Investment Universe** | [sqlite]('sqlite/$SQLITE_ZIP_FILENAME') ('$SQLITE_ZIP_FILESIZE') | [xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) ('$EXCEL_FILESIZE') |' >> README.md
 
   cd ..
 }
@@ -132,7 +132,7 @@ create_security_type_databases() {
     declare ZIP_FILESIZE[$SECURITYTYPE]=$(getFilesize ${ZIP_FILENAME[$SECURITYTYPE]});
 
     echo -e 'Append README.md';
-    echo -e '| **'$SECURITYTYPE'** | [sqlite]('data/sqlite/${ZIP_FILENAME[$SECURITYTYPE]}') ('${ZIP_FILESIZE[$SECURITYTYPE]}') | [csv]('data/csv/${CSV_FILENAME[$SECURITYTYPE]}') ('${CSV_FILESIZE[$SECURITYTYPE]}') |' >> README.md;
+    echo -e '| **'$SECURITYTYPE'** | [sqlite]('sqlite/${ZIP_FILENAME[$SECURITYTYPE]}') ('${ZIP_FILESIZE[$SECURITYTYPE]}') | [csv]('csv/${CSV_FILENAME[$SECURITYTYPE]}') ('${CSV_FILESIZE[$SECURITYTYPE]}') |' >> README.md;
   done;
 
   cd ..
