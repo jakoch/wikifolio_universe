@@ -49,10 +49,10 @@ jobs:
         . ./convert.sh && run
 
     # Re-initialize the cleaned repo and commit it.
+    # git init
     - name: ✔ Commit
       run: |
         cd data
-        git init
         git add -A
         git config --local user.email "github-actions[bot]@users.noreply.jakoch.wikifolio_universe.org"
         git config --local user.name "github-actions[bot]"
@@ -63,6 +63,6 @@ jobs:
       uses: ad-m/github-push-action@v0.6.0 # https://github.com/ad-m/github-push-action
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        directory: data
         branch: gh-pages
-        directory: ${{ env.GITHUB_WORKSPACE }}/data
         force: true
