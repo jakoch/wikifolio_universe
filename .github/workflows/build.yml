@@ -47,6 +47,12 @@ jobs:
       run: |
         chmod +x ./convert.sh
         . ./convert.sh && run
+        
+    - name: ✗ Pre-Commit Cleanup
+      run: |
+        cd data
+        rm -rf wiuc
+        ls
 
     # Re-initialize the cleaned repo and commit it.
     # git init
