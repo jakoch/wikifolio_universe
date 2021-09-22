@@ -27,20 +27,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout
+    - name: Checkout main branch
       uses: actions/checkout@v2
+
+    - name: Checkout gp-pages branch into data folder
+      uses: actions/checkout@v2
+      with:
+        ref: gh-pages
+        path: data
+        fetch-depth: 1
+
+    - name: ✗ Cleanup data folder before generating new content
+      run: |
+        cd data
+        rm -rf *.* LICENSE csv/*.csv
+        ls
 
     - name: 🔽 Install
       run: |
         chmod +x ./convert.sh
         . ./convert.sh && run
-
-    # Delete all files, which should not be published on the website branch.
-    - name: ✗ Pre-Commit Cleanup
-      run: |
-        cd data
-        rm -rf wiuc
-        ls
 
     # Re-initialize the cleaned repo and commit it.
     - name: ✔ Commit
