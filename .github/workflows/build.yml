@@ -40,7 +40,7 @@ jobs:
     - name: ✗ Cleanup data folder before generating new content
       run: |
         cd data
-        rm -rf *.* LICENSE csv/*.csv
+        rm -rf README.md wiuc sqlite/*.sqlite.zip csv/*.csv.zip
         ls
 
     - name: 🔽 Install
