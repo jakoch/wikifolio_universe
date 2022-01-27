@@ -27,7 +27,9 @@ show_infos() {
 
 install_wiuc() {
   echo -e "\nInstalling Wikifolio Universe Converter"
-  curl -L --output ./wiuc.zip https://github.com/jakoch/wikifolio_universe_converter/releases/download/v0.1.0/Wikifolio_Investment_Universe_Converter-x64-linux-Clang-12.zip
+  version="$(curl -s https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest | jq -r '.tag_name' | cut -c 2-)"; echo "Latest WIUC Version: $version"
+  url="https://github.com/jakoch/wikifolio_universe_converter/releases/download/v$version/Wikifolio_Investment_Universe_Converter-x64-linux-Clang-12.zip"; echo "Download URL: $url"
+  curl -L --output ./wiuc.zip $url
   mkdir -p data
   unzip ./wiuc.zip -d data
   rm ./wiuc.zip
