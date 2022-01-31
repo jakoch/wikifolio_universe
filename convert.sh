@@ -88,9 +88,9 @@ compress() {
   echo -n > README.md
   echo -e '# Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) im &Uuml;berblick:\n' >> README.md
   echo -e '\n### Downloads vom '$DATE'\n' >> README.md
-  echo -e '| | | |' >> README.md
-  echo -e '|--|--|--|' >> README.md
-  echo -e '| **Investment Universe** | [sqlite]('sqlite/$SQLITE_ZIP_FILENAME') ('$SQLITE_ZIP_FILESIZE') | [xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) ('$EXCEL_FILESIZE') |' >> README.md
+  echo -e '| | XLSX | SQLite | CSV |' >> README.md
+  echo -e '|--|--|--|--|' >> README.md
+  echo -e '| **Investment Universe** | [xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) ('$EXCEL_FILESIZE') | [sqlite]('sqlite/$SQLITE_ZIP_FILENAME') ('$SQLITE_ZIP_FILESIZE') | |' >> README.md
 
   cd ..
 }
@@ -105,7 +105,7 @@ create_security_type_databases() {
 
   echo -e '\nExporting SecurityType tables into sqlite database files'
 
-  echo -e '| *By Security Type* |||' >> README.md
+  echo -e '| *By Security Type* ||||' >> README.md
 
   for SECURITYTYPE in $( sqlite3 $SQLITE_FILE "SELECT DISTINCT SecurityType FROM Anlageuniversum" );
   do
@@ -134,7 +134,7 @@ create_security_type_databases() {
     declare ZIP_FILESIZE[$SECURITYTYPE]=$(getFilesize ${ZIP_FILENAME[$SECURITYTYPE]});
 
     echo -e 'Append README.md';
-    echo -e '| **'$SECURITYTYPE'** | [sqlite]('sqlite/${ZIP_FILENAME[$SECURITYTYPE]}') ('${ZIP_FILESIZE[$SECURITYTYPE]}') | [csv]('csv/${CSV_FILENAME[$SECURITYTYPE]}') ('${CSV_FILESIZE[$SECURITYTYPE]}') |' >> README.md;
+    echo -e '| **'$SECURITYTYPE'** |  | [sqlite]('sqlite/${ZIP_FILENAME[$SECURITYTYPE]}') ('${ZIP_FILESIZE[$SECURITYTYPE]}') | [csv]('csv/${CSV_FILENAME[$SECURITYTYPE]}') ('${CSV_FILESIZE[$SECURITYTYPE]}') |' >> README.md;
   done;
 
   cd ..
