@@ -6,8 +6,9 @@
 - [x] Download der Excel-Datei [Investment_Universe.de.xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) 
 - [x] Konvertierung in eine SQLite Datenbank
 - [x] Erstellung einer SQLite Datenbank je SecurityType (Stocks, ETFs, Derivatives, Wikifolios)
+- [x] Erstellung von CSVs je SecurityType (Stocks, ETFs, Derivatives, Wikifolios)
 - [x] Automatische Veröffentlichung 
-  - [x] Github Actions Cronjob triggers a "master" branch rebuild daily
-  - [x] build artifacts are pushed to "gh-pages" branch
+  - [x] Github Actions cronjob triggers a "main" branch rebuild daily
+  - [x] Build artifacts are pushed to "gh-pages" branch
 - [ ] Daily Database Diff
 - [ ] RSS Feed
