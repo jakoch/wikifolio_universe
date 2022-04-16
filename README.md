@@ -2,6 +2,8 @@
 
 #### Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) als SQLite Datenbank: https://jakoch.github.io/wikifolio_universe/
 
+Das folgende Tool konvertiert das wikifolio.com Anlageuniversum von XLSX zu CSV und SQLite: https://github.com/jakoch/wikifolio_universe_converter
+
 ### Todo
 - [x] Download der Excel-Datei [Investment_Universe.de.xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) 
 - [x] Konvertierung in eine SQLite Datenbank
