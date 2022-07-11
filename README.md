@@ -1,13 +1,13 @@
 # Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) im &Uuml;berblick:
 
 
-### Downloads vom 10_07_2022_1108
+### Downloads vom 11_07_2022_1119
 
 | | XLSX | SQLite | CSV |
 |--|--|--|--|
-| **Investment Universe** | [xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) (5.4M) | [sqlite](sqlite/Investment_Universe-10_07_2022_1108.sqlite.zip) (6.2M) | |
+| **Investment Universe** | [xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) (5.5M) | [sqlite](sqlite/Investment_Universe-11_07_2022_1119.sqlite.zip) (6.3M) | |
 | *By Security Type* ||||
-| **Stock** |  | [sqlite](sqlite/Stock-10_07_2022_1108.sqlite.zip) (228K) | [csv](csv/Stock-10_07_2022_1108.csv.zip) (168K) |
-| **ETF** |  | [sqlite](sqlite/ETF-10_07_2022_1108.sqlite.zip) (68K) | [csv](csv/ETF-10_07_2022_1108.csv.zip) (44K) |
-| **Derivatives** |  | [sqlite](sqlite/Derivatives-10_07_2022_1108.sqlite.zip) (5.5M) | [csv](csv/Derivatives-10_07_2022_1108.csv.zip) (2.9M) |
-| **Wikifolios** |  | [sqlite](sqlite/Wikifolios-10_07_2022_1108.sqlite.zip) (196K) | [csv](csv/Wikifolios-10_07_2022_1108.csv.zip) (140K) |
+| **Stock** |  | [sqlite](sqlite/Stock-11_07_2022_1119.sqlite.zip) (228K) | [csv](csv/Stock-11_07_2022_1119.csv.zip) (168K) |
+| **ETF** |  | [sqlite](sqlite/ETF-11_07_2022_1119.sqlite.zip) (68K) | [csv](csv/ETF-11_07_2022_1119.csv.zip) (44K) |
+| **Derivatives** |  | [sqlite](sqlite/Derivatives-11_07_2022_1119.sqlite.zip) (5.6M) | [csv](csv/Derivatives-11_07_2022_1119.csv.zip) (3.0M) |
+| **Wikifolios** |  | [sqlite](sqlite/Wikifolios-11_07_2022_1119.sqlite.zip) (196K) | [csv](csv/Wikifolios-11_07_2022_1119.csv.zip) (140K) |
