@@ -65,4 +65,6 @@ jobs:
         git commit -m "Publish docs from ${GITHUB_REPOSITORY}@${GITHUB_SHA:0:9}"
 
     - name: 🚀 Push to gh-pages branch
-      run: git push --force origin gh-pages
+      run: |
+        cd data
+        git push --force
