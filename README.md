@@ -1,13 +1,13 @@
 # Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) im &Uuml;berblick:
 
 
-### Downloads vom 29_01_2023_1007
+### Downloads vom 30_01_2023_1008
 
 | | XLSX | SQLite | CSV |
 |--|--|--|--|
-| **Investment Universe** | [xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) (5.7M) | [sqlite](sqlite/Investment_Universe-29_01_2023_1007.sqlite.zip) (6.5M) | |
+| **Investment Universe** | [xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) (5.7M) | [sqlite](sqlite/Investment_Universe-30_01_2023_1008.sqlite.zip) (6.6M) | |
 | *By Security Type* ||||
-| **Stock** |  | [sqlite](sqlite/Stock-29_01_2023_1007.sqlite.zip) (264K) | [csv](csv/Stock-29_01_2023_1007.csv.zip) (192K) |
-| **ETF** |  | [sqlite](sqlite/ETF-29_01_2023_1007.sqlite.zip) (72K) | [csv](csv/ETF-29_01_2023_1007.csv.zip) (48K) |
-| **Derivatives** |  | [sqlite](sqlite/Derivatives-29_01_2023_1007.sqlite.zip) (5.8M) | [csv](csv/Derivatives-29_01_2023_1007.csv.zip) (3.1M) |
-| **Wikifolios** |  | [sqlite](sqlite/Wikifolios-29_01_2023_1007.sqlite.zip) (200K) | [csv](csv/Wikifolios-29_01_2023_1007.csv.zip) (144K) |
+| **Stock** |  | [sqlite](sqlite/Stock-30_01_2023_1008.sqlite.zip) (264K) | [csv](csv/Stock-30_01_2023_1008.csv.zip) (192K) |
+| **ETF** |  | [sqlite](sqlite/ETF-30_01_2023_1008.sqlite.zip) (72K) | [csv](csv/ETF-30_01_2023_1008.csv.zip) (48K) |
+| **Derivatives** |  | [sqlite](sqlite/Derivatives-30_01_2023_1008.sqlite.zip) (5.8M) | [csv](csv/Derivatives-30_01_2023_1008.csv.zip) (3.1M) |
+| **Wikifolios** |  | [sqlite](sqlite/Wikifolios-30_01_2023_1008.sqlite.zip) (200K) | [csv](csv/Wikifolios-30_01_2023_1008.csv.zip) (144K) |
