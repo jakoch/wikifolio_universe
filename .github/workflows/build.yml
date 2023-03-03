@@ -31,6 +31,9 @@ jobs:
     steps:
     - name: Checkout main branch
       uses: actions/checkout@v3
+      
+    - name: Run ShellCheck
+      uses: ludeeus/action-shellcheck@master
 
     - name: Checkout gh-pages branch into data folder
       uses: actions/checkout@v3
