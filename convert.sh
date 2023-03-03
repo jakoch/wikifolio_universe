@@ -70,8 +70,8 @@ install() {
 convert() {
   cd data || return
 
-  #echo -e "\nConvert xlsx to sqlite"
-  #./wiuc
+  echo -e "\nConvert xlsx to sqlite"
+  ./wiuc
 
   echo -e "\nAdding date and time to filenames"
   mv Investment_Universe.sqlite "$SQLITE_FILE"
