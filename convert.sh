@@ -439,7 +439,9 @@ checkout_ghpages()
   print_status "Checking out the ref"
   git checkout --progress --force -B gh-pages refs/remotes/origin/gh-pages
 
-  git log -1 --format='%H'
+  GIT_SHORT_HASH_DATE=$(git log -1 --format='%h (%ad)' --date=iso)
+
+  print_status "/data -> branch: gh-pages @ $GIT_SHORT_HASH_DATE" 0 green
 
   cd ..
 }
