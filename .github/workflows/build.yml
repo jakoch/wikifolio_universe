@@ -1,10 +1,6 @@
-#
-# .github/workflows/build-on-windows.yml
-#
 # Copyright 2021 Jens A. Koch.
 # SPDX-License-Identifier: BSL-1.0
 # This file is part of https://github.com/jakoch/wikifolio_universe.
-#
 
 name: "Build"
 
@@ -31,9 +27,6 @@ jobs:
     steps:
     - name: Checkout main branch
       uses: actions/checkout@v3
-      
-    - name: Run ShellCheck
-      uses: ludeeus/action-shellcheck@master
 
     - name: Checkout gh-pages branch into data folder
       uses: actions/checkout@v3
@@ -42,23 +35,11 @@ jobs:
         path: data
         fetch-depth: 1
 
-    - name: ✂ Cleanup data folder before generating new content
-      run: |
-        cd data
-        rm -rf README.md wiuc sqlite/*.sqlite.zip csv/*.csv.zip
-        ls
-
-    - name: 🔽 Install
+    - name: ⚙ Convert
       run: |
         chmod +x ./convert.sh
         . ./convert.sh && run
         
-    - name: ✗ Pre-Commit Cleanup
-      run: |
-        cd data
-        rm -rf wiuc
-        ls
-
     - name: ✔ Commit
       run: |
         cd data
