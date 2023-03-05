@@ -27,20 +27,22 @@ isCISystem() {
   fi
 }
 
-# Returns the size of a file in kilobytes (KB).
+# Returns the size of a file in a human-readable format.
 #
 # Arguments:
 #   $1: The name of the file to get the size of. Can include wildcards.
 #
 # Returns:
-#   The size of the file(s) in kilobytes (KB).
+#   The size of the file(s) in a human-readable format.
 #
 # Example:
-#   To get the size of a file called "my_file.txt":
-#   getFilesize "my_file.txt"
+#   To get the size of a file called "file.txt":
+#   getFilesize "file.txt"
 #
 getFilesize() {
-  find . -name "$1" -printf "%kK";
+  find . -name "$1" -printf "%s\n" | \
+  awk '{split("B KB MB",units); for(i=1; $1>1024 && i<length(units); i++) $1/=1024; printf "%.0f %s\n", $1, units[i]}' | \
+  sed 's/^[[:space:]]*//g'
 }
 
 getSqliteFilename() {
