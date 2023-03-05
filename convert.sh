@@ -41,7 +41,7 @@ isCISystem() {
 #
 getFilesize() {
   find . -name "$1" -printf "%s\n" | \
-  awk '{split("B KB MB",units); for(i=1; $1>1024 && i<length(units); i++) $1/=1024; printf "%.0f %s\n", $1, units[i]}' | \
+  awk '{split("B KB MB GB TB",units); for(i=1; $1>1024 && i<length(units); i++) $1/=1024; printf "%.0f %s\n", $1, units[i]}' | \
   sed 's/^[[:space:]]*//g'
 }
 
