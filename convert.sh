@@ -427,7 +427,7 @@ delete_files() {
     print_status 'Deleting *.csv and *.sqlite files' 0 blue;
     rm ./*.csv
     rm ./*.sqlite
-    rm -rf /csv/old
+    rm -rf csv/old
 
     if isCISystem; then
       print_status 'Deleting wiuc'
