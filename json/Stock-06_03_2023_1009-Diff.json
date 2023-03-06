@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "BMG2133H1016,A2AFS4,CHINA MED.+HLTH.G.HD-0005,Aktien International,Aktien International",
+    "CA09226C2013,A3D097,BLACK TUSK RES.INC.NEW,Aktien International,Aktien International",
+    "CA0976922066,A2QEUB,BOLT METALS,Aktien International,Aktien International",
+    "CA98980P1027,A3CV89,ZOGLOS INCREDIBLE FOOD,Aktien International,Aktien International",
+    "US91822M1062,A2DN8Y,VEON LTD ADR 1,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA0976923056,A3D8AK,BOLT METALS CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
