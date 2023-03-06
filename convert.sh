@@ -8,11 +8,15 @@
 #
 #
 
-DATE=$(TZ=":Europe/Berlin" date +%d_%m_%Y_%H%M)
+DATE=$(TZ=":Europe/Berlin" date "+%d_%m_%Y_%H%M")
+DATE_LONG=$(TZ=":Europe/Berlin" date "+%A %d.%m.%Y %H:%M")
+
+export DATE
+export DATE_LONG
+
 SQLITE_FILE="Investment_Universe-$DATE.sqlite"
 CSV_FILE="Investment_Universe-$DATE.csv"
 
-export DATE
 export SQLITE_FILE
 export CSV_FILE
 
