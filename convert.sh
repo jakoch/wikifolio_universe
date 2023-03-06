@@ -122,12 +122,18 @@ print_status() {
 
 # ---------------------------------------------------------
 
+isInstalled() {
+  if [ "$($1 2>&1 >/dev/null)" ]; then
+    print_status "Already installed. Skipping."
+    return 0
+  else
+    return 1
+  fi
+}
+
 install_csvdiff() {
   print_status "🔽 Installing CSVDiff"
-
-  if [ "$(csvdiff --version)" ]; then
-    print_status "Already installed. Skipping."
-  fi
+  isInstalled "$(csvdiff --version)" && return
 
   url="https://github.com/aswinkarthik/csvdiff/releases/download/v1.4.0/csvdiff_1.4.0_linux_64-bit.deb";
   # --retry-all-errors only supported by curl v7.71.0+
@@ -137,11 +143,10 @@ install_csvdiff() {
 
 install_wiuc() {
   print_status "🔽 Installing Wikifolio Universe Converter"
+  isInstalled  "-f /data/wiuc" && return
 
-  if [ -e /data/wiuc ]; then
-    print_status "Already installed. Skipping."
-  fi
-
+  local version
+  local url
   version="$(curl -s https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest | jq -r '.tag_name' | cut -c 2-)"; echo "Latest WIUC Version: $version"
   url="https://github.com/jakoch/wikifolio_universe_converter/releases/download/v$version/Wikifolio_Investment_Universe_Converter-v$version-x64-linux-Clang-12.zip"; echo "Download URL: $url"
   # --retry-all-errors only supported by curl v7.71.0+
@@ -154,28 +159,47 @@ install_wiuc() {
 
 install_7zip() {
   print_status "🔽 Installing 7zip"
-
-  if [ "$(7z --help)" ]; then
-    print_status "Already installed. Skipping."
-  fi
-
+  isInstalled "$(7z --help)" && return
   sudo apt-get install -y p7zip-full
 }
 
+install_jq() {
+  print_status "🔽 Installing jq"
+  isInstalled "$(jq --help)" && return
+  sudo apt-get install -y jq
+}
+
+install_sqlite() {
+  print_status "🔽 Installing sqlite"
+  isInstalled "$(sqlite3 -version)" && return
+  sudo apt-get install -y sqlite3
+}
+
+install_curl() {
+  print_status "🔽 Installing curl"
+  isInstalled "$(curl --help)" && return
+  sudo apt-get install -y curl
+}
+
 install() {
+  install_curl
+  install_sqlite
+  install_wiuc
   install_7zip
   install_csvdiff
-  install_wiuc
+  install_jq
 }
 
 show_infos() {
-  print_status "CPU Info:"
+  print_status "CPU Info:" 0 blue
   lscpu | grep -E 'Model name|Socket|Thread|NUMA|CPU\(s\)'
+  print_status "Tools:" 0 blue
   print_status "sqlite3 version:"
   sqlite3 --version
-  print_status ""
+  print_status " "
   csvdiff --version
   7z | head -2
+  jq --version
 }
 
 prepare_data_folder()
