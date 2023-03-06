@@ -147,7 +147,7 @@ install_csvdiff() {
 
 install_wiuc() {
   print_status "🔽 Installing Wikifolio Universe Converter"
-  isInstalled  "-f /data/wiuc" && return
+  isInstalled "$(-f /data/wiuc)" && return
 
   local version
   local url
