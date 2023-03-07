@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA00444G4051,A3DHGW,ACERUS PHARMACEUTICALS,Aktien International,Aktien International",
+    "DE000A1YDAZ7,A1YDAZ,CLEAN LOGISTICS SE NA ON,Aktien Deutschland,Aktien Sonstige",
+    "IT0003124663,928888,\"PRIMA INDUSTRIE   EO 2, 50\",Aktien Europa,Aktien Europa Select",
+    "TH0375010R14,676053,TRUE CORPORATION PCL REG. SHS (NVDRS) BA 4,Aktien International,Aktien International",
+    "TH0375010Z14,A1409F,TRUE CORP,Aktien International,Aktien International",
+    "US0390142042,A2JSFW,\"ARCADIA BIOSC.NEW.DL-, 001\",Aktien USA,Aktien USA Select",
+    "US28621V1017,A2ADPR,\"ELEVATE CREDIT INC -, 0004\",Aktien USA,Aktien USA Select",
+    "US41150T1088,A2P795,HARBOR CUSTOM DEV.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "AU000000TLX2,A2H7JK,TELIX PHARMACEUTICALS LTD,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
