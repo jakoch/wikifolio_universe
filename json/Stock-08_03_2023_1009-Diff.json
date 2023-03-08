@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA56089A1030,A2N9D1,MAKO MINING CORP.,Aktien International,Aktien International",
+    "GB0007990962,908076,SHAFTESBURY PLC,Aktien Europa,Aktien Europa Select",
+    "US1694091091,907982,CHINA SOUTHERN AIRLINES ADR,Aktien International,Aktien International",
+    "US83587F2020,A1W8DY,SORRENTO THER.NEW DL-0001,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US4884452065,A2QLX7,\"ZEVRA THERAPEUT. DL-, 0001\",Aktien USA,Aktien USA Select",
+      "Current": "US4884452065,A2QLX7,\"KEMPHARM INC.    DL-, 0001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA74739M1041,A3D74W,Q BATTERY METALS CORP.,Aktien International,Aktien International",
+    "CA86102Q1081,A3DMVF,STOCK TRENDS CAPITAL INC.,Aktien International,Aktien International",
+    "CA98979D1024,A3D47J,ZOGLOS FOOD CORP.,Aktien International,Aktien International",
+    "CA28008L2057,A3D72F,EDGEMONT GOLD CORP. O.N.,Aktien International,Aktien International",
+    "BMG067231032,A1W6ST,AVANCE GAS HLDG      DL 2,Aktien Europa,Aktien Europa Select",
+    "CA00461M1032,A3C83E,ACLARA RESOURCES INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 6
+  }
+}
