@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA53359R1064,A2PSLJ,LINCOLN GOLD MINING INC.,Aktien International,Aktien International",
+    "IT0001431805,936385,DEA CAPITAL S.P.A.,Aktien Europa,Aktien Europa Select",
+    "US01345P1066,A2DF99,\"ALBIREO PHARMA    DL -, 01\",Aktien USA,Aktien USA Select",
+    "US04625J2042,A3CSRU,ASSURE HOLDINGS CORP.,Aktien USA,Aktien USA Select",
+    "US16941T1043,A0LEE9,CHINA PHARMA HLDGS DL-001,Aktien USA,Aktien USA Select",
+    "US2060221056,A1XEAC,CONCERT PHARMACEUT.DL-001,Aktien USA,Aktien USA Select",
+    "US30315R1077,A2QJEK,\"F-STAR THERAPEUT.DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US8177631053,A2JL47,SESEN BIO INC.,Aktien USA,Aktien USA Select",
+    "US82452T1079,A2QFQT,\"SHIFT TECH.INC.A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US67107W1009,A0HMU1,O2MICRO I.ADR DL-00002/50,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "GB00B1Z4ST84,A0MV90,VANQUIS BANK. LS-17868339,Aktien Europa,Aktien Europa Select",
+      "Current": "GB00B1Z4ST84,A0MV90,PROVIDENT FINANCIAL PLC,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "CA27785T2092,A3D73Z,EAT + BEYOND GLOBAL HLDGS,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 10,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
