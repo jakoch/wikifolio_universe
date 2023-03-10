@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA27785T1003,A3DJN5,EAT + BEYOND GLOBAL HLDGS,Aktien International,Aktien International",
+    "LU0120694483,578792,VONTOBEL-EUR.M.+S.C. B-EO,Fonds,Fonds Aktien",
+    "US6496045013,A0Q3R4,\"NEW YORK MTG TRUST DL-, 02\",Aktien USA,Aktien USA Select",
+    "US68570P1012,A2N8KD,ORCHARD THERAP.SP.ADRS/1,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0000072993,936020,\"NETMEDIA GR.SA INH.EO-, 10\",Aktien Europa,Aktien Europa Select",
+      "Current": "FR0000072993,936020,\"MAKHEIA GR.SA INH.EO -, 10\",Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "US68570P2002,A3D7B8,ORCHARD THERAP.SP.ADRS/10,Aktien USA,Aktien USA Select",
+    "US0390143032,A3D7B0,\"ARCADIA BIOSC.NEW.DL-, 001\",Aktien USA,Aktien USA Select",
+    "US41150T3068,A3D7BW,HARBOR CUSTOM DEV.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}

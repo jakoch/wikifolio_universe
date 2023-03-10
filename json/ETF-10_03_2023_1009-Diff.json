@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "LU0392495023,ETF114,LYXOR MSCI PACIFIC ETF I,ETFs,ETFs Asien",
+    "LU0392496260,ETF125,LYX MSCI EU MID CAP ETF I,ETFs,ETFs Europa Gesamt",
+    "LU0392496344,ETF126,LYX EUROPE SMALLCAP ETF I,ETFs,ETFs Europa Gesamt",
+    "LU0947415054,ETF024,LYX FTSE CHINA A50 ETF I,ETFs,ETFs Asien"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "LU2572257397,ETF013,AIS-MSCIPECNZAC U.ETFDLD,ETFs,ETFs Asien",
+    "LU2572257470,ETF045,AIS-MESCECNZAC U.ETFEOD,ETFs,ETFs Europa Gesamt",
+    "LU2572256746,ETF015,AIS-MSCI CN A 2 U.ETFDLD,ETFs,ETFs Asien"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}

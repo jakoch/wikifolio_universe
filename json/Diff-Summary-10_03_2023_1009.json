@@ -1,0 +1,22 @@
+{
+  "ETF": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  },
+  "Stock": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 3
+  },
+  "Wikifolios": {
+    "Additions": 0,
+    "Modifications": 0,
+    "Deletions": 0
+  },
+  "Totals": {
+    "Additions": 8,
+    "Modifications": 1,
+    "Deletions": 6
+  }
+}
