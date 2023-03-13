@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "BMG216341039,A3CNHU,\"CHINA ECOTO. SUB.HD-0, 025\",Aktien International,Aktien International",
+    "CA08772W1086,A3DNBE,BETTERMOOD FOOD CORP.,Aktien International,Aktien International",
+    "CA44702L1022,A2QESX,HUNTSMAN EXPLORATION INC.,Aktien International,Aktien International",
+    "LU0188499254,A0B6MU,PICTET-EM.MKTS IN.NAM.PDL,Fonds,Fonds Aktien",
+    "LU0571085413,A1JJMA,VONT.-MTX S.E.M.LE.BCAPDL,Fonds,Fonds Aktien",
+    "US26943B1008,A2QAXL,FIRST EAGLE ALTERN.CAP.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "BE0974334667,A2JRRB,LLAMA GROUP S.A.     EO 1,Aktien Europa,Aktien Europa Select",
+      "Current": "BE0974334667,A2JRRB,TARGETSPOT S.A.      EO 1,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "DE0007235301,723530,SGL CARBON SE O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0007235301,723530,SGL CARBON SE O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "US98420U7037,A2P6RK,\"XWELL INC.         DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US98420U7037,A2P6RK,\"XPRESSPA GROUP     DL-, 01\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA08772W2076,A3D8PP,BETTERMOOD FOOD CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 3,
+    "Deletions": 1
+  }
+}
