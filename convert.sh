@@ -204,7 +204,7 @@ show_infos() {
   csvdiff --version
   7z | head -2
   jq --version
-  wiuc --version
+  data/wiuc --version
 }
 
 prepare_data_folder()
