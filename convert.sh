@@ -204,6 +204,7 @@ show_infos() {
   csvdiff --version
   7z | head -2
   jq --version
+  wiuc --version
 }
 
 prepare_data_folder()
@@ -226,7 +227,7 @@ convert() {
   cd data || return
 
   print_status "Convert xlsx to sqlite and csv using wiuc"
-  ./wiuc
+  ./wiuc --convert
 
   print_status "Adding date and time to filenames"
   mv Investment_Universe.sqlite "$SQLITE_FILE"
