@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "LU1769088581,LYX0YG,MUL-LYX.MSCI EM ESG T.L.A,ETFs,ETFs Emerging Markets"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "GB00BM9JYK91,A3GZKE,GLOBAL X OPEN END,ETFs,sonstige ETFs",
+    "IE000EPX8KB7,A3D4V8,GXETF-SP 500 QTH DLA,ETFs,ETFs Nordamerika",
+    "IE000LSRKCB4,A3D4V7,GXETF-SP 500 QB DLA,ETFs,ETFs Nordamerika",
+    "GB00BM9JYH62,A3GZKD,GLOBAL X OPEN END,ETFs,sonstige ETFs",
+    "GB00BM9JYJ86,A3GZKF,GLOBAL X OPEN END,ETFs,sonstige ETFs"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}

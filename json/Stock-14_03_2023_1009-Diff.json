@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "US04522R1014,A2JN62,ASLAN PHARMACEUT. ADR/5,Aktien USA,Aktien USA Select",
+    "US6698881090,A0ETK2,\"NOVATEK GDR RG.S/10 RL-, 1\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US16941T2033,A3D7R6,CHINA PHARMA HLDGS  NEW,Aktien International,Aktien International",
+    "CA56089A4000,A3D7BT,MAKO MINING CORP.,Aktien International,Aktien International",
+    "CA53359R2054,A3D47M,LINCOLN GOLD MINING INC.,Aktien International,Aktien International",
+    "US82452T3059,A3D8AM,SHIFT TECH.INC.A NEW,Aktien USA,Aktien USA Select",
+    "US14216R1014,A3DZG2,CARISMA THERAPEUTICS INC.,Aktien USA,Aktien USA Select",
+    "DE000A1YDAZ7,A1YDAZ,CLEAN LOGISTICS SE NA ON,Aktien Deutschland,Aktien Sonstige",
+    "CA55401M1005,A3D3E7,MCF ENERGY LTD,Aktien International,Aktien International",
+    "US04625J3032,A3D760,\"ASSURE HLDGS COR. DL-, 001\",Aktien USA,Aktien USA Select",
+    "US6496048405,A3D7BQ,\"NEW YORK MTG TR.PS DL-, 02\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 9
+  }
+}
