@@ -152,7 +152,7 @@ install_wiuc() {
   local version
   local url
   version="$(curl -s https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest | jq -r '.tag_name' | cut -c 2-)"; echo "Latest WIUC Version: $version"
-  url="https://github.com/jakoch/wikifolio_universe_converter/releases/download/v$version/Wikifolio_Investment_Universe_Converter-v$version-x64-linux-Clang-12.zip"; echo "Download URL: $url"
+  url="https://github.com/jakoch/wikifolio_universe_converter/releases/download/v$version/wiuc-$version-Clang14-x64-linux.zip"; echo "Download URL: $url"
   # --retry-all-errors only supported by curl v7.71.0+
   curl --retry 3 -L --output ./wiuc.zip "$url"
   mkdir -p data
