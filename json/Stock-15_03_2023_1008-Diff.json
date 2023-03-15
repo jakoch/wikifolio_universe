@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "DE000A1YDAZ7,A1YDAZ,CLEAN LOGISTICS SE NA ON,Aktien Deutschland,Aktien Sonstige",
+    "US05351X1019,A2JAF9,\"AVAYA HLDGS CORP. DL-, 001\",Aktien USA,Aktien USA Select",
+    "US4976341051,A2QAMN,KIROMIC BIOPHARMA INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU000000RIO1,855018,RIO TINTO LTD,Aktien International,Aktien International",
+      "Current": "AU000000RIO1,855018,RIO TINTO,Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "BMG216341294,A3D61Y,\"CHINA ECOTO. SUB.HD 0, 50\",Aktien International,Aktien International",
+    "CA44702L2012,A3D8PU,HUNTSMAN EXPLORATION INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

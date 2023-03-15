@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE000LS9DND6,LS9DND,Globale Riesen,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9FQK9,LS9FQK,Hop on Hop off,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9M7D9,LS9M7D,Trend-Tech-Werte,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9TTA5,LS9TTA,Quant Trade,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9TYS7,LS9TYS,voice of the stock market,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
