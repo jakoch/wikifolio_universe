@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "CA5928191066,A2PZ2P,MEXICAN GOLD MINING,Aktien International,Aktien International",
+    "CA67092F1045,A2AD5S,NUVO PHARMACEUTICALS INC.,Aktien International,Aktien International",
+    "US02364W1053,603115,AMERICA MOVIL    L ADR/20,Aktien USA,Aktien USA Select",
+    "US02364W2044,603116,AMERICA MOVIL    A ADR/20,Aktien USA,Aktien Dow Jones"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005785802,578580,FRESEN.MED.CARE KGAA O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0005785802,578580,FRESEN.MED.CARE AG O.N.,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE0007030009,703000,RHEINMETALL AG,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0007030009,703000,RHEINMETALL,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0JL9W6,A0JL9W,VERBIO VER.BIOENERGIE  ON,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A0JL9W6,A0JL9W,VERBIO VER.BIOENERGIE  ON,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US4976342042,A3D7BN,KIROMIC BIOPHARMA INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 3,
+    "Deletions": 1
+  }
+}
