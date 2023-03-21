@@ -1,0 +1,29 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE000A2YN900,A2YN90,TEAMVIEWER SE  INH O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2YN900,A2YN90,TEAMVIEWER AG  INH O.N.,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3H3LL2,A3H3LL,VANTAGE TOWERS AG NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A3H3LL2,A3H3LL,VANTAGE TOWERS AG NA O.N.,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "BMG0692U1099,482025,\"AXIS CAPIT. HLDGS DL -, 10\",Aktien USA,Aktien USA Select",
+    "BMG3198U1027,A1W6VY,\"ESSENT GROUP LTD  DL-, 015\",Aktien USA,Aktien USA Select",
+    "BMG3075P1014,A0MKMM,\"ENSTAR GROUP LTD   DL-, 01\",Aktien USA,Aktien USA Select",
+    "BMG7496G1033,896628,RENAISSANCERE HLDGS  DL 1,Aktien USA,Aktien USA Select",
+    "US71943U1043,A1W57P,\"PHYSICIANS REALTY  DL-, 01\",Aktien USA,Aktien USA Select",
+    "BMG9618E1075,870243,WHITE MTNS INS. GRP  DL 1,Aktien USA,Aktien USA Select",
+    "US05561Q2012,923203,\"BOK FINL CORP.  DL-, 00006\",Aktien USA,Aktien USA Select",
+    "PR7331747001,A1JY4C,POPULAR INC. NEW     DL 6,Aktien USA,Aktien USA Select",
+    "US8404411097,A116V6,\"SOUTHSTATE CORP.   DL 2, 5\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 9
+  }
+}
