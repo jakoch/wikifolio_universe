@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "LU0290358653,DBX0AP,XTR.II ITRAXX EUR.SWAP 1C,ETFs,ETFs Europa Bonds",
+    "LU0659579147,DBX0KK,DB MSCI PAKIST.I.T.IN.,ETFs,ETFs Asien"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US9219378190,A0X9FP,VANG.INTERM.-T.BD IDX ETF,ETFs,ETFs Nordamerika",
+    "IE000Y9MG996,ETF026,AMUNDIUTCH100EW DLD,ETFs,ETFs Branchen"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
