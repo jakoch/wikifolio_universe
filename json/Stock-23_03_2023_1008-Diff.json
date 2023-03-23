@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "NL0010937058,A140RW,\"INTERTRUST NV      EO-, 60\",Aktien Europa,Aktien Europa Select",
+    "US0491642056,A0DK5Y,\"ATLAS AIR WW NEW   DL-, 01\",Aktien USA,Aktien USA Select",
+    "US92556D1063,A3CWXC,\"VIA RENEWABLES   A DL-, 01\",Aktien USA,Aktien USA Select",
+    "VGG569811067,A2N5K7,LUOKUNG TECH. CORP.,Aktien International,Aktien International",
+    "US33832D2053,A2PSM0,ALERISLIFE INC.,Aktien USA,Aktien USA Select",
+    "US4492531037,A2PL3U,\"IAA INC.           DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA5928192056,A3D6U6,MEXICAN GOLD MINING,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
