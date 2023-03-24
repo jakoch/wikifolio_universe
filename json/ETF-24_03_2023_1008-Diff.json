@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "LU0392495700,ETF120,LYXOR MSCI USA ETF I,ETFs,ETFs Nordamerika",
+    "LU2200146228,ETF131,LYX MSCI EM MKT ETF ACC I,ETFs,ETFs Emerging Markets",
+    "LU0635178014,ETF127,LYX MSCI EM MKT ETF DIS I,ETFs,ETFs Emerging Markets"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "LU2573966905,ETF019,MUL-AM.MSCI EM2 DLD,ETFs,ETFs Emerging Markets",
+    "LU2573967036,ETF028,MUL-AM.MSCI EM2 DLA,ETFs,ETFs Emerging Markets"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}

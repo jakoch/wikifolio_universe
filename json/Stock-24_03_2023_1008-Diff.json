@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA22608C1032,A2N7Y8,CREST RESOURCES INC.,Aktien International,Aktien International",
+    "US74365N1037,A2AP0W,\"PROTAGENIC THERAP.DL -, 01\",Aktien USA,Aktien USA Select",
+    "US7574681034,A1KBQX,\"REDHILL B.S.ADR 10/IL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA03949L2003,A3DZJ3,ARCHER EXPLORATION CORP.,Aktien International,Aktien International",
+    "CA54929M1068,A3D74X,LUCA MNG INC.,Aktien International,Aktien International",
+    "US7574682024,A3D9SL,\"REDHILL B.S.AD 400/IL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
