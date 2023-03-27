@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA02138F2061,A3D30J,ALTALEY MINING CORP.,Aktien International,Aktien International",
+    "DE000A3CNGM3,A3CNGM,BIT GL.CRYPTO LEADERS R-I,Fonds,Fonds Aktien",
+    "LU0502900771,A1CX3N,LUXEMPART SA,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US0952291005,A1JZBJ,\"AVANTAX INC.     DL-, 0001\",Aktien USA,Aktien Dow Jones",
+      "Current": "US0952291005,A1JZBJ,\"BLUCORA INC.     DL-, 0001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US92556D3044,A3D80V,VIA RENEWABLES INC.,Aktien USA,Aktien USA Select",
+    "VGG569812057,A3D9T8,LUOKUNG TECH. CORP.,Aktien International,Aktien International",
+    "CA6544846091,A3D7SC,NIOCORP DEVELOPMENTS,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
