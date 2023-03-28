@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "BE0003807246,546695,PICANOL N.V. NOM.,Aktien Europa,Aktien Europa Select",
+    "CA03842U2083,A2P8G6,AQUARIUS AI INC.,Aktien International,Aktien International",
+    "US0167441049,A3C8U3,ALLARITY THERAPEUTICS,Aktien USA,Aktien USA Select",
+    "US22530J2006,A2N8K4,CREATIVE REALITIES,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000TUAG1E4,TUAG1E,TUI AG  BZR,Aktien Deutschland,Aktien Sonstige",
+    "FR001400GZ72,A3D665,\"ALGREEN         EO 0, 0101\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
