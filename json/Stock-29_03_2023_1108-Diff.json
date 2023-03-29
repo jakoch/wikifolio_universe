@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "FR0011668821,A2P3HQ,\"ALGREEN           EO 0, 47\",Aktien Europa,Aktien Europa Select",
+    "GRS501003008,A0X8GQ,\"EUROXX SECURITIES EO -, 36\",Aktien Europa,Aktien Europa Select",
+    "LU0056569402,864839,SOCFINAF S.A.,Aktien Europa,Aktien Europa Select",
+    "LU0092047413,902347,SOCFINASIA,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA22608C2022,A3D681,CREST RESOURCES INC.,Aktien International,Aktien International",
+    "US74365N2027,A3D9TY,PROTAGENIC THERAPEUT.INC.,Aktien USA,Aktien USA Select",
+    "AU0000251258,A3D3E4,PATRIOT BATTERY MET.CDI,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
