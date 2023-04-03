@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "US25278L1052,A2QPM5,\"DIAMONDHEAD HLD.ADL-, 0001\",Aktien USA,Aktien USA Select",
+    "US42309B2043,A3CYQK,\"HELBIZ INC.      DL-, 0001\",Aktien International,Aktien International",
+    "US45031U1016,929187,\"ISTAR INC. A     DL -, 001\",Aktien USA,Aktien USA Select",
+    "US78645L1008,A2PEU1,\"SAFEHOLD INC.      DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000A3D1ZP1,A3D1ZP,HARD VALUE FUND R DIS.,Fonds,Fonds Aktien"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
