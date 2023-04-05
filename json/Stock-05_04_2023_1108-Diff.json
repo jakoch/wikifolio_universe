@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA92539C1005,A3DMV5,VERSES TECHNOLOGIES CL.B,Aktien International,Aktien International",
+    "CA98462Y1007,357818,YAMANA GOLD INC.,Aktien USA,Aktien Dow Jones"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA73108T1049,A3D9T1,POLARIS NORTHS.CAP. CORP.,Aktien International,Aktien International",
+    "CA92539Q1090,A3D776,VERSES AI  CL.A(SUB.VTG.),Aktien International,Aktien International",
+    "AU0000272072,A3EB2E,FUTURE BATTERY MINERALS,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
