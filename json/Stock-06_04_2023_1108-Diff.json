@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA82028K2002,905979,SHAW COMM. N-VTG B,Aktien USA,Aktien USA Select",
+    "CA92845J1049,A2JR3J,VIVO CANNABIS INC.,Aktien International,Aktien International",
+    "US00856G1094,A14XME,\"AGROFRESH SOLUT. DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US62818Q1040,A2DWVA,\"MUSTANG BIO INC  DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US78646V1070,A3D6RL,SAFEHOLD INC. NEW  O.N.,Aktien USA,Aktien USA Select",
+    "CA72750P4024,A3EB16,PLANTX LIFE INC.,Aktien International,Aktien International",
+    "US42309B4023,A3D7M0,\"HELBIZ INC.CL.A  DL-, 0001\",Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
