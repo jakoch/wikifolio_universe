@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA65250B1058,A2DHL9,NEWRANGE GOLD CORP.,Aktien International,Aktien International"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000JST4000,JST400,JOST WERKE SE INH. O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000JST4000,JST400,JOST WERKE AG INH.   O.N.,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
