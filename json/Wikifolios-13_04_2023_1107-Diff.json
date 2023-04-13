@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE000LS9MXS4,LS9MXS,Trends & Innovationen,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9UC72,LS9UC7,Flexibles Trading,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9TKB2,LS9TKB,AktienSelect,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000LS9UE13,LS9UE1,Chartanalytics,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}

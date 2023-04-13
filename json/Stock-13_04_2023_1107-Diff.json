@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA00833F1099,A3DEJG,AFRICAN ENERGY MET. INC.,Aktien International,Aktien International",
+    "CA55940P1018,A3CWWZ,MAGNET FORENSICS SUB.VTG.,Aktien International,Aktien International",
+    "CA5912551044,A2QLCJ,METALLICA METALS CORP.,Aktien International,Aktien International",
+    "CA64065J4037,A3DHGY,NEOVASC INC.,Aktien USA,Aktien USA Select",
+    "DE000A0B65S3,A0B65S,PAION AG,Aktien Deutschland,Aktien Sonstige",
+    "DE000TUAG1E4,TUAG1E,TUI AG  BZR,Aktien Deutschland,Aktien Sonstige",
+    "US00847L2097,A3DKKE,AGILE THERAPEUTIC.NEW,Aktien USA,Aktien USA Select",
+    "US03217L1061,A2P9Z0,AMRYT PHARMA PLC SP.ADR/5,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "MT0001770107,A2JDEW,\"SAMARA ASSET GRP. EO 0, 05\",Aktien Europa,Aktien Europa Select",
+      "Current": "MT0001770107,A2JDEW,CRYPTOLOGY ASSET GRP EO 1,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "CA00833F2089,A3EJ92,AFRICAN ENERGY MET. INC.,Aktien International,Aktien International",
+    "CA65250B3039,A3D2JP,NEWRANGE GOLD CORP.,Aktien International,Aktien International",
+    "US62818Q2030,A3D9TV,\"MUSTANG BIO NEW DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
