@@ -1,0 +1,36 @@
+{
+  "Additions": [
+    "CA13645T1003,798292,CDN PACIFIC RAILWAY,Aktien USA,Aktien USA Select",
+    "FR0011766229,A1107T,\"ONCODESIGN SA     EO -, 08\",Aktien Europa,Aktien Europa Select",
+    "FR0013285103,A2JADF,\"AIR MARINE A.S. EO -, 25\",Aktien International,Aktien International",
+    "US00847L3087,A3D7A3,AGILE THERAPEUTIC.NEW,Aktien USA,Aktien USA Select",
+    "US04625J3032,A3D760,\"ASSURE HLDGS COR. DL-, 001\",Aktien USA,Aktien USA Select",
+    "US13089P5070,A3DMJB,CALITHERA BIOSCIEN.DL-001,Aktien USA,Aktien USA Select",
+    "US2123264093,A3D60D,\"CONTRAFECT CORP. DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US25382T2006,A3D56A,DIGITAL ALLY INC.NEW,Aktien USA,Aktien USA Select",
+    "US2997662042,A0M9Q9,EVER-GLORY INTL NEW,Aktien USA,Aktien USA Select",
+    "US33749P3091,A3D38K,\"FIRST WAVE BIOP.NEW-, 0001\",Aktien USA,Aktien USA Select",
+    "US49461C1027,A3D2GA,KINETA INC.,Aktien USA,Aktien USA Select",
+    "US55279B2025,A1KATX,MEI PHARMA INC.,Aktien USA,Aktien USA Select",
+    "US98880R2085,A3D2QA,\"ZW DATA ACT.T.NEW DL-, 001\",Aktien USA,Aktien USA Select",
+    "US62818Q2030,A3D9TV,\"MUSTANG BIO NEW DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US8342235053,A3D506,\"SOLIGENIX INC.NEW DL-, 001\",Aktien USA,Aktien USA Select",
+    "US86633R3021,A3D379,\"WISA TECHNOLOG.  DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US82536T1079,A2DSDS,\"SOUNDTHINKING INC.DL-, 005\",Aktien USA,Aktien USA Select",
+      "Current": "US82536T1079,A2DSDS,\"SHOTSPOTTER INC. DL-, 005\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA09226M1005,A3D114,BLACK SWAN GRAPHENE INC.,Aktien International,Aktien International",
+    "CH1248667003,A3ECF6,SCHWEITER TECHS NAM. SF 1,Aktien Europa,Aktien Europa Select",
+    "US21077C3051,A3D9VV,CONTEXTLOGIC INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 16,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}

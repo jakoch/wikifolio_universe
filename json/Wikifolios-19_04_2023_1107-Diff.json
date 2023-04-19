@@ -1,0 +1,14 @@
+{
+  "Additions": [
+    "DE000LS9ANB6,LS9ANB,World CBI,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9ASP5,LS9ASP,CB Trades,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9TXX9,LS9TXX,Achat,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
