@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA70470T1003,A3DWD1,PEAKBIRCH COMMERCE INC.,Aktien International,Aktien International",
+    "GB00BNR5MZ78,A3CSME,\"MELR IN PLC LS-, 076190476\",Aktien Europa,Aktien Europa Select",
+    "LU2314763264,A2QSAV,\"ARRIVAL GROUP     EO -, 10\",Aktien USA,Aktien USA Select",
+    "US1920101060,A2PJN7,\"CODIAK BIOSCIENCEDL-, 0001\",Aktien USA,Aktien USA Select",
+    "US92337U1043,A2PD0Z,\"VERB TE.CO.INC DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA70470T2092,A3ECG1,PEAKBIRCH COMMERCE INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
