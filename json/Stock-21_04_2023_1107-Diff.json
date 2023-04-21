@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "BE0020575115,805812,BELRECA N.V.,Aktien Europa,Aktien Europa Select",
+    "CA10170T2083,A2PVHJ,BOUNDARY GOLD A.COPP.MIN.,Aktien International,Aktien International",
+    "GRS208303008,910623,\"INFORM P.LYKOS HO.EO 0, 62\",Aktien Europa,Aktien Europa Select",
+    "LU0348798009,A0Q1LH,AGIF-THAILAND EQU.A EO,Fonds,Fonds Aktien",
+    "US72651A2078,A2DF4N,PLAINS GP HLDGF LP UTS A,Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA13646K1084,A3D9ZG,CANADIAN PAC KA.CITY LTD.,Aktien USA,Aktien USA Select",
+    "US55279B3015,A3D69W,MEI PHARMA INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}

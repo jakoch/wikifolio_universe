@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "LU0392494562,ETF110,LYXOR MSCI WORLD ETF I,ETFs,ETFs Welt",
+    "LU0876440578,A1T7ML,OSS.R.W.E.C. UC.ETF 1CEO,ETFs,ETFs DAX"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "LU2572257124,ETF018,AIS-MSCI W.3 U.ETFDLD,ETFs,ETFs Welt"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
