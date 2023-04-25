@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA7852461093,A0YC9U,SABINA SILVER CORP.,Aktien Hot Stocks,Aktien Hot Stocks",
+    "CA91734F1080,A3DK8K,USHA RESOURCES LTD,Aktien International,Aktien International",
+    "NL00150006O3,A2QPCJ,ESG CORE INVESTMENTS EO 1,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "NL0006129074,A0M530,AUDIUS SE  INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "NL0006129074,A0M530,AUDIUS SE  INH O.N.,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "GB00BNGDN821,A3D648,\"MELR IN PLC LS-, 22857142\",Aktien Europa,Aktien Europa Select",
+    "US92337U2033,A3EB9M,\"VERB TE.CO.INC   DL-, 0001\",Aktien USA,Aktien USA Select",
+    "LU2607735342,A3D7A0,\"ARRIVAL GROUP     EO -, 10\",Aktien USA,Aktien USA Select",
+    "CA91735H1038,A3D5BX,USHA RESOURCES LTD  NEW,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
