@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "LU1681043326,A2H58L,AIS-A.MSCI EUR.XUK DR EOC,ETFs,ETFs Europa Gesamt",
+    "LU1900068674,LYX00U,MUL-L.AS.PA.E.JAP. DL DIS,ETFs,ETFs Asien"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000A3G3ZL3,A3G3ZL,ETC ISSUANCE O.END ETN,ETFs,ETFs Basic Resources"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}

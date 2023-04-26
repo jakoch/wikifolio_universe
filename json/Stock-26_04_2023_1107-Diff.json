@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "AU0000067654,A2PWV3,NITRO SOFTWARE LTD,Aktien International,Aktien International",
+    "CA4203222084,A3D3X4,HAWKMOON RESOURCES CORP,Aktien International,Aktien International",
+    "CA69783Y1034,A3DQ6V,PAN AMERICAN ENERGY,Aktien International,Aktien International",
+    "CA92026P2008,A3DMEY,VALOREM RESOURCES INC.,Aktien International,Aktien International",
+    "US68559A1097,A2P4J7,ORBITAL ENERGY GRP DL-001,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "IT0004965148,A1W66W,MONCLER S.P.A.,Aktien Europa,Aktien Europa Select",
+      "Current": "IT0004965148,A1W66W,MONCLER,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "CA27033V1058,A3EDEA,EARTHWISE MINERALS CORP.,Aktien International,Aktien International",
+    "GB00BMWRZ071,A3D8XA,\"DOWLAIS GROUP PLC  LS-, 01\",Aktien Europa,Aktien Europa Select",
+    "CA69783Y2024,A3DQ6W,PAN AMERICAN ENERGY NEW,Aktien International,Aktien International",
+    "DK0061412772,A2QG5D,CADELER A/S         DK 1,Aktien Europa,Aktien Europa Select",
+    "CA10170T3073,A3D7AS,BOUNDARY GOLD A.COPP.MIN.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 5
+  }
+}
