@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA70558T1057,A2QLTN,PEGASUS RESOURCES INC,Aktien International,Aktien International",
+    "US15957P3038,A3D3XZ,\"CHARAH SOLUTI. NEW DL-, 01\",Aktien USA,Aktien USA Select",
+    "US67091J4040,A3C9XT,\"LOGICMARK INC.   DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US74374N1028,A2JRLW,\"PROVENTION BIO   DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US45033E1055,A2AGGF,BANCO ITAU ADR REG.S/1500,Aktien USA,Aktien USA Select",
+      "Current": "US45033E1055,A2AGGF,ITAU CORPB.ADR REG.S/1500,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CH1216478797,A3D2TK,\"DSM-FIRMENICH AG  EO -, 01\",Aktien Europa,Aktien Europa Select",
+    "US67577R1023,A2QG4Z,\"OCUPHIRE PHARMA DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
