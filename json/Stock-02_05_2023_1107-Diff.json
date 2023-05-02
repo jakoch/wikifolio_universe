@@ -1,0 +1,37 @@
+{
+  "Additions": [
+    "CA37149M1059,A3D6NU,GENERATIVE AI SOL.CORP.,Aktien International,Aktien International",
+    "CA87039X2086,A3DMH6,SWEET EARTH HOLD. CORP.,Aktien International,Aktien International",
+    "FR0004175222,A0LD77,\"SBT                EO-, 20\",Aktien Europa,Aktien Europa Select",
+    "IT0005350449,A2PBAX,AEDES SIIQ S.P.A.,Aktien Europa,Aktien Europa Select",
+    "TH0528010Z18,907981,DELTA EL.TH.PCL-FGN- BA 1,Aktien International,Aktien International",
+    "US9426221019,857475,\"WATSCO INC. B CV   DL-, 50\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "BE0003573814,889713,WHAT'S COOKING GROUP N.V.,Aktien Europa,Aktien Europa Select",
+      "Current": "BE0003573814,889713,S.A. TER BEKE N.V.,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "US09610B1089,A3DGEQ,\"BLUE WATER BIOTEC.-, 00001\",Aktien USA,Aktien USA Select",
+      "Current": "US09610B1089,A3DGEQ,\"BLUE WATER VACCIN.-, 00001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US67091J5039,A3ECUK,\"LOGICMARK INC.   DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US30223G1022,A3C4QW,EXSCIENTIA SP.ADRS,Aktien USA,Aktien USA Select",
+    "US68559A2087,A3EB4J,ORBITAL INFRA.GRP. INC.,Aktien USA,Aktien USA Select",
+    "CA42016R4017,A3D7AY,HAWKEYE GOLD + DIAM.,Aktien International,Aktien International",
+    "CA87039X3076,A3EEHJ,SWEET EARTH HOLD. CORP.,Aktien International,Aktien International",
+    "CA37149M2040,A3ECUE,GENERATIVE AI SOL,Aktien International,Aktien International",
+    "CH1252930610,A3EEMF,\"LUZERNER KANTNBK  SF 3, 70\",Aktien Europa,Aktien Europa Select",
+    "CH1262055788,A3D7AP,\"EVOLVA HOLDING AG SF12, 50\",Aktien Europa,Aktien Europa Select",
+    "CA05352C1068,A3ECT4,AVANTI GOLD CORP.,Aktien International,Aktien International",
+    "TH0528A10Z14,A3EEYF,\"DELTA EL.TH.PCL-FGN-BA , 1\",Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 2,
+    "Deletions": 10
+  }
+}
