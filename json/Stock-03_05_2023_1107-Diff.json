@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA01910L1004,A3CMN1,ALLIED COPPER CORP.,Aktien International,Aktien International",
+    "NL0000200384,897269,\"CORE LABORATORIES  EO-, 04\",Aktien USA,Aktien Dow Jones",
+    "US53228T1016,A3CPE4,\"LIGHTN. EMOTORS DL -, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US0758961009,884304,\"BED BATH + BEYOND  DL-, 01\",Aktien USA,Aktien Dow Jones",
+      "Current": "US0758961009,884304,BED BATH & BEYOND,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US69404D1081,A1C3EQ,\"PAC.BIOSCI.OF CAL.DL-, 001\",Aktien USA,Aktien USA Select",
+    "US98980F1049,A2P5HE,\"ZOOMINFO TECHNS    DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
