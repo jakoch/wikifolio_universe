@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "CA98561L1085,A3DP1C,YELLOW STEM TECH INC.,Aktien International,Aktien International",
+    "ES0152503035,A0B53D,\"MEDIASET ESPANA EO -, 50\",Aktien Europa,Aktien Europa Select",
+    "US57778K1051,A2PBD3,MAXAR TECHNOL.INC.   O.N.,Aktien USA,Aktien USA Select",
+    "US67181A1079,A2QAH8,\"OAK STR.HEALTH  DL-, 001\",Aktien USA,Aktien USA Select",
+    "US72941H4002,A2PPX6,PLUS THERAPEUTICS,Aktien USA,Aktien USA Select",
+    "US1416191062,A0RF8V,\"CARDIOVASCULAR SY.DL-, 001\",Aktien USA,Aktien USA Select",
+    "US38500T1016,A0HNLY,\"GRAN TIERRA ENER. DL-, 001\",Aktien International,Aktien International"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0008051004,805100,WUESTENROT+WUERTT.AG O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0008051004,805100,WUESTENROT+WUERTT.AG O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A3H3LL2,A3H3LL,VANTAGE TOWERS AG NA O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3H3LL2,A3H3LL,VANTAGE TOWERS AG NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "NO0010694029,A2AQKM,MORROW BANK ASA      NK 1,Aktien Europa,Aktien Europa Select",
+      "Current": "NO0010694029,A2AQKM,KOMPLETT BANK ASA    NK 1,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "CA70558T2048,A3D7AN,PEGASUS RESOURCES INC,Aktien International,Aktien International",
+    "CA98561L2075,A3EC6W,YELLOW STEM TECH INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 4,
+    "Deletions": 2
+  }
+}

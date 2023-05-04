@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "FR0013284304,A2H6MP,AMUNDI ETF IST. EUR.M.-F.,ETFs,ETFs Europa Gesamt",
+    "IE00B3LK4Z20,A1JUK7,IM-I.MSCI EUROPE VALUE A,ETFs,ETFs Europa Gesamt",
+    "IE00B60SWZ49,A0RGCN,STOXX SMALL 200 SOURCE ETF,ETFs,ETFs Europa Gesamt",
+    "IE00B60SX063,A0RGCP,IM-I.STOXX EUR.MID200 A,ETFs,ETFs Europa Gesamt",
+    "IE00BD5KGK77,A2JQDG,INVESCOMI GS EFI EM A,ETFs,ETFs Emerging Markets",
+    "IE00BFG1RG61,A1W6MU,IM-I.G.SACHS EQ.FA.I.WO.A,ETFs,ETFs Welt",
+    "IE00BMW3NY56,A11562,IM-I.G.SACHS EQ.FA.I.EU.A,ETFs,ETFs Europa Gesamt",
+    "IE00BN7JGL35,A2QKWN,HANETF-GLB.ONL.RET.UE DLA,ETFs,ETFs Branchen",
+    "LU1681039563,A2H59F,AIS-AM.EO.EQ.MSASB EOC,ETFs,ETFs Europa Gesamt"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
