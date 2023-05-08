@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "AU000000OZL8,A0Q657,OZ MINERALS LTD.,Aktien International,Aktien International",
+    "MHY460022038,A2DLUG,\"JX LUXVENTURE    DL-, 0001\",Aktien International,Aktien International",
+    "US7615256093,A0Q9V1,\"REVLON INC. A NEW  DL-, 01\",Aktien USA,Aktien USA Select",
+    "US82452T3059,A3D8AM,SHIFT TECH.INC.A NEW,Aktien USA,Aktien USA Select",
+    "US62526P1093,A3C67R,\"MULLEN AUT. INC. DL -, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "SG1H97877952,874496,\"SEATRIUM LTD.      SD-, 10\",Aktien International,Aktien International",
+      "Current": "SG1H97877952,874496,SEMBCORP MARINE,Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "CA92873W1005,A3EB9Y,VOLT LITHIUM CORP,Aktien International,Aktien International",
+    "US49177J1025,A3EEHU,\"KENVUE INC.      DL -, 001\",Aktien USA,Aktien USA Select",
+    "US38500T2006,A3EDT1,\"GRAN TIERRA ENER. DL-, 001\",Aktien International,Aktien International",
+    "NL0000009827,A0JLZ7,\"KONINKLIJKE DSM  EO 1, 50\",Aktien Europa,Aktien Europa Select",
+    "CA0909741062,A3D1K3,BIONXT SOLUTIONS INC.,Aktien International,Aktien International",
+    "US53228T2006,A3EC7E,LIGHT.EMOTORS NEW DL-0001,Aktien USA,Aktien USA Select",
+    "US72941H5090,A3EEZB,PLUS THERAPEUTICS,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 7
+  }
+}
