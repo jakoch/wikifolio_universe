@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "CA01590A1012,A3CTYF,ALKALINE FUEL CELL POWER,Aktien International,Aktien International",
+    "US5160122009,A3D5YL,LANNETT CO. INC. NEW,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0008051004,805100,WUESTENROT+WUERTT.AG O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0008051004,805100,WUESTENROT+WUERTT.AG O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A3H3LL2,A3H3LL,VANTAGE TOWERS AG NA O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3H3LL2,A3H3LL,VANTAGE TOWERS AG NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "CA09237D1078,A3EEZK,BLACKHAWK GROWTH CORP.NEW,Aktien International,Aktien International",
+    "AU000000PWN8,A1JH27,PARKWAY CORPORATE LTD.,Aktien International,Aktien International",
+    "LU1740984924,A2JAD9,DWS STR.ESG ALL.BAL. LC,Fonds,Fonds Aktien",
+    "CA87971M1032,918447,TELUS CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 3,
+    "Deletions": 4
+  }
+}
