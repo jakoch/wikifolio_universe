@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "CA09238B3083,A2QJN3,BLACKHAWK GROWTH CORP.,Aktien International,Aktien International",
+    "CA58518J1012,A2QNKB,MEGAWATT LITH.BATT.METALS,Aktien International,Aktien International",
+    "SE0017768716,A3DHD8,BOLIDEN AB,Aktien Europa,Aktien Europa Select",
+    "LU0055631609,974119,BGF-WORLD GOLD A2DL,Fonds,Fonds Aktien",
+    "LU0075056555,986932,BGF-WORLD MINING NAM.A2,Fonds,Fonds Aktien",
+    "LU2607735342,A3D7A0,\"ARRIVAL GROUP     EO -, 10\",Aktien USA,Aktien USA Select",
+    "US0167442039,A3D7BF,ALLARITY THERAPEUTICS,Aktien USA,Aktien USA Select",
+    "US4976342042,A3D7BN,KIROMIC BIOPHARMA INC.,Aktien USA,Aktien USA Select",
+    "US57055L2060,A3D5YK,MARKER THERAPEUTICS INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000TRAT0N7,TRAT0N,TRATON SE   INH O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000TRAT0N7,TRAT0N,TRATON SE   INH O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "FR001400GUN7,A3D68D,\"PHARNEXT      EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "SE0020050417,A3D69V,BOLIDEN AB,Aktien Europa,Aktien Europa Select",
+    "US62526P2083,A3EEQ9,\"MULLEN AUT. INC. DL -, 001\",Aktien USA,Aktien USA Select",
+    "MHY460023028,A3EEV9,\"JX LUXVENTURE    DL-, 0001\",Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
