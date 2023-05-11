@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "DE000A3H3LL2,A3H3LL,VANTAGE TOWERS AG NA O.N.,Aktien Deutschland,Aktien MDAX",
+    "US8902608624,A3DL8Q,\"TONIX PHARMA.     DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "GRS314003005,A0B8KZ,\"MIG HOLDINGS S.A.  EO-, 10\",Aktien Europa,Aktien Europa Select",
+      "Current": "GRS314003005,A0B8KZ,\"MARFIN INV.GR.HLD. EO-, 30\",Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
