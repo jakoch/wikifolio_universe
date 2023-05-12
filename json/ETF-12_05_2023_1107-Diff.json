@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "LU1681043755,A2H57L,AIS-MSCI EA.EU.EX.RUS.EOC,ETFs,ETFs Europa Gesamt",
+    "LU1681043839,A2H57M,AIS-MSCI EA.EU.EX.RUS.DLC,ETFs,ETFs Europa Gesamt"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE00BLRPPV00,A2P66X,VFP-V.US TR.0-1 YR.BD DLA,ETFs,ETFs Sonstige Bonds"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}

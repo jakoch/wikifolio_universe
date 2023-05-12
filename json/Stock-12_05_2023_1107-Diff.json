@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "FR0010135103,A0DPW0,CARMIGN.PATRIMOI. AEO ACC,Fonds,Fonds Aktien",
+    "FR001400BV89,A3DWKH,\"PHARNEXT         EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "US16937R1041,905284,CHINA EAS. AIRL.H ADR/50,Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA18453N1033,A3EEHV,CLEANTECH POWER CORP.,Aktien International,Aktien International",
+    "US21867A1051,A3EB9S,CORE LABORATORIES,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
