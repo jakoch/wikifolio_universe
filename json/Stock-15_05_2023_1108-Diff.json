@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "DE000A30VLJ6,A30VLJ,ENCAVIS AG INH O.N. NEUE,Aktien Deutschland,Aktien MDAX",
+    "US4268971045,A2PN6W,\"HEPION PHARMACEUT. DL-, 01\",Aktien USA,Aktien USA Select",
+    "US86646P1030,A2QB17,SUMO LOGIC INC. O.N.,Aktien USA,Aktien USA Select",
+    "US7142361069,985194,PERMIAN BASIN R.TR. U.B.I,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "NO0010379266,A0MYHV,BLUENORD ASA,Aktien Europa,Aktien Europa Select",
+      "Current": "NO0010379266,A0MYHV,NORWEGIAN ENERGY CO.,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "US98386D3070,A2DK34,XTL BIOPHARMA. ADR 100,Aktien USA,Aktien USA Select",
+    "CA58518J2002,A3EER1,MEGAWATT LITH.BATT.METALS,Aktien International,Aktien International",
+    "US8902608541,A3EDH2,TONIX PHARMA.    NEW 2023,Aktien USA,Aktien USA Select",
+    "US12122L1017,A2QJYD,BURGERFI INTERNATIONAL,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
