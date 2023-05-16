@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "US53630X1046,A110VP,\"LIPOCINE INC.NEW DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US9840155033,A2PMYU,XENETIC BIOSCIENCES,Aktien USA,Aktien USA Select",
+    "US35655L1070,A2QADU,FREEL.THERAP.HLD.SP.ADS/1,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "CH0042615283,A0Q6J0,DOCMORRIS AG        SF 30,Aktien Europa,Aktien Europa Select",
+      "Current": "CH0042615283,A0Q6J0,\"ZUR ROSE GROUP AG NAMENS-AKTIEN SF 5, 75\",Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "FI0009008924,938508,KH GROUP OYJ,Aktien Europa,Aktien Europa Select",
+      "Current": "FI0009008924,938508,SIEVI CAPITAL OYJ,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "US35655L2060,A3EEV1,FREEL.THERAP.H.SP.ADS/15,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
