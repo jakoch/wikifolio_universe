@@ -1,0 +1,571 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "CH0237935652,A110UZ,ISHS CORE SPI ETF (CH),ETFs,ETFs Europa Gesamt",
+      "Current": "CH0237935652,A110UZ,ISHS CORE SPI ETF (CH),ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A1EK0G3,A1EK0G,XTR P GOLD EUR H60,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "DE000A1EK0G3,A1EK0G,XTR P GOLD EUR H60,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "DE000A1EK0J7,A1EK0J,XTR P SILVER EUR H60,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "DE000A1EK0J7,A1EK0J,XTR P SILVER EUR H60,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "DE000PS701L2,PS701L,BNP PAR.ISS. O.E. ETC,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "DE000PS701L2,PS701L,BNP PAR.ISS. O.E. ETC,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "GB00B00FHZ82,A0CANA,GOLD BULL.SECS 04/UND. ZO,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "GB00B00FHZ82,A0CANA,GOLD BULL.SECS 04/UND. ZO,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "GB00B5840F36,A1EN2J,XTR P GOLD U 60,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "GB00B5840F36,A1EN2J,XTR P GOLD U 60,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE0008ZGI5C1,A3C2DX,FLEXSH.LI.PR.E. DLA,ETFs,sonstige ETFs",
+      "Current": "IE0008ZGI5C1,A3C2DX,FLEXSH.LI.PR.E. DLA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE0009JOT9U1,A3GX4G,ISHARES PHYS.MET.O.END ZT,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE0009JOT9U1,A3GX4G,ISHARES PHYS.MET.O.END ZT,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE000EBPC0Z7,A3DJVV,04 ICAV-FMCHNPAC ETF DLA,ETFs,ETFs Asien",
+      "Current": "IE000EBPC0Z7,A3DJVV,FT ICAV-FMCHNPAC ETF EOA,ETFs,ETFs Welt"
+    },
+    {
+      "Original": "IE000HPBRE54,A3C60S,GS-P.A.C.WD EQ. DLA,ETFs,ETFs Welt",
+      "Current": "IE000HPBRE54,A3C60S,GS-P.A.C.WD EQ. DLA,Aktien International,Aktien International"
+    },
+    {
+      "Original": "IE000UX5WPU4,DBX0SE,XT.-IBEOCBYP 1CEOA,ETFs,ETFs Europa Bonds",
+      "Current": "IE000UX5WPU4,DBX0SE,XT.-IBEOCBYP 1CEOA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE000YU9K6K2,A3DP9J,VANECK SPACE UC.ETF,ETFs,ETFs Branchen",
+      "Current": "IE000YU9K6K2,A3DP9J,VANECK SPACE UC.ETF,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00B40QP990,A1KX36,INVESC.PHYS.MKT.ETC00 XPT,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00B40QP990,A1KX36,INVESC.PHYS.MKT.ETC00 XPT,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00B43VDT70,A1KX35,INVESC.PHYS.MKT.ETC00 XAG,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00B43VDT70,A1KX35,INVESC.PHYS.MKT.ETC00 XAG,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00B4LJS984,A1KX37,INVESC.PHYS.MKT.ETC00 XPD,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00B4LJS984,A1KX37,INVESC.PHYS.MKT.ETC00 XPD,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00B4WPHX27,A1CXBU,L+G-L.DATED A.COMM.U.ETF,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00B4WPHX27,A1CXBU,L+G-L.DATED A.COMM.U.ETF,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00B50XJX92,A1C79U,UBS FDSO-CMCI C.SF LSAA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00B50XJX92,A1C79U,UBS FDSO-CMCI C.SF LSAA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00B579F325,A1AA5X,INVESC.PHYS.MKT.ETC00 XAU,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00B579F325,A1AA5X,INVESC.PHYS.MKT.ETC00 XAU,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00B94QLN63,A1ZHVL,WITR MU.AS.I.PALL.ETP2062,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00B94QLN63,A1ZHVL,WITR MU.AS.I.PALL.ETP2062,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00B94QLR02,A1ZHVK,WITR MU.AS.I.PALL.ETP2062,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00B94QLR02,A1ZHVK,WITR MU.AS.I.PALL.ETP2062,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BDFL4P12,A2DK6R,ISHS VI-DIV.COM.S.U.ETF,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BDFL4P12,A2DK6R,ISHS VI-DIV.COM.S.U.ETF,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BDVPNS35,A3CZJN,WISDOMTR.EN.C.E-AG.DL AC.,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BDVPNS35,A3CZJN,WISDOMTR.EN.C.E-AG.DL AC.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BDVPNV63,A3CNQ1,WISDOMTR.EN.C.E HGDDLA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BDVPNV63,A3CNQ1,WISDOMTR.EN.C.E HGDDLA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BF16M727,A2P4HV,FTG-NAS.CYB.ETF ADLA,ETFs,ETFs Branchen",
+      "Current": "IE00BF16M727,A2P4HV,FTG-NAS.CYB.ETF ADLA,ETFs,ETFs Nordamerika"
+    },
+    {
+      "Original": "IE00BF4J0300,A2JN3K,INVESCOMI BB CMTY EUR HDG,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BF4J0300,A2JN3K,INVESCOMI BB CMTY EUR HDG,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BF4TWC33,A2HH1S,WITR MU.AS.I. ETP 2062,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BF4TWC33,A2HH1S,WITR MU.AS.I. ETP 2062,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BF4TWF63,A2HH1T,WITR MU.AS.I. ETP 2062,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BF4TWF63,A2HH1T,WITR MU.AS.I. ETP 2062,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BFXR6159,A2N4PW,L+G-M.S.E.C. DLA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BFXR6159,A2N4PW,L+G-M.S.E.C. DLA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BG88WG77,A2JQ0F,WTR ENH.COMMOD. HGDEOA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BG88WG77,A2JQ0F,WTR ENH.COMMOD. HGDEOA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BG88WH84,A2N4VS,WISDOMTREE EN.COM.U.E.LSA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BG88WH84,A2N4VS,WISDOMTREE EN.COM.U.E.LSA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BG88WL21,A2P0YZ,WISDOMTR.EN.COM.U.E. HSFA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BG88WL21,A2P0YZ,WISDOMTR.EN.COM.U.E. HSFA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BJBYDQ02,A2PW7D,CSIFIEETF-M.W.E.L.B.U.BDL,ETFs,ETFs Welt",
+      "Current": "IE00BJBYDQ02,A2PW7D,CSIFIEETF-M.W.E.L.B.U.BDL,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BKPT2S34,A2P1KU,ISHS GOV BD HGDEOA,ETFs,ETFs Sonstige Bonds",
+      "Current": "IE00BKPT2S34,A2P1KU,ISHS GOV BD HGDEOA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BKPTXQ89,A2P4PH,HANETF-A.M.E.D. DLD,ETFs,ETFs Basic Resources",
+      "Current": "IE00BKPTXQ89,A2P4PH,HANETF-A.M.E.D. EOD,ETFs,ETFs Basic Resources"
+    },
+    {
+      "Original": "IE00BKY4W127,A2QSKH,WI.IC.BR.COMMO. DLA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BKY4W127,A2QSKH,WI.IC.BR.COMMO. DLA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BMC5DV85,A2P2W6,UBS FDSO-CMCI CO.CR.SFHEO,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BMC5DV85,A2P2W6,UBS FDSO-CMCI CO.CR.SFHEO,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BN940Z87,A2QG32,UIFS-C.C.C.X-A. ADLA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BN940Z87,A2QG32,UIFS-C.C.C.X-A. ADLA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BN941009,A2QG31,UIFS-C.C.C.X-A. AHGDEOA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BN941009,A2QG31,UIFS-C.C.C.X-A. AHGDEOA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BVFZGC04,A18C5F,WITR MU.AS.I.WTI OIL ETC,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BVFZGC04,A18C5F,WITR MU.AS.I.WTI OIL ETC,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BVFZGD11,A179AH,WITR MU.AS.I.BRENTOIL,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BVFZGD11,A179AH,WITR MU.AS.I.BRENTOIL,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BYYLVH00,A2DQ7Z,UBS FDSO-BLOOMB.C.CM.DLAA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BYYLVH00,A2DQ7Z,UBS FDSO-BLOOMB.C.CM.DLAA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BZ1GHD37,A2AE1N,WISDOMTREE ENH.COM.U.E.DL,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BZ1GHD37,A2AE1N,WISDOMTREE ENH.COM.U.E.DL,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "IE00BZ1NCS44,A2JQ2G,ISHS VI-BL.R.S.C.U.ETF DL,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "IE00BZ1NCS44,A2JQ2G,ISHS VI-BL.R.S.C.U.ETF DL,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B1VS3333,A0N6XJ,WITR MET.SEC.Z07/UN.XAG,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B1VS3333,A0N6XJ,WITR MET.SEC.Z07/UN.XAG,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B1VS3770,A0N6XK,WITR MET.SEC.Z07/UN.XAU,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B1VS3770,A0N6XK,WITR MET.SEC.Z07/UN.XAU,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B1VS3W29,A0N6XL,WITR MET.SEC.Z07/UN.BSKT.,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B1VS3W29,A0N6XL,WITR MET.SEC.Z07/UN.BSKT.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B24DK975,A0V4ZX,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B24DK975,A0V4ZX,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B24DKH53,A0V6YZ,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B24DKH53,A0V6YZ,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B24DKJ77,A0V6Y0,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B24DKJ77,A0V6Y0,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B24DKT75,A0V3WV,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B24DKT75,A0V3WV,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B24DLX86,A1ELL7,WITR COM.SEC.Z07/UN.INDEX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B24DLX86,A1ELL7,WITR COM.SEC.Z07/UN.INDEX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B24DMC49,A0SVXT,WITR COM.SEC.Z07/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B24DMC49,A0SVXT,WITR COM.SEC.Z07/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B24DMD55,A0SVXU,WITR COM.SEC.Z07/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B24DMD55,A0SVXU,WITR COM.SEC.Z07/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B24DMJ18,A0SVXX,WITR COM.SEC.Z07/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B24DMJ18,A0SVXX,WITR COM.SEC.Z07/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B24DMK23,A0SVXY,WITR COM.SEC.Z07/UN.IDX.,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B24DMK23,A0SVXY,WITR COM.SEC.Z07/UN.IDX.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2NFT427,A0V6ZP,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2NFT427,A0V6ZP,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2NFTD12,A0V5V4,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2NFTD12,A0V5V4,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2NFTF36,A0V6ZW,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2NFTF36,A0V6ZW,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2NFTG43,A0V6ZX,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2NFTG43,A0V6ZX,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2NFTL95,A0V6Z0,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2NFTL95,A0V6Z0,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2NFTS64,A0V5BA,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2NFTS64,A0V5BA,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2NFTW01,A0V5V2,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2NFTW01,A0V5V2,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2NFV134,A0V60A,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2NFV134,A0V60A,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2NFV803,A0V607,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2NFV803,A0V607,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2QXZK10,A1ELLY,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2QXZK10,A1ELLY,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2QY0436,A1ELLZ,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2QY0436,A1ELLZ,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B2QY0H68,A1ELL0,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B2QY0H68,A1ELL0,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3KNMS14,A1BEGS,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3KNMS14,A1BEGS,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3L54023,A1BEGJ,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3L54023,A1BEGJ,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3MQG751,A1BEGZ,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3MQG751,A1BEGZ,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3MR2Q90,A1BEGH,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3MR2Q90,A1BEGH,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3MRDD32,A1BEGV,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3MRDD32,A1BEGV,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3MWC642,A1BEGR,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3MWC642,A1BEGR,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3NKMM36,A1E3HD,WITR FOR.EXC.Z10/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3NKMM36,A1E3HD,WITR FOR.EXC.Z10/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3QBQJ84,A1E3G1,WITR FOR.EXC.Z10/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3QBQJ84,A1E3G1,WITR FOR.EXC.Z10/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3RNTN80,A1EKY1,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3RNTN80,A1EKY1,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3SBYQ91,A1EKY2,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3SBYQ91,A1EKY2,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3SX3R93,A1E3HE,WITR FOR.EXC.Z10/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3SX3R93,A1E3HE,WITR FOR.EXC.Z10/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3WPFZ34,A1E3G3,WITR FOR.EXC.Z10/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3WPFZ34,A1E3G3,WITR FOR.EXC.Z10/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3XGSP64,A1EKYV,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3XGSP64,A1EKYV,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3XR4V72,A1E3HA,WITR FOR.EXC.Z10/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3XR4V72,A1E3HA,WITR FOR.EXC.Z10/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3Y3SZ64,A1H0HN,WITR FOR.EXC.Z10/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B3Y3SZ64,A1H0HN,WITR FOR.EXC.Z10/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B3ZQRP79,A1PCFL,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B3ZQRP79,A1PCFL,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B438PT24,A1E3G2,WITR FOR.EXC.Z10/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B438PT24,A1E3G2,WITR FOR.EXC.Z10/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B44F1611,A1NZLC,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B44F1611,A1NZLC,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B45CYD99,A1C1T5,WITR FOR.EXC.Z10/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B45CYD99,A1C1T5,WITR FOR.EXC.Z10/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B4PDKD43,A1NZLB,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B4PDKD43,A1NZLB,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B4RKQV36,A1NZLD,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B4RKQV36,A1NZLD,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B588CD74,A1DCTK,WITR MET.SEC.Z09/UN.XAU,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B588CD74,A1DCTK,WITR MET.SEC.Z09/UN.XAU,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B5SV2703,A1NZLG,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B5SV2703,A1NZLG,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B63MJ075,A1N9Z8,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B63MJ075,A1N9Z8,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B66M4S72,A1BEF2,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B66M4S72,A1BEF2,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B6822V48,A1BEF1,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B6822V48,A1BEF1,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B68GR111,A1BEFD,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B68GR111,A1BEFD,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B68GRJ90,A1BEFE,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B68GRJ90,A1BEFE,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B68GS416,A1BEE9,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B68GS416,A1BEE9,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B68GSP26,A1BEFH,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B68GSP26,A1BEFH,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B68GT596,A1BEFJ,WITR FOR.EXC.Z09/UN.CURR.,ETFs,sonstige ETFs",
+      "Current": "JE00B68GT596,A1BEFJ,WITR FOR.EXC.Z09/UN.CURR.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B6SLJ210,A1PCFX,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B6SLJ210,A1PCFX,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B6SV8B36,A1RX1N,WITR COM.SEC.Z12/UN. IND.,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B6SV8B36,A1RX1N,WITR COM.SEC.Z12/UN. IND.,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B6TK3K31,A1PCFK,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B6TK3K31,A1PCFK,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B6VG2P72,A1PCFH,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B6VG2P72,A1PCFH,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B6X05031,A1PCFY,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B6X05031,A1PCFY,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B6XF0923,A1NZLE,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B6XF0923,A1NZLE,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B6XL6W59,A1PCFU,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B6XL6W59,A1PCFU,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B70DCH80,A1PCFM,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B70DCH80,A1PCFM,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B7305Z55,A1N3G0,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B7305Z55,A1N3G0,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B766LB87,A1N90E,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B766LB87,A1N90E,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B78CGV99,A1N49M,WITR COM.SEC.Z12/UN.INDEX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B78CGV99,A1N49M,WITR COM.SEC.Z12/UN.INDEX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B78CP782,A1N49N,WITR COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B78CP782,A1N49N,WITR COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B78DPL57,A1TY7E,WITR COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B78DPL57,A1TY7E,WITR COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B78NNK09,A1NZLH,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B78NNK09,A1NZLH,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B78NNM23,A1PCF0,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B78NNM23,A1PCF0,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B78NNS84,A1NZLA,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B78NNS84,A1NZLA,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B78NNV14,A1PCJ7,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B78NNV14,A1PCJ7,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B78NPQ01,A1NZLF,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B78NPQ01,A1NZLF,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B78NPY84,A1NZK9,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B78NPY84,A1NZK9,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B7VG2M16,A2BGRJ,WISDOMTREE.HMS.Z13/UN.XAU,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B7VG2M16,A2BGRJ,WISDOMTREE.HMS.Z12/UN.XAU,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00B8DFY052,A1RX98,WISDOMTREE.HMS.Z12/UN.XAU,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00B8DFY052,A1RX98,WISDOMTREE.HMS.Z12/UN.XAU,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00BDD9Q733,A2BC82,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00BDD9Q733,A2BC82,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00BDD9Q840,A2BC41,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00BDD9Q840,A2BC41,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00BDD9Q956,A2BC4J,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00BDD9Q956,A2BC4J,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00BDD9QB77,A2BC83,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00BDD9QB77,A2BC83,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00BDD9QC84,A2BC84,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00BDD9QC84,A2BC84,WITR COM.SEC.Z08/UN.IDX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00BDD9QD91,A2BC4R,WITR COM.SEC.Z12/UN.INDEX,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00BDD9QD91,A2BC4R,WITR COM.SEC.Z12/UN.INDEX,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "JE00BN2CJ301,A3GNFN,WITR.MET.SEC.Z20/UNL XAU,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "JE00BN2CJ301,A3GNFN,WITR.MET.SEC.Z20/UNL XAU,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "LU0292109344,DBX1MR,XTR.MSCI BRAZIL 1C,ETFs,ETFs Emerging Markets",
+      "Current": "LU0292109344,DBX1MR,XTR.MSCI BRAZIL 1C,ETFs,ETFs Latein- & Südamerika"
+    },
+    {
+      "Original": "LU2082999215,LYX04T,LIF-600 UTILIT. EOD,ETFs,ETFs Branchen",
+      "Current": "LU2082999215,LYX04T,LIF-600 UTILIT. EOD,ETFs,ETFs Europa Gesamt"
+    },
+    {
+      "Original": "LU2278080713,DBX0AA,XTA.DB BCOYS 1CDLA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "LU2278080713,DBX0AA,XTA.DB BCOYS 1CDLA,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "XS2183935274,A28QBG,INVESC.PHYS.MKT.ETC00 XAU,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "XS2183935274,A28QBG,INVESC.PHYS.MKT.ETC00 XAU,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "XS2284324667,A3GPDV,WITR MU.AS.I.ENERGY 21/62,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "XS2284324667,A3GPDV,WITR MU.AS.I.ENERGY 21/62,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "XS2399368062,A3GWDF,LEVERAGE SHA ETP 2071,ETFs,sonstige ETFs",
+      "Current": "XS2399368062,A3GWDF,LEVERAGE SHA ETP 2071,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "XS2399368575,A3GWDJ,LEVERAGE SHA ETP 2071,ETFs,sonstige ETFs",
+      "Current": "XS2399368575,A3GWDJ,LEVERAGE SHA ETP 2071,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "XS2399369037,A3GWDM,LEVERAGE SHA ETP 2071,ETFs,sonstige ETFs",
+      "Current": "XS2399369037,A3GWDM,LEVERAGE SHA ETP 2071,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "XS2472195366,A3GZU6,LEVERAGE SHA ETP 2072,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "XS2472195366,A3GZU6,LEVERAGE SHA ETP 2072,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "XS2472195440,A3GZU7,LEVERAGE SHA ETP 2072,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "XS2472195440,A3GZU7,LEVERAGE SHA ETP 2072,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "LU0460391732,DBX0DZ,XTR.BBG COMM.X-AGR+LST.2C,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "LU0460391732,DBX0DZ,XTR.DBLCI CO.O.Y.SW.2CEOH,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "LU0460391906,DBX0D0,XTR.BBG COMM.X-AGR+LST.3C,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "LU0460391906,DBX0D0,XTR.DBLCI CO.O.Y.SW.3CEOH,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "LU1291103338,A2AL1U,BNPPE-M.USA SRISS5C.UECDL,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "LU1291103338,A2AL1U,BNPPE-M.USA SRISS5C.UECDL,ETFs,ETFs DAX"
+    },
+    {
+      "Original": "LU1900069219,LYX0XU,MUL-A.B.E-W.C.XA ETF EOHA,ETFs,ETFs Rohstoffe ETCs",
+      "Current": "LU1900069219,LYX0XU,MUL-L.C.T.R./C.C.EE EOA,ETFs,ETFs DAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 140,
+    "Deletions": 0
+  }
+}

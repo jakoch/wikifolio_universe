@@ -1,0 +1,42 @@
+{
+  "Additions": [
+    "AU000000MDI5,A0YGPG,MIDDLE ISLAND RESOURCES LTD. REGISTERED SHARES O.N,Aktien International,Aktien International",
+    "GB00BN0SMB92,A2QJTR,\"CAIRN EN.PLCLS-, 016153846\",Aktien Europa,Aktien Europa Select",
+    "KYG211511160,A2NBW6,\"CHINA MAPLE LE.ED.HD, 0005\",Aktien International,Aktien International",
+    "MHY622674098,A2PJPH,NAVIOS MARITIME PARTNERS,Aktien USA,Aktien USA Select",
+    "SE0000273294,903662,MEDIVIR AB B      SK 10,Aktien Europa,Aktien Europa Select",
+    "US30162V7064,A3DR72,\"EXELA TECHS INC. DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US4811161011,A2DKZ0,\"JOUNCE THERAP. DL-, 001\",Aktien USA,Aktien USA Select",
+    "US92332W1053,A2PU7A,\"VENUS CONCEPT INC. -, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "BMG4587L1090,877047,\"H.K. LD HLDGS     DL -, 10\",Aktien International,Aktien International",
+      "Current": "BMG4587L1090,877047,\"H.K. LD HLDGS     DL -, 10\",Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "KYG4124C1096,A3C8H0,GRAB HOLDINGS LTD CL.A,Aktien International,Aktien International",
+      "Current": "KYG4124C1096,A3C8H0,GRAB HOLDINGS LTD CL.A,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "MU0295S00016,A1C3UJ,\"MAKEMYTRIP LTD  DL -, 0005\",Aktien International,Aktien International",
+      "Current": "MU0295S00016,A1C3UJ,\"MAKEMYTRIP LTD  DL -, 0005\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "SG9999000020,890331,FLEX LTD.,Aktien International,Aktien International",
+      "Current": "SG9999000020,890331,FLEX LTD.,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US92932M1018,A0J381,\"WNS (HLDGS)LTD ADR LS-, 01\",Aktien International,Aktien International",
+      "Current": "US92932M1018,A0J381,\"WNS (HLDGS)LTD ADR LS-, 01\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "SE0020181014,A3EFZT,MEDIVIR AB,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 5,
+    "Deletions": 1
+  }
+}
