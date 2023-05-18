@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "US09072V5012,A2QEQE,\"BIOCEPT INC.    DL -, 0001\",Aktien USA,Aktien USA Select",
+    "US09175M1018,A3C9BY,\"BITNILE HOLDINGS  DL-, 001\",Aktien International,Aktien International",
+    "US4612031017,868973,INVACARE CORP.,Aktien USA,Aktien USA Select",
+    "US48122U2042,A0D8DX,SISTEMA GDR REGS 1/50,Aktien Europa,Aktien Europa Select",
+    "US89421B1098,A2PPUL,TRAVELCENTERS AMERICA INC,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US48265W1080,A0YGKY,K+S AG SP.ADR 1/2/O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "US48265W1080,A0YGKY,K+S AG SP.ADR 1/2/O.N.,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "US88629Q2075,A14RS4,THYSSENKRUPP SPONS.ADR 1,Aktien Deutschland,Aktien Sonstige",
+      "Current": "US88629Q2075,A14RS4,THYSSENKRUPP SPONS.ADR 1,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "GRS314003013,A3EFZU,\"MIG HOLDINGS NEW   EO-, 40\",Aktien Europa,Aktien Europa Select",
+    "US4268973025,A3EEV3,\"HEPION PHARMACEUT. DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
