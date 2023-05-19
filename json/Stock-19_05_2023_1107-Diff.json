@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "US26605Q1067,A2JFRC,DUNXIN FINANCIAL ADR/48,Aktien International,Aktien International"
+  ],
+  "Modifications": [
+    {
+      "Original": "US48265W1080,A0YGKY,K+S AG SP.ADR 1/2/O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "US48265W1080,A0YGKY,K+S AG SP.ADR 1/2/O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "US75971T3014,A2DLEP,EMEREN GROUP ADR 10,Aktien USA,Aktien Dow Jones",
+      "Current": "US75971T3014,A2DLEP,RENESOLA LTD ADR 10,Aktien International,Aktien International"
+    },
+    {
+      "Original": "US88629Q2075,A14RS4,THYSSENKRUPP SPONS.ADR 1,Aktien Deutschland,Aktien MDAX",
+      "Current": "US88629Q2075,A14RS4,THYSSENKRUPP SPONS.ADR 1,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "FR001400H2X4,A3D69Y,\"DELTA DRONE SA  EO 1, -\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 3,
+    "Deletions": 1
+  }
+}
