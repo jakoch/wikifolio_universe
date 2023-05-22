@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "FR0014009LP0,A3DHFF,\"DELTA DRONE SA  EO 1, 00\",Aktien Europa,Aktien Europa Select",
+    "GB00BZ6STL67,A2AFPB,\"METRO BANK    LS -, 000001\",Aktien Europa,Aktien Europa Select",
+    "GRS314003005,A0B8KZ,\"MIG HOLDINGS S.A.  EO-, 10\",Aktien Europa,Aktien Europa Select",
+    "US09370F1093,A3C8MQ,\"BLOCKCHAIN M.A.C.DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US48238T1097,A0YF1W,OPENLANE INC.,Aktien USA,Aktien USA Select",
+      "Current": "US48238T1097,A0YF1W,KAR AUCTION SERVICES INC.,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US7140461093,850943,REVVITY INC.         DL 1,Aktien USA,Aktien Dow Jones",
+      "Current": "US7140461093,850943,PERKINELMER INC.     DL 1,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US91060H1086,A3D86W,UNITED HOMES GROUP CL.A,Aktien USA,Aktien USA Select",
+    "US9840156023,A3EFQB,\"XENETIC BIOSCIE   DL-, 001\",Aktien USA,Aktien USA Select",
+    "US92332W2044,A3EEV0,\"VENUS CONCEPT INC. -, 0001\",Aktien USA,Aktien USA Select",
+    "GB00BQ98V038,A3EEQ3,\"CAPRICO.EN. LS-, 034265734\",Aktien Europa,Aktien Europa Select",
+    "US53630X2036,A3EBZD,LIPOCINE INC. NEW O.N.,Aktien USA,Aktien USA Select",
+    "US30162V8054,A3EEVY,\"EXELA TECHS INC. DL-, 0001\",Aktien USA,Aktien USA Select",
+    "IT0005541336,A3EDET,LOTTOMATICA S.P.A.,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 7
+  }
+}
