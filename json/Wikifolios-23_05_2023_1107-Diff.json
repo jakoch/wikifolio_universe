@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "DE000LS9M978,LS9M97,DAYTRADING SELECT long/short,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9NQK3,LS9NQK,Small Caps Momentum,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9PCE1,LS9PCE,Paganini XXIV,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9NFS9,LS9NFS,Vivaldi IV,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9NHM8,LS9NHM,Rohstoffwerte und Value Stocks,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9PTU1,LS9PTU,All Caps Underdogs,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9TFD8,LS9TFD,Fundamental Venture,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "BMG1932V2128,A2QEQ2,\"CASH FINL SVCS     HD-0, 4\",Aktien International,Aktien International",
+    "CA13739Y3041,A1JMBW,CANDENTE COPPER CORP.,Aktien International,Aktien International",
+    "CA1806342061,A3CSQG,CLARITAS PHARMACEUT. O.N.,Aktien International,Aktien International",
+    "CA61767W1041,A1H5EA,MORNEAU SHEPELL,Aktien International,Aktien International",
+    "CA65345J1057,A3DU8E,NEXUS GOLD CORP. NEW,Aktien International,Aktien International",
+    "CA98936N1024,A2PBNN,ZENABIS GLOBAL INC.,Aktien International,Aktien International",
+    "GRS001003037,A3C9N0,\"ATTICA BANK S.A.  EO -, 07\",Aktien Europa,Aktien Europa Select",
+    "FR0010242511,A0HG6A,\"ELECTRICI.D.FRANCE E0-, 50\",Aktien Europa,Aktien Europa Select",
+    "JP3786200000,857957,HITACHI MET.,Aktien International,Aktien International",
+    "MHY3262R1009,A119NL,HOEGH LNG PARTNERS UTS,Aktien USA,Aktien USA Select",
+    "SE0018535684,A3DWE8,BETSSON AB  SER.B,Aktien Europa,Aktien Europa Select",
+    "US3208671046,923762,FIRST MIDW.BANC.DEL.DL-01,Aktien USA,Aktien USA Select",
+    "US6933662057,923670,\"PICO HLDGS INC.    DL-, 01\",Aktien USA,Aktien USA Select",
+    "US85917A1007,A1W748,\"STERLING BANCORP   DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "NL0000888691,A0MWED,AMG CRITICAL MATER. EO-02,Aktien Europa,Aktien Europa Select",
+      "Current": "NL0000888691,A0MWED,AMG ADVANC.METAL.GR.EO-02,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "CA65345J2048,A3EFBM,NEXUS GOLD CORP.  NEW,Aktien International,Aktien International",
+    "SE0019892167,A3EGKY,BETSSON AB  SER.B,Aktien Europa,Aktien Europa Select",
+    "GRS001003045,A3D9FW,\"ATTICA BANK S.A. EO 10, 50\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 14,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
