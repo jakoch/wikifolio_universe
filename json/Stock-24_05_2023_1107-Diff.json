@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "AU000000NCZ9,A2DUY9,NEW CENTURY RES,Aktien International,Aktien International",
+    "AU000000SGH7,A0MQVF,SLATER AND GORDON LTD,Aktien International,Aktien International",
+    "US00547W2089,A1XA2F,ADAMIS PHARMACEUTIC.CORP.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "KYG5313A1013,A2PFX8,\"EAST BUY HOLD.  DL-, 00002\",Aktien International,Aktien International",
+      "Current": "KYG5313A1013,A2PFX8,\"KOOLEARN TECHN. DL-, 00002\",Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "CA60256C1086,A3EB9V,MINDBIO THERAPEUT,Aktien International,Aktien International",
+    "US09175M4087,A3EEZD,\"AULT ALLIANCE NEW DL-, 001\",Aktien International,Aktien International",
+    "GB00BMX3W479,A3D662,\"METRO BANK HLG LS-, 000001\",Aktien Europa,Aktien Europa Select",
+    "US09072V6002,A3EG0A,\"BIOCE. NEW 2023 DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
