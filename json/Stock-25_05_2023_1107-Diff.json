@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "CA00258V1004,A2QJS6,ABAXX TECHNOLOGIES INC.,Aktien International,Aktien International",
+    "CA18913C1014,A2QQ2V,CLOUD NINE WEB3 TECHN.INC,Aktien International,Aktien International",
+    "GB00B8HX8Z88,A1W0TP,MEDICLINIC INTERN. LS-10,Aktien Europa,Aktien Europa Select",
+    "SE0017859259,A3DMAE,TETHYS OIL AB        O.N.,Aktien Europa,Aktien Europa Select",
+    "US09072V6002,A3EG0A,\"BIOCE. NEW 2023 DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US30057T1051,A2H5CX,\"EVOQUA WATER TECHN.DL-, 01\",Aktien USA,Aktien USA Select",
+    "US8116991071,903655,\"SEACHANGE INTL     DL-, 01\",Aktien USA,Aktien USA Select",
+    "US8902608541,A3EDH2,TONIX PHARMA.    NEW 2023,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US97717P1049,A0F61X,\"WISDOMTREE INC.    DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US97717P1049,A0F61X,\"WISDOMTREE INV.    DL-, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US98983L1089,A3C4XJ,\"ZURN ELKAY WATER   DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US98983L1089,A3C4XJ,\"ZURN WATER SOLUTI. DL-, 01\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "SE0020180917,A3EETX,TETHYS OIL AB        O.N.,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
