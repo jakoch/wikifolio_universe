@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA45826T3010,A2P8K9,INTEGRA RES CORP.,Aktien International,Aktien International",
+    "CA5635081006,A1T7GC,MANITOU GOLD INC.,Aktien International,Aktien International",
+    "CA71678B1076,A2DYWC,PETROTEQ ENERGY INC.,Aktien International,Aktien International",
+    "CA75034P1062,A2DQFQ,RADIENT TECHNOLOGIES,Aktien International,Aktien International",
+    "CA88166Y1007,A2ASQ8,TETRA BIO-PHARMA INC.,Aktien International,Aktien International",
+    "GB00BRB37M78,A12DVV,DIGNITY PLC,Aktien Europa,Aktien Europa Select",
+    "US66979P2011,A2PXHX,\"NOVA LIFESTYLE     DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US03635R2067,A3DWPG,FRESH2 GROUP  SP.ADS/20 A,Aktien International,Aktien International",
+      "Current": "US03635R2067,A3DWPG,ANPAC BIO-MED SP.ADS/20 A,Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "CA0212641066,A3EE56,ALTA COPPER CORP.,Aktien International,Aktien International",
+    "US00547W3079,A3EEVQ,ADAMIS PHARMACEUTIC.CORP.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

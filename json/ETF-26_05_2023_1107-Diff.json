@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "IE00BMYDMD58,A2QMAM,LGUE-ESG GR.BD EOD,ETFs,ETFs Europa Bonds",
+    "LU1446552496,A2ANVR,OSS.GL.MULTI-ASS. RISK-CONTROL,ETFs,ETFs Welt"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE00B3WJKG14,A142N1,ISHSV-S+500INF.T.SECT.DLA,ETFs,ETFs Nordamerika",
+      "Current": "IE00B3WJKG14,A142N1,ISHSV-S+500INF.T.SECT.DLA,ETFs,ETFs Branchen"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
