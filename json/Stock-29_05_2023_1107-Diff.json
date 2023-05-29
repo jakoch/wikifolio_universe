@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CH0002187810,875738,PHOENIX MECANO AG (I),Aktien Europa,Aktien Europa Select",
+    "NL0000009827,A0JLZ7,\"KONINKLIJKE DSM  EO 1, 50\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A1PHFF7,A1PHFF,HUGO BOSS AG NA O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A1PHFF7,A1PHFF,HUGO BOSS AG NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000TLX1005,TLX100,TALANX AG NA O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000TLX1005,TLX100,TALANX AG NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}
