@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA5471532054,A3D74T,LOVE PHARMA INC.,Aktien International,Aktien International",
+    "FR0007317813,602343,CS GROUP SA NOM.     EO 1,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA92905D1042,A3D4EP,VORTEX ENERGY CORP.,Aktien International,Aktien International",
+    "CA45826T5098,A3EET5,INTEGRA RES CORP.,Aktien International,Aktien International",
+    "CA03634K1030,A3EFKD,ANONYMOUS INTELLIG.CO.INC,Aktien International,Aktien International",
+    "CA00258V3083,A3EGK4,ABAXX TECHNOLOGIES INC.,Aktien International,Aktien International",
+    "US8116994042,A3EEVP,\"SEACHANGE INTL     DL-, 01\",Aktien USA,Aktien USA Select",
+    "US66979P3001,A3EEVM,\"NOVA LIFESTYLE     DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
