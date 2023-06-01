@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA64913V4001,A3CRGK,NEW WAVE HOLDINGS CORP.,Aktien International,Aktien International",
+    "EE3100007857,A1C7HT,COOP PANK           O.N.,Aktien Europa,Aktien Europa Select",
+    "JE00BYPZJM29,A2DQUG,\"JANUS HENDERSON DL 1, 50\",Aktien USA,Aktien USA Select",
+    "KYG216211006,A2N6WJ,\"BIT ORIGIN LTD.    DL-, 01\",Aktien International,Aktien International",
+    "LV0000101590,A2ANRX,\"HANSAMATRIX AS    EO 1, 00\",Aktien Europa,Aktien Europa Select",
+    "US03828V1052,A2QCFC,\"APPLIED UV INC. DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US42227W1080,A3C4UK,\"HEALTHC.TRIANGLE  -, 00001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US80810D1037,A2PY7M,\"SCHRODINGER INC.DL -, 01\",Aktien USA,Aktien USA Select",
+    "CH1261338102,A2QRHN,PHOENIX MECANO NAM. SF 1,Aktien Europa,Aktien Europa Select",
+    "DE000A3DQ210,A3DQ21,FINLIUM AMBITION R,Fonds,Fonds Aktien"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
