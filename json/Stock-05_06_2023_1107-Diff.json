@@ -1,0 +1,35 @@
+{
+  "Additions": [
+    "CA00830Q3061,A3DN7U,AFFINOR GROWERS INC.,Aktien International,Aktien International",
+    "CA31811L1076,A2QG6C,FIORE CANNABIS LTD,Aktien International,Aktien International",
+    "CA3927051092,A3DH8B,GREEN BLOCK MINING CORP.,Aktien International,Aktien International",
+    "CA52886L1031,A2ATW9,LEXAGENE HLDGS,Aktien International,Aktien International",
+    "CA6840221064,A3DGEV,ORAGIN FOODS INC.,Aktien International,Aktien International",
+    "CA85209J1084,A2JQU9,SPROUTLY CDA INC.,Aktien International,Aktien International",
+    "CA8650013094,A3DWC8,SUGARBUD CRAFT GROWERS,Aktien International,Aktien International",
+    "CA87931L1040,A3CZGY,TELECURE TECHNOLOG. INC.,Aktien International,Aktien International",
+    "CA88340B1094,A2P7NJ,THE VERY GOOD FOOD CO.INC,Aktien International,Aktien International",
+    "CA9838911027,A0RPQ3,XEBEC ADSORPTION INC.,Aktien International,Aktien International",
+    "CA98422K1093,A3CV9B,XRAPPLIED TECHNOLO. INC.,Aktien International,Aktien International",
+    "ES0172708234,A1W97D,\"GR.EZENTIS SA INH. EO-, 30\",Aktien Europa,Aktien Europa Select",
+    "FR0013018041,A2JQ3R,\"NAVYA S.A. INH.    EO-, 10\",Aktien Europa,Aktien Europa Select",
+    "FR00140077X1,A3DBDM,NEOVACS NOM.     EO 1,Aktien Europa,Aktien Europa Select",
+    "KYG2119Z1090,A2PN5T,\"CHINA AOYUAN GROUP HD-, 01\",Aktien International,Aktien International",
+    "LU0099574567,921800,FID.FDS-GL TECHNOL.A GL.,ETFs,ETFs DAX",
+    "US4564631087,918399,INDS BACHOCO SAB ADR/12,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US42227W2070,A3EG3C,HEALTHCARE TRIAN.NEW O.N.,Aktien USA,Aktien USA Select",
+    "AT0000625504,854019,BK TIROL VORARLBG,Aktien Europa,Aktien Europa Select",
+    "AT0000A325L0,A3D5BK,AUSTRIACARD HOLDINGS EO1,Aktien Europa,Aktien Europa Select",
+    "FR001400HDX0,A3EDGS,\"NEOVACS NOM.   EO 0, 80\",Aktien Europa,Aktien Europa Select",
+    "AT0000A1PY49,A2DJNU,CLEEN ENERGY AG,Aktien Europa,Aktien Europa Select",
+    "CA73938G1081,A3D83A,POWERSTONE METALS CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 17,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}

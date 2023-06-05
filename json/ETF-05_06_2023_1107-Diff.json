@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "LU2153616169,A2P22R,AIS-AM.US T7-10 UEDR HEOA,ETFs,ETFs Sonstige Bonds",
+    "LU2300295396,A2QP8D,AIS-AICEOCCPP EOA,ETFs,ETFs Branchen",
+    "LU1681040652,A2H58D,AIS-AM.US T.7-10DLC,ETFs,ETFs Sonstige Bonds",
+    "LU1681040736,A2H58C,AIS-AM.US T.3-7DLC,ETFs,ETFs Sonstige Bonds",
+    "LU1681040819,A2H58B,AIS-AM.US T.1-3DLC,ETFs,ETFs Sonstige Bonds"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
