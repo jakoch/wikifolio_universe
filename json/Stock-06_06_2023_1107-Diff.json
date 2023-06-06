@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA98561L2075,A3EC6W,YELLOW STEM TECH INC.,Aktien International,Aktien International",
+    "US5393192027,A2QJDN,LIXTE BIOTECHN. HLDGS,Aktien USA,Aktien USA Select",
+    "US92337C1045,A1JTPU,\"VERASTEM INC.    DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US60878Y1082,A3CSES,\"MOMENTIVE GLOBAL   DL-, 01\",Aktien USA,Aktien USA Select",
+    "US60935Y2081,A1JNTV,\"MONEYGRAM INTL NEW DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000KBX1006,KBX100,KNORR-BREMSE AG  INH O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000KBX1006,KBX100,KNORR-BREMSE AG  INH O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "CA29286E2024,A3EEVJ,ENGINEER GOLD MINES LTD.,Aktien International,Aktien International",
+    "CA87043J1049,A3EGMB,SWEET POISON SPIRITS INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
