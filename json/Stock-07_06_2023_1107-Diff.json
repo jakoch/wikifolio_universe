@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA03835T2002,A12C5N,APTOSE BIOSCIENCES NEW,Aktien USA,Aktien USA Select",
+    "CA3810591048,542122,GOLDEN GOLIATH RES.,Aktien International,Aktien International",
+    "CA92920V1058,A3C5GP,VOYAGER METALS INC.,Aktien International,Aktien International",
+    "US00484M6012,A2QLBW,\"ACORDA THERAP.NEW DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US2536511031,856244,\"DIEBOLD NIXDORF DL 1, 25\",Aktien USA,Aktien Dow Jones",
+      "Current": "US2536511031,856244,\"DIEBOLD NIXDORF DL 1, 25\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "KYG216211188,A3EGAD,\"BIT ORIGIN LTD.    DL-, 01\",Aktien International,Aktien International",
+    "US03828V4023,A3EG3G,APPLIED UV INC.  NEW O.N.,Aktien USA,Aktien USA Select",
+    "CA64913V5099,A3EG39,NEW WAVE HLDGS CORP. O.N.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
