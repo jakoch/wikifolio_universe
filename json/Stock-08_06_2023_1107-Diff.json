@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA03519P1027,A2QLNQ,ANGOLD RESOURCES LTD.,Aktien International,Aktien International",
+    "CA72748Q2071,A3DAKQ,PLANTFUEL LIFE INC.,Aktien International,Aktien International",
+    "CA9609083097,A0Q67T,WESTPORT FUEL SYSTEMS INC,Aktien USA,Aktien USA Select",
+    "IL0010832371,924128,CYREN LTD.,Aktien USA,Aktien USA Select",
+    "US4942741038,881074,\"KIMBALL INTL B   DL-, 3125\",Aktien USA,Aktien USA Select",
+    "US8292261091,895748,\"SINCLAIR BROADC. A DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005653604,565360,MEDNATION AG INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005653604,565360,EIFELHÖHEN KLINIKEN AG,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "CA65344X1050,A3D48V,NEXTGEN FOOD ROBOTICS,Aktien International,Aktien International",
+    "US58533E1038,A2P72F,MEITUAN UNSP.ADR/2B,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
