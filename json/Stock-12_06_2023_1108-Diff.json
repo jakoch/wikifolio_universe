@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "AU000000BAT1,A2DJ28,BATTERY MINERALS LTD. REGISTERED SHARES O.N.,Aktien International,Aktien International",
+    "CA62757L1085,A2QQBQ,MUSK METALS CORP.,Aktien International,Aktien International",
+    "GB00B580MF54,A1JTT2,\"HURRICANE ENERGY LS -, 001\",Aktien Europa,Aktien Europa Select",
+    "LT0000100661,A0B6WN,\"LINAS AB          EO 0, 29\",Aktien Europa,Aktien Europa Select",
+    "US2254011081,911778,CREDIT SUISSE GP AG ADR 1,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0000121147,867025,FORVIA SE INH        EO 7,Aktien Europa,Aktien Europa Select",
+      "Current": "FR0000121147,867025,FAURECIA,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "US42309B4023,A3D7M0,\"MICROMOBIL.CL.A  DL-, 0001\",Aktien International,Aktien International",
+      "Current": "US42309B4023,A3D7M0,\"HELBIZ INC.CL.A  DL-, 0001\",Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "CA3810592038,A3EJA7,GOLDEN GOLIATH RES.,Aktien International,Aktien International",
+    "US00484M7002,A3EJA8,\"ACORDA THERAP.NEW DL-, 001\",Aktien USA,Aktien USA Select",
+    "US92337C2035,A3EHM3,VERASTEM INC. NEW,Aktien USA,Aktien USA Select",
+    "CA03835T3091,A3EENM,APTOSE BIOSCIENCES INC.,Aktien USA,Aktien USA Select",
+    "US5393193017,A3EGAA,\"LIXTE BIO.HLDGS DL -, 0001\",Aktien USA,Aktien USA Select",
+    "CA62757L2075,A3EHUB,MUSK METALS CORP.,Aktien International,Aktien International",
+    "NL0015000N33,A3C7YC,\"ARISTON HOLD.N.V.  EO-, 01\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 7
+  }
+}
