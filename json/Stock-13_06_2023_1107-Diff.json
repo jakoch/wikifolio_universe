@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA4315021036,A3CMEW,HILLCREST ENERGY TECH.LTD,Aktien International,Aktien International",
+    "US09523Q2003,A2PMA8,\"BLUE APRON HL CL.A -, 0001\",Aktien USA,Aktien USA Select",
+    "SE0000426546,919695,NEW WAVE GROUP AB B  SK 3,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "NL0012044747,A2AR94,SHOP APOTHEKE EUROPE INH.,Aktien Europa,Aktien Europa Select",
+      "Current": "NL0012044747,A2AR94,SHOP APOTHEKE EUROPE INH.,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US8292421067,A3ECKZ,SINCLAIR INC. A,Aktien USA,Aktien USA Select",
+    "CA9609085076,A3EHTW,WESTPORT FUEL SYSTEMS INC,Aktien USA,Aktien USA Select",
+    "KYG451391059,A2P098,\"HITEK GLOBAL INC.A , -0001\",Aktien International,Aktien International",
+    "SE0020356970,A3EHNY,NEW WAVE GROUP AB B O.N.,Aktien Europa,Aktien Europa Select",
+    "CA03519P3007,A3D5Y4,ANGOLD RESOURCES LTD,Aktien International,Aktien International",
+    "CA72748Q1164,A3EG3D,PLANTFUEL LIFE INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 6
+  }
+}
