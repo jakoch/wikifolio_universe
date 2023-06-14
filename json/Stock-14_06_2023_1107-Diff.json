@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA40054T1075,A3DG5Y,G2 ENERGY CORP.,Aktien International,Aktien International",
+    "CH0012138530,876800,CS GROUP N,Aktien Europa,Aktien Europa Select",
+    "US1724062096,A2AJTC,\"CINEDIGM CORP.     DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "NL0012044747,A2AR94,REDCARE PHARMACY INH.,Aktien Europa,Aktien Europa Select",
+      "Current": "NL0012044747,A2AR94,SHOP APOTHEKE EUROPE INH.,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "CA40054T2065,A3EHY7,G2 ENERGY CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
