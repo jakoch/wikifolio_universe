@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "AU000000CPH2,A2DWWZ,CRESO PHARMA LTD,Aktien International,Aktien International",
+    "CA1348011091,A0B6V4,CANACCORD GENUITY GRP INC,Aktien International,Aktien International",
+    "FR001400D5I2,A3DZVW,\"VERGNET S.A.    EO 2, -\",Aktien Europa,Aktien Europa Select",
+    "US04685N2027,A3D48T,ATHENEX INC. NEW,Aktien USA,Aktien USA Select",
+    "US42805E3062,A1H5J3,\"HESKA RESTR. NEW DL-, 001\",Aktien USA,Aktien USA Select",
+    "US34986J2042,A2PV5H,FORW.PHARMA ADR/14 NEW,Aktien USA,Aktien USA Select",
+    "US80405P1075,A2PQPD,SATSUMA PHARMACEUTICALS,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US34986J3032,A3EG3W,FORW.PHARMA ADR/4000 NEW,Aktien USA,Aktien USA Select",
+    "FR001400HMK8,A3EJCT,\"VERGNET S.A.  EO 0, 76\",Aktien Europa,Aktien Europa Select",
+    "AU0000282220,A3EH2X,BATTERY MINERALS LTDDEF,Aktien International,Aktien International",
+    "US02390A1016,A3D8PK,AMERICA MOVIL SAB ADR/20,Aktien USA,Aktien USA Select",
+    "US09523Q3092,A3EE57,\"BLUE APRON HL CL.A -, 0001\",Aktien USA,Aktien USA Select",
+    "CA4315022026,A3EHQ8,HILLCREST ENERGY TECH.LTD,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
