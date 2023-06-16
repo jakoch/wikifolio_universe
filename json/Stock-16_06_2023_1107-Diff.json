@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "AU0000282220,A3EH2X,BATTERY MINERALS LTDDEF,Aktien International,Aktien International",
+    "CA28617B1013,631863,ELECTROVAYA INC.,Aktien International,Aktien International",
+    "CA65345C1005,A3DV5W,NEXTECH AR SOLUTIONS,Aktien International,Aktien International",
+    "US7833321091,A0F5JG,RUTH'S HOSPITALITY GR INC,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "LU0011963245,972857,ABRDNI-APACSUSE AADL,Fonds,Fonds Aktien",
+      "Current": "LU0011963245,972857,AS SCV I-APAC EQ. AADL,Fonds,Fonds Aktien"
+    },
+    {
+      "Original": "LU0278937759,A0MQN4,ABRDN I-EM SM.COMP. AADL,Fonds,Fonds Aktien",
+      "Current": "LU0278937759,A0MQN4,ASSCVI-EM SMALL.COM. AADL,Fonds,Fonds Aktien"
+    }
+  ],
+  "Deletions": [
+    "CA2987641016,A3ED7B,EUR.ENERGY METALS CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

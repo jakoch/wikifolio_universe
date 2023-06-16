@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "LU2056738144,LYX00R,MUL-LYX.MSCI EM CL.CH.DLA,ETFs,ETFs Branchen",
+    "LU1571051751,LYX0WF,LYX.IF-L.DL F.R.N.ETF D,ETFs,ETFs Sonstige Bonds",
+    "LU1571052130,LYX0W5,LYX.IF-L.DL F.R.N.E.MHEOD,ETFs,ETFs Sonstige Bonds",
+    "LU1829218319,LYX0Z0,MUL-LYX.EO F.R.N.UETF ACC,ETFs,ETFs Europa Bonds"
+  ],
+  "Modifications": [
+    {
+      "Original": "LU1681046188,A2H57Z,AIS-GLBEESCR  DLC,ETFs,ETFs Basic Resources",
+      "Current": "LU1681046188,A2H57Z,AIS-AM.MSCI WLD E.DLC,ETFs,ETFs Basic Resources"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
