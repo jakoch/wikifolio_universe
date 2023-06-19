@@ -1,0 +1,42 @@
+{
+  "Additions": [
+    "CA45826T5098,A3EET5,INTEGRA RES CORP.,Aktien International,Aktien International",
+    "CA53272L2021,A3D3E8,LIMINAL BIOSCIENCES NEW,Aktien USA,Aktien USA Select",
+    "US22530J3095,A3D9NP,CREATIVE REALITIES INC.,Aktien USA,Aktien USA Select",
+    "US00547W3079,A3EEVQ,ADAMIS PHARMACEUTIC.CORP.,Aktien USA,Aktien USA Select",
+    "US0310942042,A3D6Y5,AMESITE INC. NEW,Aktien USA,Aktien USA Select",
+    "US03828V4023,A3EG3G,APPLIED UV INC.  NEW O.N.,Aktien USA,Aktien USA Select",
+    "US28531P2020,A3D3BQ,\"ELECTROCORE INC.NEW -, 001\",Aktien USA,Aktien USA Select",
+    "US30162V8054,A3EEVY,\"EXELA TECHS INC. DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US42227W2070,A3EG3C,HEALTHCARE TRIAN.NEW O.N.,Aktien USA,Aktien USA Select",
+    "US42309B4023,A3D7M0,\"MICROMOBIL.CL.A  DL-, 0001\",Aktien International,Aktien International",
+    "US92332W2044,A3EEV0,\"VENUS CONCEPT INC. -, 0001\",Aktien USA,Aktien USA Select",
+    "US92337C2035,A3EHM3,VERASTEM INC. NEW,Aktien USA,Aktien USA Select",
+    "US92337U2033,A3EB9M,\"VERB TE.CO.INC   DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US9840156023,A3EFQB,\"XENETIC BIOSCIE   DL-, 001\",Aktien USA,Aktien USA Select",
+    "VGG569812057,A3D9T8,LUOKUNG TECH. CORP.,Aktien International,Aktien International",
+    "US67091J5039,A3ECUK,\"LOGICMARK INC.   DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US68559A2087,A3EB4J,ORBITAL INFRA.GRP. INC.,Aktien USA,Aktien USA Select",
+    "US46604H1059,A2N4PM,\"IZEA WORLDWIDE  DL -, 0001\",Aktien USA,Aktien USA Select",
+    "US53228T2006,A3EC7E,LIGHT.EMOTORS NEW DL-0001,Aktien USA,Aktien USA Select",
+    "US53630X2036,A3EBZD,LIPOCINE INC. NEW O.N.,Aktien USA,Aktien USA Select",
+    "US5393193017,A3EGAA,\"LIXTE BIO.HLDGS DL -, 0001\",Aktien USA,Aktien USA Select",
+    "US55279B3015,A3D69W,MEI PHARMA INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "AU000000ANZ3,A3D4V6,ANZ GROUP HOLDINGS LTD.,Aktien International,Aktien International",
+    "NL0015001FS8,A3EG0H,\"FERROVIAL INT. SE  EO-, 01\",Aktien Europa,Aktien Europa Select",
+    "US1724063086,A3EMDE,\"CINEVERSE CORP.    DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 22,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
