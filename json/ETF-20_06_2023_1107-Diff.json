@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "FR0010377028,LYX0BT,LYX.JAP.(TOPIX)(DR) DYN,ETFs,ETFs Asien",
+    "IE00BKVD2J03,A3CUHV,CSI-DX 50 ESG B BEOA,ETFs,ETFs DAX"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000M7V94E1,A3D47K,VNKETF-UR.NU.T. DLA,ETFs,ETFs Basic Resources",
+    "IE000P3D0W60,A3D7VR,WI.RENEW.ENERGY I SYS.HDG,ETFs,ETFs Branchen"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}

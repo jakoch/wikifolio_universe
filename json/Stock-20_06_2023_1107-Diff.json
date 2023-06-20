@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA02078J1012,A3DCJQ,ALPHA METAVERSE TECHN. A,Aktien International,Aktien International",
+    "CA56658A3029,A3DAFQ,MARGARET LAKE DIAMONDS,Aktien International,Aktien International",
+    "CA64051V4029,A3D5Y1,NEONMIND BIOSCIENCES INC.,Aktien International,Aktien International",
+    "ES0118900010,A0DKZZ,\"FERROVIAL S.A.INH. EO-, 20\",Aktien Europa,Aktien Europa Select",
+    "GB00BYV2MV74,A2ABZ1,\"PURPLEBRICKS GRP  LS -, 01\",Aktien Europa,Aktien Europa Select",
+    "LU0290697514,A0MQCH,D AMICO INTL SHIP.SA,Aktien Europa,Aktien Europa Select",
+    "US00484M7002,A3EJA8,\"ACORDA THERAP.NEW DL-, 001\",Aktien USA,Aktien USA Select",
+    "US1031971096,A2H83N,\"BOXLIG.CORP CL.A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US1724063086,A3EMDE,\"CINEVERSE CORP.    DL-, 01\",Aktien USA,Aktien USA Select",
+    "US64132K1025,A2PNYF,\"NEUBASE THERAPEUT. DL-, 01\",Aktien USA,Aktien USA Select",
+    "US8116994042,A3EEVP,\"SEACHANGE INTL     DL-, 01\",Aktien USA,Aktien USA Select",
+    "US8292421067,A3ECKZ,SINCLAIR INC. A,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "LU2592315662,A3EM26,D AMICO INTL SHIP.SA,Aktien Europa,Aktien Europa Select",
+    "CA51440M1023,A3EMN9,LANCASTER RESOURCES INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 12,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
