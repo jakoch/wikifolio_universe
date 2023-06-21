@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA84678A1021,A2P5PY,SPARTAN DELTA CORP.,Aktien International,Aktien International",
+    "IT0004007560,A0J2L9,PIERREL S.P.A.,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000EVNK013,EVNK01,EVONIK INDUSTRIES NA O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000EVNK013,EVNK01,EVONIK INDUSTRIES NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "US64828T2015,A12DW2,\"RITHM CAPITAL CORP.DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US64828T2015,A12DW2,\"NEW RESIDENT.INVT  DL-, 01\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "IT0005549644,A3EJDG,PIERREL S.P.A.,Aktien Europa,Aktien Europa Select",
+    "CA28617B6061,A3EEZC,ELECTROVAYA INC.,Aktien International,Aktien International",
+    "US46604H2040,A3EHQ7,\"IZEA WLDWIDE NEW DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}
