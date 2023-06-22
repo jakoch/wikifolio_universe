@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "AU0000005001,A2JHPB,COPPER MOUNT.MIN. CDI,Aktien International,Aktien International",
+    "CA40281F2017,A3D079,GUMMY PROJECT INC.,Aktien International,Aktien International",
+    "CA69526L4001,A2P6MY,PACTON GOLD INC.,Aktien International,Aktien International",
+    "DE0005168108,516810,BAUER AG,Aktien Deutschland,Aktien Sonstige",
+    "US29268T4094,A2P6T8,ENERGY FOCUS INC. DL-0001,Aktien USA,Aktien USA Select",
+    "US70788V1026,A2DQCL,\"RANGER OIL CORP.   DL-, 01\",Aktien USA,Aktien USA Select",
+    "US7310942070,A3DLAY,\"POLARITYTE INC.   DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "NL0012044747,A2AR94,REDCARE PHARMACY INH.,Aktien Deutschland,Aktien MDAX",
+      "Current": "NL0012044747,A2AR94,REDCARE PHARMACY INH.,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "US0076244062,A3DMBH,\"AYALA PHARMAC.     DL-, 01\",Aktien International,Aktien International",
+      "Current": "US0076244062,A3DMBH,\"ADVAXIS INC.       DL-, 01\",Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "CA02080J1075,A3EHUU,ALPHAGEN INTELLIG. CORP.,Aktien International,Aktien International",
+    "US1031972086,A3EJMV,\"BOXLIG.CORP CL.A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "CA56658A4019,A3EHL9,MARGARET LAKE DIAMONDS,Aktien International,Aktien International",
+    "CA92561G1028,A3EHU3,VICE HEALTH AND WELL.INC.,Aktien International,Aktien International",
+    "US64132K2015,A3EHBD,\"NEUBASE THERAPEUT. DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 2,
+    "Deletions": 5
+  }
+}
