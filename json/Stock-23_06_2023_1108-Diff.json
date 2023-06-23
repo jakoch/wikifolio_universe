@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA21750U1012,A0MWH1,COPPER MOUNTAIN MINING CORP.,Aktien International,Aktien International",
+    "CA42329P1009,A3DDWA,HELIOSX LITHIUM TECHNOL.,Aktien International,Aktien International",
+    "CA4283044069,A3DRWY,HEXO CORP.,Aktien USA,Aktien USA Select",
+    "CA8849037095,A2N94N,THOMSON REUTERS CORP.,Aktien USA,Aktien USA Select",
+    "DE000A0LA304,A0LA30,TICK TRADING SOFTW.INH.ON,Aktien Deutschland,Aktien Sonstige",
+    "GB00B71N6K86,A1JMT9,EVRAZ PLC,Aktien Europa,Aktien Europa Select",
+    "US44916T1079,A2JPMW,\"HYRECAR INC.    DL-, 00001\",Aktien USA,Aktien USA Select",
+    "US75134P3038,A2DLKQ,\"RAMACO RES. INC.  DL-, 01\",Aktien USA,Aktien USA Select",
+    "US89846A2078,A2PZ44,\"TRXADE HEAL.INC. DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA23346F1018,A3EGMN,D2 LITHIUM,Aktien International,Aktien International",
+    "CA84678A5089,A3EHTZ,SPARTAN DELTA CORP. NEW,Aktien International,Aktien International",
+    "CA73939X2095,A3EHTL,POWERTAP HYDRO.CAP. NEW,Aktien International,Aktien International",
+    "CA65345C3084,A3EFBG,NEXTECH AR SOLUT. CORP.,Aktien International,Aktien International",
+    "DE000A35JS99,A35JS9,TICK TRADING SOFTW. NA ON,Aktien Deutschland,Aktien Sonstige"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
