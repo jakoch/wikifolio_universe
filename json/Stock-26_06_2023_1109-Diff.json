@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA00510L1067,A2AN2K,ACUITYADS HOLDING INC.,Aktien International,Aktien International",
+    "CA24380K3038,A3CMP0,DEEPMARKIT CORP.,Aktien International,Aktien International",
+    "CA38149A1093,A14XJP,GOLDMONEY INC.,Aktien International,Aktien International"
+  ],
+  "Modifications": [
+    {
+      "Original": "US4158641070,851271,\"ENVIRI CORP.      DL 1, 25\",Aktien USA,Aktien USA Select",
+      "Current": "US4158641070,851271,\"HARSCO CORP.      DL 1, 25\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
