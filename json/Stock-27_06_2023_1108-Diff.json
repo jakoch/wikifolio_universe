@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "US3665052045,A3CU41,GARRETT MOTION INC. PFD.A,Aktien USA,Aktien USA Select",
+    "US52187K1016,A2DK5X,\"LEAP THERAPEUTICS DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US52187K2006,A3EMJP,LEAP THERAPEUTICS INC.NEW,Aktien USA,Aktien USA Select",
+    "US89846A4058,A3EMC5,\"TRXADE HEALTH    DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US29268T5083,A3EJMU,ENERGY FOCUS INC. DL-0001,Aktien USA,Aktien USA Select",
+    "US75134P6007,A3EMQ8,\"RAMACO RES.INC. A DL-, 01\",Aktien USA,Aktien USA Select",
+    "CA38149A5052,A3EML7,GOLDMONEY INC.,Aktien International,Aktien International",
+    "PLSUNEX00013,A1J15Q,\"SUNEX SA       ZY -, 8\",Aktien Europa,Aktien Europa Select",
+    "CA8849038085,A3EETN,THOMSON REUTERS CORP.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 7
+  }
+}
