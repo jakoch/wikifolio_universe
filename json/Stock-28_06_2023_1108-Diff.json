@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "US02919L2088,A3DWBA,\"AMERICAN REBEL HLD. -, 001\",Aktien USA,Aktien USA Select",
+    "US86882C2044,A3DMKG,\"SURGALIGN HLDGS NEW -, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "GB0006215205,888871,\"MOBICO GROUP       LS-, 05\",Aktien International,Aktien International",
+      "Current": "GB0006215205,888871,\"NATL EXPR. GRP     LS-, 05\",Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "LU1092234845,A1183M,ORION S.A.,Aktien USA,Aktien Dow Jones",
+      "Current": "LU1092234845,A1183M,ORION ENGINEER.CARBONS SA,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA1130041058,A3D2W7,BRKFLD AS.M.LTD CL.A,Aktien USA,Aktien USA Select",
+    "US42727E1038,A1W4U6,\"HERITAGE GLOBAL   DL-, 007\",Aktien USA,Aktien USA Select",
+    "HK0405033157,A0H0EM,YUEXIU REIT ASS. MGMT UTS,Aktien International,Aktien International",
+    "US02919L3078,A3EM0Y,AMERICAN REBEL HLD.INC DL,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}

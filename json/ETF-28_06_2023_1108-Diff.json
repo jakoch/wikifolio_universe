@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "LU0533032008,LYX0GH,LYXOR MSCI WORLD CONSUM. DISCRET. TR,ETFs,ETFs Branchen",
+    "LU0533033824,LYX0GQ,LYXOR MSCI WORLD MATERIALS TR,ETFs,ETFs Branchen"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE00021E4FE3,A3DE9Q,IM2-EO CB ESG MF ETF EOA,ETFs,ETFs Europa Bonds",
+      "Current": "IE00021E4FE3,A3DE9Q,IM2EOCBESGMFETF EOA,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "IE000MUAJIF4,A3DSVR,IM2-EURCBESG SHORTD EOD,ETFs,ETFs Europa Bonds",
+      "Current": "IE000MUAJIF4,A3DSVR,IM2EOCBESGSDMF EOD,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "IE000PA766T7,A3DE9R,IM2-EURCBESG SHORTD EOA,ETFs,ETFs Europa Bonds",
+      "Current": "IE000PA766T7,A3DE9R,IM2EOCBESGSDMF EOA,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "IE00BKWD3743,A2PVD3,IM2-US T BOND 10+ Y DLD,ETFs,ETFs Sonstige Bonds",
+      "Current": "IE00BKWD3743,A2PVD3,INVESCOM2 US TRBD 10+ YR,ETFs,ETFs Sonstige Bonds"
+    },
+    {
+      "Original": "IE00BYVTMZ20,A2DT9W,IM3-US HY FA ETF EOHA,ETFs,ETFs Sonstige Bonds",
+      "Current": "IE00BYVTMZ20,A2DT9W,IMIII-I.US H.Y.F.A. AEOH,ETFs,ETFs Sonstige Bonds"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 5,
+    "Deletions": 0
+  }
+}
