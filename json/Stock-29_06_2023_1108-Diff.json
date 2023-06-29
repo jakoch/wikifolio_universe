@@ -1,0 +1,36 @@
+{
+  "Additions": [
+    "CA07012B1067,A3C6BE,BASIN URANIUM CORP.,Aktien International,Aktien International",
+    "CA38149V1031,A2P8B6,GOLDHAVEN RESOURCES CORP.,Aktien International,Aktien International",
+    "CA87975Q1000,A2QMLE,TEMAS RESOURCES CORP.,Aktien International,Aktien International",
+    "CH0025607331,A0J3EC,ROMANDE ENERGIE HOLDING S.A.,Aktien Europa,Aktien Europa Select",
+    "DE000A0KFUJ5,A0KFUJ,KROMI LOGISTIK,Aktien Deutschland,Aktien Sonstige",
+    "FR0010457531,A0NF06,\"NFTY               EO -, 3\",Aktien Europa,Aktien Europa Select",
+    "KYG3042R1074,A3CUBP,\"ENDURANCE RP LTD DL -, 01\",Aktien International,Aktien International",
+    "US02919L3078,A3EM0Y,AMERICAN REBEL HLD.INC DL,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US1699051066,915916,\"CHOICE HOTELS INT. DL-, 01\",Aktien USA,Aktien Dow Jones",
+      "Current": "US1699051066,915916,\"CHOICE HOTELS INT. DL-, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US5147661046,899376,\"LIFECORE BIOMEDIC. DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US5147661046,899376,\"LANDEC CORP.       DL-, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US87164U4094,A3DMG6,\"THERIVA BIOLOGICS DL-, 001\",Aktien International,Aktien International",
+      "Current": "US87164U4094,A3DMG6,\"SYNTHETIC BIOLOG.DL -, 001\",Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "CA45232V1067,A3EH59,ILLUMIN HOLDINGS INC.,Aktien International,Aktien International",
+    "US37229T5092,A3D6A1,\"KARTOON STUD. NEW DL-, 001\",Aktien International,Aktien International",
+    "CA24380K4028,A3EJMT,DEEPMARKIT CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 3,
+    "Deletions": 3
+  }
+}

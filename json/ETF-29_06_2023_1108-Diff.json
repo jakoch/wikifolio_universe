@@ -1,0 +1,18 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE000K9Z3SF5,A3DDQ6,INVESCOM-SP CHINA 300SWAP,ETFs,ETFs Asien",
+      "Current": "IE000K9Z3SF5,A3DDQ6,IM-SPCNA300SETF DLA,ETFs,ETFs Asien"
+    }
+  ],
+  "Deletions": [
+    "IE000AGFZM58,A3D1V0,HSBCE-MSCIEUISE ()EOA,ETFs,sonstige ETFs",
+    "IE000I5NV504,A3D1SR,HSBCETFSMUISESG DLA,ETFs,sonstige ETFs"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
