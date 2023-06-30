@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA07987C2040,A2PQKK,BELLUS HEALTH INC.,Aktien USA,Aktien USA Select",
+    "US92763M1053,A1158P,VIPER ENERGY PARTNERS UTS,Aktien USA,Aktien USA Select",
+    "US12648L6011,A2DJWX,CTI BIOPHARMA CORP.,Aktien USA,Aktien USA Select",
+    "US7476012015,A2QLPC,\"QUALTR.INTL. A   DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA88770A1003,A3D9Z2,TINY LTD. A,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE000LS9HJF0,LS9HJF,Value- + Bollinger-Analyse (GER),sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9KXS8,LS9KXS,Aktien- + ETF-Werte (gehedged),sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9LTB0,LS9LTB,CP Marktmix Hebel,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9PBC7,LS9PBC,Predictable Consumer Stocks,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9M4M7,LS9M4M,StocksRectification,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
