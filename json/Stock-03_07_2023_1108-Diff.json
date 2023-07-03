@@ -1,0 +1,39 @@
+{
+  "Additions": [
+    "CA31730E1016,A2AQLS,FILO MINING CORP.,Aktien International,Aktien International",
+    "CA4809014042,A12DWV,JOURDAN RESOURCES INC.,Aktien International,Aktien International",
+    "CH0314029270,A2AFJM,\"WISEKEY INTL B    SF -, 05\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000HAG0005,HAG000,HENSOLDT AG INH O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000HAG0005,HAG000,HENSOLDT AG INH O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005103006,510300,ADTRAN NETW.SE INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005103006,510300,ADVA OPT.NETW.SE  O.N.,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0007667107,766710,VOSSLOH AG O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0007667107,766710,VOSSLOH AG O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A0LD6E6,A0LD6E,GERRESHEIMER AG,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0LD6E6,A0LD6E,GERRESHEIMER AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A13SX22,A13SX2,HELLA GMBH+CO. KGAA O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A13SX22,A13SX2,HELLA GMBH+CO. KGAA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "US7598923008,A2PXAT,MOATABLE SP.ADRS A 45,Aktien USA,Aktien Dow Jones",
+      "Current": "US7598923008,A2PXAT,RENREN SP.ADRS A 45,Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 6,
+    "Deletions": 0
+  }
+}
