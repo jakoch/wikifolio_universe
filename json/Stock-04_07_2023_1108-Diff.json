@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA26908N1078,A2P3RK,ESG GLOBAL IMPACT CAP. I.,Aktien International,Aktien International",
+    "CA4824511014,A3CMJ5,KGL RESOURCES LTD,Aktien International,Aktien International",
+    "CA50545P3097,A3DE7M,LABRADOR URANIUM INC.,Aktien International,Aktien International",
+    "CA84841L3083,A2N8YD,SPHERE 3D CORP.,Aktien International,Aktien International",
+    "CH0027148649,A0LCUK,SANTHERA PHARM.HD.NA SF 1,Aktien Europa,Aktien Europa Select",
+    "KYG070371078,A2N8XN,BABYTREE GROUP,Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA51830A1066,A3EGU2,LATITUDE URANIUM INC.,Aktien International,Aktien International",
+    "CA31858L1013,A3DTEB,FIRST AMERN URANIUM,Aktien International,Aktien International",
+    "CA83423L1085,A3CXUB,SOLIS MINERALS LTD.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
