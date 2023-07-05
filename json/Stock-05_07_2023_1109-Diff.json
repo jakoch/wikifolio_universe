@@ -1,0 +1,117 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "AT000000STR1,A0M23V,STRABAG SE,Aktien Europa,Aktien Europa Select",
+      "Current": "AT000000STR1,A0M23V,STRABAG,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT00000AMAG3,A1JFYU,AMAG AUSTRIA METALL INH.,Aktien Europa,Aktien Europa Select",
+      "Current": "AT00000AMAG3,A1JFYU,AMAG AUSTRIA METALL AG,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT00000FACC2,A1147K,FACC AG INH.AKT.,Aktien Europa,Aktien Europa Select",
+      "Current": "AT00000FACC2,A1147K,FACC AG,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT00000VIE62,A2AMK9,FLUGHAFEN WIEN AG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT00000VIE62,A2AMK9,FLUGHAFEN WIEN,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000606306,A0D9SU,RAIFFEISEN BK INTL INH.,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000606306,A0D9SU,RAIFFEISEN INTL,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000641352,876520,CA IMMOB.ANL.,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000641352,876520,CA IMMOBILIEN ANLAGEN AG,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000652011,909943,ERSTE GROUP BNK INH. O.N.,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000652011,909943,ERSTE BANK,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000652250,902388,S IMMO AG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000652250,902388,SPARKASSEN IMMOBILIEN,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000720008,588811,TELEKOM AUSTRIA AG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000720008,588811,TELEKOM AUSTRIA,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000730007,632305,ANDRITZ AG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000730007,632305,ANDRITZ,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000741053,878279,EVN AG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000741053,878279,EVN ENERGIEVERSG,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000758305,919964,PALFINGER AG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000758305,919964,PALFINGER,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000785555,870378,SEMPERIT AG HLDG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000785555,870378,SEMPERIT AG HOLDING,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000818802,915210,DO + CO AG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000818802,915210,DO&CO RESTAURANTS&CATERING AG,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000821103,928900,UNIQA INSURANCE GROUP AG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000821103,928900,UNIQA VERS,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000837307,A0JLPR,ZUMTOBEL GROUP AG INH. A,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000837307,A0JLPR,ZUMTOBEL,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000908504,A0ET17,VIENNA INSURANCE GRP INH.,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000908504,A0ET17,VIENNA INSURANCE GROUP,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000922554,892502,ROSENBAUER INTL,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000922554,892502,ROSENBAUER INTERNATIONAL AG,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000946652,907391,SCHOELLER-BLECKMANN OILF.,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000946652,907391,SCHOELLER-BLECKMANN,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000A00XX9,A0JL31,POLYTEC HLDG AG INH. EO 1,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000A00XX9,A0JL31,POLYTEC HOLDING AG,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000APOST4,A0JML5,OESTERREICH. POST AG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000APOST4,A0JML5,OESTERR POST,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "AT0000BAWAG2,A2DYJN,BAWAG GROUP AG,Aktien Europa,Aktien Europa Select",
+      "Current": "AT0000BAWAG2,A2DYJN,BAWAG GROUP AG INHABER AKTIEN O.N.,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "DE000A0JK2A8,A0JK2A,AURELIUS EQ.OPP.   O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A0JK2A8,A0JK2A,AURELIUS EQUITY OPPORTUNITIES SE & CO. KGAA,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "JP3651120002,A0NCX4,NANO MRNA CO. LTD.,Aktien International,Aktien International",
+      "Current": "JP3651120002,A0NCX4,NANOCARRIER CO. LTD,Aktien International,Aktien International"
+    },
+    {
+      "Original": "NL0012650360,A2H5W8,RHI MAGNESITA N.V.,Aktien Europa,Aktien Europa Select",
+      "Current": "NL0012650360,A2H5W8,RHI MAGNESITA,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "US29604W1080,A2H7KA,\"PHAXIAM THERA. SP.ADR-, 10\",Aktien Europa,Aktien Europa Select",
+      "Current": "US29604W1080,A2H7KA,\"ERYTECH PHARMA SP.ADR-, 10\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US08975B1098,A3C8TH,\"BIGBEAR.AI HOLD. DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 26,
+    "Deletions": 1
+  }
+}
