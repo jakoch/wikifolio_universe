@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA3455101012,A3DCC8,FOREMOST LI.RE.TE. O.N.,Aktien International,Aktien International",
+    "CA86816U1066,A2DMHS,SUPERIOR GOLD INC. O.N.,Aktien International,Aktien International",
+    "US09077D1000,A3C6YA,\"BIOFRONTERA INC. DL -, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA07012B4038,A3EMQ7,BASIN URANIUM CORP.,Aktien International,Aktien International",
+    "CA3455102002,A3ENZH,FOREMOST LI.RE.TE.   O.N.,Aktien International,Aktien International",
+    "CH1263676327,A3EEVK,ROMANDE ENERGIE HLD. SF 1,Aktien Europa,Aktien Europa Select",
+    "CA87975Q2099,A3EMMX,TEMAS RESOURCES CORP.,Aktien International,Aktien International",
+    "CA38149V2021,A3EN4C,GOLDHAVEN RESOURCES CORP.,Aktien International,Aktien International",
+    "CA00135V1094,A3EMKY,AI ARTIF.INTEL.VENT.INC.,Aktien International,Aktien International",
+    "CA84841L4073,A3EJMR,SPHERE 3D CORP.,Aktien USA,Aktien USA Select",
+    "CA2094161064,A3ENPV,CONSOL.LITHIUM METALS INC,Aktien International,Aktien International",
+    "CH1276028821,A3EJMQ,\"SANTHERA PHARM.HD.SF 0, 10\",Aktien Europa,Aktien Europa Select",
+    "AU0000273088,A3EC42,NGX LTD.,Aktien International,Aktien International",
+    "CH1276062754,A3EP76,\"WISEKEY INTL B    SF 2, 50\",Aktien Europa,Aktien Europa Select",
+    "CA31729R1055,A3EE3U,FILO CORP.,Aktien International,Aktien International",
+    "KYG3042R1231,A3EJBD,\"ENDURANCE RP LTD DL -, 20\",Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 13
+  }
+}
