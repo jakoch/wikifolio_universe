@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "BE0003545531,904996,SOLVAC SA NOM.,Aktien Europa,Aktien Europa Select",
+    "CA68620P1018,A12AQF,ORGANIGRAM HLDGS INC.,Aktien USA,Aktien USA Select",
+    "CA74624E1007,A1165H,PURE GOLD MINING,Aktien International,Aktien International",
+    "LU0097333701,989975,FLOSS.V ST.-GLOB.QUALIT.H,Fonds,Fonds Aktien",
+    "US75134P6007,A3EMQ8,\"RAMACO RES.INC. A DL-, 01\",Aktien USA,Aktien USA Select",
+    "US1031972086,A3EJMV,\"BOXLIG.CORP CL.A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US78472M1062,A2PQ07,\"SRAX INC. A       DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "JP3116700000,A0RL25,ARE HOLDINGS INC.,Aktien International,Aktien International",
+      "Current": "JP3116700000,A0RL25,ASAHI HOLDINGS INC.,Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "DE000A3E5A34,A3E5A3,PARTEC AG  VNA O.N.,Aktien Deutschland,Aktien Sonstige",
+    "IT0005383291,A2PSY9,FERRETTI S.P.A.   O.N.,Aktien Europa,Aktien Europa Select",
+    "DE000NCA0001,NCA000,THYSSENKRUPP NUCERA O.N.,Aktien Deutschland,Aktien Sonstige",
+    "DE000A3DSV01,A3DSV0,CANTOURAGE GROUP SE O.N.,Aktien Deutschland,Aktien Sonstige"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
