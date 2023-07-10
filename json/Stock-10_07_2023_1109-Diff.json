@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "US05541T1016,A0NJH6,\"BGC PARTNERS INC.A DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006219934,621993,JUNGHEINRICH AG O.N.VZO,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006219934,621993,JUNGHEINRICH AG O.N.VZO,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A2YN900,A2YN90,TEAMVIEWER SE  INH O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2YN900,A2YN90,TEAMVIEWER SE  INH O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "US0889291045,A3EQAC,\"BGC GROUP INC.A    DL-, 01\",Aktien USA,Aktien USA Select",
+    "US09077D2099,A3EFRZ,BIOFRONTERA INC.  NEW,Aktien USA,Aktien USA Select",
+    "PLLVTSF00010,A111R3,\"LIVECHAT SOFTW.A, B ZY-, 02\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}
