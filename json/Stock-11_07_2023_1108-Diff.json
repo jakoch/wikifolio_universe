@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "US52634T2006,A1XEVQ,LENTA LTD  GDR S 1/2,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "GB00BZ042C28,A2DR8V,\"STAR ENERGY GR.  LS-, 0002\",Aktien Europa,Aktien Europa Select",
+      "Current": "GB00BZ042C28,A2DR8V,\"IGAS ENERGY PLC  LS-, 0002\",Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "US7672921050,A2H51D,\"RIOT PLATFORMS    DL-, 001\",Aktien USA,Aktien USA Select",
+      "Current": "US7672921050,A2H51D,\"RIOT BLOCKCHAIN   DL-, 001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}
