@@ -1,0 +1,15 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE00BGBN6P67,A2PA3S,INV.COINSH.GL.BLOCKCH. A,ETFs,ETFs Basic Resources",
+      "Current": "IE00BGBN6P67,A2PA3S,INVES.M.II-I.E.G.B.UC.ETF,ETFs,ETFs Basic Resources"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
