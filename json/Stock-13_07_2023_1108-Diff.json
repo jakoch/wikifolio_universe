@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA43366H7040,A3DM8F,HIVE BLOCKCHAIN TECHS,Aktien USA,Aktien USA Select",
+    "CA74979J4072,A2P9Z6,RYU APPAREL INC.,Aktien International,Aktien International",
+    "CA92027E1051,A3DM99,VALOUR INC.,Aktien International,Aktien International",
+    "US46583P1021,A2PHLF,\"IVERIC BIO INC.   DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "BMG3223R1088,580891,\"EVEREST GROUP LTD.DL -, 01\",Aktien USA,Aktien USA Select",
+      "Current": "BMG3223R1088,580891,\"EVEREST REINSUR.  DL -, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "CNE100000PP1,A1C0QD,GOLDWIND SCIE.+TECHNO. H,Aktien International,Aktien International",
+      "Current": "CNE100000PP1,A1C0QD,XINJIANG GOLDWIND,Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "CA91822J2020,A3D9SJ,VBI VACCINES INC.,Aktien USA,Aktien USA Select",
+    "CA2449161025,A3EQD5,DEFI TECHNOLOGIES INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}

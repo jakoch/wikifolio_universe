@@ -1,0 +1,27 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE00053WDH64,A3DP7T,INVESCOM2-HYDRO ECO DLA,ETFs,ETFs Basic Resources",
+      "Current": "IE00053WDH64,A3DP7T,IM 2-HYDRO.ECO. DLA,ETFs,ETFs Basic Resources"
+    },
+    {
+      "Original": "IE00BKS7L097,A2PX8A,IN.MK.-I.S+P,ETFs,ETFs Nordamerika",
+      "Current": "IE00BKS7L097,A2PX8A,INVESCOMI SUP500 ESG ETF,ETFs,ETFs Nordamerika"
+    },
+    {
+      "Original": "IE00BLRB0242,A2QGZV,INVESCOM2 CLEAN ENERGY A,ETFs,ETFs Branchen",
+      "Current": "IE00BLRB0242,A2QGZV,IM2 GL.CL.NRGE DLA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00BYMS5W68,A2DHWJ,INVESCOMI NASDAQ FINTECH,ETFs,ETFs Branchen",
+      "Current": "IE00BYMS5W68,A2DHWJ,IM-I.KBW NASDAQ FINTECH A,ETFs,ETFs Branchen"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 4,
+    "Deletions": 0
+  }
+}
