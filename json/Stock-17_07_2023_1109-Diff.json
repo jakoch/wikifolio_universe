@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA0464911068,A0BKZG,ATAC RESOURCES LTD.,Aktien International,Aktien International",
+    "CA3613331071,A2PYUZ,G6 MATERIALS CORP.C.,Aktien International,Aktien International",
+    "CA45107N2059,A111YN,ICONIC MINERALS LTD,Aktien International,Aktien International",
+    "CA45675G1037,A3DJBY,INFINITY STONE VENTURES,Aktien International,Aktien International",
+    "CA89157R1047,A3DM8M,TOUBANI RESOURCES INC.,Aktien International,Aktien International",
+    "CA89465L1040,A3CNAY,TREATMENT.COM INTL O.N.,Aktien International,Aktien International",
+    "CA92838A1021,A2QJ4H,VISIONARY GOLD CORP.,Aktien International,Aktien International",
+    "GB0030190366,728156,FIR.ST.I.-S.I.G.E.M.L. AA,Fonds,Fonds Aktien",
+    "US00430H1023,A1KA68,ACCELERATE DIAGNOSTICS,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA45675G2027,A3EQW9,INFINITY STONE VENTURES A,Aktien International,Aktien International",
+    "CA4339211035,A3EH8Z,HIVE DIGITAL TECH,Aktien USA,Aktien USA Select",
+    "CA78446Q2099,A3EME3,SKRR EXPLORATION INC.,Aktien International,Aktien International",
+    "CA89465L2030,A3EQWE,TREATMENT.COM INTL O.N.,Aktien International,Aktien International",
+    "CA4509591018,A3EME5,ICONIC MINERALS LTD,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
