@@ -1,0 +1,15 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU1900067940,LYX013,MUL-LYX.MSCI CH.ESG L.EOD,ETFs,ETFs Asien",
+      "Current": "LU1900067940,LYX013,MUL-L.HONG KONG EOD,ETFs,ETFs Asien"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
