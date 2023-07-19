@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "FR0011814938,A2PSVF,\"BOOSTHEAT SAS     EO -, 25\",Aktien Europa,Aktien Europa Select",
+    "FR001400BWV7,A3DUC2,TECHNICOL.CREA.STUD. EO 1,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0010812230,A1J4UX,\"SIRIUS MEDIA       EO-, 10\",Aktien Europa,Aktien Europa Select",
+      "Current": "FR0010812230,A1J4UX,\"METADVERTISE       EO-, 10\",Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "FR001400I939,A3ENXY,TECH. CREAT. STUDIOS EO 1,Aktien Europa,Aktien Europa Select",
+    "CA3613332061,A3EMCW,G6 MATERIALS CORP.,Aktien International,Aktien International",
+    "FR001400IAM7,A3EJDD,\"BOOSTHEAT SAS    EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "CA00430K8656,A3EP78,ACASTI PHARMA INC.,Aktien USA,Aktien USA Select",
+    "CA92838G1090,A3EPZR,VISIONARY METALS CORP.,Aktien International,Aktien International",
+    "US00430H2013,A3ENW4,ACCELERATE DIAGN.NEW O.N.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 6
+  }
+}
