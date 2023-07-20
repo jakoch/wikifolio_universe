@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "CA38021J1030,A3DT91,GOAT INDUSTRIES LTD.,Aktien International,Aktien International",
+    "US5312297063,A2AHD0,LIBERTY MED. A BRAVES GRP,Aktien USA,Aktien USA Select",
+    "US5312298889,A2AHD1,LIBERTY MED. C BRAVES GRP,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA38021J2020,A3ERHR,GOAT INDUSTRIES LTD,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
