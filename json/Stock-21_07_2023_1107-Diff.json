@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "US53223X1072,A2AP88,LIFE STORAGE INC.,Aktien USA,Aktien USA Select",
+    "US74907L2016,A3DMEZ,QUOIN PHARMACEUT.ADR5000,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "KYG3042R1231,A3EJBD,\"REGENT PACIFIC GRP.DL-, 20\",Aktien International,Aktien International",
+      "Current": "KYG3042R1231,A3EJBD,\"ENDURANCE RP LTD DL -, 20\",Aktien International,Aktien International"
+    },
+    {
+      "Original": "US75513E1010,A2PZ0R,\"RTX CORP.            -, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US75513E1010,A2PZ0R,\"RAYTHEON TECH. CORP. -, 01\",Aktien USA,Aktien Dow Jones"
+    }
+  ],
+  "Deletions": [
+    "US74907L3006,A3EJL7,QUOIN PHARMAC.ADR 60000,Aktien USA,Aktien USA Select",
+    "CA75974M1059,A3EQWK,RENEGADE GOLD INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}

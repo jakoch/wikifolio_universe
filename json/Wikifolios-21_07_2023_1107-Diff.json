@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE000LS9BJV0,LS9BJV,Momentum und Trend,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9HR07,LS9HR0,TR Cheetah,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9HVQ2,LS9HVQ,TR Sea Lion,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9UHM3,LS9UHM,Profitieren durch Konsum,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9UCK8,LS9UCK,Adaptive Investment Stategies.,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
