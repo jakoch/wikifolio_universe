@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "LU0323577923,A0M43U,FLOSSB.V.ST.-MU.AS.DEF.R,Fonds,Fonds Misch",
+    "US87663X1028,A2QD83,TATTOOED CHEF INC CL.A,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2GS401,A2GS40,SOFTWARE AG  NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A2GS401,A2GS40,SOFTWARE AG  NA O.N.,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000VTSC017,VTSC01,VITESCO TECHS GRP NA O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000VTSC017,VTSC01,VITESCO TECHS GRP NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "BMG9001E1021,A2H9HN,\"LIBERTY LAT.AMER.A DL-, 01\",Aktien USA,Aktien USA Select",
+    "US0477261046,A3ERKH,\"ATLANTA BRAVES A DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
