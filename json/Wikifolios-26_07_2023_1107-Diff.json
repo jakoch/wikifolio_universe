@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "DE000LS9LCW2,LS9LCW,Tomstar Megatrends,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9LTC8,LS9LTC,Tomstar Performance,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9MDS6,LS9MDS,L_Cap,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9PLS2,LS9PLS,Franchise Power,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9UGQ6,LS9UGQ,Blue Moon,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000LS9UJ34,LS9UJ3,Big Names,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9UJ42,LS9UJ4,Divident&Value,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
