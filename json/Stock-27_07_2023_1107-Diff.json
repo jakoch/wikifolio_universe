@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "AU000000MCR8,256332,MINCOR RESOURCES NL,Aktien International,Aktien International",
+    "AU0000221418,A3DMQC,TEN SIXTY FOUR LTD.,Aktien International,Aktien International",
+    "BMG5266H1034,A1JGG1,KINGSTON FIN.GR.LTD.HD-02,Aktien International,Aktien International",
+    "CA87270T1066,A2QKCZ,TPCO HOLDING CORP.,Aktien International,Aktien International",
+    "FI0009015580,A0Q8QR,AVIDLY OYJ,Aktien Europa,Aktien Europa Select",
+    "GB00BYV24996,A2DNZY,\"MEDICA GROUP PLC LS-, 002\",Aktien Europa,Aktien Europa Select",
+    "US08205P1003,A2P06Q,BENITEC BIOPHARMA INC.,Aktien International,Aktien International",
+    "US20368X1019,A1W678,\"COMMUNITY FINL     DL-, 01\",Aktien USA,Aktien USA Select",
+    "US68235C1071,A2ACBH,ONCOCYTE CORP.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA4824511014,A3CMJ5,KGL RESOURCES LTD,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
