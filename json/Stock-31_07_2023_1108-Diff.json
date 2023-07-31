@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA00386B1094,A0B9RG,ABSOLUTE SOFTWARE CORP.,Aktien International,Aktien International",
+    "LU0187077309,A0CA01,ROBECO CHINESE EQU.D EO,Fonds,Fonds Aktien",
+    "MHY2188B1083,A1W8VH,DYNAGAS LNG PTN.UTS DL-01,Aktien USA,Aktien USA Select",
+    "US0078001056,A14RBW,\"AEROJET ROCKETDYNE DL-, 10\",Aktien USA,Aktien USA Select",
+    "US1894641000,A1JPJY,\"CLOVIS ONCOLOGY   DL-, 001\",Aktien USA,Aktien Dow Jones"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A111338,A11133,NIKON SLM SOL. INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A111338,A11133,SLM SOLUTIONS GRP AG,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
