@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA88338H1001,915439,THERATECHNOLOGIES INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US57667L1070,A2P75D,\"MATCH GR.INC. NEW DL-, 001\",Aktien USA,Aktien USA Select",
+      "Current": "US57667L1070,A2P75D,\"MATCH GR.INC. NEW DL-, 001\",Aktien USA,Aktien Dow Jones"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
