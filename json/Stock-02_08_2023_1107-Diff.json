@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "US0909114052,A3DHGV,\"BIOLASE INC.     DL -, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US6273331073,A2PWWD,\"SADOT GROUP INC. DL-, 0001\",Aktien USA,Aktien USA Select",
+      "Current": "US6273331073,A2PWWD,\"MUSCLE MAKER  DL-, 0001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
