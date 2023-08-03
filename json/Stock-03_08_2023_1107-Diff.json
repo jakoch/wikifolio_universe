@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA28103Q1090,A3C8LL,EDISON LITHIUM CORP.,Aktien International,Aktien International",
+    "CA7300201042,A2N8RH,PLYMOUTH ROCK TECHS,Aktien International,Aktien International",
+    "FR0000052516,888517,\"VILMORIN+CIE.INH.EO 15, 25\",Aktien Europa,Aktien Europa Select",
+    "US6833731044,A2P8JC,\"ONTRAK INC.     DL -, 0001\",Aktien USA,Aktien USA Select",
+    "US91336L1070,A11955,UNIVAR INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005772206,577220,FIELMANN GROUP AG O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005772206,577220,FIELMANN AG O.N.,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E5EG5,A3E5EG,PAION AG  INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A3E5EG5,A3E5EG,PAION AG  INH O.N. KONV.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "CA60041F1018,A3DXEK,MILLENNIAL POTASH CORP,Aktien International,Aktien International",
+    "CA28103Q2080,A3ERKL,EDISON LITHIUM CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
