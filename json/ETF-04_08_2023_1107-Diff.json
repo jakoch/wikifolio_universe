@@ -1,0 +1,23 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE00BX7RR706,A14XL9,UBS-FMUSPVESG ADDL,ETFs,ETFs Nordamerika",
+      "Current": "IE00BX7RR706,A14XL9,UBS(I)-F.MSCI US.P.V.ADDL,ETFs,ETFs Nordamerika"
+    },
+    {
+      "Original": "IE00BX7RRJ27,A14XMA,UBS-FMUSQESG ADDL,ETFs,ETFs Nordamerika",
+      "Current": "IE00BX7RRJ27,A14XMA,UBS(I)-FA.MSCI US.QU.ADDL,ETFs,ETFs Nordamerika"
+    },
+    {
+      "Original": "IE00BXDZNK39,A14Z35,UBS-FMUSQESG ADHL,ETFs,ETFs Nordamerika",
+      "Current": "IE00BXDZNK39,A14Z35,UBS(I)-FA.MSCI US.QU.ADHL,ETFs,ETFs Nordamerika"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 3,
+    "Deletions": 0
+  }
+}

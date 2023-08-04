@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA38063L1076,A2PVCF,GOLD LION RESOURCES INC.,Aktien International,Aktien International",
+    "CH0011003594,869279,GAVAZZI -C.- INH. B SF 15,Aktien Europa,Aktien Europa Select",
+    "US58406B1035,A2QJDM,\"MEDAVAIL HOLDINGS DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "AT0000936513,973205,RAIFF-Z.EUR-ESG-AKT.RA ST,Fonds,Fonds Aktien",
+      "Current": "AT0000936513,973205,RAIFF.-OSTEUR.-AKT.RA ST.,Fonds,Fonds Aktien"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
