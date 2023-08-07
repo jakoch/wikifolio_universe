@@ -1,0 +1,24 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE0007257503,725750,CECONOMY AG  INH O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0007257503,725750,CECONOMY AG  INH O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "US0477261046,A3ERKH,\"ATL. BRV. HLDG. A DL-, 001\",Aktien USA,Aktien USA Select",
+      "Current": "US0477261046,A3ERKH,\"ATLANTA BRAVES A DL-, 001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA00810E1097,A3ESD0,AETHER GLOBAL INNOVA.,Aktien International,Aktien International",
+    "US0909117022,A3EJLX,\"BIOLASE INC.     DL -, 001\",Aktien USA,Aktien USA Select",
+    "US6833733024,A3EJLV,\"ONTRAK INC.     DL -, 0001\",Aktien USA,Aktien USA Select",
+    "ES0180850416,A0M2MR,\"TUBOS REUNIDOS A  EO -, 02\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}
