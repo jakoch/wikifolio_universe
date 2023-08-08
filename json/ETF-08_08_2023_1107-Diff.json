@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU0959210278,LYX0RD,MUL-LYS+PEOZESGDIAR D,ETFs,ETFs Europa Gesamt",
+      "Current": "LU0959210278,LYX0RD,MUL-LYS+PEOZESGDIAR D,ETFs,ETFs Europa Bonds"
+    }
+  ],
+  "Deletions": [
+    "IE000CXVOXQ1,A3D10B,WI.-USQUDIGR I SYS.HDGDEO,ETFs,ETFs Nordamerika"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

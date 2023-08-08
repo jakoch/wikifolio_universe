@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA84652L1085,A3DW2E,SPARK ENERGY MINERALS INC,Aktien International,Aktien International",
+    "US5312298541,A2AHEA,LIBERTY MED.C FORMULA ONE,Aktien USA,Aktien USA Select",
+    "US5312298707,A2AHDZ,LIBERTY MED.A FORMULA ONE,Aktien USA,Aktien USA Select",
+    "US6353091076,A0MKES,\"NTNL CINEMEDIA INC.DL-, 01\",Aktien USA,Aktien USA Select",
+    "US84763A1088,164623,SPECTRUM PHARMACEUTICALS INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US4831192020,A3DWPS,\"KALA BIO INC.     DL-, 001\",Aktien USA,Aktien USA Select",
+      "Current": "US4831192020,A3DWPS,\"KALA PHARMACEUT. DL-, 001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA84652L2075,A3EQSN,SPARK ENERGY MINER. INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
