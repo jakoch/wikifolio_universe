@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "DE000A3E5A34,A3E5A3,PARTEC AG  VNA O.N.,Aktien Deutschland,Aktien Sonstige",
+    "FR0011277391,A1J0RG,MYHOTELMATCH,Aktien Europa,Aktien Europa Select",
+    "KYG3042R1231,A3EJBD,\"REGENT PACIFIC GRP.DL-, 20\",Aktien International,Aktien International",
+    "US0758961009,884304,\"BED BATH + BEYOND  DL-, 01\",Aktien USA,Aktien Dow Jones",
+    "US09075F1075,A2JRLZ,\"BIONANO GENOMICS DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US43734L1061,A2QNKC,\"HOME P.C. DL -, 0000000072\",Aktien USA,Aktien USA Select",
+    "US5312294094,A2AHD2,LIBERTY MED.A SIRIUSXM GP,Aktien USA,Aktien USA Select",
+    "US5312296073,A2AHD3,LIBERTY MED.C SIRIUSXM GP,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "KYG3042R1314,A3ESSZ,\"REGENT PACIFIC GRP.DL-, 01\",Aktien International,Aktien International",
+    "FR001400IE67,A3EJFQ,\"MYHOTELMATCH   EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "LU2263803020,A2QHW9,NEOGAMES S.A.    EO 1,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
