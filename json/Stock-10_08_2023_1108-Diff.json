@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "AT0000A00Y78,A0JKWU,PETRO WELT TECHNOLOGIE.AG,Aktien Deutschland,Aktien Sonstige",
+    "CA53634Q2045,A2N7MR,LIQUID MEDIA GRP LTD,Aktien International,Aktien International",
+    "US69327R1014,A1JZ02,\"PDC ENERGY INC.    DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US58406B2025,A3ERQV,MEDAVAIL HLDGS INC. NEW,Aktien USA,Aktien USA Select",
+    "CA53681M1068,A3ESA5,LITHIUM LION METALS INC.,Aktien International,Aktien International",
+    "US5312297550,A3ERTA,LIBERTY MED.C FORMULA ONE,Aktien USA,Aktien USA Select",
+    "US5312297220,A3ERLT,LIBERTY MEDIA C LIVE,Aktien USA,Aktien USA Select",
+    "US04546C2052,A3CRAA,\"ASSERTIO HLDGS  DL-, 0001\",Aktien USA,Aktien USA Select",
+    "CH1278877563,A3EJLR,GAVAZZI -C.- NA. SF 15,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
