@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "AU000000FMS9,A0Q23Q,FLINDERS MINES LTD,Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US6353092066,A3EQV7,\"NATIONAL CIN.INC. DL -, 01\",Aktien USA,Aktien USA Select",
+    "US09075F3055,A3ENV3,\"BIONANO GE.INC. DL 0, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
