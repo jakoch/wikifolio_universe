@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "AU000000ABP9,813933,ABACUS PROPERTY GRP UTS,Aktien International,Aktien International",
+    "US2536511031,856244,\"DIEBOLD NIXDORF DL 1, 25\",Aktien USA,Aktien Dow Jones",
+    "US44267D1072,A1C7ML,\"HOWARD HUGHES CORP.DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "AU0000291494,A3ESW7,RED HAWK MINING LTD.,Aktien International,Aktien International",
+    "IT0005508921,A3DU7S,BCA MONTE D.PASCHI D.SIE.,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
