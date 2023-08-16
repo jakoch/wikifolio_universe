@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA60800C1095,A2PMYR,MOGO INC.,Aktien USA,Aktien USA Select",
+    "KYG3997H1048,A2PSMA,\"GLORY SUN FINL GRP HD-, 10\",Aktien International,Aktien International",
+    "US6085501095,A2DVLK,\"MOLECULAR TEMPLAT.DL-, 001\",Aktien USA,Aktien USA Select",
+    "US69355M1071,A3C822,PIMCO DYN.INC.OP.BEN.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "PLARTPR00012,A0YCRT,ARCTIC PAPER SA     ZY 1,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
