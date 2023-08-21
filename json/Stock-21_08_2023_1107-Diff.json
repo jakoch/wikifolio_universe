@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA4824511014,A3CMJ5,KGL RESOURCES LTD,Aktien International,Aktien International",
+    "LU0113257694,577941,SISF EURO CORP.BD A ACC,Fonds,Fonds Renten",
+    "US16961L1061,A2QE43,\"CHINOOK THERAP.  DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US69121K1043,A2PPPV,\"BLUE OWL CAPITAL   DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US69121K1043,A2PPPV,\"OWL ROCK CAP.CORP. DL-, 01\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US29272C2026,A3ERHQ,ENERGOUS CORP. NEW O.N.,Aktien USA,Aktien USA Select",
+    "SGXZ55111462,A3ESV6,VINFAST AUTO PTE.LTD,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
