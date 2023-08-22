@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "CA67114X1096,A3DMKJ,OZ LITHIUM CORP.,Aktien International,Aktien International",
+    "CA7562302074,A3DMJ0,RECHARGE RESOURCES LTD.,Aktien International,Aktien International",
+    "DE0005408884,540888,LEONI AG NA O.N.,Aktien Deutschland,Aktien Sonstige",
+    "DE0007571424,757142,GK SOFTWARE  INH O.N.,Aktien Deutschland,Aktien Sonstige",
+    "FR001400GZ72,A3D665,\"ALGREEN         EO 0, 0101\",Aktien Europa,Aktien Europa Select",
+    "US00972G1085,A140KV,\"AKARI THER.ADR/100 LS-, 01\",Aktien USA,Aktien USA Select",
+    "US2537484048,A3DKFH,\"DIFFUSION PHARMA. DL-, 001\",Aktien USA,Aktien USA Select",
+    "US30322L1017,A3CUVN,\"F45 TRAINING HLD. -, 00005\",Aktien USA,Aktien USA Select",
+    "US42328V6039,A2QQG5,HELIUS MEDICAL TECHNOLOG.,Aktien USA,Aktien USA Select",
+    "US9172861067,862816,URSTADT BIDDLE PROP.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000PAT1AG3,PAT1AG,PATRIZIA SE NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000PAT1AG3,PAT1AG,PATRIZIA SE NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "GB0009390070,896733,\"VOLEX PLC         LS -, 25\",Aktien Europa,Aktien Europa Select",
+    "US00972G2075,A3ESDF,\"AKARI THER.ADR/2000 -, 01\",Aktien USA,Aktien USA Select",
+    "CA22675G1028,A3ESD2,CRITICAL REAG. PROC.CORP.,Aktien International,Aktien International",
+    "FR001400IV58,A3EJGW,ALGREEN              EO 4,Aktien Europa,Aktien Europa Select",
+    "US09063M2052,A3C9JV,BIONOMICS ADR/1/180,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 10,
+    "Modifications": 1,
+    "Deletions": 5
+  }
+}
