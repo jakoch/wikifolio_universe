@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "US00165C1045,A1W90H,AMC ENTERTAINMENT HLDGS A,Aktien USA,Aktien Dow Jones",
+    "US03966V1070,A2PZZV,\"ARCONIC CORP.      DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US15713L1098,A3ES01,\"CERVOMED INC.    DL-, 001\",Aktien USA,Aktien USA Select",
+    "US42328V8019,A3EJLK,HELIUS MEDICAL TECHNOLOG.,Aktien USA,Aktien USA Select",
+    "US00165C3025,A3D7MZ,AMC ENTERTAINM.HLD.A  NEW,Aktien USA,Aktien USA Select",
+    "CA7562303064,A3ESZ7,RECHARGE RESOURCES LTD.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
