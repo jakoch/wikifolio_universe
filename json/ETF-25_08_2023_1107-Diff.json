@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU1900066033,LYX018,MUL-AM.MSCI SE.ESG SC.EOA,ETFs,ETFs Asien",
+      "Current": "LU1900066033,LYX018,MUL-L.M.SEMI.ESG FILT.EOA,ETFs,ETFs Asien"
+    }
+  ],
+  "Deletions": [
+    "IE000LXEN6X4,A3D8E8,ISHSV EOST50ESG EOA,ETFs,ETFs Europa Gesamt"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
