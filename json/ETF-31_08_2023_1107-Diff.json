@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "IE00BD49RB39,A2JKH7,WISDOMTREE EO A.BD E.Y.EA,ETFs,ETFs Europa Bonds"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE00BM67HJ62,A113FC,XTIE-MSCI EMESGSETF 1CLSA,ETFs,ETFs Welt",
+      "Current": "IE00BM67HJ62,A113FC,X(IE)-FTSE A.WO.X UK 1CLS,ETFs,ETFs Welt"
+    }
+  ],
+  "Deletions": [
+    "IE000QUCVEN9,A3ENM8,RIZE-GL SU.INF. ETFDLD,ETFs,ETFs Branchen",
+    "IE000PY7F8J9,A3ENMA,RIZE-USA ENV.IMP.ETFDLA,ETFs,ETFs Branchen"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

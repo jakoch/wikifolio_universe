@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "DE0006636681,663668,VA-Q-TEC AG NA O.N.,Aktien Deutschland,Aktien Sonstige",
+    "FR0000031122,855111,AIR FRANCE-KLM INH.  EO 1,Aktien Europa,Aktien Europa Select",
+    "NL0015000N74,A3C7QW,\"SONO GROUP NV     EO -, 06\",Aktien USA,Aktien USA Select",
+    "SG1G55870362,A0JKHV,\"LIAN BENG GROUP LTD. REGISTERED SHARES SD -, 05\",Aktien International,Aktien International",
+    "US03236M2008,A2DS41,\"AMYRIS BIOTECHN. DL-, 0001\",Aktien International,Aktien International",
+    "US03783T1034,A2QHQU,\"APPHARVEST INC.  DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US30219E1038,A1CYT2,\"EXPRESS INC.       DL-, 01\",Aktien USA,Aktien USA Select",
+    "US34631B1017,A3C39T,\"FORGEROCK INC. A  DL-, 001\",Aktien USA,Aktien USA Select",
+    "US8485601087,A3CYQG,\"SPIRE GLOBAL A  DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "NO0010894603,A2QDMH,\"VOLUE ASA         NK -, 40\",Aktien Europa,Aktien Europa Select",
+    "US9221073052,A3ESZ4,VAPOTHERM INC. COM NEW,Aktien USA,Aktien USA Select",
+    "US45166V2051,A3EM4V,IDEANOMICS INC.,Aktien International,Aktien International",
+    "FR001400J770,A3EJGH,AIR FRANCE-KLM INH.  EO 1,Aktien Europa,Aktien Europa Select",
+    "SE0007871363,A2ACFE,VITEC SOFTWARE GROUP AB B,Aktien Europa,Aktien Europa Select",
+    "CA8839301097,A3EP87,THESIS GOLD INC.,Aktien International,Aktien International",
+    "CA2302663067,A3ETCX,CULT FOOD SCIENCE CORP.,Aktien International,Aktien International",
+    "SE0017161243,A3DWAB,FORTNOX AB,Aktien Europa,Aktien Europa Select",
+    "US5312297717,A3ERSY,LIBERTY MED.A FORMULA ONE,Aktien USA,Aktien USA Select",
+    "NO0011082075,A3C8LV,\"HOEGH AUTOLINERS NK 21, 20\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 0,
+    "Deletions": 10
+  }
+}
