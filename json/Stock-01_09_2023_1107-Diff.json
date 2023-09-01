@@ -1,0 +1,37 @@
+{
+  "Additions": [
+    "FR0013247244,A2DP3D,\"ADOMOS S.A.        EO-, 02\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005403901,540390,CEWE STIFT.KGAA  O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005403901,540390,CEWE STIFT.KGAA  O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000JST4000,JST400,JOST WERKE SE INH. O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000JST4000,JST400,JOST WERKE SE INH. O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000WACK012,WACK01,WACKER NEUSON SE NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000WACK012,WACK01,WACKER NEUSON SE NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000ZEAL241,ZEAL24,ZEAL NETWORK SE NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000ZEAL241,ZEAL24,ZEAL NETWORK SE NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "US03073E1055,766149,\"CENCORA            DL-, 01\",Aktien USA,Aktien Dow Jones",
+      "Current": "US03073E1055,766149,AMERISOURCEBERGEN CORP,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US30219E2028,A3ETCY,\"EXPRESS INC. NEW   DL-, 01\",Aktien USA,Aktien USA Select",
+    "US8485603067,A3EQSF,\"SPI.GL.INC. CL.A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "FR001400JAL7,A3EJHN,\"ADOMOS S.A.     EO 1, -\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 5,
+    "Deletions": 3
+  }
+}
