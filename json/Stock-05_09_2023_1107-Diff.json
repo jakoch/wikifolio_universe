@@ -1,0 +1,123 @@
+{
+  "Additions": [
+    "CA89680B1058,A3DA5S,TRIPSITTER CLINIC LTD.,Aktien International,Aktien International"
+  ],
+  "Modifications": [
+    {
+      "Original": "AT0000A0E9W5,A0X9EJ,KONTRON AG O.N,Aktien Deutschland,Aktien SDAX",
+      "Current": "AT0000A0E9W5,A0X9EJ,KONTRON AG O.N,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005089031,508903,UTD.INTERNET AG NA,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005089031,508903,UTD.INTERNET AG NA,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005102008,510200,BASLER AG O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005102008,510200,BASLER AG O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005103006,510300,ADTRAN NETW.SE INH O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005103006,510300,ADTRAN NETW.SE INH O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005194062,519406,BAYWA AG VINK.NA. O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005194062,519406,BAYWA AG VINK.NA. O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005419105,541910,CANCOM SE O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005419105,541910,CANCOM SE O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005493092,549309,BORUSSIA DORTMUND,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005493092,549309,BORUSSIA DORTMUND,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005493365,549336,HYPOPORT SE  NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005493365,549336,HYPOPORT SE  NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005772206,577220,FIELMANN GROUP AG O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005772206,577220,FIELMANN GROUP AG O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005800601,580060,GFT TECHNOLOGIES SE,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005800601,580060,GFT TECHNOLOGIES SE,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005909006,590900,BILFINGER SE O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005909006,590900,BILFINGER SE O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006083405,608340,HORNBACH HOLD.ST O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006083405,608340,HORNBACH HOLD.ST O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006200108,620010,INDUS HOLDING AG,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006200108,620010,INDUS HOLDING AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006916604,691660,PFEIFFER VACUUM TECH.O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006916604,691660,PFEIFFER VACUUM TECH.O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0007314007,731400,HEIDELBERG.DRUCKMA.O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0007314007,731400,HEIDELBERG.DRUCKMA.O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0007461006,746100,PVA TEPLA AG O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0007461006,746100,PVA TEPLA AG O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A0JBPG2,A0JBPG,PNE AG  NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A0JBPG2,A0JBPG,PNE AG  NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A0JL9W6,A0JL9W,VERBIO VER.BIOENERGIE  ON,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A0JL9W6,A0JL9W,VERBIO VER.BIOENERGIE  ON,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A0TGJ55,A0TGJ5,VARTA AG O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A0TGJ55,A0TGJ5,VARTA AG O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A161N30,A161N3,GRENKE AG NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A161N30,A161N3,GRENKE AG NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A3H2333,A3H233,HAMBORNER REIT AG NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3H2333,A3H233,HAMBORNER REIT AG NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000NWRK013,NWRK01,NEW WORK SE  NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000NWRK013,NWRK01,NEW WORK SE  NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000WAF3001,WAF300,SILTRONIC AG NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000WAF3001,WAF300,SILTRONIC AG NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "LU0052221412,973723,ALLIANZ EURO CASH IA,Fonds,Fonds Geldmarkt",
+      "Current": "LU0052221412,973723,ALLIANZ EURO CASH IA,Fonds,Fonds Aktien"
+    },
+    {
+      "Original": "LU0775917882,A1JXCV,\"GRAND CITY PROPERT.EO-, 10\",Aktien Deutschland,Aktien SDAX",
+      "Current": "LU0775917882,A1JXCV,\"GRAND CITY PROPERT.EO-, 10\",Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "LU1673108939,A2DW8Z,\"AROUNDTOWN EO-, 01\",Aktien Deutschland,Aktien SDAX",
+      "Current": "LU1673108939,A2DW8Z,\"AROUNDTOWN EO-, 01\",Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "US00486H1059,A3C7M6,ADTRAN HOLDINGS INC.,Aktien Deutschland,Aktien SDAX",
+      "Current": "US00486H1059,A3C7M6,ADTRAN HOLDINGS INC.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "US68629Y1038,A3C684,\"ORION OFFICE REIT  DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 27,
+    "Deletions": 1
+  }
+}
