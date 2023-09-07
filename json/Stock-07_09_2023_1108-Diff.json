@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA4369131079,871014,HOME CAP. GRP INC.,Aktien International,Aktien International",
+    "KYG2743Y1061,A143U1,\"DALI FOODS GROUP  HD -, 01\",Aktien International,Aktien International",
+    "US20717E2000,A3DZF8,\"CONFORMIS NEW   DL-, 00001\",Aktien USA,Aktien USA Select",
+    "US34417P1003,A2JRK5,\"FOCUS FIN. PART.A DL-, 01\",Aktien USA,Aktien USA Select",
+    "US41358P1066,A2PCBT,HARPOON THERAPEUTICS,Aktien USA,Aktien USA Select",
+    "US65290C1053,A2PUQM,\"NEXTIER OILF.SOL. DL-, 01\",Aktien USA,Aktien USA Select",
+    "US6707041058,A0CAYR,NUVASIVE INC.,Aktien USA,Aktien USA Select",
+    "US7491191034,A142TT,\"QUOTIENT TECHN. DL-, 00001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA89680B2049,A3ETUT,TRIPSITTER CLINIC LTD.NEW,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}

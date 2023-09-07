@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "LU2037750168,A2PSY7,AIS-A.IN.BR.IN.DL10Y UEDR,ETFs,ETFs Sonstige Bonds",
+    "LU2109787478,A2PZDA,AIS-A.MSCI EESGLS UETFDRC,ETFs,ETFs Europa Gesamt",
+    "LU1681045883,A2H570,AIS-AM.MSCI WLD FIN.EOC,ETFs,ETFs Branchen",
+    "LU1681045966,A2H571,AIS-AM.MSCI WLD FIN.DLC,ETFs,ETFs Branchen"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000U99N3V1,A3EHAN,ISHSV-IBO25TDLT ()DLD,ETFs,ETFs Sonstige Bonds",
+    "IE000ZOI8OK5,A3EGGM,IV-IB1227TEEOCO ()EOA,ETFs,ETFs Sonstige Bonds",
+    "IE000GUOATN7,A3EGGL,IV-IB1225TEEOCO ()EOA,ETFs,ETFs Sonstige Bonds",
+    "IE000I1D7D10,A3EHAL,ISHSV-IBO27TDLC ()DLD,ETFs,ETFs Sonstige Bonds",
+    "IE0000X2DXK3,A3EHAQ,ISHSV-IBO25TDLC ()DLD,ETFs,ETFs Sonstige Bonds"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
