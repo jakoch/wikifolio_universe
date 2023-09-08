@@ -1,0 +1,18 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "US8068821060,899146,RADIUS RECYCLING INC.DL 1,Aktien USA,Aktien USA Select",
+      "Current": "US8068821060,899146,SCHNITZER STEEL  A  DL 1,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US96209A4013,A3EVA5,\"WEWORK INC. CL.A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "CA53680X1033,A3EQSS,LITIUM ION ENERGY LTD.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
