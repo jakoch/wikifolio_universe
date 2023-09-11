@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "BE0941243520,813153,ALIAXIS S.A.,Aktien Europa,Aktien Europa Select",
+    "BE0941244536,812955,ETEX GRP SA/NV,Aktien Europa,Aktien Europa Select",
+    "SE0019892167,A3EGKY,BETSSON AB  SER.B,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "SE0020845014,A3D4LT,BETSSON AB  SER.B,Aktien Europa,Aktien Europa Select",
+    "US41358P2056,A3EUUE,HARPOON THERAPEUTICS,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
