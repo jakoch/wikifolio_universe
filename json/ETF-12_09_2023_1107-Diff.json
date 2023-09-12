@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE000ETF7011,ETF701,AMU.MU.AS.PTF U.ETF DIST,ETFs,ETFs Welt",
+      "Current": "DE000ETF7011,ETF701,LYXOR.PTF ST-LYX.PTF ST.I,ETFs,sonstige ETFs"
+    }
+  ],
+  "Deletions": [
+    "LU1602144815,A2DR4Q,ISAISMJESGCNZACTB UEDYNA,ETFs,ETFs Asien"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
