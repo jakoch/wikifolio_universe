@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA64079L2049,A3DNZ2,NEPTUNE WELLNESS SOL.,Aktien USA,Aktien USA Select",
+    "DK0060534915,A1XA8R,NOVO NORDISK,Aktien Europa,Aktien Europa Select",
+    "FR001400HMK8,A3EJCT,\"VERGNET S.A.  EO 0, 76\",Aktien Europa,Aktien Europa Select",
+    "US55910K1088,A2JPD6,\"MAGENTA THERAP.   DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "FR001400JXA2,A3EJH9,\"VERGNET S.A.  EO 2, 50\",Aktien Europa,Aktien Europa Select",
+    "DK0062498333,A3EU6F,\"NOVO-NORDISK AS B  DK 0, 1\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
