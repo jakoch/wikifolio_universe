@@ -26,10 +26,10 @@ jobs:
 
     steps:
     - name: Checkout main branch
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Checkout gh-pages branch into data folder
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         ref: gh-pages
         path: data
