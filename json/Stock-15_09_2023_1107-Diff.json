@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "AU000000LCT6,A0B5ZQ,LIVING CELL TECHNOLOGIES LTD. REGISTERED SHARES O.,Aktien International,Aktien International",
+    "CA68405D1096,A2PX33,OPTIMUM VENTURES,Aktien International,Aktien International",
+    "MU0527S00004,A2AS8S,\"AZURE POWER GLOBAL DL-, 01\",Aktien USA,Aktien USA Select",
+    "US92672L1070,A2AE2S,VIEWRAY INC.,Aktien USA,Aktien USA Select",
+    "US86877M2098,A2JJ8Q,\"SURFACE ONCOLOGY DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA64079L3039,A3EVSV,NEPTUNE WELLNESS SOL.,Aktien USA,Aktien USA Select",
+    "US2528281080,A3ERZ4,DIANTHUS THERAPEUTICS,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
