@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "US0537348858,A3DHJM,\"AVINGER INC.      DL-, 001\",Aktien USA,Aktien USA Select",
+    "US98156Q1085,928669,\"WW ENTERTAIN A     DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US0537348775,A3ETCZ,\"AVINGER INC. NEW  DL-, 001\",Aktien USA,Aktien USA Select",
+    "AU0000296022,A3EVA9,ALGORAE PHARMACEUTICALS,Aktien International,Aktien International",
+    "ZAE000325783,A3EJLA,NASPERS LTD.     N RC 100,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
