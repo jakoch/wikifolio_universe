@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA02377G1054,A2PUXC,AMERICAN AIRES INC.,Aktien International,Aktien International",
+    "CA6976701079,A2QK6Q,PAMPA METALS CORP.,Aktien International,Aktien International",
+    "CA79586X1033,A1C8YT,SAMA RES INC/RESS.SAM.INC,Aktien International,Aktien International",
+    "CA83011Y1088,A2PK5X,SIXTH WAVE INNOVATIONS,Aktien International,Aktien International",
+    "CA89624B1040,A3DGCS,TRILLION ENERGY INTERNAT.,Aktien International,Aktien International",
+    "DE000A14KEB5,A14KEB,HOME24 SE  INH O.N.,Aktien Deutschland,Aktien Sonstige",
+    "FR0000032278,870166,LATECOERE S.A. INH.  EO 2,Aktien Europa,Aktien Europa Select",
+    "FR0011471135,A1T94R,\"ERYTECH PHARMA SA  EO-, 10\",Aktien Europa,Aktien Europa Select",
+    "GB00BN31ZD89,A116JH,\"YOURGENE HEALTH  LS 0, 001\",Aktien Europa,Aktien Europa Select",
+    "LU0062647861,986226,SISF EUR.EQ.YIELD BDISQF,Fonds,Fonds Aktien",
+    "NL0000440584,878074,ORDINA NV           EO-10,Aktien Europa,Aktien Europa Select",
+    "US0547481087,A2P5PN,\"AYRO INC.       DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US09215C1053,A2DYC9,\"BLACK KNIGHT INC.DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US86804F2020,A2PE0J,\"SUPER LEAGUE GAMING -, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "FR001400K4B1,A3EJH8,\"PHAXIAM THERAPEUT. EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "FR001400JY13,A3EJHQ,\"LATECOERE S.A. INH.EO-, 01\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 14,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
