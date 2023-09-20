@@ -1,0 +1,36 @@
+{
+  "Additions": [
+    "CA04017M1041,A2PZ3F,ARES STRATEGIC MINING,Aktien International,Aktien International",
+    "CA29643L1058,A3DQGT,ESGOLD CORP.,Aktien International,Aktien International",
+    "CA77289R2090,A2N4CA,ROCKCLIFF METALS CORP.,Aktien International,Aktien International",
+    "CA9866411080,A3DEPV,YORK HARBOUR METALS,Aktien International,Aktien International",
+    "FR0011950641,A116CC,\"PIXIUM VISION SA  EO -, 06\",Aktien Europa,Aktien Europa Select",
+    "KYG5223X1007,A2PH3M,\"KAIXIN AUTO HLD.DL-, 00005\",Aktien International,Aktien International",
+    "ZAE000149936,A1C815,\"ROYAL BAFOKENG PLA.RC-, 01\",Aktien Europa,Aktien Europa Select",
+    "US29604W1080,A2H7KA,\"PHAXIAM THERA. SP.ADR-, 10\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "KYG6683N1034,A3C82G,\"NU HLDGS  CL.A DL-, 000066\",Aktien USA,Aktien USA Select",
+      "Current": "KYG6683N1034,A3C82G,\"NU HLDGS  CL.A DL-, 000066\",Aktien International,Aktien International"
+    },
+    {
+      "Original": "US22002T1088,913833,COPT DEFENSE PROPERTIES,Aktien USA,Aktien USA Select",
+      "Current": "US22002T1088,913833,CORPORATE OFF. PR. TR. MD,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "FR001400JX97,A3EJJQ,\"PIXIUM VISION SA  EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "CA3719571018,A3ENW3,GENESIS AI CORP.,Aktien International,Aktien International",
+    "CA0926381058,A3CNHW,BLACKWOLF COPPER AND GOLD,Aktien International,Aktien International",
+    "US29604W2070,A3EV39,\"PHAXIAM THERA. SP.ADR-, 10\",Aktien Europa,Aktien Europa Select",
+    "CA98664A1084,A3EMCX,YORK HARBOUR METALS INC.,Aktien International,Aktien International",
+    "CA29643L2049,A3ET93,ESGOLD CORP.NEW,Aktien International,Aktien International",
+    "US9802283088,867328,WOODSIDE ENE. SP.ADR 1,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 2,
+    "Deletions": 7
+  }
+}
