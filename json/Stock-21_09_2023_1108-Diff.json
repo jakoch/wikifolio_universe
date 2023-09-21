@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "FR001400GUN7,A3D68D,\"PHARNEXT      EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "US74374T1097,A3CSDY,\"PROTERRA INC. A  DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US87407Q2075,A2JF0E,\"TAKUNA ART NEW DL -, 001\",Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA79588X1015,A3ESK0,SAMA RESOURCES INC.,Aktien International,Aktien International",
+    "US0547482077,A3ET82,\"AYRO INC. NEW   DL-, 0001\",Aktien USA,Aktien USA Select",
+    "FR001400JXB0,A3EJJD,\"PHARNEXT      EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "CA89624B3020,A3EVV5,TRILLION ENERGY INTERNAT.,Aktien International,Aktien International",
+    "US86804F3010,A3EWR2,\"SUPER LEAGUE ENTE.DL-, 001\",Aktien USA,Aktien USA Select",
+    "CA73689L2075,A2PBJT,PORTOFINO RESOURCES INC.,Aktien International,Aktien International",
+    "CA02377G2045,A3EQAF,AMERICAN AIRES INC. NEW,Aktien International,Aktien International",
+    "CA83011Y3068,A3EVVN,SIXTH WAVE INNOVATIONS,Aktien International,Aktien International",
+    "CA6976702069,A3EUKG,PAMPA METALS CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 9
+  }
+}
