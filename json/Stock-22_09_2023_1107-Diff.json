@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE000A0HHJR3,A0HHJR,CLIQ DIGITAL AG  O.N.,Aktien Deutschland,Aktien Sonstige",
+    "GB00B15FWH70,A0J2XW,CINEWORLD GROUP PLCSHS,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000A35JS40,A35JS4,CLIQ DIGITAL AG  NA O.N.,Aktien Deutschland,Aktien Sonstige",
+    "CA1956151098,A1C8BM,COLONIAL COAL INTL CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
