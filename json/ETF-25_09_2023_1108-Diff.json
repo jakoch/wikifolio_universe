@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "LU0908501215,LYX0Q2,LYXOR I.-CO.EO ST.50(DR)A,ETFs,ETFs Europa Gesamt",
+    "LU0908501488,LYX049,LIF-COR.E.ST50 EOD,ETFs,ETFs Europa Gesamt",
+    "LU1215415214,LYX0TM,MUL-LY.IB.EO L.H.Y.BB A,ETFs,ETFs Sonstige Bonds",
+    "LU1681040496,A2H580,AIS-AM.EO HYL EOC,ETFs,ETFs Europa Bonds",
+    "LU1681045024,A2H58P,AIS-AM.MSCI EM L.A.EOC,ETFs,ETFs Emerging Markets",
+    "LU1838002480,LYX0ZN,LYX.IF-ROB.AI DLA,ETFs,ETFs Branchen",
+    "LU1900066629,LYX02D,MUL-L.EM LA.AM. EOA,ETFs,ETFs Emerging Markets"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

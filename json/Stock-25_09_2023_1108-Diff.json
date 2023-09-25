@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "US0351282068,915102,ANGLOGOLD ASHANTI LTD.ADR,Aktien USA,Aktien USA Select",
+    "US70211M1099,928956,PARTNER CMNCTS ADR/1 O.N.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA04017M2031,A3EW1E,ARES STRATEGIC MININGNEW,Aktien International,Aktien International",
+    "KYG5223X1429,A3EUMK,\"KAIXIN AUTO HLD.DL-, 00075\",Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
