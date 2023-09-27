@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA0405821087,A2DRXX,ARIZONA SILVER EXPLOR.INC,Aktien International,Aktien International",
+    "US36809R3057,A3DWPB,\"GAUCHO GROUP HLDGS DL-, 01\",Aktien USA,Aktien USA Select",
+    "ZAE000043485,164180,\"ANGLOGOLD ASHANTI  RC-, 25\",Aktien Europa,Aktien Europa Select",
+    "US6993743029,A12EGE,\"PARATEK PHARMAC.  DL-, 001\",Aktien USA,Aktien USA Select",
+    "US74019L5030,A2PH8V,\"PRECIPIO INC.      DL-, 01\",Aktien USA,Aktien USA Select",
+    "US7504811032,A2QFUJ,\"RADIUS GL INF.A DL -, 0001\",Aktien USA,Aktien USA Select",
+    "US8265985007,A2P062,\"SIGMA LABS INC.   DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "GB00BRXH2664,A3EQAK,ANGLOGOLD ASHANTI DL 1,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
