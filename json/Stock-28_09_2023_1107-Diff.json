@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA3794281053,A2QM4T,GL.WELLNESS STRATS INC.,Aktien International,Aktien International",
+    "CA68616X1006,A14107,OREX MINERALS (NEW),Aktien International,Aktien International",
+    "US75615P1030,A2ALQV,\"REATA PHARMA INC. 0, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "KYG912241083,A3DZF7,TUHU CAR INC.,Aktien International,Aktien International",
+    "US36809R4048,A3EWGX,\"GAUCHO GROUP HLDGS DL-, 01\",Aktien USA,Aktien USA Select",
+    "US8265986096,A3EUNB,\"SIGMA ADDITIVE SO.DL-, 001\",Aktien USA,Aktien USA Select",
+    "GB00BNTVWJ75,A3EUL7,\"SYNTHOMER         LS -, 01\",Aktien Europa,Aktien Europa Select",
+    "AT000000ETS9,A3EVYK,EURO TELESITES AG INH.,Aktien Europa,Aktien Europa Select",
+    "US74019L6020,A3ETCE,\"PRECIPIO INC.     DL-, 001\",Aktien USA,Aktien USA Select",
+    "CA39115A1075,A3EQ9X,GREAT PAC GOLD      CL. A,Aktien International,Aktien International",
+    "CA04051N1096,A3EWF3,ARIZONA GOLD + SILVER INC,Aktien International,Aktien International",
+    "US3433894090,A3EVCH,\"FLOTEK INDS NEW  DL-, 0001\",Aktien USA,Aktien USA Select",
+    "CA13765Y1034,A3EV8J,CANNABIST CO.HLDG.INC,Aktien International,Aktien International",
+    "DE000A3ENQ51,A3ENQ5,SCHOTT PHARMA INH O.N.,Aktien Deutschland,Aktien Sonstige",
+    "DK0010256197,870246,HARTM.-BRDR.-NAM. B DK 20,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 12
+  }
+}
