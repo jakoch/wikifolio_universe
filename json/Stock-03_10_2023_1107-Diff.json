@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "FI0009003305,881463,SAMPO,Aktien Europa,Aktien Europa Select",
+    "NL0000303709,A0JL2Y,AEGON NV EO-12,Aktien Europa,Aktien Europa Select",
+    "SG1AI1000008,A14RBP,\"GOLDEN ENERGY+RES  SD-, 10\",Aktien International,Aktien International",
+    "US2787001096,A3DK6M,EBET INC.    O.N.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "BMG0112X1056,A3ET99,AEGON LTD.,Aktien Europa,Aktien Europa Select",
+    "US29482K1016,A2ARDK,EREGLI DEM CEL FABR   DL1,Aktien International,Aktien International",
+    "GB00BZ3CNK81,A2AGBV,\"TORM PLC A         DL-, 01\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
