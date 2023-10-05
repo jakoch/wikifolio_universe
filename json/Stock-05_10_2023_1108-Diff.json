@@ -1,0 +1,42 @@
+{
+  "Additions": [
+    "AU000000BNO5,936199,BIONOMICS LTD.,Aktien International,Aktien International",
+    "BMG6469T1009,A0J37L,NEWOCEAN ENERGY HLD.HD-10,Aktien International,Aktien International",
+    "CA37953Y1043,A110ZR,GLOBAL HEMP GROUP INC.,Aktien International,Aktien International",
+    "CA87320M1014,A3CNZW,TAAT GLOBAL ALTERNATIVES,Aktien International,Aktien International",
+    "FR0000031684,859054,ROTHSCHILD + CO. INH.EO 2,Aktien Europa,Aktien Europa Select",
+    "IE0001827041,864684,CRH,Aktien Europa,Aktien Europa Select",
+    "MHY8897Y1986,A3DWU5,\"TOP SHIPS          DL-, 01\",Aktien USA,Aktien USA Select",
+    "US0423155078,A14VN9,\"ARMOUR RES.REIT  DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US0843101017,A2P9RR,\"BERKELEY LIGHTS DL-, 00005\",Aktien USA,Aktien USA Select",
+    "US4500472042,907725,IRSA INV. Y REPR. ADR 10,Aktien USA,Aktien USA Select",
+    "US5368041076,A0YJFZ,\"LITHIUM CORP.    DL -, 001\",Aktien International,Aktien International",
+    "US98420U7037,A2P6RK,\"XWELL INC.         DL-, 01\",Aktien USA,Aktien USA Select",
+    "US83066P2002,A3CSAW,\"SKILLSOFT CORP.A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US87166B1026,A2JBKW,\"SYNEOS HEALTH A    DL-, 01\",Aktien USA,Aktien USA Select",
+    "US87166L1008,A2DWU0,\"SYNLOGIC INC.     DL-, 001\",Aktien USA,Aktien USA Select",
+    "US88337K3023,A2QFTR,\"THE9 LTD.ADR/30 DL-, 01\",Aktien International,Aktien International",
+    "US73181M1172,A2DT58,POLYUS PJSC GDR 1/2,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US4878361082,853265,\"KELLANOVA CO.     DL -, 25\",Aktien USA,Aktien USA Select",
+      "Current": "US4878361082,853265,\"KELLOGG CO.       DL -, 25\",Aktien USA,Aktien Dow Jones"
+    }
+  ],
+  "Deletions": [
+    "DE000RENK730,RENK73,RENK GROUP AG INH O.N.,Aktien Deutschland,Aktien Sonstige",
+    "CA76029E1060,A3ESFB,REPLENISH NUTRIENTS LTD,Aktien International,Aktien International",
+    "US2312693094,A3ETJD,\"CURIS INC.        DL -, 01\",Aktien USA,Aktien USA Select",
+    "US88337K4013,A3EUNV,\"THE9 LTD.ADR/300 DL-, 01\",Aktien International,Aktien International",
+    "US0423157058,A3EUUD,ARMOUR RES.REIT NEW,Aktien USA,Aktien USA Select",
+    "CA87320M2004,A3EWCR,TAAT GLOBAL ALTERNAT. NEW,Aktien International,Aktien International",
+    "DE0007850000,785000,RENK AG O.N.,Aktien Deutschland,Aktien Sonstige",
+    "US4500473032,A3EW2K,IRSA -INV Y REPR.  SP.ADR,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 17,
+    "Modifications": 1,
+    "Deletions": 8
+  }
+}
