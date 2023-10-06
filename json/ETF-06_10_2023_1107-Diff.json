@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "LU2446383171,A3D17Z,BPE-M.W.E.F.M.T CEOA,ETFs,ETFs Welt"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE00BL6K0S82,A2QNET,KSHS-M.A.C.H.C. DLA,ETFs,ETFs Asien",
+      "Current": "IE00BL6K0S82,A2QNET,KSHS-M.A.C.H.C. DLA,ETFs,ETFs Nordamerika"
+    }
+  ],
+  "Deletions": [
+    "IE000W8HP9L8,A3ERF1,BPEI-MWEFMTE U.ETFEOA,ETFs,ETFs Welt"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

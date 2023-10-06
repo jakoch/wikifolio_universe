@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA54342Q1063,A3DDZU,LOOKING GLASS LABS LTD,Aktien International,Aktien International",
+    "CA58118M1086,A2QNRL,MCI ONEHEALTH.TECHS CL.A,Aktien International,Aktien International",
+    "CA65345C3084,A3EFBG,NEXTECH AR SOLUT. CORP.,Aktien International,Aktien International",
+    "CA7241121077,A2PBQV,PIPESTONE ENERGY CORP.,Aktien International,Aktien International",
+    "DE000RENK730,RENK73,RENK GROUP AG INH O.N.,Aktien Deutschland,Aktien Sonstige",
+    "JP3251200006,870874,BK OF KYOTO LTD,Aktien International,Aktien International",
+    "US0079241032,873131,\"AEGON NV EO 0, 12 NY REG.1\",Aktien USA,Aktien USA Select",
+    "US0554742090,A3D3VB,BIT MINING C.A SP.ADR 100,Aktien International,Aktien International",
+    "US4448632038,A2QEQW,\"HUMANIGEN INC.    DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA6529371032,A3EWHW,NEXTECH3D.AI.CORP.   O.N.,Aktien International,Aktien International",
+    "US76954A1034,A3C47B,\"RIVIAN AUTOMOT.A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US2787002086,A3EWHU,EBET INC. NEW O.N.,Aktien USA,Aktien USA Select",
+    "US0076CA1045,A3EVGW,AEGON LTD. NY SHARES 1,Aktien Europa,Aktien Europa Select",
+    "CA54342Q2053,A3EWDF,LOOKING GLASS LABS LTD.,Aktien International,Aktien International",
+    "GB00BRJ7R218,A3EUM0,\"CAPRICO.EN. LS-, 051398686\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
