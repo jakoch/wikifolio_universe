@@ -1,0 +1,15 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU1681042864,A2H57D,AIS-AM.PEAMSCIUSAESGL.EOC,ETFs,ETFs Nordamerika",
+      "Current": "LU1681042864,A2H57D,AIS-AM.MSCI USA EOC,ETFs,ETFs Nordamerika"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

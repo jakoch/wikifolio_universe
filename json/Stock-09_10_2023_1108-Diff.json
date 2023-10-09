@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "CA40638K7050,A3DVFF,HALO COLLECTIVE INC. NEW,Aktien International,Aktien International",
+    "CA53680Q2071,A2H65X,LITHIUM AMERICAS CORP.,Aktien USA,Aktien USA Select",
+    "DE0007850000,785000,RENK AG O.N.,Aktien Deutschland,Aktien Sonstige",
+    "GB00BQ98V038,A3EEQ3,\"CAPRICO.EN. LS-, 034265734\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "JP3933800009,916008,LY CORP.,Aktien International,Aktien International",
+      "Current": "JP3933800009,916008,Z HOLDINGS CORP.,Aktien International,Aktien International"
+    },
+    {
+      "Original": "US9388241096,896421,WAFD INC.            DL 1,Aktien USA,Aktien USA Select",
+      "Current": "US9388241096,896421,WASHINGTON FED.      DL 1,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "JP3252200005,A3EVCZ,KYOTO FINANCIAL GR. INC.,Aktien International,Aktien International",
+    "US92942W1071,A3ES80,\"W.K. KELLOGG CO. DL-, 0001\",Aktien USA,Aktien USA Select",
+    "MHY8897Y2307,A3EUNR,\"TOP SHIPS          DL-, 01\",Aktien USA,Aktien USA Select",
+    "US92338C1036,A3ES7Q,VERALTO CORP.,Aktien USA,Aktien USA Select",
+    "US87166L2097,A3EWCN,\"SYNLOGIC INC.     DL-, 001\",Aktien USA,Aktien USA Select",
+    "US98420U8027,A3EVZ8,XWELL INC.,Aktien USA,Aktien USA Select",
+    "US83066P3091,A3EUNX,\"SKILLSOFT CORP.A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "CA37953Y2033,A3EWGJ,GLOBAL HEMP GROUP INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 8
+  }
+}
