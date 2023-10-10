@@ -1,0 +1,165 @@
+{
+  "Additions": [
+    "JP3252200005,A3EVCZ,KYOTO FINANCIAL GR. INC.,Aktien International,Aktien International",
+    "MHY8897Y2307,A3EUNR,\"TOP SHIPS          DL-, 01\",Aktien USA,Aktien USA Select",
+    "US00808Y3071,A2PTUU,\"AETHLON MEDIC.NEW DL-, 001\",Aktien USA,Aktien USA Select",
+    "US0423157058,A3EUUD,ARMOUR RES.REIT NEW,Aktien USA,Aktien USA Select",
+    "US0547482077,A3ET82,\"AYRO INC. NEW   DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US2528281080,A3ERZ4,DIANTHUS THERAPEUTICS,Aktien USA,Aktien USA Select",
+    "US30219E2028,A3ETCY,\"EXPRESS INC. NEW   DL-, 01\",Aktien USA,Aktien USA Select",
+    "US41358P2056,A3EUUE,HARPOON THERAPEUTICS,Aktien USA,Aktien USA Select",
+    "US96209A4013,A3EVA5,\"WEWORK INC. CL.A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US98420U8027,A3EVZ8,XWELL INC.,Aktien USA,Aktien USA Select",
+    "US98986X1090,A14XCV,ZYNERBA PHARMACEUTICALS INC.,Aktien USA,Aktien USA Select",
+    "US80512Q3039,A3CU19,\"SAVE FOODS INC.  DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US87166L2097,A3EWCN,\"SYNLOGIC INC.     DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "IL0010811243,904218,ELBIT SYS LTD,Aktien International,Aktien International",
+      "Current": "IL0010811243,904218,ELBIT SYS LTD,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010823123,885455,\"MAGIC SOFTWARE ENT.IS-, 01\",Aktien International,Aktien International",
+      "Current": "IL0010823123,885455,\"MAGIC SOFTWARE ENT.IS-, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010823792,893169,\"TOWER SEMICON. LTD IS-, 10\",Aktien International,Aktien International",
+      "Current": "IL0010823792,893169,\"TOWER SEMICON. LTD IS-, 10\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010824113,901638,CHECK POINT SOFTW. TECHS,Aktien International,Aktien International",
+      "Current": "IL0010824113,901638,CHECK POINT SOFTW. TECHS,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010826191,907204,\"SHARPLINK GAMING   IS-, 60\",Aktien International,Aktien International",
+      "Current": "IL0010826191,907204,\"SHARPLINK GAMING   DL-, 03\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010829658,922683,\"AUDIOCODES LTD.   IS 0, 01\",Aktien International,Aktien International",
+      "Current": "IL0010829658,922683,\"AUDIOCODES LTD.   IS 0, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010830961,920474,\"SUPERCOM LTD.     IS 2, 5\",Aktien International,Aktien International",
+      "Current": "IL0010830961,920474,\"SUPERCOM LTD.     IS -, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010845571,937092,NOVA LTD.,Aktien International,Aktien International",
+      "Current": "IL0010845571,937092,NOVA LTD.,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010851660,941230,CERAG.NETW.,Aktien International,Aktien International",
+      "Current": "IL0010851660,941230,CERAG.NETW.,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010952641,A0H0YX,CAMTEK LTD.,Aktien International,Aktien International",
+      "Current": "IL0010952641,A0H0YX,CAMTEK LTD.,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010958192,A0JC7P,PERION NETWORK LTD.,Aktien International,Aktien International",
+      "Current": "IL0010958192,A0JC7P,PERION NETWORK LTD.,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0010996549,A0LE7C,\"ALLOT LTD.        DL -, 01\",Aktien International,Aktien International",
+      "Current": "IL0010996549,A0LE7C,\"ALLOT LTD.        DL -, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011216723,A14RF6,\"KORNIT DIGITAL    IS -, 01\",Aktien International,Aktien International",
+      "Current": "IL0011216723,A14RF6,\"KORNIT DIGITAL    IS -, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011259137,A1JV50,\"CAESARSTONE LTD.  IS -, 04\",Aktien International,Aktien International",
+      "Current": "IL0011259137,A1JV50,\"CAESARSTONE LTD.  IS -, 04\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011284465,A1W3GY,\"PLUS500 LTD.      LS -, 01\",Aktien International,Aktien International",
+      "Current": "IL0011284465,A1W3GY,\"PLUS500 LTD.      LS -, 01\",Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "IL0011301780,A1W7AU,\"WIX.COM LTD       IS -, 01\",Aktien International,Aktien International",
+      "Current": "IL0011301780,A1W7AU,\"WIX.COM LTD       IS -, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011313900,A1XFUX,\"GALMED PHARMACEUT.IS-, 15\",Aktien International,Aktien International",
+      "Current": "IL0011313900,A1XFUX,\"GALMED PHARMACEUT.IS -, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011316309,A110TG,\"MEDIWOUND LTD      IS-, 01\",Aktien International,Aktien International",
+      "Current": "IL0011316309,A110TG,\"MEDIWOUND LTD      IS-, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011319527,A119KH,\"ENLIVEX THERAP.LTD.IS-, 01\",Aktien International,Aktien International",
+      "Current": "IL0011319527,A119KH,\"ENLIVEX THERAP.LTD.IS-, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011331076,A12BMB,\"REWALK ROBOTICS   IS -, 01\",Aktien International,Aktien International",
+      "Current": "IL0011331076,A12BMB,\"REWALK ROBOTICS   IS -, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011334468,A12CPP,\"CYBERARK SOFTWARE  IS-, 01\",Aktien International,Aktien International",
+      "Current": "IL0011334468,A12CPP,\"CYBERARK SOFTWARE  IS-, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011336851,A14QUF,CHECK-CAP LTD IS 48,Aktien International,Aktien International",
+      "Current": "IL0011336851,A14QUF,\"CHECK-CAP LTD IS -, 20\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011407140,A2DTCV,\"UROGEN PHARMA LTD IS -, 01\",Aktien International,Aktien International",
+      "Current": "IL0011407140,A2DTCV,\"UROGEN PHARMA LTD IS -, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011582033,A2PLX6,FIVERR INTERNATIONAL LTD,Aktien International,Aktien International",
+      "Current": "IL0011582033,A2PLX6,FIVERR INTERNATIONAL LTD,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "IL0011595993,A2PP3A,\"INMODE LTD      IS -, 01\",Aktien International,Aktien International",
+      "Current": "IL0011595993,A2PP3A,\"INMODE LTD      IS -, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US63008G2030,A2PTUS,NANODIMENSION ADR 50 DL1,Aktien International,Aktien International",
+      "Current": "US63008G2030,A2PTUS,NANODIMENSION ADR 50 DL1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US09071M2052,A2PNW3,\"BIOLIN.RX S.ADR 15 IL-, 01\",Aktien International,Aktien International",
+      "Current": "US09071M2052,A2PNW3,\"BIOLIN.RX S.ADR 15 IL-, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US98386D3070,A2DK34,XTL BIOPHARMA. ADR 100,Aktien International,Aktien International",
+      "Current": "US98386D3070,A2DK34,XTL BIOPHARMA. ADR 100,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US6536561086,905394,NICE LTD. ADR/4 O.N.,Aktien International,Aktien International",
+      "Current": "US6536561086,905394,NICE LTD. ADR/4 O.N.,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US68403P2039,A1CTNU,\"ORAMED PHARMA.NEW DL-, 001\",Aktien International,Aktien International",
+      "Current": "US68403P2039,A1CTNU,\"ORAMED PHARMA.NEW DL-, 001\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US83417M1045,A14QVM,\"SOLAREDGE TECHN. DL-, 0001\",Aktien International,Aktien International",
+      "Current": "US83417M1045,A14QVM,\"SOLAREDGE TECHN. DL-, 0001\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US8816242098,883035,TEVA PHARMACEUT. SP.ADR,Aktien International,Aktien International",
+      "Current": "US8816242098,883035,TEVA PHARMACEUT. SP.ADR,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US7999261008,A3EVQW,SANDOZ GR.AG SP.ADR/1/1,Aktien Europa,Aktien Europa Select",
+    "IL0010849045,901876,\"BATM ADV. COMMCTNS IS-, 01\",Aktien International,Aktien International",
+    "CA42249X1006,A3EWDE,HEALWELL AI  CL.A SUB.VTG,Aktien International,Aktien International",
+    "IL0011429839,A2JQXP,\"ENTERA BIO IS-, 0000769\",Aktien International,Aktien International",
+    "IL0010826357,897517,ELLOMAY CAPITAL LTD.,Aktien International,Aktien International",
+    "IL0011410359,A2DUAF,\"ETHERNITY NETW.(DI) -, 001\",Aktien International,Aktien International",
+    "KYG7T16G1039,A2N4QA,\"SAPIENS INTL       DL-, 01\",Aktien International,Aktien International",
+    "IL0010958762,A0JEQ2,\"MTI WIRELESS EDGE IS -, 01\",Aktien International,Aktien International",
+    "US3464141056,912648,FORMULA SYS 1985 ADR,Aktien International,Aktien International",
+    "IL0011417206,A2JDHD,\"SOL-GEL TECHN. IS-, 10\",Aktien International,Aktien International",
+    "IL0010826928,898666,\"SILICOM LTD        IS-, 01\",Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 13,
+    "Modifications": 32,
+    "Deletions": 11
+  }
+}
