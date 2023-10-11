@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA3805561006,A2QB29,GOLD BULL RESOURCES CORP.,Aktien International,Aktien International",
+    "CA56389K1084,A2PUAX,MANNING VENTURES INC.,Aktien International,Aktien International",
+    "CA8934631091,A1W3NJ,TRANSALTA RENEWABLES INC.,Aktien International,Aktien International",
+    "VGG2161P1320,A3DL9F,\"CHINA SXT PHARMAC.DL-, 004\",Aktien International,Aktien International"
+  ],
+  "Modifications": [
+    {
+      "Original": "CH0023405456,A0HMLM,AVOLTA AG       NAM. SF 5,Aktien Europa,Aktien Europa Select",
+      "Current": "CH0023405456,A0HMLM,DUFRY AG,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "JE00BS44BN30,A3EXD1,Birkenstock,Aktien USA,Aktien USA Select",
+    "CA53681K1003,A3ER6Y,LITHIUM AMERICAS CORP.,Aktien USA,Aktien USA Select",
+    "CA3805564075,A3EVXA,GOLD BULL RESOURCES CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}

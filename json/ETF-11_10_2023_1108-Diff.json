@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "DE000A3GVKX6,A3GVKX,ETC ISSUANCE O.END ETN,ETFs,sonstige ETFs",
+    "DE000A3GWNP4,A3GWNP,ETC ISSUANCE O.END ETN,ETFs,sonstige ETFs"
+  ],
+  "Modifications": [
+    {
+      "Original": "LU2089238625,A2PWMN,AIS-AM.EUR CO.BD UEDREOA,ETFs,ETFs Europa Bonds",
+      "Current": "LU2089238625,A2PWMN,AM.I.S.-A.P.EO CO.UEDREOA,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "LU2182388665,A2P6TS,AIS-A.US T.BD0-1ETF DRDLA,ETFs,ETFs Sonstige Bonds",
+      "Current": "LU2182388665,A2P6TS,AIS-P.U.T.B.0-1 ETF DRDLA,ETFs,ETFs Sonstige Bonds"
+    },
+    {
+      "Original": "LU2182388749,A2P6TT,AIS-A.US T.BD0-1ETF HDGEO,ETFs,ETFs Sonstige Bonds",
+      "Current": "LU2182388749,A2P6TT,AIS-P.U.T.B.0-1 ETF HDGEO,ETFs,ETFs Sonstige Bonds"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 3,
+    "Deletions": 0
+  }
+}
