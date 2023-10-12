@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA38940L1067,A2QAW2,GRAYCLIFF EXPLORATION LTD,Aktien International,Aktien International",
+    "DE0005408116,540811,AAREAL BANK AG,Aktien Deutschland,Aktien MDAX",
+    "IE00BQPVQZ61,A12B8E,\"HORIZON THERAP.PLC DL-, 01\",Aktien Europa,Aktien Europa Select",
+    "US34960Q1094,A14SJV,\"FORTRESS BIOTECH  DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000A37FT90,A37FT9,AAREAL BANK AG NA O.N.,Aktien Deutschland,Aktien Sonstige",
+    "US80512Q4029,A3EWC8,\"SAVE FOODS INC. DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US00808Y4061,A3EW0P,\"AETHLON MEDIC.NEW DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
