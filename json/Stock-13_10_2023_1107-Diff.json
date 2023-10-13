@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "AU000000MGV1,A1H754,MUSGRAVE MINERALS LTD,Aktien International,Aktien International",
+    "FI4000518345,A3DQXM,NORDIC LIGHTS GROUP EO 1,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "GB00BG12Y042,A2JGLJ,\"ENERGEAN PLC      LS -, 01\",Aktien Europa,Aktien Europa Select",
+      "Current": "GB00BG12Y042,A2JGLJ,\"ENERGEAN OIL+GAS LS -, 01\",Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "JE00BS44BN30,A3EXD1,BIRKENSTOCK HOLDING PLC,Aktien USA,Aktien USA Select",
+      "Current": "JE00BS44BN30,A3EXD1,Birkenstock,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA56389K2074,A3EWMU,MANNING VENTURES INC.,Aktien International,Aktien International",
+    "CA53681J1030,A3ERHF,LITHIUM AMERICAS CORP.,Aktien USA,Aktien USA Select",
+    "VGG2161P1403,A3EV76,CHINA SXT PHARM. NEW O.N.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}

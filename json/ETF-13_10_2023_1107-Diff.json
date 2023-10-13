@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "IE00BHZKHS06,A1XE2P,L+G-L+G US EN.INF.MLP,ETFs,ETFs Branchen",
+    "IE00BLF7VW10,A2QB0P,SPDR BL.SASB EO EOA,ETFs,ETFs Europa Bonds"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "LU2641054551,DBX0T8,X.2-G.G.B.0-1 E 1CEOA,ETFs,ETFs Europa Bonds",
+    "LU2641053827,DBX0T5,X2-I.E.G.B.Y.P 1CEOA,ETFs,ETFs Europa Bonds"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
