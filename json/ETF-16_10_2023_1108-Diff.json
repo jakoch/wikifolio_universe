@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "LU1440654330,A2ANVN,ICBCCS WISDOMTREE S&P CHINA500,ETFs,ETFs Asien"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000ETF9603,ETF960,AMUNDI-A.ST.EO600ESG2 DIS,ETFs,ETFs Europa Gesamt",
+      "Current": "DE000ETF9603,ETF960,COMSTAGE 1-ST.E.600 U.E.I,ETFs,ETFs Europa Gesamt"
+    },
+    {
+      "Original": "FR0010869578,LYX0FW,AM.GRM.BD DLY(-2X)INV.UEA,ETFs,ETFs Europa Bonds",
+      "Current": "FR0010869578,LYX0FW,LYXOR ETF DAILY DOUBLE SHORT BUND,ETFs,ETFs Europa Bonds"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

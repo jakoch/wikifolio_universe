@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "DK0060495240,A1WZM4,SIMCORP A/S,Aktien Europa,Aktien Europa Select",
+    "US89853L2034,A3DXLT,\"T2 BIOSYSTEMS     DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US8767041077,A0YHJ9,TAV HAVALIMAN.HLDG ADR/4,Aktien International,Aktien International",
+    "US3454091063,A1H5BX,FORD OTOMOT.SAN.ADR/5 TN1,Aktien International,Aktien International",
+    "US34960Q3074,A3EWWP,FORTRESS BIOTECH INC. NEW,Aktien USA,Aktien USA Select",
+    "US49989A1097,A0X92U,KOC HOLDING ADR/5 TN 1,Aktien International,Aktien International",
+    "CA22608C3012,A3EWZV,CREST RESOURCES INC.,Aktien International,Aktien International",
+    "CA38940L2057,A3EWZU,GRAYCLIFF EXPLORATION NEW,Aktien International,Aktien International",
+    "US0325232017,766622,ANADOLU E.BIR.M. ADR 1/5,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 7
+  }
+}
