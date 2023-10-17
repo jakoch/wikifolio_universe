@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "US37954Y6656,A2DM8S,GLOBAL X MSCI NIGERIA NEW,ETFs,ETFs Nordamerika"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0010315770,LYX0AG,MUF-AMUNDI MSCI WLD2 D,ETFs,ETFs Welt",
+      "Current": "FR0010315770,LYX0AG,LYXOR ETF MSCI WORLD,ETFs,ETFs Welt"
+    },
+    {
+      "Original": "FR0011607084,LYX0RP,MUF-AM.USTR.10YD(-2X)IN.A,ETFs,ETFs Sonstige Bonds",
+      "Current": "FR0011607084,LYX0RP,LYX.10YUS T.D.(-2X)I.UE A,ETFs,ETFs Sonstige Bonds"
+    },
+    {
+      "Original": "FR0011660927,LYX0R5,MUF-AMUNDI MSCI WLD2 EOHD,ETFs,ETFs Welt",
+      "Current": "FR0011660927,LYX0R5,LYXOR ETF MSCI WDH,ETFs,ETFs Welt"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 3,
+    "Deletions": 0
+  }
+}

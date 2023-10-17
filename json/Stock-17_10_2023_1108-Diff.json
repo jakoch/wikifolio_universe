@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "BE0003826436,A0HFV9,TELENET,Aktien Europa,Aktien Europa Select",
+    "CA22608C2022,A3D681,CREST RESOURCES INC.,Aktien International,Aktien International",
+    "US00507V1098,A0Q4K4,ACTIVISION BLIZZARD INC.,Aktien USA,Aktien NASDAQ 100 Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US03937X1090,A2ARDL,ARCELIK AS ADR        DL1,Aktien International,Aktien International",
+    "US90011Q1004,A2DKM4,TURK TELEK.(UN.ADR)/2 TN1,Aktien International,Aktien International",
+    "CH1243598427,A3ETYB,\"SANDOZ GROUP AG   SF -, 05\",Aktien Europa,Aktien Europa Select",
+    "US90010R1095,A1XB22,TURK HA.YO.UNS.ADR 10 TN1,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
