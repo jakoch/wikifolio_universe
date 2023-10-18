@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE000LS9EEB7,LS9EEB,Trend Biotech & Gesundheit,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9ESF8,LS9ESF,Only One - nur 1 Trendaktie,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9UJF3,LS9UJF,Sentiment-Analyse mit muffin,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9SYU5,LS9SYU,Trend Catching,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9SBP3,LS9SBP,Breakout Strategy,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

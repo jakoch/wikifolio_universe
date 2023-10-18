@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "FR0012788065,A14V4G,\"BIOCORP PRODUCTION EO-, 05\",Aktien Europa,Aktien Europa Select",
+    "US03842K2006,A2DJ46,AQUABOUNTY           O.N.,Aktien USA,Aktien USA Select",
+    "US6365181022,894640,\"NATL INSTRUMENTS   DL-, 01\",Aktien USA,Aktien USA Select",
+    "US6025661017,A2QAZ3,\"MIND TECHNOL. INC. DL-, 01\",Aktien USA,Aktien USA Select",
+    "US82452L3024,A3DWEU,\"SHIFTPIXY INC. DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US0077441055,A3C8HD,\"MOLEKULE GROUP INC.DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US0077441055,A3C8HD,\"AEROCLEAN TECH.INC.DL-, 01\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "IL0011762130,A3CR1P,MONDAY.COM LTD,Aktien International,Aktien International",
+    "CA88338H7040,A3ERKM,THERATECHNOLOGIES INC.,Aktien USA,Aktien USA Select",
+    "US89853L3024,A3EU63,\"T2 BIOSYSTEMS NEW DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
