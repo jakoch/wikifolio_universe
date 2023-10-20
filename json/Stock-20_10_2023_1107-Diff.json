@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "DE0005008007,500800,ADLER REAL ESTATE AG,Aktien Deutschland,Aktien Sonstige",
+    "DE000A0L1NN5,A0L1NN,HELIAD EQ.PARTN. NA O.N.,Aktien Deutschland,Aktien Sonstige",
+    "HK8028008944,931025,TIMELESS SOFTWARE LTD. REGISTERED SHARES O.N.,Aktien International,Aktien International",
+    "NL0012084479,A2DG7M,MERIDIAN MINING SE,Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US82452L4014,A3EVGF,SHIFTPIXY INC. NEW,Aktien USA,Aktien USA Select",
+    "SE0017160773,A3DBA2,NCAB GROUP AB,Aktien Europa,Aktien Europa Select",
+    "SE0020539310,A3EUND,SECTRA AB,Aktien Europa,Aktien Europa Select",
+    "US6025663096,A3EWMR,\"MIND TECHNOL. NEW  DL-, 01\",Aktien USA,Aktien USA Select",
+    "US03842K3095,A3EUTZ,AQUABOUNTY           O.N.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
