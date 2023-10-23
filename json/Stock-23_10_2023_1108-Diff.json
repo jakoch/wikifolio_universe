@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA5401981082,A3DJZC,LODE METALS CORP.,Aktien International,Aktien International"
+  ],
+  "Modifications": [
+    {
+      "Original": "US0787713009,A2PZZR,\"BELLEROPHON THERAP.DL-, 01\",Aktien International,Aktien International",
+      "Current": "US0787713009,A2PZZR,\"BELLEROPHON THERAP.DL-, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US43358Y2028,A3DMJS,\"HISTOGEN INC. DL-, 0001\",Aktien International,Aktien International",
+      "Current": "US43358Y2028,A3DMJS,\"HISTOGEN INC. DL-, 0001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "KYG508752055,A3EUTY,\"JE CLEANTECH H.LTD 0, 003\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

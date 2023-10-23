@@ -1,0 +1,27 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE00B50XJX92,A1C79U,UBS FDSO-CMCI C.SF LSAA,ETFs,ETFs DAX",
+      "Current": "IE00B50XJX92,A1C79U,UBS FDSO-CMCI C.SF LSAA,ETFs,ETFs Rohstoffe ETCs"
+    },
+    {
+      "Original": "LU2451511526,A3DHM8,AIS-A.US T.BD0-1ETFDRHSDA,ETFs,ETFs Sonstige Bonds",
+      "Current": "LU2451511526,A3DHM8,AIS-P.U.T.B.0-1 DRHSDA,ETFs,ETFs Sonstige Bonds"
+    },
+    {
+      "Original": "IE00BYYLVH00,A2DQ7Z,UBS FDSO-BLOOMB.C.CM.DLAA,ETFs,ETFs DAX",
+      "Current": "IE00BYYLVH00,A2DQ7Z,UBS FDSO-BLOOMB.C.CM.DLAA,ETFs,ETFs Rohstoffe ETCs"
+    },
+    {
+      "Original": "LU1291103338,A2AL1U,BNPPE-M.USA SRISS5C.UECDL,ETFs,ETFs DAX",
+      "Current": "LU1291103338,A2AL1U,BNPPE-M.USA SRISS5C.UECDL,ETFs,ETFs Rohstoffe ETCs"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 4,
+    "Deletions": 0
+  }
+}
