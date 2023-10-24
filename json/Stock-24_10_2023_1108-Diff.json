@@ -1,0 +1,193 @@
+{
+  "Additions": [
+    "CA26917E1060,A2QFZR,E79 RESOURCES CORP.,Aktien International,Aktien International",
+    "DE0007830788,783078,IFA SYSTEMS AG,Aktien Deutschland,Aktien Sonstige",
+    "NL0015000MZ1,A3C80R,\"MFE-MEDIAFOREU. A EO -, 06\",Aktien Europa,Aktien Europa Select",
+    "US29076N2062,A0LC4K,\"EMAGIN CORP. NEW  DL -, 01\",Aktien International,Aktien International",
+    "US7021491052,A14RM2,\"PARTY CITY HOLDCO  DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "BRGGBRACNPR8,909187,GERDAU S.A. PFD,Aktien International,Aktien International",
+      "Current": "BRGGBRACNPR8,909187,GERDAU S.A. PFD,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "KYG872641009,A1XBE8,\"TECNOGLASS INC.  DL-, 0001\",Aktien International,Aktien International",
+      "Current": "KYG872641009,A1XBE8,\"TECNOGLASS INC.  DL-, 0001\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US00776D2027,A3DZVE,AENZA S.A.A      ADR/15,Aktien International,Aktien International",
+      "Current": "US00776D2027,A3DZVE,AENZA S.A.A      ADR/15,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US02319V1035,A1W749,AMBEV S.A. SP. ADR,Aktien International,Aktien International",
+      "Current": "US02319V1035,A1W749,AMBEV S.A. SP. ADR,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US02390A1016,A3D8PK,AMERICA MOVIL SAB ADR/20,Aktien International,Aktien International",
+      "Current": "US02390A1016,A3D8PK,AMERICA MOVIL SAB ADR/20,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US05501U1060,A14L9W,AZUL SA PFD ADR 1,Aktien International,Aktien International",
+      "Current": "US05501U1060,A14L9W,AZUL SA PFD ADR 1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US0594603039,A0B9WE,BANCO BRADESCO PFD 04 ADR,Aktien International,Aktien International",
+      "Current": "US0594603039,A0B9WE,BANCO BRADESCO PFD 04 ADR,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US0595201064,529496,BANCO DE CHILE ADR/200,Aktien International,Aktien International",
+      "Current": "US0595201064,529496,BANCO DE CHILE ADR/200,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US05965X1090,904916,BCO SANTAN.CHILE ADR/1039,Aktien International,Aktien International",
+      "Current": "US05965X1090,904916,BCO SANTAN.CHILE ADR/1039,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US05968L1026,896739,BANCOLOMB. ADR/4 KP 500,Aktien International,Aktien International",
+      "Current": "US05968L1026,896739,BANCOLOMB. ADR/4 KP 500,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US10552T1079,A0N9BM,BRF ADR 1,Aktien International,Aktien International",
+      "Current": "US10552T1079,A0N9BM,BRF ADR 1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US12122L1017,A2QJYD,BURGERFI INTERNATIONAL,Aktien International,Aktien International",
+      "Current": "US12122L1017,A2QJYD,BURGERFI INTERNATIONAL,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US15126Q2084,A2DMHF,\"CEMENTOS PACASM. ADR/1, 5\",Aktien International,Aktien International",
+      "Current": "US15126Q2084,A2DMHF,\"CEMENTOS PACASM. ADR/1, 5\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US1512908898,925905,CEMEX SAB.CPO SP.ADR/10,Aktien International,Aktien International",
+      "Current": "US1512908898,925905,CEMEX SAB.CPO SP.ADR/10,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US15234Q1085,901849,CENTRAIS EL.BR.EL.PFD ADR,Aktien International,Aktien International",
+      "Current": "US15234Q1085,901849,CENTRAIS EL.BR.EL.PFD ADR,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US1912411089,887811,COCA-COLA FEMSA L ADR/10,Aktien International,Aktien International",
+      "Current": "US1912411089,887811,COCA-COLA FEMSA L ADR/10,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US2044096012,895236,CIA EN.GER.ADR PFD NV 1,Aktien International,Aktien International",
+      "Current": "US2044096012,895236,CIA EN.GER.ADR PFD NV 1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US20440W1053,907167,CIA SIDERURGICA ADR 1,Aktien International,Aktien International",
+      "Current": "US20440W1053,907167,CIA SIDERURGICA ADR 1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US20441A1025,621975,CIA SANEAMENTO BA.ADR/2,Aktien International,Aktien International",
+      "Current": "US20441A1025,621975,CIA SANEAMENTO BA.ADR/2,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US2044291043,885057,CIA CERV. UNIDAS ADR/2,Aktien International,Aktien International",
+      "Current": "US2044291043,885057,CIA CERV. UNIDAS ADR/2,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US2044481040,900844,CIA DE MIN. BUEN. B ADR 1,Aktien International,Aktien International",
+      "Current": "US2044481040,900844,CIA DE MIN. BUEN. B ADR 1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US2791581091,A0Q9ZL,ECOPETROL S.A. ADR/20,Aktien International,Aktien International",
+      "Current": "US2791581091,A0Q9ZL,ECOPETROL S.A. ADR/20,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US29081P2048,906417,EMBOTELL. ANDINA ADR A/6,Aktien International,Aktien International",
+      "Current": "US29081P2048,906417,EMBOTELL. ANDINA ADR A/6,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US29081P3038,906418,EMBOTELL. ANDINA ADR B/6,Aktien International,Aktien International",
+      "Current": "US29081P3038,906418,EMBOTELL. ANDINA ADR B/6,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US29278D1054,A2AGY6,ENEL CHILE SA ADR REGS/50,Aktien International,Aktien International",
+      "Current": "US29278D1054,A2AGY6,ENEL CHILE SA ADR REGS/50,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US29286U1079,A2ASWZ,ENGIE BRASIL ENER. ADR 1,Aktien International,Aktien International",
+      "Current": "US29286U1079,A2ASWZ,ENGIE BRASIL ENER. ADR 1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US3737371050,915270,GERDAU S.A. PFD ADR 1,Aktien International,Aktien International",
+      "Current": "US3737371050,915270,GERDAU S.A. PFD ADR 1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US38045R2067,A2AE3E,GOL L.A.I.PFD ADR 1/2,Aktien International,Aktien International",
+      "Current": "US38045R2067,A2AE3E,GOL L.A.I.PFD ADR 1/2,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US40049J2069,888781,GRUPO TELEVISA ADR/5 CPO,Aktien International,Aktien International",
+      "Current": "US40049J2069,888781,GRUPO TELEVISA ADR/5 CPO,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US4005011022,A0LFER,GR.AERO.D.CEN.NOR.B ADR/8,Aktien International,Aktien International",
+      "Current": "US4005011022,A0LFER,GR.AERO.D.CEN.NOR.B ADR/8,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US4005061019,A0JDTM,GRUPO AERO.D.PAC.B ADR/10,Aktien International,Aktien International",
+      "Current": "US4005061019,A0JDTM,GRUPO AERO.D.PAC.B ADR/10,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US40051E2028,579253,GRUPO AEROPORTU. B ADR/10,Aktien International,Aktien International",
+      "Current": "US40051E2028,579253,GRUPO AEROPORTU. B ADR/10,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US40053W1018,A12A8M,GRUPO AV.ACC.V.ADR/20 KP1,Aktien International,Aktien International",
+      "Current": "US40053W1018,A12A8M,GRUPO AV.ACC.V.ADR/20 KP1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US45033E1055,A2AGGF,\"BANCO IT.ADR REG.S/0, 3333\",Aktien International,Aktien International",
+      "Current": "US45033E1055,A2AGGF,BANCO ITAU ADR REG.S/1500,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US4655621062,A0RGKJ,ITAU UNIBCO HLDG ADR PFD1,Aktien International,Aktien International",
+      "Current": "US4655621062,A0RGKJ,ITAU UNIBCO HLDG ADR PFD1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US71654V1017,615375,PETROL.BRAS.PFD ADR/2 O.N,Aktien International,Aktien International",
+      "Current": "US71654V1017,615375,PETROL.BRAS.PFD ADR/2 O.N,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US71654V4086,541501,PETROLEO BRASILEIRO ADR/2,Aktien International,Aktien International",
+      "Current": "US71654V4086,541501,PETROLEO BRASILEIRO ADR/2,Aktien USA,Aktien Dow Jones"
+    },
+    {
+      "Original": "US8336351056,895007,SOC. QUIMICA MIN.ADR B 1,Aktien International,Aktien International",
+      "Current": "US8336351056,895007,SOC. QUIMICA MIN.ADR B 1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US90400P1012,928325,ULTRAPAR PART. PFD ADR 1,Aktien International,Aktien International",
+      "Current": "US90400P1012,928325,ULTRAPAR PART. PFD ADR 1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US91912E1055,A0RN7M,VALE S.A. ADR 1,Aktien International,Aktien International",
+      "Current": "US91912E1055,A0RN7M,VALE S.A. ADR 1,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "BMG383271050,A0JML6,\"GEOPARK LTD.     DL -, 001\",Aktien International,Aktien International",
+    "NL0015001OJ9,A3EXL9,\"MFE-MEDIAFOREU. B EO -, 60\",Aktien Europa,Aktien Europa Select",
+    "NL0015001OI1,A3EXMP,\"MFE-MEDIAFOREU. A EO -, 06\",Aktien Europa,Aktien Europa Select",
+    "MX01OR010004,A2PRMA,ORBIA ADVANCE CORP.,Aktien International,Aktien International",
+    "MX00BW020002,A2QAZF,BETTERWARE DE MEXICO SAPI,Aktien International,Aktien International",
+    "US1055321053,896191,BRASKEM PFD ADR/2 O.N.,Aktien International,Aktien International",
+    "MXP4948K1056,915731,GRUMA SAB DE CV B,Aktien International,Aktien International",
+    "US4004911065,893638,GRUPO SIM. S.A.B. B ADR/3,Aktien International,Aktien International",
+    "PAL2400671A3,A2PN48,INTERCORP FIN.SERV. O.N.,Aktien International,Aktien International",
+    "GB00BR3SVZ18,A3EUQY,MERIDIAN MINING SE,Aktien International,Aktien International",
+    "VGG273581030,A2DXPA,DESPEGAR.COM CORP.,Aktien International,Aktien International",
+    "MX01CU010003,A2DLRY,\"BECLE S.A.B. DE C.V. 0, 01\",Aktien International,Aktien International",
+    "MXP225611567,912286,CEMEX.CPO(2SHS A+1SHS B),Aktien International,Aktien International",
+    "US1058613068,A3D3MQ,\"ATLAS LITHIUM    DL -, 001\",Aktien International,Aktien International",
+    "MX01AM050019,A3D9N4,AMERICA MOVIL B,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 40,
+    "Deletions": 15
+  }
+}
