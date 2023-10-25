@@ -1,0 +1,80 @@
+{
+  "Additions": [
+    "CA02074D1087,A3DB6E,ALPHA COPPER CORP.,Aktien International,Aktien International",
+    "CA13646R1038,A2PYKR,CANADIAN PALLADIUM RES,Aktien International,Aktien International",
+    "CA52737K1066,A2QJ43,LEVIATHAN GOLD LTD A,Aktien International,Aktien International",
+    "CA6083841032,A3CMM4,MOJAVE BRANDS INC.,Aktien International,Aktien International",
+    "CA71716W1059,A2PT5G,PHARMADRUG INC.,Aktien International,Aktien International",
+    "NL0015000N09,A3C80S,\"MFE-MEDIAFOREU. B EO -, 60\",Aktien Europa,Aktien Europa Select",
+    "US28252C1099,A2P92X,\"POLISHED.COM     DL-, 0001\",Aktien International,Aktien International",
+    "US65344D1090,A2QN47,\"NEXIMMUNE INC.   DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US8852601090,A3C4AN,\"THORNE HEALTHT.  DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "KYG1117K1141,A2PTXR,BIOCERES CROP SOL.,Aktien International,Aktien International",
+      "Current": "KYG1117K1141,A2PTXR,BIOCERES CROP SOL.,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US05961W1053,A0JJT4,BANCO MACRO S.A. ADR 1,Aktien International,Aktien International",
+      "Current": "US05961W1053,A0JJT4,BANCO MACRO S.A. ADR 1,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US2264061068,906164,CRESUD SA COM. IND.ADR/10,Aktien International,Aktien International",
+      "Current": "US2264061068,906164,CRESUD SA COM. IND.ADR/10,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US9842451000,886738,YPF D AP 10 SP.ADR/1 AP10,Aktien International,Aktien International",
+      "Current": "US9842451000,886738,YPF D AP 10 SP.ADR/1 AP10,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US4500473032,A3EW2K,IRSA -INV Y REPR.  SP.ADR,Aktien International,Aktien International",
+      "Current": "US4500473032,A3EW2K,IRSA -INV Y REPR.  SP.ADR,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US54150E1047,A2H5T5,LOMA NEGRA SP.ADR/5,Aktien International,Aktien International",
+      "Current": "US54150E1047,A2H5T5,LOMA NEGRA SP.ADR/5,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US58733R1023,A0MYNP,\"MERCADOLIBRE INC. DL-, 001\",Aktien International,Aktien International",
+      "Current": "US58733R1023,A0MYNP,\"MERCADOLIBRE INC. DL-, 001\",Aktien USA,Aktien NASDAQ 100 Select"
+    },
+    {
+      "Original": "US29244A1025,A0MQYC,EMPR.DIS.Y COM.N.B ADR/20,Aktien International,Aktien International",
+      "Current": "US29244A1025,A0MQYC,EMPR.DIS.Y COM.N.B ADR/20,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US3999091008,940699,GRUPO FIN. GALICIA  B ADR,Aktien International,Aktien International",
+      "Current": "US3999091008,940699,GRUPO FIN. GALICIA  B ADR,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US40054A1088,A2AC61,GR.SUPERVIELLE B SP.ADR,Aktien International,Aktien International",
+      "Current": "US40054A1088,A2AC61,GR.SUPERVIELLE B SP.ADR,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US6976602077,A0LEB0,PAMPA ENERGIA SA GDR S/25,Aktien International,Aktien International",
+      "Current": "US6976602077,A0LEB0,PAMPA ENERGIA SA GDR S/25,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US86959K1051,A0YHKD,SUZANO S.A. ADR/1,Aktien USA,Aktien USA Select",
+      "Current": "US86959K1051,A0YHKD,SUZANO PAPEL E CEL. ADR/2,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US8792732096,894259,TELECOM ARGENT.  B ADR/5,Aktien International,Aktien International",
+      "Current": "US8792732096,894259,TELECOM ARGENT.  B ADR/5,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US8938702045,890708,TRANSP.DE GAS B ADRREGS/5,Aktien International,Aktien International",
+      "Current": "US8938702045,890708,TRANSP.DE GAS B ADRREGS/5,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA81752V1013,A3EWZ6,SERRA ENERGY METALS CORP.,Aktien International,Aktien International",
+    "CA60251N1096,A3EWLS,MINAS METALS LTD.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 14,
+    "Deletions": 2
+  }
+}
