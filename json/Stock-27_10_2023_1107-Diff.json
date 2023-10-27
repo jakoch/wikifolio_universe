@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "GRS382073005,929970,\"DAIOS PLASTICS     EO 0, 3\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "GB0004082847,859123,\"STAND. CHART. PLC  DL-, 50\",Aktien Europa,Aktien Europa Select",
+      "Current": "GB0004082847,859123,STANDARD CHARTER,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "US65344D2080,A3EUTV,\"NEXIMMUNE INC.   DL-, 0001\",Aktien USA,Aktien USA Select",
+    "CA71716W2040,A3EURE,PHARMADRUG INC.,Aktien International,Aktien International",
+    "CA6083842022,A3EW5C,MOJAVE BRANDS INC.,Aktien International,Aktien International",
+    "CA13646R5096,A3EXPK,CANADIAN PALLADIUM RES,Aktien International,Aktien International",
+    "US28252C2089,A3EX6Z,\"POLISHED.COM     DL-, 0001\",Aktien International,Aktien International",
+    "CA02074D2077,A3EXJ4,ALPHA COPPER CORP.,Aktien International,Aktien International",
+    "CA52737K2056,A3EWDH,LEVIATHAN GOLD LTD.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 7
+  }
+}
