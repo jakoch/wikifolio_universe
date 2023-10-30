@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA60268M1023,A2QK93,MINDSET PHARMA INC.,Aktien International,Aktien International",
+    "DE000A1YC996,A1YC99,THE SOCIAL CHAIN AG NA ON,Aktien Deutschland,Aktien Sonstige",
+    "US92823T1088,A0M6UG,VIRNETX HLDG CORP. DL-001,Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US9173022008,892674,USIMINAS PFD ADR/10000,Aktien International,Aktien International",
+    "US1550382014,A2JCE9,CENTRAL PUERTO ADR/1  AP1,Aktien International,Aktien International",
+    "AU0000179707,A3C45W,DEVELOP GLOBAL LTD.,Aktien International,Aktien International",
+    "US19243N1063,A2PXRA,COGNA EDUCACAO   SP.ADR 1,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
