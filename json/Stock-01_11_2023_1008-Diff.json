@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "FR0000292278,577954,MAGELLAN INH. C (EUR),Fonds,Fonds Aktien",
+    "LU0156801721,164557,TENARIS S.A. NA      DL 1,Aktien Europa,Aktien Europa Select",
+    "US02262M3088,A3CSHQ,\"ALZAMEND NEURO INC -, 0001\",Aktien USA,Aktien USA Select",
+    "US14888D2080,A2DLUK,\"CATALYST BIOSC.   DL -, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "LU2115464500,A2PZMR,BOERSE.DE-AKTIENF.VEOACC,Fonds,Fonds Aktien",
+    "LU1480526547,A2AQJY,BOERSE.DE-AKTIENFONDS TM,Fonds,Fonds Aktien",
+    "LU1839896005,A2JNZK,BOERSE.DE-WELTFONDS TM,Fonds,Fonds Aktien",
+    "US92823T2078,A3EWHS,VIRNETX HLG CP.NEW DL-001,Aktien International,Aktien International",
+    "LU2598331598,A3EWCS,TENARIS S.A. DL 1,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
