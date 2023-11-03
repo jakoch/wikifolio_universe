@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "AU000000ACB7,A0JMQV,A-CAP ENERGY LTD.,Aktien International,Aktien International",
+    "AU000000MXC6,A2ACB6,MGC PHARMACEUTICALS LTD,Aktien International,Aktien International",
+    "BMG169621056,762269,\"BUNGE LTD.        DL -, 01\",Aktien USA,Aktien USA Select",
+    "US24790A1016,A2QDQE,\"DENBURY INC.     DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "JP3293330001,A3EWFS,KOKUSAI ELECTRIC CORP.,Aktien International,Aktien International",
+    "US02262M4078,A3EYCP,\"ALZAMEND NEURO   DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US4037831033,A3EE5F,GYRE THERAPEUTICS,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
