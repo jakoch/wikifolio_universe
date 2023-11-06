@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "FR0011550680,A1W6FE,BNPPEFR-S+P 500 UE DLCD,ETFs,ETFs Nordamerika",
+    "IE00BF1QPH33,A2H8NM,SPDR BL.GL.AG.BD DLHUE,ETFs,ETFs Sonstige Bonds",
+    "IE00BF92LR56,A2JFY6,OSSIAM-O.ESG LC S.B.C.US,ETFs,ETFs Nordamerika",
+    "IE00BJXRT706,A2PM4R,SPDR BLOOM.1-3M.T-B.MH,ETFs,ETFs Sonstige Bonds",
+    "IE00BN0YSJ74,A2QEDQ,OSI-O.F.BIOD. 1ADLA,ETFs,ETFs Branchen",
+    "IE00BYYLVH00,A2DQ7Z,UBS FDSO-BLOOMB.C.CM.DLAA,ETFs,ETFs DAX",
+    "LU1291108642,A2AL1S,BNPPE-M.W.SRI SS5C. UECDL,ETFs,ETFs Welt",
+    "LU1291109293,A2ACQY,BNP EASY INFRASTRUCTURE,ETFs,ETFs Branchen",
+    "LU1481201371,A2DHWD,BNPPE.-E.L.V.US UECDL,ETFs,ETFs Nordamerika"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

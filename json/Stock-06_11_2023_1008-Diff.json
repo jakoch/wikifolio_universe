@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA00775X1006,A3CRQH,ADVANCE UNITED HOLDINGS,Aktien International,Aktien International",
+    "CNE100001FW6,A1J08S,INNER MONG. YITAI COAL CO.LTD.,Aktien International,Aktien International",
+    "DE000A2E3772,A2E377,SLEEPZ AG  INH. O.N.,Aktien Deutschland,Aktien Sonstige",
+    "US2787002086,A3EWHU,EBET INC. NEW O.N.,Aktien International,Aktien International",
+    "US66988N2053,A3CRB3,\"NOVAN INC.       DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US62014P4054,A3DR71,\"MOTUS GI HLG.INC DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0001218063,121806,HELIAD AG   NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0001218063,121806,FINLAB AG,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
