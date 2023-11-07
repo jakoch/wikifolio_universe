@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "CA22906X1069,A3DG7G,CRYPTOBLOX TECHNOLOGIES,Aktien International,Aktien International",
+    "CA92643V1013,A3D4AA,VICTORY BATTERY MET.CORP.,Aktien International,Aktien International",
+    "FI0009006951,914085,VALOE OYJ,Aktien Europa,Aktien Europa Select",
+    "IT0005084717,A14NQF,EPRICE S.P.A.,Aktien Europa,Aktien Europa Select",
+    "US09077D2099,A3EFRZ,BIOFRONTERA INC.  NEW,Aktien USA,Aktien USA Select",
+    "US3433894090,A3EVCH,\"FLOTEK INDS NEW  DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US8733791011,A2ASWL,\"TABULA RASA HEAL.DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US89846A4058,A3EMC5,\"TRXADE HEALTH    DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE0000QBK8U7,A3C47Q,\"TRINSEO PLC EO -, 01\",Aktien USA,Aktien USA Select",
+    "US4280501085,A3D6RC,HESAI GROUP SP.ADR/1 CL.B,Aktien International,Aktien International",
+    "NL0012170237,A2DMX3,\"PLAYA HOTELS+RES. EO -, 10\",Aktien USA,Aktien USA Select",
+    "AU0000302093,A3EX6Y,MGC PHARMACEUTICALS DEF.,Aktien International,Aktien International",
+    "CA8529191097,A3EXPE,STALLION URANIUM CORP.,Aktien International,Aktien International",
+    "MHY641771016,A2N9R8,\"OKEANIS ECO TANK. DL-, 001\",Aktien Europa,Aktien Europa Select",
+    "JP3351500008,A3DT3P,SHIZUOKA FIN. GROUP INC.,Aktien International,Aktien International",
+    "IT0005569477,A3EUS3,EPRICE S.P.A.,Aktien Europa,Aktien Europa Select",
+    "CH1300646267,A3EYCJ,\"BUNGE GLOBAL S.A. DL-, 01\",Aktien USA,Aktien USA Select",
+    "CA57532C1005,A3EWCM,MASON RES INC.,Aktien International,Aktien International",
+    "FI4000561576,A3EUSK,VALOE OYJ,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 11
+  }
+}
