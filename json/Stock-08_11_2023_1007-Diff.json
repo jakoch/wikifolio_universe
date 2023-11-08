@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "AU000000NCM7,873365,NEWCREST MINING,Aktien International,Aktien International",
+    "CA7319164090,A2QA7Y,POLYMET MINING CORP.,Aktien International,Aktien International",
+    "CA91834N1006,A2PD8P,VSBLTY GROUPE TECH.,Aktien International,Aktien International",
+    "US29272C2026,A3ERHQ,ENERGOUS CORP. NEW O.N.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU000000CAR3,A14PN8,CAR GROUP LTD.,Aktien International,Aktien International",
+      "Current": "AU000000CAR3,A14PN8,CARSALES.COM LTD.,Aktien International,Aktien International"
+    },
+    {
+      "Original": "US6903701018,645086,\"BEYOND,  INC. DL-, 01\",Aktien USA,Aktien Dow Jones",
+      "Current": "US6903701018,645086,\"OVERSTOCK.COM INC. DL-, 01\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US7002153044,A0KEQ1,\"REPOSITRAK INC.   DL -, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US7002153044,A0KEQ1,\"PARK CITY GRP NEW DL -, 01\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US62014P5044,A3EUTL,\"MOTUS GI HLG.INC DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 3,
+    "Deletions": 1
+  }
+}
