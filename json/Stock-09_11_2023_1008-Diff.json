@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "AU0000302093,A3EX6Y,MGC PHARMACEUTICALS DEF.,Aktien International,Aktien International",
+    "US64829B1008,A12FNA,\"NEW RELIC INC.    DL-, 001\",Aktien USA,Aktien USA Select",
+    "US83192H1068,A2PRCJ,\"SMILEDIRECTC. A  DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "NO0010000045,931150,\"PHOTOCURE ASA      NK-, 50\",Aktien Europa,Aktien Europa Select",
+    "HK0000552189,A2PWA4,CHINA MERCHANTS COMM.REIT,Aktien International,Aktien International",
+    "CA22906X2059,A3EUTQ,CRYPTOBLOX TECHNOLOGIES,Aktien International,Aktien International",
+    "CA92643V2003,A3EX89,VICTORY BATTERY MET.CORP.,Aktien International,Aktien International",
+    "AU0000297962,A3EWLY,NEWMONT CORP.CDI,Aktien International,Aktien International",
+    "AU000000MXC6,A2ACB6,MGC PHARMACEUTICALS LTD,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
