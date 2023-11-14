@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "AU000000BKL7,918407,BLACKMORES LTD.,Aktien International,Aktien International",
+    "CA89465L2030,A3EQWE,TREATMENT.COM INTL O.N.,Aktien International,Aktien International",
+    "LU0076314649,973348,NORDEA 1-NTH AM.VAL.BP-DL,Fonds,Fonds Aktien",
+    "NL0015000DC9,A3CTLY,CLIMATE T.C.A.I EO-01,Aktien Europa,Aktien Europa Select",
+    "US87250W2026,A3DR65,\"TD HOLDINGS I.NEW DL-, 001\",Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA8949421017,A3EYD8,TREATMENT.COM AI     O.N.,Aktien International,Aktien International",
+    "CA9191444020,A1JKQ1,VALEURA ENERGY INC. NEW,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
