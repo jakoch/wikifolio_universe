@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA24378W1032,A2DGWF,DEEP-SOUTH RES.INC.  O.N.,Aktien International,Aktien International",
+    "US4037831033,A3EE5F,GYRE THERAPEUTICS,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US36472T1097,A2PVRP,\"NEW MEDIA INV.GRP. DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US36472T1097,A2PVRP,\"GANNETT CO.INC  DL-, 01\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA88034V3048,A3DAKV,TENAZ ENERGY CORP.,Aktien International,Aktien International",
+    "US02028M1053,A3ESGW,ALMACENES EX.S.A. 8/1 ADR,Aktien International,Aktien International",
+    "CA9837872014,A3EYD7,X1 ENTERTAINMENT GROUP,Aktien International,Aktien International",
+    "CA28619A2002,A3EX7N,ELEMENT79 GOLD CORP.,Aktien International,Aktien International",
+    "CA98420Q3061,A3EUNZ,XORTX THERAPEUTICS,Aktien USA,Aktien USA Select",
+    "CA98383L2030,A3EY0E,XR IMMERSIVE TECH INC.,Aktien International,Aktien International",
+    "US2885781078,A1T940,ELLINGTON RESID.MTG SBI,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 7
+  }
+}
