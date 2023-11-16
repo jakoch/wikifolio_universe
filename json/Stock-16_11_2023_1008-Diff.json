@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA13708P2017,A1C8LR,CANALASKA URANIUM LTD.,Aktien International,Aktien International",
+    "CA5005837037,A3C9XN,KOOTENAY SILVER INC. NEW,Aktien International,Aktien International",
+    "CA9546061099,A2QKPS,WEST MINING CORP,Aktien International,Aktien International",
+    "CA98959U1084,A2P15E,ZINC8 ENERGY SOLUTI. INC.,Aktien International,Aktien International",
+    "LU0127786431,666311,NN(L)-EO HGH DIV. PCAP,Fonds,Fonds Aktien",
+    "US09523Q3092,A3EE57,\"BLUE APRON HL CL.A -, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2QEFA1,A2QEFA,PLATFORM GRP AG INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A2QEFA1,A2QEFA,FASHIONETTE AG  O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "US87250W3016,A3EUTT,\"BAIYU HOLD.I. NEW DL-, 001\",Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
