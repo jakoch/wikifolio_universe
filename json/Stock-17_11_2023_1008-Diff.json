@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "BE0003844611,A0J3N3,MDXHEALTH S.A.,Aktien Europa,Aktien Europa Select",
+    "US00180G2057,A3EA20,AMTD IDEA G.SP.ADR/2 CL.A,Aktien International,Aktien International",
+    "US89686D1054,A2DH0T,\"TRIVAGO A SP.ADS/1 EO-, 06\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US89686D3035,A3EUTE,\"TRIVAGO A SP.ADS/5 EO-, 06\",Aktien USA,Aktien USA Select",
+    "CA50067J1030,A3E1JM,KORYX COPPER INC.    O.N.,Aktien International,Aktien International",
+    "BE0974461940,A3E19Y,MDXHEALTH S.A.,Aktien Europa,Aktien Europa Select",
+    "US00180G3048,A3E2G8,AMTD IDEA G.SP.ADR/6 CL.A,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}

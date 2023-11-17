@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "FR0010296061,A0JMFG,LYX.MSCI USA ESG (DR)UE D,ETFs,ETFs Nordamerika",
+    "LU2055175025,LYX0ZR,MUL-L.M.U.C.C.E DLA,ETFs,ETFs Branchen",
+    "LU2198883410,LYX05J,MUL-LS+P500PACE DLA,ETFs,ETFs Nordamerika"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE00BKPT4N29,A2PZLQ,KSI-MSCI C.ESG LEAD. DLD,ETFs,ETFs Asien",
+    "IE0006K7DEL9,A3EUB2,F.I.F.S.E.G.C EOA,ETFs,ETFs Europa Bonds",
+    "IE000H0TSO96,A3EUB1,FT I.F.E.I.C.E EOD,ETFs,ETFs Europa Bonds",
+    "IE000P0R7WK6,A3EUB3,F.I.F.S.E.G.S EOA,ETFs,ETFs Europa Bonds",
+    "IE000YUAPTQ0,A3DRNS,KRELVEFUMOESGSC DLA,ETFs,ETFs Asien",
+    "IE00BFXR7892,A2PBU9,KRANESHS-K.CSI CH.INTN.UE,ETFs,ETFs Asien",
+    "IE000Y61WD48,A3EWGT,KS ICAV-KS MSCI CN CL.TEC,ETFs,ETFs Asien",
+    "IE0001QF56M0,A3EWGU,KSI-ICBCCS S+P CN500UE,Aktien International,Aktien International",
+    "IE00BKPJY434,A3CU6C,KRS-I.S.S.M.50 DLA,ETFs,ETFs Asien"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 9
+  }
+}
