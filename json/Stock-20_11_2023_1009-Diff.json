@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "AU000000SAU3,A0DQ0R,SOUTHERN GOLD LTD.,Aktien International,Aktien International"
+  ],
+  "Modifications": [
+    {
+      "Original": "US8162121045,A2AML0,\"CARTESIAN THER. DL -, 0001\",Aktien USA,Aktien USA Select",
+      "Current": "US8162121045,A2AML0,\"SELECTA BIOSCI. DL -, 0001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA5005838365,A3EYKD,KOOTENAY SILVER INC. NEW,Aktien International,Aktien International",
+    "CA9546069506,A3E193,WEST MINING CORP,Aktien International,Aktien International",
+    "CA98959U3064,A3EM4Y,ZINC8 ENERGY SOLUT. INC.,Aktien International,Aktien International",
+    "CA26886R1047,A3DKEK,EQB INC.,Aktien International,Aktien International",
+    "CA13709C1005,A3EVZ1,CANALASKA URANIUM LTD.,Aktien International,Aktien International",
+    "US67111Q1076,A2N7LT,\"OFS CREDIT CO. IN DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 6
+  }
+}
