@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA65405R1047,A14T7S,NICOLA MINING,Aktien International,Aktien International",
+    "CA9546069506,A3E193,WEST MINING CORP,Aktien International,Aktien International",
+    "US5314651028,A11936,LIBERTY TRIPADV. HLDGS A,Aktien USA,Aktien USA Select",
+    "US74979W2008,A3DW2D,GRAVITAS EDUCATION ADR 20,Aktien International,Aktien International",
+    "US81720R4065,A3DXEE,\"SENESTECH INC.    DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA9546062089,A3EXTV,WEST MINING CORP.    O.N.,Aktien International,Aktien International",
+    "CA64064Y1043,A3EXTU,NEOTECH METALS CORP.,Aktien International,Aktien International",
+    "US6289881079,A3ENR7,MYND AI INC. ADR,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
