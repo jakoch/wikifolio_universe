@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "DE000LS9PBX3,LS9PBX,AI DAX Werte Trading,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9QLW2,LS9QLW,MDC Global Value,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9SLX6,LS9SLX,Unlimited Opportunities,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9UFM7,LS9UFM,KD Daytrading ,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
