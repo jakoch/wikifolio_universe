@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "FR0010754127,A0RNWD,AMUNDI ETF EO INFLATION,ETFs,ETFs Europa Bonds",
+    "FR0010754143,A0RNWA,AMUNDI ETF GOVT BOND EUROMTS BROAD 10-15,ETFs,ETFs Europa Bonds",
+    "FR0010754168,A0RNV7,AMUNDI ETF GOVT BOND EUROMTS BROAD 3-5,ETFs,ETFs Europa Bonds",
+    "FR0010754176,A0RNV8,AMUNDI ETF GOVT BOND EUROMTS BROAD 5-7,ETFs,ETFs Europa Bonds",
+    "LU1650489898,LYX04W,MUL-LX.EO GOV.BD 10-15Y D,ETFs,ETFs Europa Bonds"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000MYCJA42,ETF132,AETF-MNAECNZAC EOA,ETFs,ETFs Nordamerika"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
