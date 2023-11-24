@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "LU1287023003,LYX0VG,LYXOR ETF EUROMTS 5-7Y,ETFs,ETFs Europa Bonds",
+    "LU1650488494,LYX0XJ,MUL-LX.EUROM.3-5Y I.G. A,ETFs,ETFs Europa Bonds",
+    "LU1650491282,LYX0XL,MUL-LX.EUROM.INF.LINK. A,ETFs,ETFs Europa Bonds",
+    "LU1792117696,LYX0YK,MUL-LYX.MSCI USA ESG LE.A,ETFs,ETFs Nordamerika"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000H5X52W8,A3EFXB,IV-IB1227TEEOCO ()EOD,ETFs,ETFs Sonstige Bonds",
+    "IE000NXQKHU1,A3EFXA,IV-IB1225TEEOCO ()EOD,ETFs,ETFs Sonstige Bonds"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
