@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "CA56086L1022,A2P369,MAKARA MINING CORP.,Aktien International,Aktien International",
+    "CA80918M2031,A2PHEF,SCORPIO GOLD,Aktien International,Aktien International"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005089031,508903,UTD.INTERNET AG NA,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0005089031,508903,UTD.INTERNET AG NA,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000KSAG888,KSAG88,K+S AG NA O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000KSAG888,KSAG88,K+S AG NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "US9183852048,A3EWXG,VTV THERAPEUT. A NEW O.N.,Aktien USA,Aktien USA Select",
+    "CA00036H1001,A3E1ZL,AAPKI VENTURES INC.  O.N.,Aktien International,Aktien International",
+    "CA8629521086,A3EVHL,STRATHCONA RES. LTD. NEW,Aktien International,Aktien International",
+    "CA65405R2037,A3D3LF,NICOLA MINING INC.,Aktien International,Aktien International",
+    "CA7481621042,A3EP21,QUEBEC RARE EARTH,Aktien International,Aktien International",
+    "US81720R5054,A3EVGZ,\"SENESTECH INC.NEW DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 6
+  }
+}
