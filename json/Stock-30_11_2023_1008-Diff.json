@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA35954B2066,A2PTUT,FSD PHARMA B SUB. VTG,Aktien USA,Aktien USA Select",
+    "CA40453C1014,A3DLBB,HS GOVTECH SOLUTIONS INC.,Aktien International,Aktien International",
+    "CA72703G1037,A3DCLV,PLANET BASED FOODS GLOBAL,Aktien International,Aktien International",
+    "FR0004166197,A0JKDX,\"EVOLIS S.A. INH.   EO-, 08\",Aktien Europa,Aktien Europa Select",
+    "US0952291005,A1JZBJ,\"AVANTAX INC.     DL-, 0001\",Aktien USA,Aktien Dow Jones",
+    "US4278255009,A14VPH,HERSHA HOSPIT.TR. SBI A,Aktien USA,Aktien USA Select",
+    "US7589321071,896286,REGIS CORP. (MINN.) DL-05,Aktien USA,Aktien USA Select",
+    "US81577F1093,A2PDK8,\"SEELOS THERAPEUT. DL-, 001\",Aktien USA,Aktien USA Select",
+    "US9234541020,A116CF,\"VERITIV CORP.      DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU0000006124,A2JHF9,ACROW LTD.,Aktien International,Aktien International",
+      "Current": "AU0000006124,A2JHF9,ACROW FORMW.+CONSTR.S.LTD,Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "CA80918M3021,A3E2GX,SCORPIO GOLD,Aktien International,Aktien International",
+    "US6412558800,A3E17K,\"NEUROMETRIX INC. DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
