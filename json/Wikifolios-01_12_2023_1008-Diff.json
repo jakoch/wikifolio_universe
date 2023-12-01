@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE000LS9HT05,LS9HT0,Stabiles Etf-Werte-Wachstum,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9KCL7,LS9KCL,Relative Stärke DEU,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9MPG5,LS9MPG,langfristige Strategien handeln,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9QLU6,LS9QLU,metradinglive,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9SMV8,LS9SMV,Artificial Intelligence Trend,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

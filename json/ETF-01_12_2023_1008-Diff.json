@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "CH0106405894,A1CSJD,SW.ETF P.M.-PHYS.SIL.ASF,ETFs,ETFs Rohstoffe ETCs",
+    "FR0010754135,A0RNV6,AMUNDI ETF GOVT BOND EUROMTS BROAD 1-3,ETFs,ETFs Europa Bonds",
+    "FR0013506649,A2P75B,AETF-GBEBIG DEOD,ETFs,ETFs Europa Bonds"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000MJIXFE0,ETF133,AETF-MNAECNZAC EOD,ETFs,ETFs Nordamerika"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
