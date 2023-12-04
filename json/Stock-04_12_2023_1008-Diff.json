@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA3620061083,A2QJXT,GNOMESTAR CRAFT INC.,Aktien International,Aktien International",
+    "LU2333210958,SUSE5A,SUSE S.A.            DL 1,Aktien Deutschland,Aktien SDAX",
+    "US1847911013,A3C9RZ,\"CLEARDAY INC.     DL-, 001\",Aktien International,Aktien International",
+    "US3952591044,A0B9GF,\"GREENHILL + CO.INC.DL-, 01\",Aktien USA,Aktien USA Select",
+    "US6952631033,A0Q16R,\"PACWEST BANCORP.   DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US7589322061,A3E2G0,REGIS CORP. (MINN.) DL-05,Aktien USA,Aktien USA Select",
+    "CA35954B4047,A3E2LR,FSD PHARMA B,Aktien USA,Aktien USA Select",
+    "US81577F2083,A3ESGY,SEELOS THERAPEUT.,Aktien USA,Aktien USA Select",
+    "CA72703G2027,A3E2GW,PLANET BASED FOODS GLOBAL,Aktien International,Aktien International",
+    "DE0009802306,980230,SEB IMMOINVEST P,Fonds,Fonds Immobilien",
+    "US98420X1037,A2PFVY,\"X4 PHARMACEUTIC.  DL-, 001\",Aktien USA,Aktien USA Select",
+    "US45332Y1091,A2P41U,\"INARI MEDICAL INC.DL-, 001\",Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 7
+  }
+}
