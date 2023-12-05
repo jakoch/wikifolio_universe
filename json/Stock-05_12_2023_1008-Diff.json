@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA3810832038,A3DXRN,GOLDEN INDEP. MINING CORP,Aktien International,Aktien International",
+    "CA44812T1021,A2JGE9,HUT 8 MINING CORP (NEW),Aktien International,Aktien International",
+    "US8870802084,A3DWN5,TIMBER PHARMACEUT. INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA98420B3092,A3E2DA,XIMEN MINING,Aktien International,Aktien International",
+    "AU0000308157,A3E2VR,GLOBAL URANIUM+ENRICHMENT,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
