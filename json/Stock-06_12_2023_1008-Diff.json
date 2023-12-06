@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA6028965086,A2AGY2,MINERAL MOUNTAIN RES. NEW,Aktien International,Aktien International",
+    "CA98420B2003,A2JBKL,XIMEN MINING,Aktien International,Aktien International",
+    "DK0060910917,A2H7EV,ORPHAZYME A/S  DK 1,Aktien Europa,Aktien Europa Select",
+    "FR0013233475,A2DLMU,\"LYSOGENE S.A.(PROM.)-, 30\",Aktien Europa,Aktien Europa Select",
+    "GB00BYX7JT74,A2DLN8,\"DIVERS.GAS+OIL PLC LS-, 01\",Aktien Europa,Aktien Europa Select",
+    "KYG2586J1177,A2QQNA,CST GRP LTD CONS.,Aktien International,Aktien International",
+    "US2933061069,924250,\"ENGLOBAL          DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DK0062502894,A3EYNB,ORPHAZYME A/S  DK 1000,Aktien Europa,Aktien Europa Select",
+    "CA25609L1058,A2PQ7E,DOCEBO INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "DE000A0Q4R85,A0Q4R8,ISH.MSCI.BRAZIL U.ETF DE,ETFs,ETFs Emerging Markets",
+    "IE00BFMKQC67,A2JNWP,XTR.-DL C.BD 1CDLA,ETFs,ETFs Sonstige Bonds",
+    "IE00BMDV7461,A3CPES,JPMIRMBUSIEETF JPETFDDDLD,ETFs,ETFs Sonstige Bonds",
+    "LU1602144229,A2DR4H,AIS-A.I.EQ.GL.L.CAR.UEDIE,ETFs,ETFs Branchen",
+    "LU2099287448,LYX99M,LY.C.JA.GO.BDDR YND,ETFs,ETFs Sonstige Bonds",
+    "LU2182388400,A2P6TP,AIS-M.W.C.P.A.P ETF DRDLA,ETFs,ETFs Welt"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE0001GSQ2O9,ETF142,A.E.I.A.M.W.E EOA,ETFs,ETFs Branchen",
+    "IE000CL68Z69,ETF141,A.E.I.A.M.W.E EOA,ETFs,ETFs Welt"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
