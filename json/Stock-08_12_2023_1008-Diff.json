@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA6698091056,A2QEGB,NOVA ROYALTY CORP.,Aktien International,Aktien International",
+    "CH0011607683,632630,\"TORNOS HOLD. AG NA SF3, 5\",Aktien Europa,Aktien Europa Select",
+    "DE000A32VN83,A32VN8,EPIGENOMICS AG NA ON KONV,Aktien Deutschland,Aktien Sonstige",
+    "FR0000121634,853381,\"COLAS SA INH.      EO 1, 5\",Aktien Europa,Aktien Europa Select",
+    "KYG2007L2040,A3D36Z,\"CAZOO GROUP    A DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US44812J1043,A3ES40,HUT 8 CORP.         O.N.,Aktien International,Aktien International",
+    "SE0014428512,A2P46G,SURGICAL SCIENCE SWEDEN,Aktien Europa,Aktien Europa Select",
+    "US2933062059,A3E1Z1,ENGLOBAL CORP. NEW   O.N.,Aktien USA,Aktien USA Select",
+    "CA0566001099,A3E1GJ,BADLANDS RES INC.,Aktien International,Aktien International",
+    "GB00BQHP5P93,A3E2AU,\"DIVERS.ENERGY COMP LS-, 2\",Aktien Europa,Aktien Europa Select",
+    "CA65345P1018,A3EXYF,NEXUS URANIUM CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
