@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "FR0000053514,936292,PCAS S.A.       INH. EO 1,Aktien Europa,Aktien Europa Select",
+    "US98423B1089,A3CY12,\"XOS INC. A       DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A0JL9W6,A0JL9W,VERBIO SE INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A0JL9W6,A0JL9W,VERBIO VER.BIOENERGIE  ON,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "KYG2007L1216,A3E16V,CAZOO GROUP LTD.    CL. A,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

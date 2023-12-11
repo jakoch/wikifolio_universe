@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "LU0378438732,ETF001,LYXOR CORE DAX U. ETF I,ETFs,ETFs DAX",
+    "LU0392496427,ETF030,LYXOR DJ SWISS TIT ETF I,ETFs,ETFs Europa Gesamt",
+    "LU0488317701,ETF091,LYXOR GOLD BUGS ETF I,ETFs,ETFs Basic Resources",
+    "LU0603933895,ETF003,LYXOR DIVDAX ETF UCITS I,ETFs,ETFs Deutschland",
+    "LU0603942888,ETF005,LYXOR SDAX UCITS ETF I,ETFs,ETFs Deutschland",
+    "LU0650624025,ETF006,LYXOR FAZ 100 INDEX ETF I,ETFs,ETFs Deutschland"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
