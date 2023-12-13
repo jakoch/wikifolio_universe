@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "DE0005152623,515262,DEKA-TECHNOLOGIE CF,Fonds,Fonds Aktien",
+    "US70387R1068,A2AQDJ,\"PAVMED INC        DL-, 001\",Aktien USA,Aktien USA Select",
+    "US9855101062,A2QN3E,\"YELLOW CORP.      DL , -01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA83013Q7075,A3E2LQ,SIYATA MOBILE,Aktien USA,Aktien USA Select",
+    "DE000A37FT41,A37FT4,EPIGENOMICS AG NA ON KONV,Aktien Deutschland,Aktien Sonstige",
+    "US98423B3069,A3E3XV,\"XOS INC. A       DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}

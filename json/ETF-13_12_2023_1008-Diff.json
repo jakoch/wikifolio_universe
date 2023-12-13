@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "IE00B3VWN518,A0X8SJ,ISHSVII-DLTB.7-10YR DLACC,ETFs,ETFs Sonstige Bonds",
+    "IE00BDR5H412,A2H5CF,UBS(I.)ETF-GL.GEN.E.AASFH,ETFs,ETFs Welt",
+    "IE00BJXRZ273,A2PX6U,RIZE-MED.CAN+LSCI.DLA ETF,ETFs,ETFs Basic Resources",
+    "IE00BLRPQJ54,A2P877,RIZE U.I-ETDL ADLA,ETFs,ETFs Branchen"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000ROSD5J6,A3ERLP,ISH-ESS.MET.P DLA,ETFs,ETFs Basic Resources",
+    "IE000IQQEL77,A3EWMH,H.I.S.C.M.E.S DLA,ETFs,ETFs Basic Resources",
+    "IE000JJQ6248,A3ERTL,F.2.F.S.D.C.B.P DLD,ETFs,ETFs Sonstige Bonds",
+    "IE000VQZQ963,A3ERTR,F.U.2-S.EO C.B EOD,ETFs,ETFs Europa Bonds",
+    "IE000AXIKJM8,A3EXMZ,AXAIMUSEQPABETF HGDEOA,ETFs,ETFs Nordamerika",
+    "IE000XC6EVL9,A3EDC8,HSBCETF-NGLCLIT DLA,ETFs,ETFs Nordamerika",
+    "IE000N0TTJQ9,A3EWV3,AXA IM.D.C.P.E 100000DLA,ETFs,ETFs Sonstige Bonds",
+    "IE0009BM62P2,A3ECGJ,GLXSP500ABETF DLA,ETFs,ETFs Nordamerika",
+    "IE000HGH8PV2,A3ECGK,GLXSP500ATHETF DLA,ETFs,ETFs Nordamerika"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 9
+  }
+}
