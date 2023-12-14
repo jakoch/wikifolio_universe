@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "AU000000FYI5,A0RDPF,FYI RESOURCES LTD.,Aktien International,Aktien International",
+    "AU000000PXS5,254463,PHARMAXIS LTD.,Aktien International,Aktien International",
+    "IT0005504797,A3DTK0,KI GROUP S.P.A.,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "GB00BG49KP99,A1XF2N,TRITAX BIG BOX REIT LS-01,Aktien Europa,Aktien Europa Select",
+    "KYG7255N1097,A3E3BG,PROD. T. CO LTD. O.N.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
