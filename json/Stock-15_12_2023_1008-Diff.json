@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "AU000000JHG6,A2DTFA,JANUS HENDERSON GROUP PLC SHS(CHESS DEP.IN./CDIS),Aktien International,Aktien International",
+    "CA13875F1018,A3DUN9,CANXGOLD MINING CORP.,Aktien International,Aktien International",
+    "CA21024C1014,A3CVY0,CONSOLIDATED URANIUM INC.,Aktien International,Aktien International",
+    "CA56086L2012,A3EYKQ,MAKARA MINING CORP.,Aktien International,Aktien International",
+    "US81181C1045,A2QFAQ,\"SEAGEN INC.  DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US70387R4039,A3E2MX,\"PAVMED INC.     DL -, 001\",Aktien USA,Aktien USA Select",
+    "AU0000312480,A3E4P8,SYNTARA LTD.,Aktien International,Aktien International",
+    "BE0974464977,A3E1GW,SYENSQO N.V.,Aktien Europa,Aktien Europa Select",
+    "CA41166G1081,A3E3Z9,HARDCORE DISC. LTD.,Aktien International,Aktien International",
+    "AU0000310302,A3E3UB,CADOUX LTD.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
