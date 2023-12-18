@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "DE000UNSE018,UNSE01,UNIPER SE  NA O.N.,Aktien Deutschland,Aktien Sonstige",
+    "JP3729000004,853140,SHINSEI BANK,Aktien International,Aktien International",
+    "US00776D2027,A3DZVE,AENZA S.A.A      ADR/15,Aktien International,Aktien International",
+    "US54975P1021,A2QGE5,LUFAX HLDG    SP.ADS 1/2,Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US54975P2011,A3E2GS,LUFAX HLDG SP.ADS 2,Aktien International,Aktien International",
+    "CA74840A1066,A3E300,QUEST CRITICAL METALS INC,Aktien International,Aktien International",
+    "DE000UNSE026,UNSE02,UNIPER SE  NA O.N. KONV.,Aktien Deutschland,Aktien Sonstige"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
