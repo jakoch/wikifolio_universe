@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "CA13646R5096,A3EXPK,CANADIAN PALLADIUM RES,Aktien International,Aktien International",
+    "US87807D2027,A3DZ0L,TC BIOPHARM(HLD.)SP.ADS/1,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US87807D4007,A3E2F4,TC BIOPHARM(H.)SP. ADS/20,Aktien USA,Aktien USA Select",
+    "NO0010816895,A2PLN0,\"OKEA A.S.          NK-, 1\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
