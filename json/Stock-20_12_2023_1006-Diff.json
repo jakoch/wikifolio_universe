@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "AT0000A1PY49,A2DJNU,CLEEN ENERGY AG,Aktien Europa,Aktien Europa Select",
+    "CA4433003064,A12F35,H2O INNOVATION INC.,Aktien International,Aktien International",
+    "CH0003245351,873209,VON ROLL HOLDING AG,Aktien Europa,Aktien Europa Select",
+    "FR0010436170,A0RL6Z,\"BATLA MINERALS    EO 0, 01\",Aktien Europa,Aktien Europa Select",
+    "LU0083573666,988237,JPM-E.M.E.E JPMEMEE ADDL,Fonds,Fonds Aktien",
+    "MHY621971198,A2PBHS,NAVIOS MARITIME HLDGS,Aktien USA,Aktien USA Select",
+    "US16955F1075,A2QC9B,CHINDATA GRP.HLDS A DL,Aktien International,Aktien International",
+    "US23254L6039,A2P26W,\"CYCLACEL PHARM.   DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "AT0000A38M45,A3E4N1,CLEEN ENERGY AG,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
