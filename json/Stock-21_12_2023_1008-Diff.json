@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA1380351009,A140QA,CANOPY GROWTH,Aktien USA,Aktien USA Select",
+    "CA56450P1018,A3C6YW,MANTARO PREC. METALS CORP,Aktien International,Aktien International",
+    "CA80517N2068,A2DY3Z,SAVILLE RES INC,Aktien International,Aktien International",
+    "JP3592200004,853676,TOSHIBA CORP,Aktien International,Aktien International",
+    "US2054771025,868693,\"COMPUTER TASK GRP  DL-, 01\",Aktien USA,Aktien USA Select",
+    "US87241J1043,A2PQ7K,\"TFF PHARMAC.INC.  DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA45075E1043,A2PBLT,IA FINANCIAL CORP. INC.,Aktien International,Aktien International",
+    "US45258D1054,A2QNWU,IMMUNOCORE HLDGS ADS/1,Aktien USA,Aktien USA Select",
+    "CA2861812014,A1JYQL,ELEMENT FLEET MGMT CORP.,Aktien International,Aktien International",
+    "CA87262K1057,A1J4GR,TMX GROUP LTD,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
