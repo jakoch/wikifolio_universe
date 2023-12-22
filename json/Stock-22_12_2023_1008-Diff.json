@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "SE0011973940,A2N919,AZELIO AB,Aktien Europa,Aktien Europa Select",
+    "SE0018012932,A3DNFA,BERGS TIMBER AB B  O.N.,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US23254L8019,A3E2F3,\"CYCLACEL PHARM.   DL-, 001\",Aktien USA,Aktien USA Select",
+    "BMG611881019,A3ES4W,LIBERTY GLOBAL LTD CL.A,Aktien USA,Aktien USA Select",
+    "CA05156V1022,A1W7D4,AURINIA PHARMACEUT.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
