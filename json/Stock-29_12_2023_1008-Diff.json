@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA3886592037,A3DZ0V,GRAPH BLOCKCHAIN INC.,Aktien International,Aktien International",
+    "CA87974N4057,A2P9RS,TEMBO GOLD CORP.,Aktien International,Aktien International",
+    "DE000A0KD0F7,A0KD0F,MUEHLHAN,Aktien Deutschland,Aktien Sonstige",
+    "EE3100096884,A3DN6R,\"CLEVERON MOBILITY EO -, 10\",Aktien Europa,Aktien Europa Select",
+    "US53838L1008,A3CS1G,\"LIVEVOX HOLDINGS DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA17039A1066,A1W5Z8,CHOICE PROPERTIES REIT,Aktien International,Aktien International",
+    "CA56450P2008,A3E120,MANTARO PREC. METALS NEW,Aktien International,Aktien International",
+    "CA1380357048,A3E2FV,CANOPY GROWTH,Aktien USA,Aktien USA Select",
+    "US87241J2033,A3E2FW,\"TFF PHARMAC.INC.  DL-, 001\",Aktien USA,Aktien USA Select",
+    "CA80517N3058,A3E2FS,SAVILLE RES INC,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
