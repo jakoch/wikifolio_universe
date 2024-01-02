@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "IT0004670532,A1J6S5,IMVEST SPA,Aktien Europa,Aktien Europa Select",
+    "US04546C2052,A3CRAA,\"ASSERTIO HLDGS  DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "IT0004942915,A1W2ZE,BESTBE HOLDING S.P.A.,Aktien Europa,Aktien Europa Select",
+      "Current": "IT0004942915,A1W2ZE,GEQUITY S.P.A.,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
