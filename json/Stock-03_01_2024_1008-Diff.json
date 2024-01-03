@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "CA9107971090,A2QGMZ,UNITED LITHIUM CORP.,Aktien International,Aktien International",
+    "CA92535P8819,A3DWN3,VERSUS SYS INC.,Aktien USA,Aktien USA Select",
+    "FR0004197747,A1J9WY,\"THERADIAG SA      EO 1, 01\",Aktien Europa,Aktien Europa Select",
+    "US71360T1016,A3DAK1,PERASO INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006292030,629203,KSB SE+CO.KGAA VZO O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006292030,629203,KSB SE & CO. KGAA INHABER-VORZUGSAKT.O.ST.O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A2NB650,A2NB65,MUTARES KGAA  NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A2NB650,A2NB65,MUTARES KGAA  NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "US20441B6056,A3CNKN,C. PARAN. EN. PREF.ADR 4,Aktien USA,Aktien USA Select",
+      "Current": "US20441B6056,A3CNKN,C. PARAN. EN. UTS ADR,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA5109151012,A3E4WC,LAKE VICTORIA GOLD LTD,Aktien International,Aktien International",
+    "CA9107974060,A3EKLX,UNITED LITHIUM CORP. NEW,Aktien International,Aktien International",
+    "FR001400LO86,A3E2CR,\"DBT SA        EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "FR001400M1R1,A3E2CS,\"GECI INTL INH.   EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "CA6489261033,A3EKLZ,NEW WORLD SOLUTIONS INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 3,
+    "Deletions": 5
+  }
+}
