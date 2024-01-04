@@ -1,0 +1,44 @@
+{
+  "Additions": [
+    "CA02075X1033,A3CUW1,ALPHA LITHIUM CORP. NEW,Aktien International,Aktien International",
+    "CA08783B1013,A2PNFY,BEVCANNA ENTERPRISES INC.,Aktien International,Aktien International",
+    "CA29279W1023,A2P8A1,ENDURO METALS CORP.,Aktien International,Aktien International",
+    "FR0000079634,632749,\"GECI INTL INH.   EO -, 001\",Aktien Europa,Aktien Europa Select",
+    "FR0013066750,A2AB90,\"DBT SA          EO-, 01\",Aktien Europa,Aktien Europa Select",
+    "FR0014005IU4,A3C9T0,\"I.CERAM NAM.      EO 2, -\",Aktien Europa,Aktien Europa Select",
+    "GB00B0YG1K06,A0JDNW,RESTAURANT GROUP,Aktien Europa,Aktien Europa Select",
+    "LU2360697374,A3CT9J,FREYR BATTERY        DL 1,Aktien USA,Aktien USA Select",
+    "MHY2294C1075,A2QN4J,\"ENETI INC.         DL-, 01\",Aktien USA,Aktien USA Select",
+    "NL0000339703,A0JMCY,\"BETER BED HLDG     EO-, 02\",Aktien Europa,Aktien Europa Select",
+    "SG2F48989824,A1WZEE,HALCYON AGRI CORP. LTD,Aktien International,Aktien International",
+    "US0077441055,A3C8HD,\"MOLEKULE GROUP INC.DL-, 01\",Aktien USA,Aktien USA Select",
+    "US0413562051,A0YBXE,ARLINGTON ASSET INVEST. A,Aktien USA,Aktien USA Select",
+    "US05338F2074,A3DMHJ,\"AVALO THERAPEUT.  DL-, 001\",Aktien USA,Aktien USA Select",
+    "US05552Q3011,A3D2ZP,\"BIMI INTL MED.NEW DL-, 001\",Aktien International,Aktien International",
+    "US10802T2042,A3DMHL,\"FRESH TRACKS THERA.DL-, 01\",Aktien USA,Aktien USA Select",
+    "US25470M1099,A0NBN0,DISH NETWORK CORP.A DL-01,Aktien USA,Aktien USA Select",
+    "US45166V2051,A3EM4V,IDEANOMICS INC.,Aktien International,Aktien International",
+    "US74971D1019,A2N9D7,\"RPT REALTY COM SBI DL-, 01\",Aktien USA,Aktien USA Select",
+    "US87250W3016,A3EUTT,\"BAIYU HOLD.I. NEW DL-, 001\",Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA08783B2003,A3E28T,BEVCANNA ENTERPRISES NEW,Aktien International,Aktien International",
+    "KYG8807B1068,A1137V,THERAVANCE BIOPHARMA,Aktien USA,Aktien USA Select",
+    "KYG989BA1027,A3EDZK,\"ZJLD GROUP INC.DL-, 000002\",Aktien International,Aktien International",
+    "US18452B2097,A2PWWQ,\"CLEANSPARK INC.  DL-, 001\",Aktien USA,Aktien USA Select",
+    "CH1125843347,A3CVT8,\"SOPHIA GENETICS   SF -, 05\",Aktien USA,Aktien USA Select",
+    "CA25472M1077,A3EFKA,DISCOVERY LITHIUM INC.,Aktien International,Aktien International",
+    "CA0832981090,A1J1ME,BENTON RESOURCES INC.,Aktien International,Aktien International",
+    "CA74971G4016,A3DHH4,RF CAPITAL GROUP INC.,Aktien International,Aktien International",
+    "US24661P8077,A2PT5P,\"DELCATH SYS NEW DL-, 01\",Aktien USA,Aktien USA Select",
+    "CA42328Y1025,A2QEX9,HELIOSTAR METALS LTD.,Aktien International,Aktien International",
+    "US09060U5074,A2PLXH,\"BIOCARDIA INC.NEW DL-, 001\",Aktien USA,Aktien USA Select",
+    "CA85472N1096,813102,STANTEC INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 20,
+    "Modifications": 0,
+    "Deletions": 12
+  }
+}
