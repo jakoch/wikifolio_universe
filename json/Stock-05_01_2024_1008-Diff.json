@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "US53814L1089,A2N464,LIVENT CORP.,Aktien USA,Aktien USA Select",
+    "US7628313030,A3DTDV,RICEBRAN TECHNOLOGIES,Aktien USA,Aktien USA Select",
+    "US78116T1034,A2JQ3H,\"RUBIUS THERAPEUT. DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000A3EYLC7,A3EYLC,MWB FAIRTRADE WPHDL.NA ON,Aktien Deutschland,Aktien Sonstige",
+    "CA92535P8736,A400EZ,VERSUS SYS INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
