@@ -1,0 +1,37 @@
+{
+  "Additions": [
+    "CA15643T5035,A3DTMW,CENTURION MINERALS L. NEW,Aktien International,Aktien International",
+    "VGG1144D1252,A3DZZP,BIT BROTHER LTD.,Aktien International,Aktien International",
+    "US89157G8841,A3DHG3,\"TOUGHBUILT IND.  DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "JP3862800004,858000,MAKINO MILLG MACH.,Aktien International,Aktien International",
+    "JP3915350007,591239,MEIKO ELECTRONICS,Aktien International,Aktien International",
+    "JP3131200002,860747,IINO KAIUN KAISHA,Aktien International,Aktien International",
+    "JP3856000009,591228,ADASTRIA CO. LTD.,Aktien International,Aktien International",
+    "JP3601800000,857914,TOHO TITANIUM,Aktien International,Aktien International",
+    "JP3577600004,890429,TOKAI TOKYO FINL HLDG.INC,Aktien International,Aktien International",
+    "JP3220200004,857296,KYB CORPORATION,Aktien International,Aktien International",
+    "JP3993400005,550501,WACOM CO.LTD,Aktien International,Aktien International",
+    "JP3843400007,890927,NORTH PACIFIC BANK LTD,Aktien International,Aktien International",
+    "JP3386110005,A1C7QJ,JINS HOLDINGS INC.,Aktien International,Aktien International",
+    "US35834F1049,A3E3UN,FREYR BATTERY INC.   O.N.,Aktien USA,Aktien USA Select",
+    "JP3922800002,859288,MOCHIDA PHARM.,Aktien International,Aktien International",
+    "JP3677200002,859158,NISSHIN OILLIO GRP,Aktien International,Aktien International",
+    "JP3441200007,863867,TAIKISHA LTD,Aktien International,Aktien International",
+    "JP3835760004,A142P7,BELLSYSTEM24 HLDGS   O.N.,Aktien International,Aktien International",
+    "JP3802720007,919920,FERROTEC HOLDINGS CORP.,Aktien International,Aktien International",
+    "JP3125800007,888504,ARIAKE JAPAN CO.LTD,Aktien International,Aktien International",
+    "JP3161160001,889799,EXEDY CORP.,Aktien International,Aktien International",
+    "AT0000A347S9,A3EEYP,FIXED INCOME ONE R,Fonds,Fonds Aktien",
+    "JP3636000006,A1C7QQ,TRI CHEMICAL LABORAT.INC.,Aktien International,Aktien International",
+    "JP3386370005,A0MY5Y,GNI GROUP LTD.,Aktien International,Aktien International",
+    "JP3385000009,886956,NS UTD KAIUN KAISHA LTD.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 22
+  }
+}
