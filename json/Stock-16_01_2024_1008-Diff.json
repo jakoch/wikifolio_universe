@@ -1,0 +1,36 @@
+{
+  "Additions": [
+    "US28202V1089,A3CY8W,EFFECTOR THERAPEU. CL.A,Aktien USA,Aktien USA Select",
+    "US92942V2088,A3DZJZ,\"VYANT BIO INC.NEW  -, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US00444T2096,A3DWPN,\"TALPHERA INC.      DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US00444T2096,A3DWPN,\"ACELRX PHARMACEUT. DL-, 01\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "KYG3691M1024,A3DVF7,\"FULLWEALTH I.GRP.H.HD-, 01\",Aktien International,Aktien International",
+    "CA87043J2039,A3E3TP,SWEET POISON SPIRITS INC.,Aktien International,Aktien International",
+    "LU2114851830,DWS26Y,ARERO-WELTFDS-ESG LC,Fonds,Fonds Aktien",
+    "CA0194561027,251085,ALLIED PROP.REAL EST. UTS,Aktien International,Aktien International",
+    "CA1264621006,A1XBLD,CT REIT,Aktien International,Aktien International",
+    "CA26153W1095,A113TE,DREAM INDUSTR.R.E.I.TR.,Aktien International,Aktien International",
+    "CA74167K1093,A3DB9N,PRIMARIS REIT A,Aktien International,Aktien International",
+    "CA04315L1058,A0MK8P,ARTIS REAL EST.INV.TR.UTS,Aktien International,Aktien International",
+    "CA3874371147,A1KAGY,GRANITE REIT UTS,Aktien International,Aktien International",
+    "CA65344U1012,A3DG7J,NEXUS INDUSTRIAL REIT,Aktien International,Aktien International",
+    "US8883147055,A400D1,\"TITAN PHARM.(DEL) DL-, 001\",Aktien USA,Aktien USA Select",
+    "CA23344H1091,A2QPTQ,DRI HEALTHCARE TRUST UT,Aktien International,Aktien International",
+    "CA57722Y1025,A3E4PU,MATTR CORP.,Aktien International,Aktien International",
+    "US28249U2042,A3EKZU,EIGER BIOPHARM.      O.N.,Aktien USA,Aktien USA Select",
+    "US41358P2056,A3EUUE,HARPOON THERAPEUTICS,Aktien USA,Aktien USA Select",
+    "CA7481197084,A4004Q,QUEBEC NICKEL CORP NEW,Aktien International,Aktien International",
+    "CA16141A1030,A1KBXW,CHARTWELL RETIREM.RESID.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 17
+  }
+}
