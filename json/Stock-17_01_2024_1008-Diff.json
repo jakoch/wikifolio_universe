@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA05551N1015,A2QGTD,BBTV HOLDINGS INC.,Aktien International,Aktien International",
+    "GB0009633180,578968,DECHRA PHARMACEUTICALS PLC,Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US20440T3005,A2P0S7,CIA BRAS.DIS.SP.ADR/1,Aktien USA,Aktien USA Select",
+      "Current": "US20440T3005,A2P0S7,CIA BRAS.DIS.SP.ADR/1PFD,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CNE100001SH0,A116GY,DYNAGREEN EN.PR.GR.H YC 1,Aktien International,Aktien International",
+    "KYG5340S1093,A3EMMH,LAEKNA INC.,Aktien International,Aktien International",
+    "DE000A2BPK34,A2BPK3,NET DIGITAL AG INH O.N.,Aktien Deutschland,Aktien Sonstige",
+    "BMG2133H2006,A3D63Y,\"CHINA MED.+HLTH.G.HD- , 01\",Aktien International,Aktien International",
+    "BMG6144P1014,A0MV9R,\"MINMETALS LAND LTD HD-, 10\",Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 5
+  }
+}
