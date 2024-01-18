@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "LU1437016972,A2ATYV,AIS-A.I.MSCI WRD UC.ETFDR,ETFs,ETFs Welt",
+    "LU1737652237,A2H9QY,AIS-A.I.MSCI WRD UC.ETFDD,ETFs,ETFs Welt",
+    "LU1861134382,A2JSDA,AIS-AM.MS.W SRI DR HEOA,ETFs,ETFs Welt",
+    "LU2249056297,A2QGPM,AIS-AM.MS.W SRI DRHEOA,ETFs,ETFs Welt"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000Y77LGG9,ETF143,AME-MWSCNZAP EOA,ETFs,ETFs Welt",
+    "IE000BI8OT95,ETF146,AM.ETF-MSCI DLA,ETFs,ETFs Welt",
+    "IE000K1P4V37,ETF144,AME-MWSCNZAP EOA,ETFs,ETFs Welt"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
