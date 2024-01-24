@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA2386611024,A14UHT,DAVIDSTEA INC.,Aktien USA,Aktien USA Select",
+    "DE000A2DAN10,A2DAN1,SOFTLINE AG  O.N.,Aktien Deutschland,Aktien Sonstige"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA53681M2058,A401N3,LITHIUM LION METALS INC.,Aktien International,Aktien International",
+    "CA74048R1091,A3ET9P,PREMIER AMER.URAN.INC.NEW,Aktien International,Aktien International",
+    "US4037831033,A3EE5F,GYRE THERAPEUTICS,Aktien USA,Aktien USA Select",
+    "CA75585H2063,A3CY50,THE REAL BROKERAGE INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
