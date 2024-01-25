@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "AU000000TMT8,A2DG4Q,TECHNOLOGY METALS AUSTR. LTD. REGISTERED SHARES O.,Aktien International,Aktien International",
+    "FI4000266804,A2DXQD,ROVIO ENTERTAINMENT OYJ REGISTERED SHARES O.N.,Aktien Europa,Aktien Europa Select",
+    "NO0010823131,A2PT0V,\"KAHOOT ASA        NK -, 10\",Aktien Europa,Aktien Europa Select",
+    "US0963081015,A2QD0F,\"BLUEGR.VAC.HLD. A DL-, 01\",Aktien USA,Aktien USA Select",
+    "US2381162062,A2QAZD,\"DATASEA INC.       DL-, 01\",Aktien International,Aktien International",
+    "US45782B1044,A2DGL3,\"INSEEGO CORP.     DL-, 001\",Aktien USA,Aktien USA Select",
+    "US60468T1051,A1W1XV,MIRATI THERAPEUTICS DL-01,Aktien USA,Aktien USA Select",
+    "US68570P2002,A3D7B8,ORCHARD THERAP.SP.ADRS/10,Aktien USA,Aktien USA Select",
+    "US82837P4081,A2PCBX,SILVERGATE CAP. CL.A,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A1X3XX4,A1X3XX,BRANICKS GROUP AG NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A1X3XX4,A1X3XX,DIC ASSET AG NA O.N.,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
