@@ -1,0 +1,21 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE0000FCGYF9,A3DEGV,INVESCOM-SPCHINA MC 500SW,ETFs,ETFs Asien",
+      "Current": "IE0000FCGYF9,A3DEGV,IM-SPCNA500SETF DLA,ETFs,ETFs Asien"
+    },
+    {
+      "Original": "IE00BK80XL30,A2P8EJ,IMII-IMCASSC,ETFs,ETFs Asien",
+      "Current": "IE00BK80XL30,A2P8EJ,INVESCOM2 CHINA ALSHA CON,ETFs,ETFs Asien"
+    }
+  ],
+  "Deletions": [
+    "IE00BKW9SX35,A2PYBR,INVESCOM2 S+P500 LOWVOLA,ETFs,ETFs Nordamerika"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

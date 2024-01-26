@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA1348521024,A2JEX7,CANADA SILVER COBALT WORK,Aktien International,Aktien International",
+    "US84860W3007,A2PAJV,\"SPIRIT REALTY CAP. DL-, 05\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US0367521038,A12FMV,\"ELEVANCE HEALTH    DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US0367521038,A12FMV,ANTHEM INC.,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
