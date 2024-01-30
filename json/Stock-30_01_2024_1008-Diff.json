@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA17178G1046,A1W4AC,CIELO WASTE SOLUT.,Aktien International,Aktien International",
+    "CA56580Q1028,A0YH1U,MARATHON GOLD CORP.,Aktien International,Aktien International",
+    "FR0004110310,502204,ESI GROUP INH.       EO 3,Aktien Europa,Aktien Europa Select",
+    "GB00B1CRLC47,A0MQ8X,\"MONDI PLC         EO -, 20\",Aktien Europa,Aktien Europa Select",
+    "IT0005569477,A3EUS3,EPRICE S.P.A.,Aktien Europa,Aktien Europa Select",
+    "US36151G4029,A3D6C8,INTELLIGENT BIO SOL.INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US7595301083,A14VSC,\"RELX ADR/1/4   LS-, 144397\",Aktien Europa,Aktien Europa Select",
+      "Current": "US7595301083,A14VSC,\"RELX ADR/1/4   LS-, 144397\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "US45773H4092,A400EJ,INOVIO PHARMACEUTICAL INC,Aktien USA,Aktien USA Select",
+    "CA65558V1004,A4018N,NORD PREC. M.M. INC. O.N.,Aktien International,Aktien International",
+    "IT0005581365,A4029Y,E.P.H. S.P.A.,Aktien Europa,Aktien Europa Select",
+    "DE000A2YN355,A2YN35,CIRCUS SE INH O.N.,Aktien Deutschland,Aktien Sonstige"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
