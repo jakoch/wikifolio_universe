@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "DE000LS9BMR2,LS9BMR,Deutsche Momentum-Aktien,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9BSA5,LS9BSA,JHI Absolute Return,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9GRU4,LS9GRU,Nebenwerte TechBio,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9HP74,LS9HP7,DAX-Werte Parity Saisonalität,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9JQ71,LS9JQ7,Dividende Cashflow Eigenkapital,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9M3M9,LS9M3M,Carmelita Panikattackenstrategie,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

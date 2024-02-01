@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA3874371147,A1KAGY,GRANITE REIT UTS,Aktien International,Aktien International",
+    "CA48214J1093,A3CMCR,JUST KITCHEN HLDGS CORP.,Aktien International,Aktien International",
+    "CA65654L1058,A2QDD4,NORSEMAN SILVER INC.,Aktien International,Aktien International",
+    "DK0060227585,A1CZWD,CHR HANSEN,Aktien Europa,Aktien Europa Select",
+    "US3736785078,A2QERV,\"GEOVAX LABS NEW  DL -, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "GB00BMWC6P49,A3E2FD,\"MONDI PLC         EO -, 22\",Aktien Europa,Aktien Europa Select",
+    "CA8974711084,A3DRXM,TROY MINERALS INC.,Aktien International,Aktien International",
+    "CA37427C2094,A2N7RK,GETCHELL GOLD CORP.,Aktien International,Aktien International",
+    "BSP736841136,A2PGAS,ONESPAWORLD HLDGS DL-0001,Aktien USA,Aktien USA Select",
+    "CA17178G3026,A3E28S,CIELO WASTE SOLUT.A NEW,Aktien International,Aktien International",
+    "US36151G6008,A401UY,INTELLIGENT BIO SOL.INC.,Aktien USA,Aktien USA Select",
+    "NL0015001WM6,A400D5,\"QIAGEN NV         EO -, 01\",Aktien Deutschland,Aktien DAX",
+    "NL00150012L7,A3DUAC,\"NEWAMSTERDAM PHA. EO-, 12\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 8
+  }
+}
