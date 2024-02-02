@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "FR001400HDX0,A3EDGS,\"NEOVACS NOM.   EO 0, 80\",Aktien Europa,Aktien Europa Select",
+    "KYG0410B1023,A2P4Y0,APOLLO FUT.MOB.HKDORD,Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA74290V1058,A401NR,PROMINO NUTRI: SCIENCES,Aktien International,Aktien International",
+    "FR001400MV37,A400CN,\"NEOVACS NOM.   EO 1, -\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
