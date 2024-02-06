@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "BE0003846632,A0J30B,OXURION N.V.,Aktien Europa,Aktien Europa Select",
+    "BMG5326A1062,A12CB1,\"KUANGCHI SCIENCE HD -, 01\",Aktien International,Aktien International",
+    "US3724461047,A2JHMQ,\"GENPREX INC     DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0010282822,A0JC1Z,VUSIONGROUP S.A.     EO 2,Aktien Europa,Aktien Europa Select",
+      "Current": "FR0010282822,A0JC1Z,SES-IMAGOTAG EO 2,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "FR001400H2X4,A3D69Y,\"TONNER DRONES S.A. EO-, 10\",Aktien Europa,Aktien Europa Select",
+      "Current": "FR001400H2X4,A3D69Y,\"DELTA DRONE SA  EO 1, -\",Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "US00770C1018,A1W1ZU,ARQ INC.,Aktien USA,Aktien USA Select",
+      "Current": "US00770C1018,A1W1ZU,ADVANCED EMISS. SOL.,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US15677J1088,A2JHZH,DAYFORCE INC.,Aktien USA,Aktien USA Select",
+      "Current": "US15677J1088,A2JHZH,CERIDIAN HCM HLDG,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA19425C1005,A3C88F,COLLECTIVE MINING LTD,Aktien International,Aktien International",
+    "BMG0411X1112,A3EX6S,\"APOLLO FUT.MOBIL.G.HD-, 10\",Aktien International,Aktien International",
+    "US3736786068,A401UX,\"GEOVAX LABS NEW  DL -, 001\",Aktien USA,Aktien USA Select",
+    "CA44861U4063,A3EF3P,HYBRID POWER SOLUT. INC.,Aktien International,Aktien International",
+    "US21077F1003,A1C9SC,\"CONTANGO ORE INC.  DL-, 01\",Aktien USA,Aktien USA Select",
+    "CA33827E1016,A4018K,FITZROY MINERALS INC,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 4,
+    "Deletions": 6
+  }
+}
