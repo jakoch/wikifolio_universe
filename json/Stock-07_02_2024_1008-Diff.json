@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "CA74738R1047,A3DLU3,Q4 INC.,Aktien International,Aktien International",
+    "US1281261099,A0B7RX,\"CALAMP CORP.       DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000RENK730,RENK73,RENK GROUP AG INH O.N.,Aktien Deutschland,Aktien Sonstige",
+    "GRS536003007,A401RW,ATHENS INTERN. AIRP. O.N.,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
