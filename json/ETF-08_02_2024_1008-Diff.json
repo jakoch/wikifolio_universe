@@ -1,0 +1,14 @@
+{
+  "Additions": [
+    "DE000ETFL458,ETFL45,DEKA MSCI EUROPE EX EMU,ETFs,ETFs Europa Gesamt"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000CQQ22C8,A3EW6T,JPM(IE)-ACT.US VAL.AC.EUR,ETFs,sonstige ETFs"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}

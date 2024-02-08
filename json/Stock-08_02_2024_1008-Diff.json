@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "FR0004157543,924631,NEOCOM MULTIMED.INH. O.N.,Aktien International,Aktien International",
+    "NO0010785967,A2PQT6,\"QUANTAFUEL AS     NK -, 01\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US09610B1089,A3DGEQ,\"ONCONETIX INC. DL -, 00001\",Aktien USA,Aktien USA Select",
+      "Current": "US09610B1089,A3DGEQ,\"BLUE WATER BIOTEC.-, 00001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "AT0000497235,A0JNG2,WSS-INTERNATIONAL,Fonds,Fonds Aktien",
+    "AT0000497227,A0JNG3,WSS-EUROPA,Fonds,Fonds Aktien",
+    "AT0000A1GYH0,A142FS,WSS WERTPAP.-U.OPT.STR. T,Fonds,Fonds Aktien"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
