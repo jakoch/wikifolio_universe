@@ -1,0 +1,184 @@
+{
+  "Additions": [
+    "BMG8114P1032,889510,CAPITAL INDU.FIN.SV HD-01,Aktien International,Aktien International",
+    "CA60928P1071,A3CVKP,MONETA GOLD INC.,Aktien International,Aktien International",
+    "HK8028008944,931025,TIMELESS RESOURCES,Aktien International,Aktien International",
+    "JP3399400005,854313,STANLEY EL.,Aktien International,Aktien International",
+    "JP3658800002,872161,NISHI-NIPPON RR,Aktien International,Aktien International",
+    "JP3735000006,857766,JEOL -JAPAN EL.OPT.-,Aktien International,Aktien International",
+    "JP3774600005,863425,H2O RETAILING CORP.,Aktien International,Aktien International",
+    "JP3799000009,863831,HIROSE EL.,Aktien International,Aktien International",
+    "JP3870000001,874139,MABUCHI MOTOR LTD,Aktien International,Aktien International",
+    "KYG070371078,A2N8XN,BABYTREE GROUP,Aktien International,Aktien International",
+    "KYG733101318,A2DHWY,\"REDCO PRP GROUP LTD -, 05\",Aktien International,Aktien International",
+    "US00848K1016,A2JG1L,AGEAGLE AERIAL SYS DL-001,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005216907,521690,TRADEGATE AG O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005216907,521690,TRADEGATE,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005405104,540510,INNOTEC TSS AG,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005405104,540510,INNOTEC AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005660104,566010,EUWAX AG O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005660104,566010,EUWAX AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006004500,600450,HYRICAN INFO.SYSTEME AG,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0006004500,600450,HYRICAN INFO. SYSTEME AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006052830,605283,MASCH.BERT.HER. O.N. VZO,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0006052830,605283,MASCHINENFABRIK BERTHOLD HERMLE AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006069008,606900,FROSTA AG AKT. O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0006069008,606900,FROSTA AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006209901,620990,ALBA SE O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0006209901,620990,ALBA SE AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0007474041,747404,PAUL HARTMANN AG NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007474041,747404,PAUL HARTMANN AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0007775207,777520,WESTAG AG  INH ST O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007775207,777520,WESTAG + GETALIT ST O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0007775231,777523,WESTAG AG  INH VZO O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007775231,777523,WESTAG + GETALIT VZO O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A161309,A16130,KST BETEILIGUNGS AG NA,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A161309,A16130,KST BETEILIGUNGS AG NA .O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A1TNMM9,A1TNMM,CENTROTHERM INTL O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A1TNMM9,A1TNMM,CENTROTHERM PHOTOVOLTAICS AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A2BPP88,A2BPP8,BETA SYST.SOFTW. INH.O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A2BPP88,A2BPP8,BETA SYST.SOFTW.AG O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "HU0000073457,A0B7AP,RABA JARMU.HLDG A UF 1000,Aktien Europa,Aktien Europa Select",
+      "Current": "HU0000073457,A0B7AP,RABA JARMUIPARI HLDG,Aktien International,Aktien International"
+    },
+    {
+      "Original": "HU0000089867,A0M6P5,PANNERGY NYRT.NAM.UF 20,Aktien Europa,Aktien Europa Select",
+      "Current": "HU0000089867,A0M6P5,PANNERGY NYRT.,Aktien International,Aktien International"
+    },
+    {
+      "Original": "KYG525621408,A0DK62,\"KINGBOARD HOLDINGS HD-, 10\",Aktien International,Aktien International",
+      "Current": "KYG525621408,A0DK62,KINGB.CHEM.HLDGS,Aktien International,Aktien International"
+    },
+    {
+      "Original": "KYG5257K1076,A0LENM,\"KINGB.LAMINATES H. HD-, 10\",Aktien International,Aktien International",
+      "Current": "KYG5257K1076,A0LENM,KINGB.LAMINATES,Aktien International,Aktien International"
+    },
+    {
+      "Original": "KYG9361V1086,A0MWAV,\"VINDA INTL HLDGS   HD-, 10\",Aktien International,Aktien International",
+      "Current": "KYG9361V1086,A0MWAV,VINDA INTL HLDG,Aktien International,Aktien International"
+    },
+    {
+      "Original": "LU0472835155,A0YF5P,H2APEX GROUP SCA RED. A,Aktien Deutschland,Aktien Sonstige",
+      "Current": "LU0472835155,A0YF5P,EXCEET GROUP SCA RED. A,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "NL0015001FS8,A3EG0H,\"FERROVIAL SE       EO-, 01\",Aktien Europa,Aktien Europa Select",
+      "Current": "NL0015001FS8,A3EG0H,\"FERROVIAL INT. SE  EO-, 01\",Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLBH00000012,907562,BK HANDLOWY W WARS.  ZY 4,Aktien Europa,Aktien Europa Select",
+      "Current": "PLBH00000012,907562,BK HANDLOWY,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLBRE0000012,884537,MBANK S.A.           ZY 4,Aktien Europa,Aktien Europa Select",
+      "Current": "PLBRE0000012,884537,MBANK,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLBZ00000044,677298,SANTANDER POLSKA M  ZY 10,Aktien Europa,Aktien Europa Select",
+      "Current": "PLBZ00000044,677298,BANK ZACHODNI,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLENERG00022,A1W95U,\"ENERGA SA AA     ZY 10, 92\",Aktien Europa,Aktien Europa Select",
+      "Current": "PLENERG00022,A1W95U,ENERGA,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLEURCH00011,A0DQA0,EUROCASH S.A. CL.A   ZY 1,Aktien Europa,Aktien Europa Select",
+      "Current": "PLEURCH00011,A0DQA0,EUROCASH,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLGTC0000037,A0CA6H,\"GLOBE TRADE CENTRE ZY 0, 1\",Aktien Europa,Aktien Europa Select",
+      "Current": "PLGTC0000037,A0CA6H,GLOBE TRADE CEN,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLJSW0000015,A1JCB2,JASTRZEBSKA SPOL.WEGL.ZY5,Aktien Europa,Aktien Europa Select",
+      "Current": "PLJSW0000015,A1JCB2,JASTRZEBSKA,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLLWBGD00016,A0RP05,LUBELSKI WEGIEL BOGD.ZY 5,Aktien Europa,Aktien Europa Select",
+      "Current": "PLLWBGD00016,A0RP05,LUBELSKI WEGIEL,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLPEKAO00016,914910,BANK POLSKA KASA OP. ZY 1,Aktien Europa,Aktien Europa Select",
+      "Current": "PLPEKAO00016,914910,BK PEKAO,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLPGER000010,A0YC19,\"PGE PL.GR.ENERG. ZY 8, 55\",Aktien Europa,Aktien Europa Select",
+      "Current": "PLPGER000010,A0YC19,PGE,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLPKN0000018,929424,\"ORLEN S.A.        ZY 1, 25\",Aktien Europa,Aktien Europa Select",
+      "Current": "PLPKN0000018,929424,PKN ORLEN,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLPKO0000016,A0DLEV,PKO BANK POLSKI S.A. ZY 1,Aktien Europa,Aktien Europa Select",
+      "Current": "PLPKO0000016,A0DLEV,PKO BANK POLSKI,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLPZU0000011,A0YCYA,POWSZECHNY ZAKLAD UBEZP.,Aktien Europa,Aktien Europa Select",
+      "Current": "PLPZU0000011,A0YCYA,POWSZECHNY ZAKL,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLTAURN00011,A1C0ZK,TAURON POLSKA ENERGIA ZY5,Aktien Europa,Aktien Europa Select",
+      "Current": "PLTAURN00011,A1C0ZK,TAURON POLSKA E,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "PLTLKPL00017,917448,ORANGE POLSKA SA A   ZY 3,Aktien Europa,Aktien Europa Select",
+      "Current": "PLTLKPL00017,917448,ORANGE POLSKA,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "US44267T1025,A3ERKJ,HOWARD HUGHES HOL.INC NEW,Aktien USA,Aktien USA Select",
+      "Current": "US44267T1025,A3ERKJ,HOWARD HUGHES CORP.   NEW,Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US78486Q1013,A0ET46,\"SVB FINL GROUP    DL-, 001\",Aktien International,Aktien International",
+      "Current": "US78486Q1013,A0ET46,\"SVB FINL GROUP    DL-, 001\",Aktien USA,Aktien USA Select"
+    },
+    {
+      "Original": "US8643231009,A1H5LW,SUBSEA 7 S.A. ADR/1 DL 2,Aktien Europa,Aktien Europa Select",
+      "Current": "US8643231009,A1H5LW,SUBSEA 7 S.A. ADR/1 DL 2,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CY0200751713,A3E2ZV,THEON INTERN.PLC      CY1,Aktien Europa,Aktien Europa Select",
+    "NL0015001W49,A4017D,PLUXEE,Aktien Europa,Aktien Europa Select",
+    "US1281262089,A3EKM1,CALAMP CORP. NEW O.N.,Aktien USA,Aktien USA Select",
+    "US3724462037,A3E3Z3,\"GENPREX INC. DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US7731221062,A3CY7P,\"ROCKET LAB USA A DL-, 0001\",Aktien USA,Aktien USA Select",
+    "LU2458332611,A3DK8U,ALVOTECH S.A.S,Aktien USA,Aktien USA Select",
+    "US45674M1018,A3C6AA,\"INFORMATICA CL.A  DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 12,
+    "Modifications": 38,
+    "Deletions": 7
+  }
+}
