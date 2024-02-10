@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "DE000LS9BBC7,LS9BBC,Deutschland Premium,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9BHK7,LS9BHK,USA Premium,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9LSB2,LS9LSB,Zukunftsunternehmen,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9RWD7,LS9RWD,Limitato 5,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9SCM8,LS9SCM,Fast Growing Companies,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9SEN2,LS9SEN,BlueVantage Capital,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9UQ92,LS9UQ9,Aktiv gehebelter Handel,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
