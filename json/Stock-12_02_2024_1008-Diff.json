@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA48311A2092,A3DAES,KAIZEN DISCOVERY,Aktien International,Aktien International",
+    "CA65412D8098,A2PX5K,NIGHTHAWK GOLD CORP.,Aktien International,Aktien International",
+    "FR0011053636,A1JG36,\"BLOCKCHAIN GRP SA  EO-, 04\",Aktien Europa,Aktien Europa Select",
+    "GB00BD045071,A2DL9L,\"ARIX BIOSCIENCE LS-, 00001\",Aktien Europa,Aktien Europa Select",
+    "US2473681037,502848,\"DELTA APPAREL INC. DL-, 01\",Aktien USA,Aktien USA Select",
+    "US74019L6020,A3ETCE,\"PRECIPIO INC.     DL-, 001\",Aktien USA,Aktien USA Select",
+    "US91818X3061,A400B1,UXIN LTD. (ADRS)/300 YC 1,Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA8263XP1041,A3CM97,SIERRA MADRE GOLD AND SIL,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
