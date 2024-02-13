@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "NO0003055808,A0LGXV,\"DLTX ASA          NK 1, 60\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA86101P1018,A4016B,STLLR GOLD INC. O.N..,Aktien International,Aktien International",
+    "US00848K2006,A401TY,AGEAGLE AERIAL SYS NEW,Aktien International,Aktien International",
+    "CA92338D1015,A2QPLS,VERANO HOLDINGS (SUB.VT.),Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
