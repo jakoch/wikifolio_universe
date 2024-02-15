@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA53014U3047,A2QQQN,LIBERO COPPER+GOLD CORP.,Aktien International,Aktien International",
+    "CA75867R1047,A3D2GV,REFINED METALS CORP. O.N.,Aktien International,Aktien International",
+    "FR001400JXB0,A3EJJD,\"PHARNEXT      EO 1, -\",Aktien Europa,Aktien Europa Select",
+    "IE0009BOA4C9,A3DQA8,\"KALERA PLC     DL-, 0001\",Aktien Europa,Aktien Europa Select",
+    "KYG2119W1069,A2APDK,CHINA EVERGRANDE GROUP,Aktien International,Aktien International",
+    "US45253H1014,878613,\"IMMUNOGEN INC.     DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US81282V1008,A1T8QH,\"UNITED PARKS+RESO. DL-, 01\",Aktien USA,Aktien USA Select",
+      "Current": "US81282V1008,A1T8QH,\"SEAWORLD ENTERTAIN.DL-, 01\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
