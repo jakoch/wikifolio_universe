@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA03519P3007,A3D5Y4,ANGOLD RESOURCES LTD,Aktien International,Aktien International",
+    "CA7327681069,A2QNFB,PONTUS PROTEIN LTD..,Aktien International,Aktien International",
+    "ES0105029005,A14MDC,\"FACEPHI BIOMETRIA  EO-, 04\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005545503,554550,1+1 AG  INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005545503,554550,1+1 DRILLISCH AG O.N.,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A3E5D64,A3E5D6,FUCHS SE  VZO NA O.N.,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E5D64,A3E5D6,FUCHS PETROLUB VZO NA ON,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}
