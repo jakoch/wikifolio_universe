@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA00175D1006,A2PTZ0,AMPD VENTURES INC,Aktien International,Aktien International",
+    "DK0061155785,A2PVKE,\"ASTRALIS GROUP A/S DK-, 01\",Aktien Europa,Aktien Europa Select",
+    "FR001400I939,A3ENXY,TECH. CREAT. STUDIOS EO 1,Aktien Europa,Aktien Europa Select",
+    "US76090R2004,A3D3E9,RESHAPE LIFESCIENCES,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E5D56,A3E5D5,FUCHS SE  NA ST O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A3E5D56,A3E5D5,FUCHS PETROLUB NA ST O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "CA88908E1079,A3EE4R,TOGGLE3D AI INC.,Aktien International,Aktien International",
+    "US74019P2074,A400AS,PRECISION BIOSC.     O.N.,Aktien USA,Aktien USA Select",
+    "US43475E1055,A3CRL8,HOLCIM NEW(U.ADR)1/5/SF2,Aktien Europa,Aktien Europa Select",
+    "US82674R1032,A2AP9V,SIKA AG UNSP.ADR O.N.,Aktien Europa,Aktien Europa Select",
+    "CA75867R2037,A402TQ,REFINED METALS CORP,Aktien International,Aktien International",
+    "CA53014U7006,A401Y6,LIBERO COPPER+GOLD CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 6
+  }
+}
