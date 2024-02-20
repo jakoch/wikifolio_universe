@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA05156X8843,A2P4EC,AURORA CANNABIS,Aktien USA,Aktien USA Select",
+    "IL0010826191,907204,\"SHARPLINK GAMING   IS-, 60\",Aktien International,Aktien International",
+    "US46185L1035,A14NKG,\"INVITAE CORP.    DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US7864492076,A0YAM0,\"SAFEGUARD SCIENT.  DL-, 10\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US7864493066,A400DM,\"SAFEGUARD SCIENT.  DL-, 10\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
