@@ -264,9 +264,10 @@ compress() {
 
   # write new README
   # ghpages uses jekyll, which has UTF-8 issues. so instead of "Ü" use "&Uuml;"
+  # old URL: https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum
   {
     echo -n;
-    echo -e '# Das gesamte [wikifolio.com Anlageuniversum](https://www.wikifolio.com/de/de/hilfe/tutorials-trader/handel-hinweise/anlageuniversum) im &Uuml;berblick:\n';
+    echo -e '# Das gesamte [wikifolio.com Anlageuniversum](https://help.wikifolio.com/article/102-welche-werte-kann-ich-im-wikifolio-handeln) im &Uuml;berblick:\n';
     echo -e '\n### Downloads vom '"$DATE"'\n';
     echo -e '| | XLSX | SQLite | CSV |';
     echo -e '|--|--|--|--|';
