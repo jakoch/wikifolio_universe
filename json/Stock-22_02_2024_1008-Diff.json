@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA92209L1094,A2DM1X,VANSTAR MINING RES. O.N.,Aktien International,Aktien International",
+    "US2166484020,867409,COOPER COMPANIES INC.,Aktien USA,Aktien USA Select",
+    "US62856X1028,A3CMP4,\"MYMD PHARMAC.INC. DL-, 01\",Aktien USA,Aktien USA Select",
+    "US63009R1095,A1W1X2,\"NANOSTR.TECHNOL. DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA00792K1075,A4007Y,AERO ENERGY LTD.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
