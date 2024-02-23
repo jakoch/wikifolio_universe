@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "US7864493066,A400DM,\"SAFEGUARD SCIENT.  DL-, 10\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US62856X2018,A401XM,MYMD PHARMACEUT. INC NEW,Aktien USA,Aktien USA Select",
+    "US8200141088,A4047S,\"SHARPL.G. LTD DL-, 0001\",Aktien International,Aktien International",
+    "CA05156X8504,A4ZZ0W,AURORA CANNABIS,Aktien USA,Aktien USA Select",
+    "US2166485019,A402VX,COOPER COS. INC. O.N.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
