@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "XS2425842106,A3GWVT,WITR MU.AS.I. ETP 62,ETFs,ETFs DAX",
+      "Current": "XS2425842106,A3GWVT,WITR MU.AS.I. ETP 62,ETFs,ETFs Basic Resources"
+    }
+  ],
+  "Deletions": [
+    "IE00075IVKF9,A401YJ,H.E.S.J.U.M.E. DLA,ETFs,ETFs Basic Resources"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
