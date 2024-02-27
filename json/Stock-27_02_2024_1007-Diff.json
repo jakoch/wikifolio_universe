@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA02074D2077,A3EXJ4,ALPHA COPPER CORP.,Aktien International,Aktien International",
+    "CA08783B2003,A3E28T,BEVCANNA ENTERPRISES NEW,Aktien International,Aktien International",
+    "FR001400BVK2,A3DR5C,\"SPINEWAY         EO 4, -\",Aktien Europa,Aktien Europa Select",
+    "US46186M6057,A3DHEU,\"INVIVO THERAPEU.DL-, 00001\",Aktien USA,Aktien USA Select",
+    "US8964383066,A0ET3S,TRINITY BIOTEC.ADR NEW A,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "FR001400N2P2,A400E3,\"SPINEWAY       EO 4, -\",Aktien Europa,Aktien Europa Select",
+    "CA08783B3092,A404NF,BEVCANNA ENTERPRISES NEW,Aktien International,Aktien International",
+    "US8964385046,A404JF,TRINITY BIOTEC.ADR NEW A,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
