@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE000LS9HUX0,LS9HUX,Nach Gebert: Momentum+Substanz,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9JP98,LS9JP9,Re-Tech,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9LSE6,LS9LSE,Junior Silber Minenwerte,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9NB23,LS9NB2,Commodity & Currency,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9UD71,LS9UD7,Directional Equity,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
