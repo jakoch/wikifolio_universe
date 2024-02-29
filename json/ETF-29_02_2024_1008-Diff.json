@@ -1,0 +1,19 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU1686832277,LYX048,AIS AMU EUR GOV25+ ETFD,ETFs,ETFs Europa Bonds",
+      "Current": "LU1686832277,LYX048,AMUNDI EO.GO.BD 25 EOD,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "LU1812090543,LYX0YX,AIS-AMU E HY CRB ESG ETFD,ETFs,ETFs Europa Bonds",
+      "Current": "LU1812090543,LYX0YX,LY.I.-ESG EO HI.YI.UE EOD,ETFs,ETFs Europa Bonds"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

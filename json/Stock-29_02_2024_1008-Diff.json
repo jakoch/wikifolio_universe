@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "DE000A0LAUP1,A0LAUP,CROPENERGIES AG,Aktien Deutschland,Aktien Sonstige",
+    "FR0000054678,894825,\"EURO RESSOURCES SA EO-, 01\",Aktien Europa,Aktien Europa Select",
+    "FR0010395681,A0LFDK,\"ALTUR INVESTISSEM.EO 2, 50\",Aktien Europa,Aktien Europa Select",
+    "SE0000382335,906926,\"AUTOLIV SDR/1 DL-, 01\",Aktien Europa,Aktien Europa Select",
+    "US71948P1003,A2PBXB,\"PHUNWARE INC.    DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US03763A2078,A14SUE,\"ASTRANA HEALTH   DL -, 00\",Aktien USA,Aktien USA Select",
+      "Current": "US03763A2078,A14SUE,\"APOLLO MEDICAL   DL -, 001\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "SE0021309614,A401UM,\"AUTOLIV SDR/1 DL-, 01\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
