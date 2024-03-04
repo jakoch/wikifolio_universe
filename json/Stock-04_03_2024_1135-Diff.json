@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA45250A3073,A3DWAE,IMETAL RES INC.,Aktien International,Aktien International",
+    "CA60273M1059,A3C2J8,MINEHUB TECHNOLOGIES INC.,Aktien International,Aktien International",
+    "US53261M1045,A0MSRH,\"LIMELIGHT NET.INC DL-, 001\",Aktien USA,Aktien USA Select",
+    "US5505501073,A2H8ZP,LUTHER BURBANK CORP.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "US7595091023,892629,RELIANCE INC.,Aktien USA,Aktien USA Select",
+      "Current": "US7595091023,892629,RELIANCE STEEL & ALUMIN. CO.,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA45250A4063,A403XE,IMETAL RES INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "IE00BLH3CV30,A3CUJ9,HANETFPROCSPACE DLA,ETFs,ETFs Branchen",
+    "IE00BMFNWC33,A3CPGF,HANETF-SOLENER DLA,ETFs,ETFs Branchen"
+  ],
+  "Modifications": [
+    {
+      "Original": "LU0908501058,LYX0Q1,AISAMU EMU ESG CTB ETF A,ETFs,ETFs Europa Gesamt",
+      "Current": "LU0908501058,LYX0Q1,LYXOR I.-C.EOS.300(DR)UEA,ETFs,ETFs Europa Gesamt"
+    },
+    {
+      "Original": "LU1435356065,LYX9ZP,AIS-AMU USD HY COB ESG,ETFs,ETFs Sonstige Bonds",
+      "Current": "LU1435356065,LYX9ZP,LYX-ESGUSDHY DLA,ETFs,ETFs Sonstige Bonds"
+    },
+    {
+      "Original": "LU1435356149,LYX0V1,AIS-AMU USD HY COB ESG,ETFs,ETFs Sonstige Bonds",
+      "Current": "LU1435356149,LYX0V1,LYX.I-BOAML DL HY BD D,ETFs,ETFs Sonstige Bonds"
+    },
+    {
+      "Original": "LU1598691050,LYX0WV,AIS-AMU IT BTP B 1-3 ETFD,ETFs,ETFs Europa Bonds",
+      "Current": "LU1598691050,LYX0WV,L.I-L.E.1-3Y I.B.G.B. D,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "LU1598691217,LYX0WU,AIS-AMU IT BTP B 10Y ETFA,ETFs,ETFs Europa Bonds",
+      "Current": "LU1598691217,LYX0WU,L.IF-L.E.10Y I.B.G.B. A,ETFs,ETFs Europa Bonds"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 5,
+    "Deletions": 0
+  }
+}
