@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA03634K1030,A3EFKD,ANONYMOUS INTELLIG.CO.INC,Aktien International,Aktien International",
+    "CA29383X1033,A2QJBZ,ENTHEON BIOMEDICAL CORP.,Aktien International,Aktien International",
+    "CA38063G2071,A3DMJC,GOLD LINE RESOURCES LTD.,Aktien International,Aktien International",
+    "CA54342Q2053,A3EWDF,LOOKING GLASS LABS LTD.,Aktien International,Aktien International",
+    "CA74359L1058,A3DHHS,PROSPECTOR METALS CORP,Aktien International,Aktien International",
+    "US71943U1043,A1W57P,\"PHYSICIANS REALTY  DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US71948P2092,A404G9,PHUNWARE INC.  NEW O.N.,Aktien USA,Aktien USA Select",
+    "CA59140M1086,A404SQ,METASPHERE LABS INC.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
