@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "FR0010655761,A0REJR,AMUNDI ETF MSCI UK,ETFs,ETFs Europa Gesamt",
+    "FR0011869338,LYX0TJ,LYX.PEA MSCI KO U.ETF CEO,ETFs,ETFs Asien",
+    "LU1834988195,LYX02N,LIF-600 MEDIA EOA,ETFs,ETFs Branchen",
+    "LU1834988435,LYX02R,LIF-600 RETAIL EOA,ETFs,ETFs Branchen",
+    "LU2056738490,LYX05G,MUL-L.M.E.C.C.E EOA,ETFs,ETFs Europa Gesamt",
+    "LU2082995734,LYX039,LIF-600 MEDIA EOD,ETFs,ETFs Europa Gesamt",
+    "LU2082998670,LYX04P,LIF-600 RETAIL EOD,ETFs,ETFs Branchen",
+    "LU2109786660,A2PZC4,AIS-A.MSCIUSAESGUS ETFDRC,ETFs,ETFs Nordamerika",
+    "LU2109786744,A2PZC6,AIS-A.MSCI EUESGUS ETFDRC,ETFs,ETFs Europa Gesamt",
+    "LU2182388319,A2P6TM,AIS-E.C.P.A.P. ETF DREOA,ETFs,ETFs Europa Gesamt",
+    "LU2451511526,A3DHM8,AIS-A.US T.BD0-1ETFDRHSDA,ETFs,ETFs Sonstige Bonds"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 11,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
