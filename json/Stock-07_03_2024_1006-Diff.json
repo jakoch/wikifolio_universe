@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA33745A1084,A3DB6A,FIRST URANIUM RESOURCES,Aktien International,Aktien International",
+    "CA69644D1087,A2PJND,PALLADIUM ONE MNG INC.,Aktien International,Aktien International",
+    "US82621J2042,A3D42J,SIENTRA INC.     NEW O.N.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000WNDL300,WNDL30,NAKIKI SE INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000WNDL300,WNDL30,WINDELN.DE SE INH O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "LT0000128092,A0N95A,\"AKOLA GROUP AB    EO 0, 29\",Aktien Europa,Aktien Europa Select",
+      "Current": "LT0000128092,A0N95A,\"LINAS AGRO GROUP  EO 0, 29\",Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "CA60273M2040,A40124,MINEHUB TECHNOLOGIES INC.,Aktien International,Aktien International",
+    "US53261M2035,A402TN,EDGIO INC,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}

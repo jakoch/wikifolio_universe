@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "LU1931974858,A2PBLL,AMUN.I.S.-A.P.USA UEDRDLD,ETFs,ETFs Nordamerika",
+    "LU2089238468,A2PWMM,AMUN.I.S.-A.P.USA UEDRDLA,ETFs,ETFs Nordamerika"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000IEGVMH6,ETF153,AM E.I.A.P.U.E. USD,ETFs,ETFs Nordamerika",
+    "IE000FSN19U2,ETF154,AM E.I.A.P.U.E. DLA,ETFs,ETFs Nordamerika"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
