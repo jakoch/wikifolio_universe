@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "US03835L2079,A2P2EX,\"APTEVO THERAP.INC.DL-, 001\",Aktien USA,Aktien USA Select",
+    "US37519U1097,A3C8MN,\"GIGCAPITAL5 INC. DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005494165,549416,EQS GROUP AG NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005494165,549416,EQS GROUP AG,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "CA03634K2020,A404JH,ANONYMOUS INTELLIG.CO.INC,Aktien International,Aktien International",
+    "CA29383X2023,A404YT,ENTHEON BIOMEDICAL CORP.,Aktien International,Aktien International",
+    "CA74359L2049,A40170,PROSPECTOR METALS NEW,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}

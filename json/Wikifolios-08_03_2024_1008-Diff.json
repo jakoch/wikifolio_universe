@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "DE000LS9QCZ4,LS9QCZ,firstclass stock picking,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9QDD9,LS9QDD,firstclass growth stocks,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9QTQ7,LS9QTQ,Entertainment,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9REP9,LS9REP,Top 25 Techaktien nach Marktwert,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9REU9,LS9REU,Top 50 Techaktien nach Marktwert,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9THG7,LS9THG,firstclass value stocks,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9UPP9,LS9UPP,Future Is Ours,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9UQQ5,LS9UQQ,Allokation ,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
