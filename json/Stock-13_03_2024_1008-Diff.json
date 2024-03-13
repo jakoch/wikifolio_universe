@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "FR0000074122,928902,SCT.INF.IND.         EO 2,Aktien Europa,Aktien Europa Select",
+    "NL0010872420,A12BHU,\"AFFIMED N.V.       EO-, 01\",Aktien USA,Aktien USA Select",
+    "NO0010317340,A0JMZC,\"NORDIC MINING ASA NK -, 60\",Aktien Europa,Aktien Europa Select",
+    "US45790J8678,A3DWU0,\"INPIXON           DL -, 01\",Aktien USA,Aktien USA Select",
+    "US5020744042,A3CMTJ,\"LM FNDG. AMER.    DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US01988P1084,607917,VERADIGM INC.       DL-01,Aktien USA,Aktien USA Select",
+      "Current": "US01988P1084,607917,ALLSCRIPTS HEAL.SOL.DL-01,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "NO0013162693,A403MH,NORDIC MINING ASA   NK 12,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
