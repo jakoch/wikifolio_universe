@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "AU000000RXM4,A0MY8Q,REX MINERALS LTD,Aktien International,Aktien International",
+      "Current": "AU000000RXM4,A0MY8Q,REX MINERLAS LTD,Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "CA0468241082,A3DP94,ATHA ENERGY CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
