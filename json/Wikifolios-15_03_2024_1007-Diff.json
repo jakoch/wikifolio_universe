@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "DE000LS9AWY9,LS9AWY,Schweiz Premium,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9J0P3,LS9J0P,Umkehr-Situationen,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9SKS8,LS9SKS,Kapitalmarktanomalien,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9UT40,LS9UT4,Position-Trading mit muffin,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

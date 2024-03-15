@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "DE000WNDL300,WNDL30,NAKIKI SE INH O.N.,Aktien Deutschland,Aktien Sonstige",
+    "US82452L4014,A3EVGF,SHIFTPIXY INC. NEW,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US13803R2013,A4078W,CANOO INC. CL.A,Aktien USA,Aktien USA Select",
+    "NL0015001ZQ0,A407ZR,\"AFFIMED N.V.       EO-, 10\",Aktien USA,Aktien USA Select",
+    "US98423K1088,A3EYDX,XTI AEROSPACE INC.,Aktien USA,Aktien USA Select",
+    "US5020745031,A403PB,\"LM FNDG. AMER.    DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "FR0011869353,LYX0SZ,LYX.PEA MSCI WO.U.ETF CEO,ETFs,ETFs Welt"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000RO1O3N4,A3DJRN,VA.F-V.ESG US C DLD,ETFs,ETFs Sonstige Bonds",
+    "IE00BH04GW44,A2PCCL,VANG.UK GILT LS ACC,ETFs,ETFs Europa Bonds",
+    "IE00BGYWSV06,A2PCCG,VANGUARD USD CO DL ACC,ETFs,ETFs Sonstige Bonds",
+    "IE00BGYWSW13,A3ES6A,VANGUARD USD CO HGDEOA,ETFs,ETFs Sonstige Bonds",
+    "IE00BFMXVQ44,A2PFN5,V.FTSE250UE LSA,ETFs,ETFs Europa Gesamt",
+    "IE00BFMXYP42,A2PFN4,V.FTSE100ETF LSA,ETFs,ETFs Europa Gesamt"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
