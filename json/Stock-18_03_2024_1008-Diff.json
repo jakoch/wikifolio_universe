@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "AU000000LPI1,A2ANZD,LITHIUM POWER INTL LTD,Aktien International,Aktien International",
+    "CA4592832063,A3CN4J,INTL COBALT CORP.,Aktien International,Aktien International",
+    "US00848H1086,A2N8PC,\"AGEX THERAPEUTI. DL0, 0001\",Aktien International,Aktien International",
+    "US02156B1035,A2DME9,\"ALTERYX INC. A DL-, 0001\",Aktien USA,Aktien NASDAQ 100 Select",
+    "US1281262089,A3EKM1,CALAMP CORP. NEW O.N.,Aktien USA,Aktien USA Select",
+    "US53261M2035,A402TN,EDGIO INC,Aktien USA,Aktien USA Select",
+    "US69012T2069,A2PF3C,\"OUTLOOK THERAPEUT. DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA45826T5098,A3EET5,INTEGRA RES CORP.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
