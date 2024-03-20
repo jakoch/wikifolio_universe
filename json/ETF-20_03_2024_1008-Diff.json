@@ -1,0 +1,41 @@
+{
+  "Additions": [
+    "IE00BF1QPJ56,A2H8NN,SPDR BL.GL.AG.BD LSHUE,ETFs,ETFs Sonstige Bonds",
+    "IE00BJBLDJ48,A2PG7B,OSSIAM-O.US ESG L.CEF1ADL,ETFs,ETFs Nordamerika",
+    "IE00BKC94M46,A2PRUB,SPDR BL.G.AG.BD DLHUEA,ETFs,ETFs Sonstige Bonds"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000ETFL177,ETFL17,DEKA DT.BÃRSE EUROG.GER. U.ETF,ETFs,ETFs Europa Bonds",
+      "Current": "DE000ETFL177,ETFL17,DEKA DT.BÖRSE EUROG.GER. U.ETF,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "DE000ETFL185,ETFL18,DEKA DT.BÃRSE EUROG.GER.1-3 U.ETF,ETFs,ETFs Europa Bonds",
+      "Current": "DE000ETFL185,ETFL18,DEKA DT.BÖRSE EUROG.GER.1-3 U.ETF,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "DE000ETFL193,ETFL19,DEKA DT.BÃRSE EUROG.GER.3-5 U.ETF,ETFs,ETFs Europa Bonds",
+      "Current": "DE000ETFL193,ETFL19,DEKA DT.BÖRSE EUROG.GER.3-5 U.ETF,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "DE000ETFL201,ETFL20,DEKA DT.BÃRSE EUROG.GER.5-10 U.ETF,ETFs,ETFs Europa Bonds",
+      "Current": "DE000ETFL201,ETFL20,DEKA DT.BÖRSE EUROG.GER.5-10 U.ETF,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "DE000ETFL219,ETFL21,DEKA DT.BÃRSE EUROG.GER.10+ U.ETF,ETFs,ETFs Europa Bonds",
+      "Current": "DE000ETFL219,ETFL21,DEKA DT.BÖRSE EUROG.GER.10+ U.ETF,ETFs,ETFs Europa Bonds"
+    },
+    {
+      "Original": "DE000ETFL227,ETFL22,DEKA DT.BÃRSE EUROGOV.GER.M.MKT.U.ETF,ETFs,ETFs Europa Bonds",
+      "Current": "DE000ETFL227,ETFL22,DEKA DT.BÖRSE EUROGOV.GER.M.MKT.U.ETF,ETFs,ETFs Europa Bonds"
+    }
+  ],
+  "Deletions": [
+    "IE0006WW1TQ4,DBX0VH,XTR.M.W.E.U.E. 1CDLA,ETFs,ETFs Welt"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 6,
+    "Deletions": 1
+  }
+}

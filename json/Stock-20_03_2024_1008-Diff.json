@@ -1,0 +1,42 @@
+{
+  "Additions": [
+    "US0925331086,A0M452,BLACKROCK CAP. INVT. CORP.,Aktien USA,Aktien USA Select",
+    "US8486371045,A1JV4H,\"SPLUNK INC.       DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "CH0319416936,A2AJEP,FLUGHAFEN ZÃRICH,Aktien Europa,Aktien Europa Select",
+      "Current": "CH0319416936,A2AJEP,FLUGHAFEN ZÜRICH,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "DE0005533400,553340,DEUTSCHE GRUNDSTÃCKSAUKTIONEN,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005533400,553340,DEUTSCHE GRUNDSTÜCKSAUKTIONEN,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006214687,621468,MÃLLER DIE LILA LOGISITK,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0006214687,621468,MÜLLER DIE LILA LOGISITK,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0007830572,783057,DALDRUP & SÃHNE,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007830572,783057,DALDRUP & SÖHNE,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0008435967,843596,NÃRNBERGER BETEILIGUNGS-AG,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0008435967,843596,NÜRNBERGER BETEILIGUNGS-AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "TH0961010R11,A0Q245,TTW PUBLIC VORZÃGE,Aktien International,Aktien International",
+      "Current": "TH0961010R11,A0Q245,TTW PUBLIC VORZÜGE,Aktien International,Aktien International"
+    },
+    {
+      "Original": "TH0999010R11,A0RK9W,TISCO FINANCIAL VORZÃGE,Aktien International,Aktien International",
+      "Current": "TH0999010R11,A0RK9W,TISCO FINANCIAL VORZÜGE,Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 7,
+    "Deletions": 0
+  }
+}
