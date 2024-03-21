@@ -1,0 +1,89 @@
+{
+  "Additions": [
+    "CNE1000004M7,A0M4ZD,WEIQIAO TEXTILE CO. LTD.,Aktien International,Aktien International",
+    "FI0009003230,891823,\"FINNAIR OYJ        EO-, 85\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "CH0190891181,A1J642,LEONTEQ AG           SF 1,Aktien Europa,Aktien Europa Select",
+      "Current": "CH0190891181,A1J642,LEONTEQ AG,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "DE0005156236,515623,SCHWEIZER ELECTR. NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005156236,515623,SCHWEIZER ELECTR. AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005218309,521830,MOBOTIX AG O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005218309,521830,MOBOTIX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0005649503,564950,EDEL SE+CO.KGAA INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005649503,564950,EDEL MUSIC AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006044001,604400,MATERNUS-KLI.AG O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0006044001,604400,MATERNUS KLINIK,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006214687,621468,MUELLER-LILA LOG. INH ON,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0006214687,621468,MÃLLER DIE LILA LOGISITK,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006569403,656940,ALBIS LEASING AG O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0006569403,656940,ALBIS LEASING,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006627201,662720,MUEHLBAUER HOLD.AG O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0006627201,662720,MUEHLBAUER HOLD.O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0007279507,727950,SPL.MEDIEN AG O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007279507,727950,SPLENDID MEDIEN,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0007857476,785747,KLASSIK RADIO AG NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007857476,785747,KLASSIK RADIO,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0008041005,804100,DT.EFF.U.WECH.-BET.G.O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0008041005,804100,DT EFF & WECHSEL,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0008435967,843596,NUERNBERGER BET.AG VNA,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0008435967,843596,NÃRNBERGER BETEILIGUNGS-AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A0LBFE4,A0LBFE,MEVIS MEDICAL SOL.NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A0LBFE4,A0LBFE,MEVIS MED. SOL.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A0V9LA7,A0V9LA,DATRON AG INH.O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A0V9LA7,A0V9LA,DATRON AG,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A1K0375,A1K037,ARTNET AG NA O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A1K0375,A1K037,ARTNET AG NA,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A1TNNN5,A1TNNN,A.S.CREATION TAPETEN NA,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000A1TNNN5,A1TNNN,A.S.CREATION TAPETEN O.N.,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000BFB0027,BFB002,METRO AG   VZO O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE000BFB0027,BFB002,METRO AG INHABER-VORZUGSAKT. O.ST.O.N.,Aktien Deutschland,Aktien Sonstige"
+    }
+  ],
+  "Deletions": [
+    "US00848H2076,A407UV,\"AGEX THERAPEUTI. DL0, 0001\",Aktien International,Aktien International",
+    "US75734B1008,A406FX,REDDIT INC. CL.A,Aktien USA,Aktien USA Select",
+    "FI4000567029,A403WV,\"FINNAIR OYJ       EO 85, -\",Aktien Europa,Aktien Europa Select",
+    "DK0062266474,A3D9NV,GUBRA APS            DK 1,Aktien Europa,Aktien Europa Select",
+    "US69012T3059,A4046T,\"OUTLOOK THERAP. DL-, 01\",Aktien USA,Aktien USA Select",
+    "DE000BEAU7Y1,BEAU7Y,DOUGLAS AG ST I,Aktien Deutschland,Aktien Sonstige"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 17,
+    "Deletions": 6
+  }
+}
