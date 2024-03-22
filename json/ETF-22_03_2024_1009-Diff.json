@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "LU0378434236,ETF051,LYX EURO ST DIV 30 ETF I,ETFs,ETFs Europa Gesamt"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A0H0744,A0H074,IS.DJ AS.PAC.S.D.50 U.ETF,ETFs,ETFs Asien",
+      "Current": "DE000A0H0744,A0H074,IS.DJ AS.PAC.S.D.30 U.ETF,ETFs,ETFs Asien"
+    }
+  ],
+  "Deletions": [
+    "IE000MAO75G5,A406QE,ISII-CMSCIEU ()EOA,ETFs,ETFs Europa Gesamt"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
