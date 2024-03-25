@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA05591K1093,A2QCBW,BMEX GOLD INC,Aktien International,Aktien International",
+    "CA0688921083,A14108,BARSELE MINERALS,Aktien International,Aktien International",
+    "CA75867R2037,A402TQ,REFINED METALS CORP,Aktien International,Aktien International",
+    "FR0000184798,575626,\"ORPEA  ACT.NOM. EO 1, 25\",Aktien Europa,Aktien Europa Select",
+    "US00773U1088,A2AJW8,\"ADVERUM BIOTECHS DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US60855D2009,A2QQM0,\"MOLECULIN BIOTECH DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005659700,565970,ECKERT+ZIEGLER  INH O.N.,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0005659700,565970,ECKERT+ZIEGLER AG O.N.,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA05591K7033,A406LW,BMEX GOLD INC,Aktien International,Aktien International",
+    "CA75867L2066,A407GC,REFINED ENERGY CORP.,Aktien International,Aktien International",
+    "FR001400NLM4,A403M5,\"ORPEA  ACT.NOM. EO 10, -\",Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
