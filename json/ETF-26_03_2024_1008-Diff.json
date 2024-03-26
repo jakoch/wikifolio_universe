@@ -1,0 +1,22 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU1834983477,LYX01W,AIF-600 BANKS EOA,ETFs,ETFs Branchen",
+      "Current": "LU1834983477,LYX01W,LIF-600 BANKS EOA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU2082996112,LYX04C,AIF-600 BANKS EOD,ETFs,ETFs Branchen",
+      "Current": "LU2082996112,LYX04C,LIF-600 BANKS EOD,ETFs,ETFs Branchen"
+    }
+  ],
+  "Deletions": [
+    "IE000IP0UC52,ETF109,AME-MSCIUSAESGL EOA,ETFs,ETFs Nordamerika",
+    "IE0002XZSHO1,A3E1JV,ISHS VI-ISMWSPE EOA,ETFs,ETFs Welt"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
