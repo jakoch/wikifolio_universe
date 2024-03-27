@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "LV0000100212,502361,\"DITTON PIEVADKEZU EO 1, 40\",Aktien Europa,Aktien Europa Select",
+    "LV0000101079,A0M21K,\"VEF A/S           EO 1, 40\",Aktien Europa,Aktien Europa Select",
+    "US3390411052,A1C3R3,FLEETCOR,Aktien USA,Aktien USA Select",
+    "US36467X2062,A2PA3E,GAMING INNOVATION    DL 1,Aktien USA,Aktien USA Select",
+    "US6353092066,A3EQV7,\"NATIONAL CIN.INC. DL -, 01\",Aktien USA,Aktien USA Select",
+    "US92912L2060,A2QBGM,VOXELJET AG SPONS.ADR/1,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
