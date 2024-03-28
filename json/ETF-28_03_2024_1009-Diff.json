@@ -1,0 +1,199 @@
+{
+  "Additions": [
+    "IE00BDDRF924,A2JR0H,HAN.-HAGICLTEEQWE EOA,ETFs,ETFs Branchen"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006289309,628930,ISHS ESTXX BNKS.30-15 D,ETFs,ETFs Branchen",
+      "Current": "DE0006289309,628930,ISH. EURO STOXX BANKS(DE),ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A0F5UJ7,A0F5UJ,IS.S.EU.600 BANK.U.ETF A.,ETFs,ETFs Branchen",
+      "Current": "DE000A0F5UJ7,A0F5UJ,ISHRS STX600 BANKS,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A0H08E0,A0H08E,IS.S.EU.600 CHEM.U.ETF A.,ETFs,ETFs Branchen",
+      "Current": "DE000A0H08E0,A0H08E,ISHRS STX600 CHEMICALS,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A0H08F7,A0H08F,ISH.S.EU.600 C+M U.ETF A.,ETFs,ETFs Branchen",
+      "Current": "DE000A0H08F7,A0H08F,ISHRS STX600 CONSTRUCTION & MATERIALS,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A0H08G5,A0H08G,IS.S.E.600 FIN.S.U.ETF A.,ETFs,ETFs Branchen",
+      "Current": "DE000A0H08G5,A0H08G,ISHRS STX600 FINANCIAL SERVICES,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A0H08J9,A0H08J,IS.S.E.600 I.G+S.U.ETF A.,ETFs,ETFs Branchen",
+      "Current": "DE000A0H08J9,A0H08J,ISHRS STX600 INDUSTRIAL GOODS & SERVICES,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A0H08K7,A0H08K,IS.S.E.600 INSUR.U.ETF A.,ETFs,ETFs Branchen",
+      "Current": "DE000A0H08K7,A0H08K,ISHRS STX600 INSURANCE,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A0H08L5,A0H08L,IS.S.E.600 MEDIA U.ETF A.,ETFs,ETFs Branchen",
+      "Current": "DE000A0H08L5,A0H08L,ISHRS STX600 MEDIA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A0H08S0,A0H08S,ISH.S.EU.600 T+L U.ETF A.,ETFs,ETFs Branchen",
+      "Current": "DE000A0H08S0,A0H08S,ISHRS STX600 TRAVEL & LEISURE,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A0Q4R28,A0Q4R2,ISHS SE.600 A+P U.ETF EOD,ETFs,ETFs Branchen",
+      "Current": "DE000A0Q4R28,A0Q4R2,ISHRS STX600 AUTOMOBILES & PARTS,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "DE000A0Q4R44,A0Q4R4,IS.S.E.600 R.EST.U.ETF A.,ETFs,ETFs Branchen",
+      "Current": "DE000A0Q4R44,A0Q4R4,ISHRS STX600 REAL ESTATE,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "FR0010688176,A0REJZ,AMUNDI ETF MSCI EUR.BKS,ETFs,ETFs Branchen",
+      "Current": "FR0010688176,A0REJZ,AMUNDI MSCI EUROPE BANKS,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "FR0014002CG3,LYX02W,MUF-AMU.MSCI NENESGSCR.A,ETFs,ETFs Branchen",
+      "Current": "FR0014002CG3,LYX02W,LYX.MSCI NE ESG FIL.DREOA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE000O8S1EX4,A3DGX9,JPM-CLIMATE CHANGE SOLN A,ETFs,ETFs Branchen",
+      "Current": "IE000O8S1EX4,A3DGX9,JPMETF-CL.CH.SO JPETFACDL,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE000W95TAE6,A3C4Y7,JPM-CARB TR GL EQ EU HG A,ETFs,ETFs Branchen",
+      "Current": "IE000W95TAE6,A3C4Y7,JPME-CB.TR.G.E. HGDEOA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00B3Q19T94,A1JFG7,INVESCOMI EUROST O BANKS,ETFs,ETFs Branchen",
+      "Current": "IE00B3Q19T94,A1JFG7,IM-I.EUR.STOXX OP.BANKS A,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00B5MJYC95,A0RPSG,INVESCOMI STXE600 TRAVEL,ETFs,ETFs Branchen",
+      "Current": "IE00B5MJYC95,A0RPSG,STOXX 600 OPTIM. TRAVEL & LEISURE SOURCE,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00B5MJYX09,A0RPR8,INVESCOMI STXE600 INDUST,ETFs,ETFs Branchen",
+      "Current": "IE00B5MJYX09,A0RPR8,STOXX 600 OPTIM. INDUSTRIAL GOODS & SERV. SOURCE,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00B5MTWD60,A0RPR1,INVESCOMI STXE600 BANKS A,ETFs,ETFs Branchen",
+      "Current": "IE00B5MTWD60,A0RPR1,STOXX 600 OPTIM. BANKS SOURCE,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00B5MTXJ97,A0RPR9,INVESCOMI STXE600 INSURA,ETFs,ETFs Branchen",
+      "Current": "IE00B5MTXJ97,A0RPR9,STOXX 600 OPTIM. INSURANCE SOURCE,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00B5MTY077,A0RPR3,INVESCOMI STXE600 CHEMIC,ETFs,ETFs Branchen",
+      "Current": "IE00B5MTY077,A0RPR3,IM-I.STOXX EUROPE600O.C.A,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00B5MTY309,A0RPR4,INVESCOMI STXE600 CONS.M,ETFs,ETFs Branchen",
+      "Current": "IE00B5MTY309,A0RPR4,STOXX 600 OPTIM. CONSTRU. & MATERIALS SOURCE,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00B5MTYK77,A0RPR5,INVESCOMI STXE600 FINANC,ETFs,ETFs Branchen",
+      "Current": "IE00B5MTYK77,A0RPR5,STOXX 600 OPTIM. FINANCIAL SERV. SOURCE,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00B5MTZ488,A0RPSA,INVESCOMI STXE600 MEDIA A,ETFs,ETFs Branchen",
+      "Current": "IE00B5MTZ488,A0RPSA,STOXX 600 OPTIM. MEDIA SOURCE,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00B5NLX835,A0RPR0,INVESCOMI STXE600 AUTOP,ETFs,ETFs Branchen",
+      "Current": "IE00B5NLX835,A0RPR0,IM-I.STOXX E.600O.A.P. A,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00BD0B9B76,A2DVK8,ISHSIV-INC.A.DIV.U.E.DLA,ETFs,ETFs Branchen",
+      "Current": "IE00BD0B9B76,A2DVK8,ISHSVI-INC.A.DIV.U.E.DLA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00BF92J153,A2H5GM,L+G U.ETF-L+G DIG.PAYM.DL,ETFs,ETFs Branchen",
+      "Current": "IE00BF92J153,A2H5GM,ETFS MOBILE PAYMENTS GO,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00BM67HL84,A113FE,X(IE)-MSCI WRLD FIN. 1CDL,ETFs,ETFs Branchen",
+      "Current": "IE00BM67HL84,A113FE,DBX MSCI WORLD FINANCIALS,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00BM67HS53,A113FL,X(IE)-MSCI WO.MATER. 1CDL,ETFs,ETFs Branchen",
+      "Current": "IE00BM67HS53,A113FL,DBX MSCI WORLD MATERIALS,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00BM67HV82,A113FN,X(IE)-MSCI WO.INDUST.1CDL,ETFs,ETFs Branchen",
+      "Current": "IE00BM67HV82,A113FN,DBX MSCI INDUSTRIALS,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00BMFNW783,A3CPGE,HANETF-T.TRAVEL UCITS DLA,ETFs,ETFs Branchen",
+      "Current": "IE00BMFNW783,A3CPGE,HANETF-AHCL DLA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00BWBXM724,A14QB3,SPDR S+P US INDU.S.S.UETF,ETFs,ETFs Branchen",
+      "Current": "IE00BWBXM724,A14QB3,SPDR S&P U.S. INDUSTRIALS SELECT,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00BWBXM831,A14QB4,SPDR S+P US MAT.S.S.UETF,ETFs,ETFs Branchen",
+      "Current": "IE00BWBXM831,A14QB4,SPDR S&P U.S. MATERIALS SELECT,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "IE00BYZK4669,A2ANH1,ISHS IV-AGEING POPUL.ETF,ETFs,ETFs Branchen",
+      "Current": "IE00BYZK4669,A2ANH1,ISHARES AGEING POPULATION,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU2082996112,LYX04C,MUL-AMUN ST600 BANK ETF A,ETFs,ETFs Branchen",
+      "Current": "LU2082996112,LYX04C,AIF-600 BANKS EOD,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU2082997946,LYX04L,MUL-AMUN ST600 INSU ETF D,ETFs,ETFs Branchen",
+      "Current": "LU2082997946,LYX04L,LIF-600 INSURA. EOD,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU0292106084,DBX1F0,XTR.MSCI EUR.IN.ESG S.U1C,ETFs,ETFs Branchen",
+      "Current": "LU0292106084,DBX1F0,DB X-TRACK. STOXX 600 INDUSTRIAL GOODS,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU0322253229,DBX1AP,XTR.S+P GBL INFR.SWAP 1C,ETFs,ETFs Branchen",
+      "Current": "LU0322253229,DBX1AP,DB X-TRACK. S&P GLOBAL INFRASTR.,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU0533032859,LYX0GL,MUL AMUN WRLDFIN ETF ACC,ETFs,ETFs Branchen",
+      "Current": "LU0533032859,LYX0GL,LYXOR MSCI WORLD FINANCIALS TR,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU0533033071,LYX0G7,MUL AMUN WRLDFIN ETF ACC,ETFs,ETFs Branchen",
+      "Current": "LU0533033071,LYX0G7,MUL-LYX.MSCI W.FI. ADL,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU1812091194,LYX0Y0,AIS-A.FTSE EPRAEORE UEEOD,ETFs,ETFs Branchen",
+      "Current": "LU1812091194,LYX0Y0,LIF-L.F.E/N D.E EOD,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU1829219390,LYX0Z5,MUL AMUN EST BANK ETF ACC,ETFs,ETFs Branchen",
+      "Current": "LU1829219390,LYX0Z5,MUL-L.EO STOX.B.DR UC.ETF,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU1832418773,LYX0Y2,AIS AM NAREIT U.ETF D,ETFs,ETFs Branchen",
+      "Current": "LU1832418773,LYX0Y2,LIF-L.F.E/N G.D EOD,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU1834983477,LYX01W,MUL-AMUN ST600 BANK ETF A,ETFs,ETFs Branchen",
+      "Current": "LU1834983477,LYX01W,AIF-600 BANKS EOA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU1834987973,LYX02M,MUL-AMUN ST600 INSU ETF A,ETFs,ETFs Branchen",
+      "Current": "LU1834987973,LYX02M,LIF-600 INSURA. EOA,ETFs,ETFs Branchen"
+    }
+  ],
+  "Deletions": [
+    "CH1263519394,A3G5R2,ISSUANCE.SWISS AG  ETP OE,ETFs,sonstige ETFs",
+    "IE000WHL2ZK1,A4011Z,ISHS3-USEQHINE ()DLD,ETFs,ETFs Nordamerika",
+    "CH1326116832,A4AEUA,21SHARES CELESTIA ETPOE,ETFs,sonstige ETFs",
+    "IE000KJPDY61,A40121,ISHS 3-WEQHINE ()DLD,ETFs,ETFs Welt",
+    "CH1263519386,A3G5R3,ISSUANCE.SWISS AG  ETP OE,ETFs,sonstige ETFs"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 45,
+    "Deletions": 5
+  }
+}

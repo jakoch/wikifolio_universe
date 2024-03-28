@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "AU000000VAL6,A2DLPX,VALOR RESOURCES LTD. REGISTERED SHARES O.N.,Aktien International,Aktien International",
+    "CA74739M1041,A3D74W,Q BATTERY METALS CORP.,Aktien International,Aktien International",
+    "US25985W1053,A2PJ6X,DOUYU INT.HLDG. SP.ADR/1,Aktien USA,Aktien USA Select",
+    "US4380831077,A2JGTY,\"HOMOLOGY MED. DL-, 0001\",Aktien USA,Aktien USA Select",
+    "US60688N1028,A1W322,MIX TELEMATICS SP.ADR 25,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "FI0009000251,870557,LINDEX GROUP ABP     EO 2,Aktien Europa,Aktien Europa Select",
+      "Current": "FI0009000251,870557,STOCKMANN OYJ B      EO 2,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "CA00367M1086,A3EWQ3,ABITIBI METALS CORP.,Aktien International,Aktien International",
+    "US00773U2078,A404YL,ADVERUM BIO.INC.,Aktien USA,Aktien USA Select",
+    "CA33583M1077,A4081Q,FIRST NORDIC M. CORP.,Aktien International,Aktien International",
+    "CA03634T1049,A4045G,ANORTECH RES INC.,Aktien International,Aktien International",
+    "US60855D3098,A407S6,\"MOLECULIN BIOTECH DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 5
+  }
+}
