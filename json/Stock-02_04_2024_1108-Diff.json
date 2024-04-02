@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "US69832A2050,A0RAWF,PANASONIC CORP.ADR/1 O.N.,Aktien International,Aktien International",
+    "US7444301094,A3C9BQ,PUBLIC POLICY HO.COM 144A,Aktien USA,Aktien USA Select",
+    "USU0858L1036,A3C6HX,\"DEVOLVER DIGITAL DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US2199481068,A407W7,CORPAY INC.,Aktien USA,Aktien Dow Jones",
+    "HK0250031678,A0F7BH,SINO-I TECHNOLOGY LTD. REGISTERED SHARES NEW O.N.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
