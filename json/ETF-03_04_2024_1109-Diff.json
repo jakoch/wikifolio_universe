@@ -1,0 +1,35 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU1834983550,LYX01X,MUL-AMUN ST600 RESOU ETFA,ETFs,ETFs Basic Resources",
+      "Current": "LU1834983550,LYX01X,LIF-600 BAS.RE. EOA,ETFs,ETFs Basic Resources"
+    },
+    {
+      "Original": "LU1834986900,LYX02K,MUL-AMUN ST600 HEALT ETFA,ETFs,ETFs Branchen",
+      "Current": "LU1834986900,LYX02K,LIF-600 HEALTH. EOA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU1834988278,LYX02P,MUL-AMUN ST600 ENERG ETFA,ETFs,ETFs Basic Resources",
+      "Current": "LU1834988278,LYX02P,LIF-600 OIL+G. EOA,ETFs,ETFs Basic Resources"
+    },
+    {
+      "Original": "LU1834988518,LYX02S,MUL-AMUN ST600 TECH ETFA,ETFs,ETFs Branchen",
+      "Current": "LU1834988518,LYX02S,LIF-600 TECHN. EOA,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU2082997516,LYX04J,MUL-AMUN ST600 HEALT ETFD,ETFs,ETFs Branchen",
+      "Current": "LU2082997516,LYX04J,LIF-600 HEALTH. EOD,ETFs,ETFs Branchen"
+    },
+    {
+      "Original": "LU2082998167,LYX04M,MUL-AMUN ST600 ENERG ETFD,ETFs,ETFs Basic Resources",
+      "Current": "LU2082998167,LYX04M,LIF-600 OIL+G. EOD,ETFs,ETFs Basic Resources"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 6,
+    "Deletions": 0
+  }
+}
