@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "US37960A6516,A3D31S,GLOB.X SUPERDIV.REIT NEW,ETFs,ETFs Nordamerika",
+    "US46137V7617,A2JNPQ,I.DY.EN.E.P.,ETFs,ETFs Nordamerika"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE00BLLZQ805,A2P1TV,IS3-ISH.GR.PTF. EOA,ETFs,ETFs Sonstige Bonds",
+      "Current": "IE00BLLZQ805,A2P1TV,IS3-ESG MA G.P. EOA,ETFs,ETFs Sonstige Bonds"
+    },
+    {
+      "Original": "IE00BLLZQS08,A2P1TU,IS3-ISH.MOD.P.U.ETF EOA,ETFs,ETFs Sonstige Bonds",
+      "Current": "IE00BLLZQS08,A2P1TU,IS3-ESG MA M.P. EOA,ETFs,ETFs Sonstige Bonds"
+    },
+    {
+      "Original": "IE00BLP53M98,A2P1TT,IS3-ISH.CON.P. EOA,ETFs,ETFs Sonstige Bonds",
+      "Current": "IE00BLP53M98,A2P1TT,IS3-ESG MA C.P. EOA,ETFs,ETFs Sonstige Bonds"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 3,
+    "Deletions": 0
+  }
+}

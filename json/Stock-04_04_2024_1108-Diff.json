@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CH1173567111,A3DHG2,GURIT HLDG AG NA SF  5,Aktien Europa,Aktien Europa Select",
+    "US0277451086,657837,AMERICAN NATL BANCSH. DL1,Aktien USA,Aktien USA Select",
+    "US13123X5086,A2QA40,CALLON PETROLEUM (DEL.),Aktien USA,Aktien USA Select",
+    "US23131L1070,A2H847,\"CURO GRP HLDGS DL-, 001\",Aktien USA,Aktien USA Select",
+    "US2908462037,A1JT9R,EMCORE CORP.,Aktien USA,Aktien USA Select",
+    "US49705R1059,A2QHVT,\"KINNATE BIOPHARMA -, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US3696043013,A3CSML,\"GE AEROSPACE      DL -, 06\",Aktien USA,Aktien USA Select",
+      "Current": "US3696043013,A3CSML,\"GENL EL. CO.      DL -, 06\",Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA74739W1023,A408R8,Q PRECIOUS+BATTERY MET.,Aktien International,Aktien International",
+    "US7469641051,A4ZZ0Z,Q32 BIO INC.  O.N.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
