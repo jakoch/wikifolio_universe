@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "FR0010717124,A0RF5A,AMUNDI ETF SH.CAC40 D.UC.,ETFs,ETFs Europa Gesamt",
+    "FR0010757781,A0X8ZY,AMUNDI ETF SH.EOSTXX 50 D,ETFs,ETFs Europa Gesamt"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0010655746,A0REJT,MUF - AMUNDI IBEX 35,ETFs,ETFs Europa Gesamt",
+      "Current": "FR0010655746,A0REJT,AMUNDI ETF MSCI SPAIN,ETFs,ETFs Europa Gesamt"
+    }
+  ],
+  "Deletions": [
+    "CH1327686049,A4AE85,ISSUANCE.SWISS AG ETP OE,ETFs,sonstige ETFs",
+    "CH1327686031,A4AE84,ISSUANCE.SWISS AG ETP OE,ETFs,sonstige ETFs"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

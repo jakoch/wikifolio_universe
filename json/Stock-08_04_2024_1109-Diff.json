@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "AU000000MXC6,A2ACB6,MGC PHARMACEUTICALS LTD,Aktien International,Aktien International",
+    "US6294441000,A3CQ3Q,\"NRX PHARMACEUTI.  DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0012419307,A14NXK,\"PULLUP ENTERTAIN. EO 1, 20\",Aktien Europa,Aktien Europa Select",
+      "Current": "FR0012419307,A14NXK,\"FOCUS HOME INTER. EO 1, 20\",Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "IT0005013013,A1131T,ZEST,Aktien Europa,Aktien Europa Select",
+      "Current": "IT0005013013,A1131T,LVENTURE GROUP S.P.A.,Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "US98423K1088,A3EYDX,XTI AEROSPACE INC.,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
