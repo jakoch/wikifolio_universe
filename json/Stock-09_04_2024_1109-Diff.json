@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA49571M1077,A2QRYX,KINGFISHER METALS CORP.,Aktien International,Aktien International",
+    "CA56086E1088,A3DMJT,MAJUBA HILL COPPER CORP.,Aktien International,Aktien International",
+    "CA76125Y1051,A0B82Q,ROBEX RESOURCES INC.,Aktien International,Aktien International",
+    "CA98979D1024,A3D47J,ZOGLOS FOOD CORP.,Aktien International,Aktien International",
+    "MHY2187A1507,A2QER8,\"EAGLE BULK SHIPP.  DL-, 01\",Aktien USA,Aktien USA Select",
+    "US0794814048,A2PZPL,BELLICUM PHARMA.INC.DL-01,Aktien USA,Aktien USA Select",
+    "US6963892046,A3DZ0T,\"PALISADE BIO INC. DL 0, 01\",Aktien USA,Aktien USA Select",
+    "US8162121045,A2AML0,\"CARTESIAN THER. DL -, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA03078N2095,A3E4B6,AMERIWEST LITHIUM NEW,Aktien International,Aktien International",
+    "US36828A1016,A404PC,GE VERNOVA LLC,Aktien USA,Aktien USA Select",
+    "US25985W2044,A4081R,DOUYU INTL SPONS.ADRS ON,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
