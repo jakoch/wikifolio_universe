@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA03078N1006,A3DU8Z,AMERIWEST LITHIUM NEW,Aktien International,Aktien International",
+    "US7091028008,A3DMH9,PENNSY.REIT SBI NEW DL 1,Aktien USA,Aktien USA Select",
+    "US87157B1035,A0J2QD,\"SYNCHRONOSS TEC. DL-, 0001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0010428771,A0MJ2F,\"EAG.FOOT.GRP      EO 1, 52\",Aktien Europa,Aktien Europa Select",
+      "Current": "FR0010428771,A0MJ2F,\"OL GROUPE S.A.    EO 1, 52\",Aktien Europa,Aktien Europa Select"
+    }
+  ],
+  "Deletions": [
+    "US6294442099,A4091K,NRX PHARM.INC. NEW O.N.,Aktien USA,Aktien USA Select",
+    "AU0000326647,A40A1Q,ARGENT BIOPHARMA LTD.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
