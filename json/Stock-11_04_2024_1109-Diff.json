@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CH0273774791,A14Q44,INTERSHOP HOLDING AG,Aktien Europa,Aktien Europa Select",
+    "SE0016844831,A3C5QN,VOLVO CAR AB B,Aktien Europa,Aktien Europa Select",
+    "US4858371085,A2QCP2,\"KASPIEN HOLDINGS   DL-, 01\",Aktien USA,Aktien USA Select",
+    "US62921N1054,A2N7B5,NGM BIOPHARMAC.,Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "US36828A1016,A404PC,GE VERNOVA INC.,Aktien USA,Aktien USA Select",
+      "Current": "US36828A1016,A404PC,GE VERNOVA LLC,Aktien USA,Aktien USA Select"
+    }
+  ],
+  "Deletions": [
+    "CA49571M5037,A4098R,KINGFISHER METALS CORP.,Aktien International,Aktien International",
+    "CA98979D2014,A3EYZB,ZOGLOS FOOD CORP.,Aktien International,Aktien International",
+    "CA76125Y6001,A407RP,ROBEX RES. INC.,Aktien International,Aktien International",
+    "CA37452L1085,A409DM,GIANT MINING CORP. O.N.,Aktien International,Aktien International",
+    "SE0021628898,A40AE9,VOLVO CAR AB B,Aktien Europa,Aktien Europa Select",
+    "US6963894026,A4098S,\"PALISADE BIO INC. DL-, 001\",Aktien USA,Aktien USA Select",
+    "US8162123025,A407YS,CARTESIAN THERAP. NEW,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 7
+  }
+}
