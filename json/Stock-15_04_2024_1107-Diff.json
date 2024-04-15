@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "US00847G7051,A1JLKZ,\"AGENUS INC.        DL-, 01\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [
+    {
+      "Original": "KYG5223X1429,A3EUMK,\"KAIXIN HLDGS    DL-, 00075\",Aktien International,Aktien International",
+      "Current": "KYG5223X1429,A3EUMK,\"KAIXIN AUTO HLD.DL-, 00075\",Aktien International,Aktien International"
+    }
+  ],
+  "Deletions": [
+    "US5533681012,A2QHVL,\"MP MATERIALS A  DL -, 0001\",Aktien USA,Aktien USA Select",
+    "FI4000552526,A3EWDL,MANDATUM OYJ,Aktien Europa,Aktien Europa Select"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
