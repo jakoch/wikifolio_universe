@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "AU000000PDN8,890889,PALADIN ENERGY LTD.,Aktien International,Aktien International",
+    "CA4489375085,883396,IBEX TECHS INC.,Aktien International,Aktien International",
+    "CA69938P1062,A3CSVG,PARCELPAL LOGIS.INC. O.N.,Aktien International,Aktien International",
+    "US34380C1027,A2JH71,\"FLUENT INC.        DL-, 01\",Aktien USA,Aktien USA Select",
+    "US56804T2050,A2JSTP,\"MARIN SOFTWARE   DL -, 001\",Aktien USA,Aktien USA Select",
+    "US8321542073,A2AQER,\"SMITH MICRO SOFTW.DL-, 001\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "AU000000PME8,591723,PRO MEDICUS LTD.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
