@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA74290V1058,A401NR,PROMINO NUTRI: SCIENCES,Aktien International,Aktien International",
+    "US05337M1045,A2DJR8,AVADEL PHARM. SPONS.ADR/1,Aktien USA,Aktien USA Select",
+    "US67022C1062,A2JD7E,\"NUCANA  SP.ADR 1/ LS-, 04\",Aktien USA,Aktien USA Select"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US67022C2052,A409MU,\"NUCANA  SP.ADR 25/ LS-, 04\",Aktien USA,Aktien USA Select",
+    "CH1134239669,A3C2JA,\"SPORTRADAR GRP A SF -, 1\",Aktien USA,Aktien USA Select",
+    "US3765358789,A407FM,GLADSTONE CAP CORP. NEW,Aktien USA,Aktien USA Select"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
