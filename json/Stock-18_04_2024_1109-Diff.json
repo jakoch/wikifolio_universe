@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "AU0000032187,A2PAFJ,A2B AUSTRALIA LTD,Aktien International,Aktien International",
+    "US00180G3048,A3E2G8,AMTD IDEA G.SP.ADR/6 CL.A,Aktien International,Aktien International",
+    "US0905721082,862449,BIO-RAD LABS INC. B  DL 1,Aktien USA,Aktien USA Select",
+    "US4837091010,A0M9BA,\"KANDI TECHNOL.GRP DL-, 001\",Aktien International,Aktien International"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US56804T3041,A403RT,\"MARIN SOFTWARE   DL -, 001\",Aktien USA,Aktien USA Select",
+    "US34380C2017,A409HG,\"FLUENT INC.        DL-, 01\",Aktien USA,Aktien USA Select",
+    "US8321544053,A409DA,SMITH MICRO SOFTWARE INC.,Aktien USA,Aktien USA Select",
+    "DK0060854669,A2DSNH,RINGK.LANDBOBK       DK 1,Aktien Europa,Aktien Europa Select",
+    "US00847G8042,A403RK,\"AGENUS INC.        DL-, 01\",Aktien USA,Aktien USA Select",
+    "CA69938P2052,A407FF,PARCELPAL LOGIS.INC. O.N.,Aktien International,Aktien International",
+    "CA72350R1055,A3EHJ0,PINNACLE SILVER + GOLD,Aktien International,Aktien International",
+    "AU0000327686,A403RF,PALADIN ENERGY LTD. DEF.,Aktien International,Aktien International"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 8
+  }
+}
