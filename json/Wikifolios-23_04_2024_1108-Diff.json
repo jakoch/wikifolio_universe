@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "DE000LS9MW94,LS9MW9,\"Sleeping Beauties,  Value,  Growth\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9UAF2,LS9UAF,Schmittolinero,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten",
+    "DE000LS9UG11,LS9UG1,Schmittobonus,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte",
+    "DE000LS9URE9,LS9URE,Schmittoinlinero,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
