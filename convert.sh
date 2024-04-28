@@ -494,7 +494,7 @@ run() {
 
   create_databases
 
-  diff_csv_files
+  #diff_csv_files
 
   move_files
   delete_files
