@@ -156,7 +156,7 @@ install_wiuc() {
   # --retry-all-errors only supported by curl v7.71.0+
   curl --retry 3 -L --output ./wiuc.zip "$url"
   mkdir -p data
-  unzip ./wiuc.zip -d data
+  7z e ./wiuc.zip -odata  
   rm ./wiuc.zip
   chmod +x data/wiuc
 }
