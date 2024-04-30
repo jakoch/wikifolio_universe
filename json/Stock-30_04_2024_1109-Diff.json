@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA15101Q1081,914782,CELESTICA INC. SV,Aktien USA,Aktien USA Select,,",
+    "FR0000062341,798308,\"FINANCIE.E.IMM.INH.EO1, 52\",Aktien Europa,Aktien Europa Select,,",
+    "FR0012384907,A2N510,\"GROUPE CIOA   EO -, 30\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0000035784,907473,\"TRANS.EVERGR. INH. EO -, 5\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000035784,907473,\"EVERGREEN SA  INH. EO -, 5\",Aktien International,Aktien International,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
