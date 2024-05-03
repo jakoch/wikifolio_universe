@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA03949L2003,A3DZJ3,ARCHER EXPLORATION CORP.,Aktien International,Aktien International,,",
+    "FI0009002158,897947,UPONOR OYJ,Aktien Europa,Aktien Europa Select,,",
+    "KYG7415M1244,A2PXK2,\"RECON TECHNOLOGY  DL -, 01\",Aktien International,Aktien International,,",
+    "US36809R4048,A3EWGX,\"GAUCHO GROUP HLDGS DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US98585K8624,A2PYHH,YIELD 10 BIOSCIENCE,Aktien USA,Aktien USA Select,,",
+    "VGG041JN1065,A2QFRT,\"ANTELOPE ENTER.HLD.DL-, 01\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA15101Q2071,A406LU,CELESTICA INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "ES0105777017,A40AE4,\"PUIG BRANDS        EO-, 06\",Aktien Europa,Aktien Europa Select,,",
+    "BMG9156K1018,A2PNW9,2020 BULKERS LTD  DL 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
