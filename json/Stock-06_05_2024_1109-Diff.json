@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "US00848H2076,A407UV,\"AGEX THERAPEUTI. DL0, 0001\",Aktien International,Aktien International,,",
+    "US12430A1025,A3C80C,\"BUZZFEED INC.  A DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US88032L5066,A3D4A9,\"TENAX THERAPEUT. DL-, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US81730H1095,A3CTJC,\"SENTINELONE INC.A -, 0001\",Aktien USA,Aktien USA Select,,",
+    "CA66860Q1028,A40BWG,NORTHX NICKEL CORP.,Aktien International,Aktien International,,",
+    "US7237871071,908678,\"PIONEER NATURAL    DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "DK0062616637,A40BGK,SVITZER GROUP AS  DK 10,Aktien Europa,Aktien Europa Select,,",
+    "US88032L6056,A3EVQN,\"TENAX THERAP.NEW DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US36809R5037,A403TQ,\"GAUCHO GROUP HLDGS DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "KYG7415M1327,A403TR,\"RECON TECHNOLOGY  DL -, 01\",Aktien International,Aktien International,,",
+    "US81751A1088,A407RQ,SERINA THERAPEUTICS INC.,Aktien International,Aktien International,,",
+    "US0256762065,914349,AMER. EQU. INV. LIFE,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 9
+  }
+}
