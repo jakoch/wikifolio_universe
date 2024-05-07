@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA0079755017,A3DMG4,AETERNA ZENTARIS INC.,Aktien USA,Aktien USA Select,,",
+    "CA89854F1062,A2QKZP,TRYP THERAPEUTICS INC.,Aktien International,Aktien International,,",
+    "DE0005494165,549416,EQS GROUP AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "FR0012816825,A14V4J,BIOPHYTIS NAM.,Aktien Europa,Aktien Europa Select,,",
+    "FR001400IAM7,A3EJDD,\"BOOSTHEAT SAS    EO 1, -\",Aktien Europa,Aktien Europa Select,,",
+    "SE0000112385,914879,SAAB,Aktien Europa,Aktien Europa Select,,",
+    "US0256762065,914349,AMER. EQU. INV. LIFE,Aktien USA,Aktien USA Select,,",
+    "US7237871071,908678,\"PIONEER NATURAL    DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "FR001400OS22,A403R1,\"BOOSTHEAT SAS EO 1, -\",Aktien Europa,Aktien Europa Select,,",
+    "FR001400OLP5,A403QV,\"BIOPHYTIS NAM. EO -, 80\",Aktien Europa,Aktien Europa Select,,",
+    "IT0004147952,A0LF18,\"NEWRON PHARMACEUT. EO-, 20\",Aktien Europa,Aktien Europa Select,,",
+    "US12430A3005,A3D6BT,BUZZFEED INC. A NEW,Aktien USA,Aktien USA Select,,",
+    "SE0021921269,A403UW,SAAB AB B  O.N.,Aktien Europa,Aktien Europa Select,,",
+    "CA0079756007,A403TN,AETERNA ZENTARIS INC.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
