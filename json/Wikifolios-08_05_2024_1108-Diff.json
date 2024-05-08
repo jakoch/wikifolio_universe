@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "DE000LS9UBY1,LS9UBY,Global Pharma and BigFood,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000LS9UY19,LS9UY1,TSW The short way,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,",
+    "DE000LS9UY50,LS9UY5,L.St Deutsche Werte DIV-Invest,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,",
+    "DE000LS9UY27,LS9UY2,Hebelpower,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,",
+    "DE000LS9UY43,LS9UY4,Runter oder rauf gehebelt,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,",
+    "DE000LS9UY35,LS9UY3,Strategie maximale Haltedauer,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Additions": [
+    "SG1H97877952,874496,\"SEATRIUM LTD.      SD-, 10\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU000000EMH5,A14XRL,EUROPEAN MET.HLDGS CDIS 1,Aktien International,Aktien International,,",
+      "Current": "AU000000EMH5,A14XRL,EUROPEAN MET HOLDINGS,Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "GB00B0MTC970,A0HMDY,HARGREAVES SERVICES PLC,Aktien Europa,Aktien Europa Select,,",
+      "Current": "GB00B0MTC970,A0HMDY,HARGREAVES SERVICES PLC REGISTERED SHARES O.N.,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GB00B8225591,A1JZFM,\"CONDOR GOLD PLC  LS -, 001\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GB00B8225591,A1JZFM,\"CONDOR GOLD PLC   LS -, 20\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GB00BJVD3B28,A1XFBM,NIOX GROUP PLC,Aktien Europa,Aktien Europa Select,,",
+      "Current": "GB00BJVD3B28,A1XFBM,CICASSIA PHARMACEUTICALS,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "US81617J3014,A2DQFW,\"SELECT WATER SOL.A DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US81617J3014,A2DQFW,\"SELECT ENER.SVCS A DL-, 01\",Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "US98421U1088,A2N52M,XIAOMI CORP. UNSP.ADR/ 5,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 5,
+    "Deletions": 1
+  }
+}
