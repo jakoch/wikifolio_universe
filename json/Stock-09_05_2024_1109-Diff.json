@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "CA85422Q1037,A2P4B8,STANDARD URANIUM LTD.,Aktien International,Aktien International,,",
+    "CA87000A1049,A3C8LW,SWARMIO MEDIA HOLD. INC,Aktien International,Aktien International,,",
+    "US0537348775,A3ETCZ,\"AVINGER INC. NEW  DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US2933062059,A3E1Z1,ENGLOBAL CORP. NEW   O.N.,Aktien USA,Aktien USA Select,,",
+    "US62014P5044,A3EUTL,\"MOTUS GI HLG.INC DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US86272A2069,A2DQVU,\"STRATA SKIN SCIENC.DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US8983492047,A3CRCQ,TRUSTCO BK CORP.     DL 1,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A0TGJ55,A0TGJ5,VARTA AG O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A0TGJ55,A0TGJ5,VARTA AG O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000RENK730,RENK73,RENK GROUP AG INH O.N.,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "DE000RENK730,RENK73,RENK GROUP AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,"
+    }
+  ],
+  "Deletions": [
+    "SGXE34184239,A40CE1,SEATRIUM LTD.      SD-,Aktien International,Aktien International,,",
+    "CA07309M1041,A3EU56,BAYRIDGE RES CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
