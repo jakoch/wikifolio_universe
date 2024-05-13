@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "IE00B5W34K94,A1C195,HSBC MSCI BRAZIL UC. ETF,ETFs,ETFs Emerging Markets,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000W8RYVC0,A40BZQ,ISHSIVMSCIEMECH ()DLD,ETFs,ETFs Sonstige Bonds,,",
+    "IE000IHURBR0,A3EK6B,ISH.D.29 T.EO EOD,ETFs,ETFs Sonstige Bonds,,",
+    "IE0000U2ASV9,A40BZP,IS.DL TR.BD 3-7 HGD(LSA,ETFs,ETFs Sonstige Bonds,,",
+    "IE000X1JN6A2,A40BZS,ISHS JAPAN HGD(SDD,ETFs,ETFs Sonstige Bonds,,",
+    "IE000FHBZDZ8,A40BZR,ISHSIII-CGAB ()DLA,ETFs,ETFs Sonstige Bonds,,",
+    "IE00019GPKX6,A3EEYY,ISHS ACWI HGDSDA,ETFs,ETFs Welt,,",
+    "IE000LX17BP9,A3EK6D,ISH.D.30 T.EO EOD,ETFs,ETFs Sonstige Bonds,,",
+    "IE000BZXJJ24,A3EK6C,ISH.D.30 T.DL DLD,ETFs,ETFs Sonstige Bonds,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 8
+  }
+}
