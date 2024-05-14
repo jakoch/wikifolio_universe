@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA6555PC2029,A3CRGP,NORDEN CROWN METALS CORP.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US2787152063,765778,\"EBIX INC.          DL-, 10\",Aktien International,Aktien International,,",
+      "Current": "US2787152063,765778,\"EBIX INC.          DL-, 10\",Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA85422Q8487,A40ADZ,STANDARD URANIUM LTD.,Aktien International,Aktien International,,",
+    "SE0014808838,A2QFQP,NORDIC PAPER HOLDING AB,Aktien Europa,Aktien Europa Select,,",
+    "DE000A4BGGM7,A4BGGM,BIOFRONTERA AG NA ON KONV,Aktien Deutschland,Aktien Sonstige,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
