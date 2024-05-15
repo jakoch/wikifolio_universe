@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE0006046113,604611,BIOFRONTERA AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "US6177602025,A2JJ5S,MORPHOSYS AG SP.ADR(TEMP),Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA6555PC3019,A4041F,NORDEN CROWN METALS CORP.,Aktien International,Aktien International,,",
+    "BMG850801025,A1C609,STOLT-NIELSEN DL 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
