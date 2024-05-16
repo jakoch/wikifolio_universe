@@ -22,7 +22,8 @@ jobs:
 # ---------------------------------------------------------------------------------------
 
     name: "Build"
-    runs-on: ubuntu-latest
+    # ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
     - name: Checkout main branch
