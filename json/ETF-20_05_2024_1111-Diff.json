@@ -1,0 +1,27 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "SE0007126024,A18KCN,COINSHARES XBT PROVIDER,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources",
+      "Current": "SE0007126024,A18KCN,XBT PROVIDER AB O.E.,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources"
+    },
+    {
+      "Original": "SE0007525332,A2CBL5,COINSHARES XBT PROVIDER,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources",
+      "Current": "SE0007525332,A2CBL5,XBT PROVIDER AB O.E.,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources"
+    },
+    {
+      "Original": "SE0010296574,A2HD38,COINSHARES XBT PROVIDER,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources",
+      "Current": "SE0010296574,A2HD38,XBT PROVIDER AB O.E.,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources"
+    },
+    {
+      "Original": "SE0010296582,A2HDZ2,COINSHARES XBT PROVIDER,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources",
+      "Current": "SE0010296582,A2HDZ2,XBT PROVIDER AB O.E.,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 4,
+    "Deletions": 0
+  }
+}

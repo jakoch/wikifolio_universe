@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "AU0000038085,A2PDNF,CANN GLOBAL LTD,Aktien International,Aktien International,,",
+    "CA22576C1014,A0NDGG,CRESCENT POINT ENERGY,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US88338N2062,A3DL7E,\"THERAPEUTICSMD INC.DL-, 10\",Aktien USA,Aktien USA Select,,",
+    "GB00BG5NDX91,A2JMGK,\"SERABI GOLD PLC  LS-, 005\",Aktien International,Aktien International,,",
+    "DE000A2TSQH7,A2TSQH,KATEK SE  INH O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
