@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "US02083G1004,A2DU89,ALPINE IMMUNE SCIENCES INC. REGISTERED SHARES DL -,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2TSQH7,A2TSQH,KATEK SE  INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A2TSQH7,A2TSQH,KATEK SE  INH O.N.,Aktien International,Aktien International,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
