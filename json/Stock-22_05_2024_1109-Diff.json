@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "DE000A2QJLA8,A2QJLA,BIT GLOBAL FINT. R-I,Fonds,Fonds Aktien,,",
+    "SE0000772956,A0BKPK,AQ GROUP AB          SK 2,Aktien Europa,Aktien Europa Select,,",
+    "US81577F2083,A3ESGY,SEELOS THERAPEUT.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA92340V1076,A40APF,VEREN INC.,Aktien USA,Aktien USA Select,,",
+    "SE0022062196,A40CXH,\"AQ GROUP AB       SK 0, 40\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
