@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA00379L1067,A2QQ2A,ABRASILV. RES.CORP.  O.N.,Aktien International,Aktien International,,",
+    "CA53228D1069,A3C271,LIFEIST WELLNESS INC.,Aktien International,Aktien International,,",
+    "GB00BYM8GJ06,A2AEEQ,\"ASCENTIAL PLC   LS-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "KY30744W1070,A2N6CB,FARFETCH LTD. CL. A,Aktien USA,Aktien USA Select,,",
+    "US16934Q2084,A14Q9D,CHIMERA INVESTMENT CORP.,Aktien USA,Aktien USA Select,,",
+    "US47010C7065,A3D37R,\"JAGUAR HEALTH    DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "VGG3191T1021,A2AB5D,EUROPEAN METALS HLDGS LTD,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US81577F3073,A40DKU,SEELOS THERAPEUT.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
