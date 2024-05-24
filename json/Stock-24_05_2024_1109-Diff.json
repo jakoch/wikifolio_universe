@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA1089093001,A2DNV3,BRIGADIER GOLD LTD,Aktien International,Aktien International,,",
+    "US50540R4092,895308,\"LAB. CORP.OF AMER. DL-, 10\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA53228D2059,A40A8Y,LIFEIST WELLNESS INC.,Aktien International,Aktien International,,",
+    "US16934Q8024,A40E2T,\"CHIMERA INV.NOV 23 DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "CA00379L3048,A40CV1,ABRASILV. RES.CORP.  O.N.,Aktien International,Aktien International,,",
+    "GB00BQFH6320,A403T2,\"ASCENTIAL PLC   LS-, 017\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
