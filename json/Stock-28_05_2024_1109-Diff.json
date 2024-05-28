@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA78460T1057,878095,SNC - LAVALIN GRP,Aktien International,Aktien International,,",
+    "GB00BRJ7R218,A3EUM0,\"CAPRICO.EN. LS-, 051398686\",Aktien Europa,Aktien Europa Select,,",
+    "IT0005581365,A4029Y,E.P.H. S.P.A.,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IT0005596330,A40CYJ,E.P.H. S.P.A.,Aktien Europa,Aktien Europa Select,,",
+    "US62526P4063,A3E2E7,\"MULLEN AUT. INC. DL -, 001\",Aktien USA,Aktien USA Select,,",
+    "FR001400PDG8,A40BU6,EUROPLASMA           EO 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
