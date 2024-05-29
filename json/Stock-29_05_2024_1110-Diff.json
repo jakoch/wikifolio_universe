@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA55283M1032,A2QD3S,MDF COMMERCE INC.,Aktien International,Aktien International,,",
+    "CA72750P4024,A3EB16,PLANTX LIFE INC.,Aktien International,Aktien International,,",
+    "CA85855B1022,A1T8FQ,STELLAR AFRICAGOLD,Aktien International,Aktien International,,",
+    "FR001400CF13,A3DZUU,\"EUROPLASMA       EO 1, -\",Aktien Europa,Aktien Europa Select,,",
+    "SE0011721356,A2PD1Y,RAYTELLIGENCE AB,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "NL0011606264,A2AKFX,\"MERUS N.V.    EO -, 09\",Aktien USA,Aktien USA Select,,",
+    "SE0022088282,A40EEX,RAYTELLIGENCE,Aktien Europa,Aktien Europa Select,,",
+    "CA04764T1049,A40787,ATKINSREALIS GRP INC.,Aktien International,Aktien International,,",
+    "GB00BNKT5L33,A403SD,CAPRICORN ENERGY,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
