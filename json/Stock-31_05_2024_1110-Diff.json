@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CH0005795668,905370,SWISS STEEL HOLDING AG,Aktien Europa,Aktien Europa Select,,",
+    "NO0010650013,A2DPC0,BERGENBIO ASA,Aktien Europa,Aktien Europa Select,,",
+    "NO0010768500,A2JLK8,\"ATLANTIC SAPPHIRE NK -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "US86803X2045,A2PRBX,\"SUNWORKS INC.     DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "NO0013249896,A40CZ3,\"ATLANTIC SAPPHIRE  NK 1, -\",Aktien Europa,Aktien Europa Select,,",
+    "NO0013251173,A40CZ2,BERGENBIO ASA,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
