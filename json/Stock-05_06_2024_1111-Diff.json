@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA36112C1023,A3D6HX,FUSE BATTERY METALS INC.,Aktien International,Aktien International,,",
+    "DE000A2TSQH7,A2TSQH,KATEK SE  INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "US2056504010,A3D60S,COMSOVEREIGN HLDG CORP,Aktien USA,Aktien USA Select,,",
+    "US21867A1051,A3EB9S,CORE LABORATORIES,Aktien USA,Aktien USA Select,,",
+    "US64132K2015,A3EHBD,\"NEUBASE THERAPEUT. DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US81720R5054,A3EVGZ,\"SENESTECH INC.NEW DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "MHY621321089,A1JY36,NAVIGATOR HLDGS LTD,Aktien USA,Aktien USA Select,,",
+    "CA76134C1023,A3EVCJ,RESOURO STRATEGIC METALS,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
