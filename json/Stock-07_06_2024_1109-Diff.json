@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA4972521062,A2PZ3U,KIPLIN METALS INC.,Aktien International,Aktien International,,",
+    "JP3105270007,A0DN3Z,OUTSOURCING INC.,Aktien International,Aktien International,,",
+    "NO0010844038,A2PE65,ADEVINTA ASA CL.B    NK1,Aktien Europa,Aktien Europa Select,,",
+    "SE0015810247,A3CMS4,\"KINNEVIK B       SK 0, 025\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA4972522052,A3EKUE,KIPLIN METALS INC. NEW,Aktien International,Aktien International,,",
+    "CA09076J2074,A40C6G,BIOHARVEST SC.INC. O.N.,Aktien International,Aktien International,,",
+    "SE0022060521,A40D0L,\"KINNEVIK B       SK 0, 025\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
