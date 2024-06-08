@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "FR0004026151,626056,\"ITESOFT S.A. INH.  EO-, 06\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A1K0235,A1K023,SUESS MICROTEC SE NA O.N.,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A1K0235,A1K023,SUESS MICROTEC SE NA O.N.,Aktien Deutschland,Aktien SDAX,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
