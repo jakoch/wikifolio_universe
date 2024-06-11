@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE000LS9ENG7,LS9ENG,US Income Stocks,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9GJH8,LS9GJH,US Big Players,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9L5F9,LS9L5F,US Wachstumswerte,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9QGU6,LS9QGU,HAUSSE BAISSE FUNDAMENTAL,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9UU88,LS9UU8,Skycore Classic,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
