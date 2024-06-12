@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "LU1834984798,LYX02H,LIF-600 FI.SER. EOA,ETFs,ETFs Branchen,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "LU1190417599,LYX0WM,LYXOR IF-LYX.SM.O.R.UECEO,ETFs,ETFs Sonstige Bonds,,",
+      "Current": "LU1190417599,LYX0WM,LYXOR IF-L.SM.CSH U.E.CEO,ETFs,ETFs Sonstige Bonds,,"
+    }
+  ],
+  "Deletions": [
+    "IE000XNILW20,A402PM,WT-GL SUST.EQ. I SYS.HDGD,ETFs,ETFs Welt,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

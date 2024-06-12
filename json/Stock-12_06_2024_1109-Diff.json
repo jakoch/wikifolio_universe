@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "SE0012323715,A2PGZD,KARNOV GROUP AB,Aktien Europa,Aktien Europa Select,,",
+    "US5020745031,A403PB,\"LM FNDG. AMER.    DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US72303P1075,A3DHVA,\"PINEAPPLE ENERGY   DL-, 05\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "KYG4R39T1073,A3DGJ2,HORIZON CONSTR.DEVELOPM.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
