@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "US06777U1016,A14WT8,\"BARNES + NOBLE ED. DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US24344T1016,A2H48H,\"DECIPHERA PHARMAC. DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA89620A5061,A40EPA,TRIGON METALS INC.,Aktien International,Aktien International,,",
+    "KYG0704V2022,A40D1K,\"BAIJIAYUN G. A DL 2, 59504\",Aktien International,Aktien International,,",
+    "US49721T5074,A40EG5,\"KIORA PHARMACEUT.  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US25058X3035,A40AXJ,DESKTOP METAL INC. A O.N.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
