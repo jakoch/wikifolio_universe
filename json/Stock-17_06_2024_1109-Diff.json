@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA50067J1030,A3E1JM,KORYX COPPER INC.    O.N.,Aktien International,Aktien International,,",
+    "FR0000125585,853152,\"CASINO,  GUICH.INH. EO1, 53\",Aktien Europa,Aktien Europa Select,,",
+    "US46489V1044,A0MQNM,\"ISORAY INC.       DL-, 001\",Aktien International,Aktien International,,",
+    "US90214J1016,A1XEYD,\"2U INC.          DL -, 001\",Aktien USA,Aktien USA Select,,",
+    "US92766K1060,A2PTTF,VIRGIN GALACTIC HLDGS,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "FR001400OKR3,A40CWP,\"CASINO,  GUICH.INH. EO0, 01\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
