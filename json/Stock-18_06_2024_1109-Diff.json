@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA64128D3022,A3D7B7,NEVADA EXPLORATION INC.,Aktien International,Aktien International,,",
+    "IT0001415246,A1161U,FINCANTIERI SPA   O.N.,Aktien Europa,Aktien Europa Select,,",
+    "US98138J2069,A2AC97,\"WORKHORSE GROUP INC. , 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA50067J2020,A40EUJ,KORYX COPPER INC. NEW,Aktien International,Aktien International,,",
+    "US90214J2006,A40AEK,\"2U INC. NEW      DL -, 001\",Aktien USA,Aktien USA Select,,",
+    "IT0005599938,A40H69,FINCANTIERI SPA   O.N.,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
