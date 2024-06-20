@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA75903N1096,A3DMYS,REGENX TECH CORP.,Aktien International,Aktien International,,",
+    "GRS106003007,A0KDRL,\"REDS NAM.         EO 1, 31\",Aktien Europa,Aktien Europa Select,,",
+    "SI0031100090,915150,INTEREUROPA D.D. NA,Aktien Europa,Aktien Europa Select,,",
+    "US83303Y1055,A3CWBC,\"SNAP ONE HLDGS     DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US85513Q1031,A2QLRZ,\"STAR EQ.HLDG   DL -, 0001\",Aktien USA,Aktien USA Select,,",
+    "US89686D3035,A3EUTE,\"TRIVAGO A SP.ADS/5 EO-, 06\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "SE0018538068,A3D3A1,VERVE GROUP SE A,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "SE0018538068,A3D3A1,MGI-MEDIA AND GAMES INV.A,Aktien Deutschland,Aktien Sonstige,,"
+    }
+  ],
+  "Deletions": [
+    "CA91733V1040,A40EX2,URZ3 ENERGY CORP.,Aktien International,Aktien International,,",
+    "CA2985962067,A40FFM,EUREKA LITHIUM,Aktien International,Aktien International,,",
+    "AU0000338311,A40G3S,AUMEGA METALS LTD.,Aktien International,Aktien International,,",
+    "US98138J3059,A40F3K,\"WORKHORSE GROUP  DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
