@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "LU1834983394,LYX01V,LIF-600 AUTOM. EOA,ETFs,ETFs Europa Gesamt,,",
+    "LU1834983808,LYX01Z,LIF-600 CO.+MA. EOA,ETFs,ETFs Branchen,,",
+    "LU1834988351,LYX02Q,LIF-600 PER.+H. EOA,ETFs,ETFs Branchen,,",
+    "LU2082995908,LYX04B,LIF-600 AUTOM. EOD,ETFs,ETFs Branchen,,",
+    "LU2082996898,LYX04F,LIF-600 CO.+MA. EOD,ETFs,ETFs Branchen,,",
+    "LU2082998324,LYX04N,LIF-600 PER.+H. EOD,ETFs,ETFs Branchen,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "LU2023678449,LYX0ZL,MUL-AM.MSCI F.M.ESG DLA,ETFs,ETFs Branchen,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
