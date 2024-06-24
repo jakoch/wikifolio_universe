@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA92859G2027,A3C9S4,VIZSLA SILVER CORP.,Aktien International,Aktien International,,",
+    "DE000A3H3L44,A3H3L4,2INVEST AG  NA O.N.,Aktien Deutschland,Aktien Sonstige,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US85513Q3011,A40EUG,\"STAR EQ.HLDG.NEW DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US0465132068,A40DQJ,\"ATARA BIOTH. NEW DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "CA75903N2086,A40F64,REGENX TECH CORP. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
