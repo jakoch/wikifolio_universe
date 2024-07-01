@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA3499151080,A0ETVA,FORTUNA SILVER MINES INC.,Aktien USA,Aktien USA Select,,",
+    "CA84840P1027,A2N4RL,SPEY RESOURCES CORP.,Aktien International,Aktien International,,",
+    "FI4000106299,A1W9NS,MULTITUDE SE,Aktien Deutschland,Aktien Sonstige,,",
+    "US67113Y4052,A3DZZT,\"NUWELLIS INC.      -, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "GG00B28C2R28,A0M5MA,\"PARTNERS GP.PR.EQ.EO-, 001\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GG00B28C2R28,A0M5MA,\"PRINC.PR.EQ.HLDGS EO-, 001\",Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "US7665597024,A40EFY,RIGEL PHARMACEUT.  DL-001,Aktien USA,Aktien USA Select,,",
+    "MT0002810100,A40G1Q,MULTITUDE SE O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "SE0006261046,A2JAZV,HUMBLE GROUP AB,Aktien Europa,Aktien Europa Select,,",
+    "US6541103031,A40GAE,NIKOLA CORP. NEW O.N.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
