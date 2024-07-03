@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "CA02632Q1046,A3DQFB,AMERICAN FUEL FUTURE CORP,Aktien International,Aktien International,,",
+    "CH0108503795,A0YJZX,MEYER BURGER,Aktien Europa,Aktien Europa Select,,",
+    "DE000A0XFWK2,A0XFWK,SHS VIVEON AG,Aktien Deutschland,Aktien Sonstige,,",
+    "FI0009013429,A0ERKS,CARGOTEC CORP. B,Aktien Europa,Aktien Europa Select,,",
+    "IT0004827447,A1J0SG,UNIPOLSAI ASSICU.SPA O.N.,Aktien Europa,Aktien Europa Select,,",
+    "NO0010199151,913231,PGS ASA              NK 3,Aktien Europa,Aktien Europa Select,,",
+    "US04965G1094,A2PLNM,\"ATRECA INC.A SHS DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US83001A1025,A1C180,SIX FLAGS ENTERTAIN.DL-01,Aktien USA,Aktien USA Select,,",
+    "US92347D1000,A2PLYB,\"VERICITY INC.     DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR001400NLM4,A403M5,\"EMEIS ACT.NOM.    EO 10, -\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR001400NLM4,A403M5,\"ORPEA  ACT.NOM. EO 10, -\",Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA84840P2017,A40GN2,SPEY RES CORP. NEW,Aktien International,Aktien International,,",
+    "DK0060030286,A0JDT8,\"CBRAIN AS         DK -, 25\",Aktien Europa,Aktien Europa Select,,",
+    "US67113Y6032,A40HCA,\"NUWELLIS INC.      -, 0001\",Aktien USA,Aktien USA Select,,",
+    "CH1357065999,A40H1E,\"MEYER BUR.TECH.NAM.SF-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "FI4000571013,A40G0F,CARGOTEC CORP. B,Aktien Europa,Aktien Europa Select,,",
+    "CA4270861038,A3DRWX,HERCULES METALS CORP.,Aktien International,Aktien International,,",
+    "CA3499421020,A40CFY,FORTUNA MINING CORP.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 1,
+    "Deletions": 7
+  }
+}
