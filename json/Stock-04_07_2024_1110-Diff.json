@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "AU000000ABC7,866475,ADELAIDE BRIGHTON LTD.,Aktien International,Aktien International,,",
+    "BE0974401334,A3DAA6,WHITESTONE GROUP S.A.,Aktien Europa,Aktien Europa Select,,",
+    "DE000A0BVU28,A0BVU2,USU SOFTWARE AG,Aktien Deutschland,Aktien Sonstige,,",
+    "US29978A1043,A2ARZZ,\"EVERBRIDGE INC    DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US53261M2035,A402TN,EDGIO INC,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
