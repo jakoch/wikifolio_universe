@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "FI4000153515,A2JN6P,NYAB OYJ,Aktien Europa,Aktien Europa Select,,",
+    "KYG2091K1206,A0LGPV,CENT.SUNS.GR.HO.ADJ.HD-02,Aktien International,Aktien International,,",
+    "US24345A5074,A3DAE6,DECISIONPOINT SYS INC.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "FI4000571054,A40EG6,KALMAR OYJ B,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
