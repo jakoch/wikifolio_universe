@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "BE0003746600,764858,INTERVEST OFFICES+WAREHO.,Aktien Europa,Aktien Europa Select,,",
+    "GB0008808825,902267,\"GRESHAM TECHNOLOG. LS-, 05\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU0000028763,A2N8WG,PEAK MINERALS LTD.,Aktien International,Aktien International,,",
+      "Current": "AU0000028763,A2N8WG,PURE ALUMINA LTD,Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "US6757466064,A2QA2D,ONITY GROUP INC.    DL-01,Aktien USA,Aktien USA Select,,",
+      "Current": "US6757466064,A2QA2D,OCWEN FINL CORP. DL-01,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "US83001C1080,A2QGV5,SIX FLAGS E.,Aktien USA,Aktien USA Select,,",
+    "KYG2091K1388,A40H2A,\"CENT.SUNS.GR.HO.ADJ.HD-, 8\",Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
