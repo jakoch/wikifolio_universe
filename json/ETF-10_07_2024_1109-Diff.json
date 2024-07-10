@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU1407887915,ETF056,AM US TBD 7-10Y DLA,ETFs,ETFs Sonstige Bonds,,",
+      "Current": "LU1407887915,ETF056,MUL-L.US TR. DLA,ETFs,ETFs Sonstige Bonds,,"
+    }
+  ],
+  "Deletions": [
+    "IE000979OT00,A2PEPM,ETFWAIENHEOZEQS EOD,ETFs,ETFs Europa Gesamt,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
