@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "US6494451031,889375,NEW YORK COMMUNITY BANCORP INC REGISTERED SHARES D,Aktien USA,Aktien USA Select,,",
+    "US74933X3026,A3DWG8,CATHETER PRECISION,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2TSL71,A2TSL7,SYNLAB AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A2TSL71,A2TSL7,SYNLAB AG  INH O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000A37FT41,A37FT4,EPIGENOMICS AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A37FT41,A37FT4,EPIGENOMICS AG NA ON KONV,Aktien Deutschland,Aktien Sonstige,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}
