@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA04016A1012,A1C70D,ARGONAUT GOLD INC.,Aktien International,Aktien International,,",
+    "CA88908C1014,A3CN41,TOKENS.COM CORP.,Aktien International,Aktien International,,",
+    "US50187J2078,A3DMP8,LEJU HOLD. LTD ADR 1/10,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US78573L1061,A1C9KE,SABRA HLTH CARE REIT,Aktien USA,Aktien USA Select,Aktien USA,Aktien NASDAQ 100 Select",
+      "Current": "US78573L1061,A1C9KE,SABRA HLTH CARE REIT,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "US3847471014,A40F8M,\"GRAIL INC. DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "CA54163Q8056,A40GBL,LOMIKO METALS INC.,Aktien International,Aktien International,,",
+    "CA68218G1090,A3D6VP,OMEGA PACIFIC RESOURCES,Aktien International,Aktien International,,",
+    "US00449R1095,A3DU70,ACCELLERON IND. ADR/1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
