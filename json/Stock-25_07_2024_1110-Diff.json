@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA36261G1028,A2QLF7,G MINING VENTURES CORP,Aktien International,Aktien International,,",
+    "CA76131P1062,A0J27J,REUNION GOLD CORP.,Aktien International,Aktien International,,",
+    "CNE1000000X2,A0M4V1,\"CAPINFO CO. LTD H YC -, 10\",Aktien International,Aktien International,,",
+    "DE0002605557,260555,BAVARIA INDS GRP   O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "US0465132068,A40DQJ,\"ATARA BIOTH. NEW DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US49721T5074,A40EG5,\"KIORA PHARMACEUT.  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US67113Y6032,A40HCA,\"NUWELLIS INC.      -, 0001\",Aktien USA,Aktien USA Select,,",
+    "US90214J2006,A40AEK,\"2U INC. NEW      DL -, 001\",Aktien USA,Aktien USA Select,,",
+    "US98138J3059,A40F3K,\"WORKHORSE GROUP  DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A0LBKW6,A0LBKW,ACONNIC AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A0LBKW6,A0LBKW,UET AG   O.N.,Aktien Deutschland,Aktien Sonstige,,"
+    }
+  ],
+  "Deletions": [
+    "US51817R2058,A40JGP,LATAM AIRLS ADR REGS O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
