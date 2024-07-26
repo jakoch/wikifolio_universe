@@ -1,0 +1,15 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "FR0010510800,LYX0B6,LYX ETF EUR CASH,ETFs,ETFs Europa Bonds,ETFs,sonstige ETFs",
+      "Current": "FR0010510800,LYX0B6,LYX ETF EUR CASH,ETFs,ETFs Europa Bonds,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
