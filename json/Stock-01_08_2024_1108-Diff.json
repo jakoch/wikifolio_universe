@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA02316X1024,A3DP2A,AMBARI BRANDS INC.,Aktien International,Aktien International,,",
+    "FR0013181864,A2ALZS,\"CGG SA INH.      EO 0, 01\",Aktien Europa,Aktien Europa Select,,",
+    "US4285671016,A0MK8D,HIBBETT INC.        DL-01,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA8959791028,A40K7F,TRILOGY AI CORP.,Aktien International,Aktien International,,",
+    "FR001400PVN6,A40H3F,\"VIRIDIEN S.A.     EO 1, -\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
