@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "AU000000GNX5,A14UK5,GENEX POWER LTD.,Aktien International,Aktien International,,",
+    "JE00BJVNSS43,A2PG87,\"FERGUSON PLC       LS 0, 1\",Aktien Europa,Aktien Europa Select,,",
+    "US13005U1016,A2PL0X,\"CALIFORNIA BANCORP.DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "VGG456671053,A0X91G,\"HOLLYSYS AU.TECH.DL-, 0001\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US30049G3020,A40F8L,\"EVOKE PHARMA INC.DL-, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
