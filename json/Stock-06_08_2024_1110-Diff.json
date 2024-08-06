@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "AU000000ALU8,924627,ALTIUM LTD.,Aktien International,Aktien International,,",
+    "CA83013Q7075,A3E2LQ,SIYATA MOBILE,Aktien USA,Aktien USA Select,,",
+    "US81751A1088,A407RQ,SERINA THERAPEUTICS INC.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US31488V1070,A408VE,FERGUSON ENTERPRISES INC.,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
