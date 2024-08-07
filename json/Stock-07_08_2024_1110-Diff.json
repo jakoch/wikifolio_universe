@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "CA48575L2066,A2QAN6,KARORA RES INC.,Aktien International,Aktien International,,",
+    "DE0005654933,565493,EINHELL AG VZ,Aktien Deutschland,Aktien Sonstige,,",
+    "US90346E1038,A1JS16,US SILICA HLDGS INC.DL-01,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000A40ESU3,A40ESU,EINHELL GERMANY VZO O.N.,Aktien Deutschland,Aktien Sonstige,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
