@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "IE00BMDBMX02,A2QGU1,INVESCOM2 EMU ESG UNI SCR,ETFs,ETFs Europa Gesamt,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000G6CY1T7,A40JUU,IS.D.26 T.EO.IT EOA,ETFs,ETFs Europa Bonds,,",
+    "IE000ZH72RF4,A40JUX,ISHSIII-BRDL HGD SFA,ETFs,ETFs Sonstige Bonds,,",
+    "IE000DUDS685,A40JUV,ISHSIII-IS HY C.BD SFA,ETFs,ETFs Europa Bonds,,",
+    "IE0002SCQ8X0,A40JUY,ISIV-MJEEUETF HGD EOA,ETFs,ETFs Asien,,",
+    "IE00089J8KM1,A40JUW,ISHSIII-IS HY C.BD DLA,ETFs,ETFs Europa Bonds,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "AU000000AUC7,A0YE9R,AUSGOLD LTD,Aktien International,Aktien International,,",
+    "FR0013222346,A2DHC7,\"FRANCE SO.EM.12/16 EO-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "US15870P3073,A14X6S,\"CHAMPIONS ONCOLOGY DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US87807D4007,A3E2F4,TC BIOPHARM(H.)SP. ADS/20,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US87807D5095,A40KHJ,TC BIOPHA.(H.)SP. ADS/200,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
