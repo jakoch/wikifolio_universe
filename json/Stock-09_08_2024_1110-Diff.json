@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA14919F1071,A3C872,CATHEDRA BITCOIN INC.,Aktien International,Aktien International,,",
+    "CA70323P1071,A3C9XU,PATHFINDER VENTURES INC.,Aktien International,Aktien International,,",
+    "CA8583351025,A3DTMH,STEER TECHNOLOGIES INC.,Aktien International,Aktien International,,",
+    "DE000A0Z2Y48,A0Z2Y4,VERIANOS SE  INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "GB00BD2ZT390,A2DRWD,\"GLO.PORTS HLDG (WI)LS0, 01\",Aktien Europa,Aktien Europa Select,,",
+    "JP3982100004,502337,LAWSON INC.,Aktien International,Aktien International,,",
+    "US68276W4006,A3DWAZ,META DATA  SPONS.ADR/1000,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US68276W6084,A40K3G,META DATA  SPONS.ADR/10,Aktien International,Aktien International,,",
+    "CA83013Q8065,A40KEH,SIYATA MOBILE NEW,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
