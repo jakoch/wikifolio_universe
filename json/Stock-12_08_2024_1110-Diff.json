@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "US96684W1009,A2P725,\"WHOLE EARTH BR.A DL-, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "NL0014040206,A2PUCU,\"CENTOGENE N.V. EO -, 12\",Aktien USA,Aktien Dow Jones,,",
+      "Current": "NL0014040206,A2PUCU,\"CENTOGENE N.V. EO -, 12\",Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA14919F2061,A40KCF,CATHEDRA BITCOIN INC.,Aktien International,Aktien International,,",
+    "CA03990E1051,A40D5E,ARGO CORP.,Aktien International,Aktien International,,",
+    "US21833P3010,A3D54P,\"CORBUS P.H. NEW DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "AU0000340929,A40KJQ,AUSGOLD LTD DEF.,Aktien International,Aktien International,,",
+    "CA70323P2061,A40J98,PATHFINDER VENTURES NEW,Aktien International,Aktien International,,",
+    "US98956A1051,A3CR1U,\"ZETA GLOBAL HLD.A DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 6
+  }
+}
