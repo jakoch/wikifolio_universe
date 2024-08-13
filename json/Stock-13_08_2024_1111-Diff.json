@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "FI4000062781,A1W0D0,CAVERION OYJ,Aktien Europa,Aktien Europa Select,,",
+    "FR0011799907,A110TM,GENOMIC VISION S.A. EO-10,Aktien Europa,Aktien Europa Select,,",
+    "GB00B60BD277,A1CT6Y,SUPERDRY PLC,Aktien Europa,Aktien Europa Select,,",
+    "NO0010716863,A12CQT,\"XXL ASA A         NK -, 40\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US44267T1025,A3ERKJ,\"HOWRD.HG.HL.INC NW DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US44267T1025,A3ERKJ,HOWARD HUGHES HOL.INC NEW,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "US68620A2033,A2QA6Q,\"ORGANOVO HLDGS     DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "GB00BLS0XX25,A119M7,\"EQUALS GROUP PLC   LS-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "US53814X1028,A3C4ZB,\"LIVEONE INC.      DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "NO0013293142,A40K03,XXL ASA A         NK 40,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
