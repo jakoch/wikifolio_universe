@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA0079756007,A403TN,AETERNA ZENTARIS INC.,Aktien USA,Aktien USA Select,,",
+    "DE0006967805,696780,PRO DV AG O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "FI4000561576,A3EUSK,VALOE OYJ,Aktien Europa,Aktien Europa Select,,",
+    "US45784J1051,A3C3CA,\"INNOVATE CORP.     DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US61023L1089,A2PQNF,\"MONOPAR THERAP.   -, 001\",Aktien USA,Aktien USA Select,,",
+    "US89532E2081,A3DWN1,\"TREVENA INC.      DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US8676524064,A1JNM7,\"SUNPOWER CORP.    DL -, 01\",Aktien USA,Aktien Dow Jones,,",
+      "Current": "US8676524064,A1JNM7,\"SUNPOWER CORP.    DL -, 01\",Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "DE000A4096T1,A4096T,PRO DV AG INH O.N. KONV.,Aktien Deutschland,Aktien Sonstige,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
