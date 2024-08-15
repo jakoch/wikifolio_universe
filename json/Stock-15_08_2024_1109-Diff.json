@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "AU0000340929,A40KJQ,AUSGOLD LTD DEF.,Aktien International,Aktien International,,",
+    "CA00791E1025,A2PL3X,ADVENTUS MNG CORP.,Aktien International,Aktien International,,",
+    "CA9035104020,A2PXGN,UGE INTERNATIONAL LTD,Aktien International,Aktien International,,",
+    "FR0013231180,A2DLPY,\"OSMOZIS S.A.   EO 1, 48\",Aktien Europa,Aktien Europa Select,,",
+    "IL0011331076,A12BMB,\"REWALK ROBOTICS   IS -, 01\",Aktien International,Aktien International,,",
+    "LU0501835309,A1CXL1,L'OCCITANE INTERNATIONAL,Aktien Europa,Aktien Europa Select,,",
+    "SE0003366871,A1C0DX,SAS AB,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "AU000000AUC7,A0YE9R,AUSGOLD LTD,Aktien International,Aktien International,,",
+    "US61023L2079,A40JML,MONOPAR THERAP. NEW,Aktien USA,Aktien USA Select,,",
+    "CA22112H1010,A40J1L,COSCIENS BIOPHARMA CORP.,Aktien USA,Aktien USA Select,,",
+    "US45784J3032,A3DNUJ,INNOVATE CORP. NEW,Aktien USA,Aktien USA Select,,",
+    "US89532E3071,A40L1Y,\"TREVENA INC.      DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
