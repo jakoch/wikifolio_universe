@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA35954B4047,A3E2LR,FSD PHARMA B,Aktien USA,Aktien USA Select,,",
+    "CA7005632087,A1H5Y5,PARK LAWN CORP.,Aktien International,Aktien International,,",
+    "KYG9361V1086,A0MWAV,\"VINDA INTL HLDGS   HD-, 10\",Aktien International,Aktien International,,",
+    "US45822R1014,A0RP0X,\"INTELGENX TECHN.DL-, 00001\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US09261X1028,A3DHXC,BLACKSTONE SECD LEND.FD,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
