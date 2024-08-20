@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA58507M1077,A2JM6N,MEDMEN ENTERPRISES,Aktien International,Aktien International,,",
+    "FR0000066482,879324,TIPIAK SA INH.       EO 3,Aktien Europa,Aktien Europa Select,,",
+    "US01626L1052,A2QCEK,\"ALIGOS THERAPEUT.  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US28202V2079,A3ELKJ,EFFECTOR THERAP.CL.A NEW,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA74764Y2050,A2P8F1,QUANTUM BIOPHARMA LTD.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
