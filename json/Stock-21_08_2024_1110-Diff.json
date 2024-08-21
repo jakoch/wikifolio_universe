@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "AU000000MLM0,591060,METALLICA MINERALS LTD.,Aktien International,Aktien International,,",
+    "CA0074081070,A3CMR8,ADURO CLEAN TECHN. INC.,Aktien International,Aktien International,,",
+    "CA30330R1082,A3D5YM,F3 URANIUM CORP.,Aktien International,Aktien International,,",
+    "US61775R1059,A2PLX9,\"MORPHIC HOLDING IDL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US7574682024,A3D9SL,\"REDHILL B.S.AD 400/IL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US82981J1097,A2N7GJ,SITE CENTERS NEW,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA65558V2093,A1W0E0,NORD PREC. M.M. INC. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
