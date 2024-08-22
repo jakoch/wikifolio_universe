@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "GB00BG11K365,A2PFS7,\"REDROW PLC        LS-, 105\",Aktien Europa,Aktien Europa Select,,",
+    "US78469C1036,A1W90C,SP PLUS CORP.        DL 1,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US82981J8514,A40HQN,SITE CTRS CORP. O.N.,Aktien USA,Aktien USA Select,,",
+    "IE00BDC5DG00,A2ALC1,\"KENMARE RES PLC   EO-, 001\",Aktien Europa,Aktien Europa Select,,",
+    "US01626L2043,A40LQ4,ALIGOS THER INC. NEW O.N.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
