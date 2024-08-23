@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA9837872014,A3EYD7,X1 ENTERTAINMENT GROUP,Aktien International,Aktien International,,",
+    "NL0006129074,A0M530,AUDIUS SE  INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "US04367G1031,A2QQBT,\"ASENSUS SURGICAL  DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000A40ET13,A40ET1,AUDIUS SE  NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "CA30336Y1079,A40KCK,F3 URANIUM CORP. NEW,Aktien International,Aktien International,,",
+    "CA0074082060,A40KQL,ADURO CLEAN TECHN. INC.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
