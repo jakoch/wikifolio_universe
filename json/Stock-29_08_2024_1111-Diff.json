@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA64128F7039,A3C9TE,NEVADA COPPER CORP.,Aktien International,Aktien International,,",
+    "CA75955T1030,A2AJTB,RELIQ HEALTH TECHS,Aktien International,Aktien International,,",
+    "DE000A1X3W00,A1X3W0,MEDIGENE AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "FR0000072993,936020,\"NETMEDIA GR.SA INH.EO-, 10\",Aktien Europa,Aktien Europa Select,,",
+    "US1717782023,A1JBHE,CIELO SA SPONS. ADR 1,Aktien International,Aktien International,,",
+    "US30205M2008,A3DMHP,\"EXICURE INC.     DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US34962G1094,A2P611,\"FORTE BIOSCIENCES DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA64157G2009,A40MGB,NEW AGE METALS,Aktien International,Aktien International,,",
+    "CA23343T2039,A40MGD,DGTL HLDGS INC.,Aktien International,Aktien International,,",
+    "DE000A40ESG2,A40ESG,MEDIGENE AG NA O.N. KONV,Aktien Deutschland,Aktien Sonstige,,",
+    "US87164U5083,A40MGC,\"THERIVA BIO.  DL-, 001\",Aktien International,Aktien International,,",
+    "US7479066000,A40M9N,QUANTUM CORP.  DL0,Aktien USA,Aktien USA Select,,",
+    "FR001400RF99,A40H8G,\"NETMEDIA GR.SA INH.EO 3, -\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
