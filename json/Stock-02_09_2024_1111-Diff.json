@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA05353D1033,A3CUL9,AVANT BRANDS INC.,Aktien International,Aktien International,,",
+    "FI4000282868,A2H9MD,EFECTE OYJ,Aktien Europa,Aktien Europa Select,,",
+    "US83558L2043,A2PMPH,\"SONOMA PHARMAC.  DL-, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US30205M3097,A40L5C,\"EXICURE INC.     DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US34962G2084,A40MGA,FORTE BIOSCIENCES INC.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
