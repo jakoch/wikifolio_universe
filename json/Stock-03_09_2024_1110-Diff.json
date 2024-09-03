@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA26142Q2053,A3CSQN,DRAGANFLY INC.,Aktien International,Aktien International,,",
+    "US00211Y5069,A2PGY6,\"ARCA BIOPHARMA     DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US5768101058,A2DMQP,\"MATINAS BIOPH.HLD.DL-, 001\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA74275P1071,A2QEGD,PRISMO METALS INC.,Aktien International,Aktien International,,",
+    "US83558L3033,A40M9J,SONOMA PHAR.  DL0,Aktien USA,Aktien USA Select,,",
+    "CA05353D2023,A40MKU,AVANT BRANDS,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
