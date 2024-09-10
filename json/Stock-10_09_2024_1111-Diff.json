@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "CA26210W6053,A3DP5Y,DRONE DEL.CANAN.(VTG.SHS),Aktien International,Aktien International,,",
+    "JP3436150001,924324,SOFTBANK TECHNOLOGY CORP. REGISTERED SHARES O.N.,Aktien International,Aktien International,,",
+    "SE0021626777,A40DEL,BETSSON AB  SER.B,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "SE0022726485,A40HBD,BETSSON AB  SER.B,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
