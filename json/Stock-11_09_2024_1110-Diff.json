@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA22112H1010,A40J1L,COSCIENS BIOPHARMA CORP.,Aktien USA,Aktien USA Select,,",
+    "DE0006972508,697250,PUBLITY AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "DE000NWRK013,NWRK01,NEW WORK SE  NA O.N.,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX",
+    "GB00BLJNXL82,A2P03N,BERKELEY GRP HLDGS PLC OR,Aktien Europa,Aktien Europa Select,,",
+    "US01626L2043,A40LQ4,ALIGOS THER INC. NEW O.N.,Aktien USA,Aktien USA Select,,",
+    "US25271C2017,A3CNZ5,\"DIAMOND O.D. INC.  DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US51817R2058,A40JGP,LATAM AIRL.GRP ADR/2000,Aktien International,Aktien International,,",
+      "Current": "US51817R2058,A40JGP,LATAM AIRLS ADR REGS O.N.,Aktien International,Aktien International,,"
+    }
+  ],
+  "Deletions": [
+    "GB00BMXNWH07,A3DV8N,NOBLE CORP-RIGHTS TO RSU-,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
