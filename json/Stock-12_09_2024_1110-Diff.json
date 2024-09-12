@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "BE0974283153,A14V4E,MITHRA PHARMACEUTIC.AIW,Aktien Europa,Aktien Europa Select,,",
+    "CA22608C3012,A3EWZV,CREST RESOURCES INC.,Aktien International,Aktien International,,",
+    "SG2E68980290,A1J5GH,CIVMEC LTD. REGISTERED SHARES O.N.,Aktien International,Aktien International,,",
+    "US2620371045,910217,DRIL-QUIP INC.,Aktien USA,Aktien USA Select,,",
+    "US8676524064,A1JNM7,\"SUNPOWER CORP.    DL -, 01\",Aktien USA,Aktien Dow Jones,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US5657881067,A2QQBE,MARA HOLDINGS,Aktien USA,Aktien USA Select,,",
+      "Current": "US5657881067,A2QQBE,MARATHON DIGITAL HOLDINGS,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
