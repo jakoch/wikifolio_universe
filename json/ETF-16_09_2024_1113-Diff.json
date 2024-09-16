@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE0001QF56M0,A3EWGU,KSI-ICBCCS S+P CN500UE,ETFs,ETFs Asien,,",
+      "Current": "IE0001QF56M0,A3EWGU,KSI-ICBCCS S+P CN500UE,Aktien International,Aktien International,,"
+    }
+  ],
+  "Deletions": [
+    "LU2788421340,DBX0VS,XTR-CSI500 SWAP 1CDLA,ETFs,ETFs Asien,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

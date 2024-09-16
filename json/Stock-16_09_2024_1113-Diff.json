@@ -1,0 +1,53 @@
+{
+  "Additions": [
+    "FR001400F1V2,A3D6CP,\"SAFE S.A.         EO 37, -\",Aktien Europa,Aktien Europa Select,,",
+    "IT0000433307,A0JL4P,SARAS S.P.A.RAFFINERIE S.,Aktien Europa,Aktien Europa Select,,",
+    "US82968B1035,A1W8XE,\"SIRIUS XM HLDGS   DL-, 001\",Aktien USA,Aktien NASDAQ 100 Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0008490962,849096,DWS DEUTSCHLAND LC,Fonds,Fonds Aktien,,",
+      "Current": "DE0008490962,849096,DWS DEUTSCHLAND LC,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "DE0009769869,976986,DWS AKT.STRATEGIE DT.LC,Fonds,Fonds Aktien,,",
+      "Current": "DE0009769869,976986,DWS AKT.STRATEGIE DT.LC,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "DE000A0M8HD2,A0M8HD,FRANKF.AKTIENFO.F.STIFT.T,Fonds,Fonds Aktien,,",
+      "Current": "DE000A0M8HD2,A0M8HD,FRANKF.AKTIENFO.F.STIFT.T,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "DE000A111ZF1,A111ZF,DIRK MUELLER PREMI.AKT.EO,Fonds,Fonds Aktien,,",
+      "Current": "DE000A111ZF1,A111ZF,DIRK MUELLER PREMI.AKT.EO,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "FR0010149302,A0DPX3,CARMIG.EMERGENTS AEO ACC,Fonds,Fonds Aktien,,",
+      "Current": "FR0010149302,A0DPX3,CARMIG.EMERGENTS AEO ACC,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0056508442,974499,BGF-WORLD TECH. NAM. A2,Fonds,Fonds Aktien,,",
+      "Current": "LU0056508442,974499,BGF-WORLD TECH. NAM. A2,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0073232471,986729,MSI-US GROWTH FD A,Fonds,Fonds Aktien,,",
+      "Current": "LU0073232471,986729,MSI-US GROWTH FD A,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0187079347,A0CA0W,ROBECO GL CON.TRDS.D EO,Fonds,Fonds Aktien,,",
+      "Current": "LU0187079347,A0CA0W,ROBECO GL CON.TRDS.D EO,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0360863863,DWS0R4,ARERO-DER WELTFONDS INH.,Fonds,Fonds Aktien,,",
+      "Current": "LU0360863863,DWS0R4,ARERO-DER WELTFONDS INH.,ETFs,ETFs DAX,,"
+    }
+  ],
+  "Deletions": [
+    "FR001400RKU0,A40H9L,\"SAFE S.A.       EO 300, -\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 9,
+    "Deletions": 1
+  }
+}
