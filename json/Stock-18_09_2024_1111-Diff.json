@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "GRS498003003,A12CJS,\"EPSILON NET S.A. EO -, 075\",Aktien Europa,Aktien Europa Select,,",
+    "NL0010998878,A14MCV,\"LUCAS BOLS NV     EO -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "US5312297972,A3ERY0,LIBERTY ME.C SIRIUSXM NEW,Aktien USA,Aktien USA Select,,",
+    "US62526P4063,A3E2E7,\"MULLEN AUT. INC. DL -, 001\",Aktien USA,Aktien USA Select,,",
+    "US6412558800,A3E17K,\"NEUROMETRIX INC. DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US74638P1093,A2QLTP,PURPLE BIOTECH LTD ADR/10,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US8676524064,A1JNM7,\"SUNPOWER CORP.    DL -, 01\",Aktien USA,Aktien USA Select,,",
+    "DE0006972508,697250,PUBLITY AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
