@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "IE00089J8KM1,A40JUW,ISHSIII-IS HY C.BD DLA,ETFs,ETFs Europa Bonds,,",
+    "IE000DUDS685,A40JUV,ISHSIII-IS HY C.BD SFA,ETFs,ETFs Europa Bonds,,",
+    "IE000ZH72RF4,A40JUX,ISHSIII-BRDL HGD SFA,ETFs,ETFs Sonstige Bonds,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000RUF4QN8,A3CPL4,IVSC-ND.100SW DL DIS.,ETFs,ETFs Nordamerika,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
