@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA23256X1006,A2QJAV,CYBIN INC.,Aktien International,Aktien International,,",
+    "IT0001044996,A2DUN9,DOVALUE S.P.A.,Aktien Europa,Aktien Europa Select,,",
+    "IT0004942915,A1W2ZE,BESTBE HOLDING S.P.A.,Aktien Europa,Aktien Europa Select,,",
+    "US68232V8019,A3CRA2,\"ONCONOVA THERAPEUT.DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US8998961044,901014,\"TUPPERW.BRAND.CORP.DL-, 01\",Aktien USA,Aktien Dow Jones,,",
+      "Current": "US8998961044,901014,\"TUPPERW.BRAND.CORP.DL-, 01\",Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "IT0005610958,A40P08,DOVALUE S.P.A.,Aktien Europa,Aktien Europa Select,,",
+    "IT0005611642,A40P03,BESTBE HOLDING S.P.A.,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
