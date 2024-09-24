@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA89485U1003,A2QJAG,TRENCH METALS CORP. A,Aktien International,Aktien International,,",
+    "DE000A1J3AM3,A1J3AM,MAX OTTE VERMOEG.AMI P(A),Fonds,Fonds Aktien,,",
+    "US13803R2013,A4078W,CANOO INC. CL.A,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR001400IV58,A3EJGW,AVENTADOR            EO 4,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR001400IV58,A3EJGW,ALGREEN              EO 4,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA70344Q1000,A40NSB,PATTERSON MET. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

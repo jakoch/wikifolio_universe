@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "IE00BN4Q1675,A2QNQL,UIE-EM C.P.A. ADLA,ETFs,ETFs Emerging Markets,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000ZH72RF4,A40JUX,ISHSIII-BRDL HGD SFA,ETFs,ETFs Sonstige Bonds,,",
+    "IE000DUDS685,A40JUV,ISHSIII-IS HY C.BD SFA,ETFs,ETFs Europa Bonds,,",
+    "IE00089J8KM1,A40JUW,ISHSIII-IS HY C.BD DLA,ETFs,ETFs Europa Bonds,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
