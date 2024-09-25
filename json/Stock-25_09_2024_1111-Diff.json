@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA70344Q1000,A40NSB,PATTERSON MET. O.N.,Aktien International,Aktien International,,",
+    "CA74765C1032,A2QR5U,QUANTUM BATTERY MET. CORP,Aktien International,Aktien International,,",
+    "NO0010907090,A2QK7L,NORDIC UNMANNED ASA  NK 1,Aktien Europa,Aktien Europa Select,,",
+    "US0740141017,932652,BEASLEY BROADCAST A,Aktien USA,Aktien USA Select,,",
+    "US09610B1089,A3DGEQ,\"ONCONETIX INC. DL -, 00001\",Aktien USA,Aktien USA Select,,",
+    "US6833733024,A3EJLV,\"ONTRAK INC.     DL -, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US0740142007,A3ELRT,BEAS.BR.GRP.INC.CL.A NEW,Aktien USA,Aktien USA Select,,",
+    "CA23256X4075,A40NJY,CYBINTRATEGIES INC.  O.N.,Aktien International,Aktien International,,",
+    "DE000A40AEG0,A40AEG,PENTIXAPHARM HLDG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "NO0013353219,A40P0J,NORDIC UNMANNED      NK 1,Aktien Europa,Aktien Europa Select,,",
+    "US68237Q1040,A40MF5,\"ONCONETIX INC. DL -, 00001\",Aktien USA,Aktien USA Select,,",
+    "CA74765C2022,A40AT4,QUANTUM BATTERY MET. CORP,Aktien International,Aktien International,,",
+    "US68232V8845,A40PJ7,\"TRAWS PHARMA INC.  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US6833734014,A40NZ1,ONTRAK INC. O.N.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 8
+  }
+}
