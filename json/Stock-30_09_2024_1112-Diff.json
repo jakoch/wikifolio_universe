@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "AT0000A18XM4,A118Z8,AMS-OSRAM AG,Aktien Europa,Aktien Europa Select,,",
+    "CA69002L1067,A2QJSS,OUTBACK GOLDFIELDS CORP.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A1MMEV4,A1MMEV,THE PAYM.GR.HLDG KG NA ON,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A1MMEV4,A1MMEV,SGT GRM.PE KGAA NA O.N.,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "KYG1106B1095,A2QN4W,\"OSL GROUP LTD.   HD-, 01\",Aktien International,Aktien International,,",
+      "Current": "KYG1106B1095,A2QN4W,\"BC TECHNOLOGY GROUP -, 01\",Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "US8998961044,901014,\"TUPPERW.BRAND.CORP.DL-, 01\",Aktien International,Aktien International,,",
+      "Current": "US8998961044,901014,\"TUPPERW.BRAND.CORP.DL-, 01\",Aktien USA,Aktien Dow Jones,,"
+    }
+  ],
+  "Deletions": [
+    "CA91916W1014,A40N7A,VALKEA RES CORP.     O.N.,Aktien International,Aktien International,,",
+    "US13124Q1067,A2P57K,CALLIDITAS THERAP. AD 1/2,Aktien USA,Aktien USA Select,,",
+    "AT0000A3EPA4,A40QVT,AMS-OSRAM AG,Aktien Europa,Aktien Europa Select,,",
+    "BG1100003166,A2DGX9,SHELLY GROUP PLC     EO 1,Aktien Europa,Aktien Europa Select,,",
+    "CA62821U1003,A40EWK,MUSTANG ENERGY CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 3,
+    "Deletions": 5
+  }
+}
