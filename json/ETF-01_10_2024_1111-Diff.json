@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "IE00B8J37J31,A1J78Y,ISHSVI-MSCI JP SF H.ACC,ETFs,ETFs Asien,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE00BJXRZJ40,A2PX6V,ARK IU-R.CYB S+D PR.UEDLA,ETFs,ETFs Branchen,,",
+      "Current": "IE00BJXRZJ40,A2PX6V,RIZE-CYB.SEC+DPRV.DLA ETF,ETFs,ETFs Branchen,,"
+    },
+    {
+      "Original": "IE00BLRPRQ96,A3CN9T,A.I-R.DIG.PAY. DLA,ETFs,ETFs Branchen,,",
+      "Current": "IE00BLRPRQ96,A3CN9T,RIZE-DI.PA.CR.EC.DLA,ETFs,ETFs Branchen,,"
+    }
+  ],
+  "Deletions": [
+    "IE000OEF25S1,A40G12,IM2-MSCIWOEQWE DLA,ETFs,ETFs Welt,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

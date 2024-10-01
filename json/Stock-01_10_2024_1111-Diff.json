@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "CA3455102002,A3ENZH,FOREMOST LI.RE.TE.   O.N.,Aktien International,Aktien International,,",
+    "FR0013204336,A2ASQ4,\"L.D.C. S.A. INH.  EO 0, 40\",Aktien Europa,Aktien Europa Select,,",
+    "US13124Q1067,A2P57K,CALLIDITAS THERAP. AD 1/2,Aktien USA,Aktien USA Select,,",
+    "US86800U1043,A0MKJF,\"SUPER MICRO COMPUT.DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CA30336Y1079,A40KCK,F3 URANIUM CORP.,Aktien International,Aktien International,,",
+      "Current": "CA30336Y1079,A40KCK,F3 URANIUM CORP. NEW,Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "GRS354003006,A0BL1W,\"DOMAIN COSTA L.NAM.EO-, 36\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS354003006,A0BL1W,\"KTIMA KOS.LAZ. NAM.EO-, 36\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "US8998961044,901014,\"TUPPERW.BRAND.CORP.DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US8998961044,901014,\"TUPPERW.BRAND.CORP.DL-, 01\",Aktien International,Aktien International,,"
+    }
+  ],
+  "Deletions": [
+    "FR001400SF56,A40QVN,\"SOCIETE LDC INH.  EO 0, 20\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 3,
+    "Deletions": 1
+  }
+}
