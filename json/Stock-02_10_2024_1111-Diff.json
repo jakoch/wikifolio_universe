@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "AU000000MCT4,A14XKX,METALICITY LTD,Aktien International,Aktien International,,",
+    "CA74739W1023,A408R8,Q PRECIOUS+BATTERY MET.,Aktien International,Aktien International,,",
+    "DE0008007998,800799,DEGI INTERNATIONAL,Fonds,Fonds Immobilien,,",
+    "DE0009802306,980230,SEB IMMOINVEST P,Fonds,Fonds Immobilien,,",
+    "DE0009805002,980500,CS EUROREAL,Fonds,Fonds Immobilien,,",
+    "DE0009807800,980780,DEGI EUROPA,Fonds,Fonds Immobilien,,",
+    "DE0009846451,984645,AXA IMMOSELECT,Fonds,Fonds Immobilien,,",
+    "DE000SHA0159,SHA015,SCHAEFFLER AG INH. VZO,Aktien Deutschland,Aktien SDAX,,",
+    "DE000VTSC017,VTSC01,VITESCO TECHS GRP NA O.N.,Aktien Deutschland,Aktien MDAX,,",
+    "GB00BD6GN030,A2AD8K,\"VIRGIN MONEY UK   LS 0, 10\",Aktien Europa,Aktien Europa Select,,",
+    "GB00BK7YQK64,A2QA3F,\"HAMMERSON PLC      LS-, 05\",Aktien Europa,Aktien Europa Select,,",
+    "GB00BNYK8G86,A3CNVQ,\"DARKTRACE PLC      LS-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "US0727433056,A2AMU2,\"BAY.MOT.WERK.ADR 0, 3333\",Aktien USA,Aktien USA Select,,",
+    "US09247X1019,928193,\"BLACKROCK  CL. A DL -, 01\",Aktien USA,Aktien Dow Jones,,",
+    "US10501E2019,A12BXW,\"BRAINSTORM C.NEW DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US8454671095,887333,\"SOUTHWESTERN EN.  DL -, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US09290D1019,A40PW4,BLACKROCK FDG INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "US86800U3023,A40MRM,SUPER MICRO O.N.,Aktien USA,Aktien USA Select,,",
+    "GB00BRJQ8J25,A40H9M,\"HAMMERSON PLC      LS-, 05\",Aktien Europa,Aktien Europa Select,,",
+    "DE000SHA0019,SHA001,SCHAEFFLER AG INH.,Aktien Deutschland,Aktien Sonstige,,",
+    "CA34546R1001,A40NYU,FOREMOST CL.EN.LTD O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 16,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE000PY7F8J9,A3ENMA,ARK RI.US.EI DLA,ETFs,ETFs Branchen,,",
+      "Current": "IE000PY7F8J9,A3ENMA,RIZE-USA ENV.IMP.ETFDLA,ETFs,ETFs Branchen,,"
+    }
+  ],
+  "Deletions": [
+    "IE00B8J37J31,A1J78Y,ISHSVI-MSCI JP SF H.ACC,ETFs,ETFs Asien,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
