@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "AU000000RED3,A0DNNW,RED 5 LTD.,Aktien International,Aktien International,,",
+    "US5128071082,869686,\"LAM RESEARCH CORP.DL-, 001\",Aktien USA,Aktien NASDAQ 100 Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0004152700,A12CFB,\"ODIOT HOLDING SA   EO-, 20\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0004152700,A12CFB,\"WELL SA            EO-, 20\",Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "AU0000355000,A40R3U,ARIKA RESOURCES,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
