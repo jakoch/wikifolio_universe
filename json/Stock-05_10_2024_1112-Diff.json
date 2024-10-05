@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA2265331074,912417,CREW ENERGY INC.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2YNT30,A2YNT3,ALZCHEM GROUP AG KONV.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A2YNT30,A2YNT3,ALZCHEM GROUP AG KONV.,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "US36118L1061,A2PCBR,FUTU HOLDINGS SP.ADR/1,Aktien International,Aktien International,Aktien USA,Aktien NASDAQ 100 Select",
+      "Current": "US36118L1061,A2PCBR,FUTU HOLDINGS SP.ADR/1,Aktien International,Aktien International,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}
