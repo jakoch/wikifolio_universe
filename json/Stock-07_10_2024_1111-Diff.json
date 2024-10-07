@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "CA05591K7033,A406LW,BMEX GOLD INC,Aktien International,Aktien International,,",
+    "CA83125J1049,A14W6W,SLEEP COUN.CANA.HLDG.INC.,Aktien International,Aktien International,,",
+    "MHY8564W1030,896253,TEEKAY CORP.,Aktien USA,Aktien USA Select,,",
+    "US15130G7097,A3D5Y6,\"CEMTREX INC. NEW  DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US2555191004,887758,DIXIE GRP INC.       DL 3,Aktien USA,Aktien USA Select,,",
+    "US39959A1060,A3CTE5,\"UPEXI INC.       DL -, 001\",Aktien USA,Aktien USA Select,,",
+    "US71375U1016,924876,\"PERFICIENT INC.   DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US82655M1071,165489,SIFY TECHNO.LTD.ADR IR 10,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA36270K1021,A40HNQ,G MINING VENTURES NEW,Aktien International,Aktien International,,",
+    "US82655M2061,A40P1J,SIFY TECHNO.LTD.ADR IR 10,Aktien International,Aktien International,,",
+    "SE0022419784,A40P16,SECTRA AB,Aktien Europa,Aktien Europa Select,,",
+    "US10501E3009,A40M9K,BRAINST.CELL  DL0,Aktien USA,Aktien USA Select,,",
+    "CA74739W2013,A40QEV,Q PRECIOUS+BATTERY MET.,Aktien International,Aktien International,,",
+    "CA38149V3011,A40QNN,GOLDHAVEN RESOURCES CORP.,Aktien International,Aktien International,,",
+    "CA75157B1085,A407UW,RAMP METALS INC. O.N.,Aktien International,Aktien International,,",
+    "US5128073062,A40L1V,LAM RESEARCH CORP. NEW,Aktien USA,Aktien NASDAQ 100 Select,,",
+    "CA2265331074,912417,CREW ENERGY INC.,Aktien International,Aktien International,,",
+    "CA7792911033,A40N7B,ROUTE 109 REC INC.   O.N.,Aktien International,Aktien International,,",
+    "AU0000355588,A40R9Y,VAULT MINERALS LTD.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 11
+  }
+}
