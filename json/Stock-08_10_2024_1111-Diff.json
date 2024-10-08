@@ -1,0 +1,41 @@
+{
+  "Additions": [
+    "CA2265331074,912417,CREW ENERGY INC.,Aktien International,Aktien International,,",
+    "CA38149V2021,A3EN4C,GOLDHAVEN RESOURCES CORP.,Aktien International,Aktien International,,",
+    "CA88825J1066,A3DM1Z,TISDALE CLEAN ENERGY CORP,Aktien International,Aktien International,,",
+    "CH0102993182,A0RP04,\"TE CONNECTIV.LTD. SF 0, 57\",Aktien USA,Aktien Dow Jones,,",
+    "MHY8565N3002,A2PVQP,\"TEEKAY TANKERS P.R.S.-, 01\",Aktien USA,Aktien USA Select,,",
+    "SE0020539310,A3EUND,SECTRA AB,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU000000WEB7,911549,WEB TRAVEL GROUP,Aktien International,Aktien International,,",
+      "Current": "AU000000WEB7,911549,WEBJET LTD,Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "CH0024666528,A0MYT7,HOCN                SF 10,Aktien Europa,Aktien Europa Select,,",
+      "Current": "CH0024666528,A0MYT7,HOCHDORF HLDG AG    SF 10,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "JP3789000001,858468,KANADEVIA CORP.,Aktien International,Aktien International,,",
+      "Current": "JP3789000001,858468,HITACHI ZOSEN CORP.,Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "NO0010631567,A1JR25,SPAREBANK 1 SOR-NOR.NK 25,Aktien Europa,Aktien Europa Select,,",
+      "Current": "NO0010631567,A1JR25,SPBK 1 SR-BK ASA   NK 25,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "GG00BQBFY362,A3D58Q,BH MACRO GBP,Aktien Europa,Aktien Europa Select,,",
+    "CA70344Q1000,A40NSB,PATTERSON MET. O.N.,Aktien International,Aktien International,,",
+    "BMG8726T1053,A40R4Y,\"TEEKAY CORP.      DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US4540891037,889710,\"INDIA FD INC.     DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US15130G8087,A40MHV,\"CEMTREX INC. NEW  DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US39959A2050,A40PUJ,UPEXI INC.  NEW O.N.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 4,
+    "Deletions": 6
+  }
+}
