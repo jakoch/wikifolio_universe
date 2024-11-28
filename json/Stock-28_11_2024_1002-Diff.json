@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA74349D1069,A3C6TB,PROPEL HOLDINGS INC.,Aktien International,Aktien International,,",
+    "ES0105022000,A112NF,\"APPLUS SERVICES SA EO-, 10\",Aktien Europa,Aktien Europa Select,,",
+    "FI4000513072,A3C8GZ,DUELL OYJ   EO 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "GRS474003001,A0MLZE,\"EVROPI HOLDINGS   EO -, 26\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS474003001,A0MLZE,I. KLOUKINAS - I. LAPPAS,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "US1344291091,850561,\"CAMPBELLS CO.    DL-, 0375\",Aktien USA,Aktien Dow Jones,,",
+      "Current": "US1344291091,850561,CAMPBELL SOUP,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "FI4000582143,A40WEN,DUELL OYJ   EO 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
