@@ -1,0 +1,344 @@
+{
+  "Additions": [
+    "AU000000PAA1,A0DNJ3,PHARMAUST LTD.,Aktien International,Aktien International,,",
+    "AU000000RXM4,A0MY8Q,REX MINERALS LTD,Aktien International,Aktien International,,",
+    "AU0000040784,A2PFH7,ORA GOLD LTD,Aktien International,Aktien International,,",
+    "AU0000064966,A2PVPC,\"VIRG.MON. CDIS/1   LS-, 10\",Aktien International,Aktien International,,",
+    "BE0974429624,A3DWNR,PHARMASIMPLE S.A.,Aktien Europa,Aktien Europa Select,,",
+    "BMG4233B1090,A2PURV,\"HAFNIA LTD         DL-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "CA00430K8656,A3EP78,ACASTI PHARMA INC.,Aktien USA,Aktien USA Select,,",
+    "CA00654D1006,A3C2CD,ADASTRA HOLDINGS LTD.,Aktien International,Aktien International,,",
+    "CA00833F2089,A3EJ92,AFRICAN ENERGY MET. INC.,Aktien International,Aktien International,,",
+    "CA02341J1021,A3DWAA,AMCOMRI ENTERTAINM. INC.,Aktien International,Aktien International,,",
+    "CA08783B3092,A404NF,BEVCANNA ENTERPRISES NEW,Aktien International,Aktien International,,",
+    "CA15234A1030,A2PGY0,CENTR BRANDS CORP.,Aktien International,Aktien International,,",
+    "CA23267C2022,A3D3SZ,CYPHER METAVERSE INC.,Aktien International,Aktien International,,",
+    "CA2477541049,A2H63T,DELTA 9 CANNABIS,Aktien International,Aktien International,,",
+    "CA2987641016,A3ED7B,EUR.ENERGY METALS CORP.,Aktien International,Aktien International,,",
+    "CA3007632084,A1C7JJ,EXCELSIOR MINING CORP.,Aktien International,Aktien International,,",
+    "CA38068N3067,A2PMPL,GOLD RESERVE INC. A NEW,Aktien International,Aktien International,,",
+    "CA39261L1058,A2QQ2Y,GREEN BATTERY MINERALS,Aktien International,Aktien International,,",
+    "CA39526A1003,A2QMEM,GREENFIRST FOR.PROD.INC.,Aktien International,Aktien International,,",
+    "CA4576376012,A3DTK2,INMED PHARMACEUTICALS INC,Aktien USA,Aktien USA Select,,",
+    "CA45986N1024,A3DYLD,INTERNATIONAL METALS MIN.,Aktien International,Aktien International,,",
+    "CA5015066049,A3DXET,KWESST MICRO SYS.INC.,Aktien International,Aktien International,,",
+    "CA52426X1042,A3D1TD,LEEF BRANDS INC.,Aktien International,Aktien International,,",
+    "CA53633C1077,A2QQBP,LIQUID AVATAR TECHNO.INC.,Aktien International,Aktien International,,",
+    "CA6513461088,A3C4PV,NEWFOUNDLAND DISCOV.CORP.,Aktien International,Aktien International,,",
+    "CA66980V1067,A2P7XA,NOVA MENTIS LI. SC. CORP.,Aktien International,Aktien International,,",
+    "CA66980W1041,A3CMK3,NOVA CANNABIS INC.,Aktien International,Aktien International,,",
+    "CA67079A1021,A2QDHH,NUVEI CORP.     SUBVTGSHS,Aktien International,Aktien International,,",
+    "CA6882811046,A2AMF5,OSISKO MINING INC.,Aktien International,Aktien International,,",
+    "CA69783Y2024,A3DQ6W,PAN AMERICAN ENERGY NEW,Aktien International,Aktien International,,",
+    "CA7142703031,A3C9RY,PERPETUAL ENERGY INC.NEW,Aktien International,Aktien International,,",
+    "CA72750P6003,A40DDS,PLANTX LIFE INC. O.N.,Aktien International,Aktien International,,",
+    "CA73934B4001,A2JJ50,POWERBAND SOLUTIONS INC.,Aktien International,Aktien International,,",
+    "CA74061J1093,A3DQM8,PREMIUM NICKEL RESOURCES,Aktien International,Aktien International,,",
+    "CA74167P1080,A2P1A1,PRIMO WATER CORP.,Aktien USA,Aktien USA Select,,",
+    "CA7462341032,A0H0GT,PUREPOINT URANIUM GRP,Aktien International,Aktien International,,",
+    "CA74734T1049,A12DDL,PYROGENESIS CANADA INC.,Aktien International,Aktien International,,",
+    "CA80517N3058,A3E2FS,SAVILLE RES INC,Aktien International,Aktien International,,",
+    "CA84840P2017,A40GN2,SPEY RES CORP. NEW,Aktien International,Aktien International,,",
+    "CA85236E1060,A2PNGB,SRG MNG INC.,Aktien International,Aktien International,,",
+    "CA8585221051,A2H64R,STELCO HLDGS INC.,Aktien International,Aktien International,,",
+    "CA86332K2020,A2AFAJ,STRIKEPOINT GOLD INC.,Aktien International,Aktien International,,",
+    "CA88830X8199,A2JN66,TITAN MEDICAL INC.,Aktien USA,Aktien USA Select,,",
+    "CA9214282076,A3DHG9,VANADIUMCORP RES.,Aktien International,Aktien International,,",
+    "CA9256541058,A3CML7,VICINITY MOTOR CORP.,Aktien International,Aktien International,,",
+    "CA92643V2003,A3EX89,VICTORY BATTERY MET.CORP.,Aktien International,Aktien International,,",
+    "CA98423G1072,A3EU7Y,XTACY THERAPEUTICS CORP.,Aktien International,Aktien International,,",
+    "DE0006209901,620990,ALBA SE O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "DE0006972508,697250,PUBLITY AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "DK0060477503,A1JYUM,TOPDANMARK AS NAM.   DK 1,Aktien Europa,Aktien Europa Select,,",
+    "DK0061414711,A2QGNH,\"EVERFUEL A/S    DK -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "FR0000030611,798314,GALIMMO S.A. INHABER EO 5,Aktien Europa,Aktien Europa Select,,",
+    "FR0000077570,578090,\"MICROPOLE S.A.INH. EO-, 05\",Aktien Europa,Aktien Europa Select,,",
+    "FR0013204070,A2DF2J,\"GROUPE PAROT S.A. EO 1, 60\",Aktien Europa,Aktien Europa Select,,",
+    "FR00140006O9,A2QEYC,\"SOLOCAL GROUP     EO 1, -\",Aktien Europa,Aktien Europa Select,,",
+    "FR0014004QZ9,A3CVG0,\"DOLFINES S.A.     EO 0, 5\",Aktien Europa,Aktien Europa Select,,",
+    "GB00BBQ38507,A1W33F,\"KEYWORDS STUDIOS  LS -, 01\",Aktien Europa,Aktien Europa Select,,",
+    "GB00BQFH6320,A403T2,\"ASCENTIAL PLC   LS-, 017\",Aktien Europa,Aktien Europa Select,,",
+    "GG00B1FQG453,A0LC32,BOUSSARD+GAVAUDAN EO-0001,Aktien Europa,Aktien Europa Select,,",
+    "GRS001003045,A3D9FW,\"ATTICA BANK S.A. EO 10, 50\",Aktien Europa,Aktien Europa Select,,",
+    "GRS332073006,925418,\"FIERATEX SA NAM.EO 0, 73\",Aktien Europa,Aktien Europa Select,,",
+    "IT0004210289,A0MUQC,\"LANDI RENZO S.P.A. EO-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "IT0004359037,A0Q68R,ALGOWATT S.P.A.,Aktien Europa,Aktien Europa Select,,",
+    "IT0005388266,A2PU1J,SALCEF GROUP S.P.A.,Aktien Europa,Aktien Europa Select,,",
+    "IT0005596330,A40CYJ,E.P.H. S.P.A.,Aktien Europa,Aktien Europa Select,,",
+    "JE00B5TT1872,A1JPZ6,CENTAMIN PLC,Aktien International,Aktien International,,",
+    "KYG2287A2093,A3DWHK,\"COLOR STAR TECH. DL-, 001\",Aktien International,Aktien International,,",
+    "KYG7785S1075,A2H63V,SANAI HEALTH IND. GRP,Aktien International,Aktien International,,",
+    "LU0319572730,A0M003,ODDO BHF POL.FLEX.DRWEO,Fonds,Fonds Misch,,",
+    "NL0015000CZ2,A3C5NF,EBUSCO N.V.       EO 1,Aktien Europa,Aktien Europa Select,,",
+    "NO0010894603,A2QDMH,\"VOLUE ASA         NK -, 40\",Aktien Europa,Aktien Europa Select,,",
+    "SE0007871645,A2AADU,\"KINDRED GR.PLC LS-, 000625\",Aktien Europa,Aktien Europa Select,,",
+    "SE0010441584,A2JP36,CALLIDITAS THERAPEUTICS,Aktien Europa,Aktien Europa Select,,",
+    "SGXZ25336314,A2QBJK,MAXEON SOLAR TECHS,Aktien USA,Aktien USA Select,,",
+    "TH0307010R17,691434,SINO-THAI ENGINEERING,Aktien International,Aktien International,,",
+    "US00191G1031,A1KA8Z,\"ARC DOCUMENT SOL. DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US00848K2006,A401TY,AGEAGLE AERIAL SYS NEW,Aktien International,Aktien International,,",
+    "US03837J1016,A14X9L,\"AQUA METALS INC.  DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US0441038694,A3CRG8,ASHFORD HOSPIT.TRUST,Aktien USA,Aktien USA Select,,",
+    "US05465P1012,A2N7B2,AXONICS MODUL. TECH.,Aktien USA,Aktien USA Select,,",
+    "US0893021032,869884,\"BIG LOTS           DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US13200M6075,A3D34X,\"CAMBER ENERGY INC. DL-, 01\",Aktien International,Aktien International,,",
+    "US17322U2078,A2DXS0,\"CITIUS PHARMAC.  DL -, 001\",Aktien USA,Aktien USA Select,,",
+    "US2362721001,A2QHQZ,DANIMER SCIENTIFIC,Aktien USA,Aktien USA Select,,",
+    "US29404K1060,A1C2NW,\"ENVESTNET INC.    DL-, 005\",Aktien USA,Aktien USA Select,,",
+    "US30223G1022,A3C4QW,EXSCIENTIA SP.ADRS,Aktien USA,Aktien USA Select,,",
+    "US35952H6018,A2PKHA,\"FUELCELL ENERGY  DL-, 0001\",Aktien USA,Aktien Dow Jones,,",
+    "US3773201062,A2QE2P,\"GLATFELTER CORP.   DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US4208772016,A0DQY1,\"HAYNES INTL (NEW)  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US46564T1079,A0DKX6,\"ITERIS INC. (NEW)  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US49372L1008,A2JPE7,\"KEZAR LIFE SCIENC.DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US5504241051,A2QDGP,LUMINAR TECHNOLOGIES    A,Aktien USA,Aktien USA Select,,",
+    "US5537452097,A3EWTL,MSP RECOV. CL.A NEW O.N.,Aktien USA,Aktien USA Select,,",
+    "US5658491064,852789,MARATHON OIL,Aktien USA,Aktien USA Select,,",
+    "US5768103039,A403NH,MATINAS BIOPH. NEW O.N.,Aktien International,Aktien International,,",
+    "US6273331073,A2PWWD,\"SADOT GROUP INC. DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US71639T1060,A2DU79,\"PETIQ INC. CL. A  DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US73102V1052,A2DNSM,\"POLAR POWER INC. DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US74319F3055,A3D3BN,\"BIORA THERAPEUT.NEW -, 001\",Aktien USA,Aktien USA Select,,",
+    "US74754R2022,A3D1RX,\"QUALIGEN THER.NEW DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US77634L1052,A3DM9Y,\"R1 RCM INC. NEW  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US78486Q1013,A0ET46,\"SVB FINL GROUP    DL-, 001\",Aktien International,Aktien International,,",
+    "US8173232070,A2PV5K,SEQUANS COMMNUN.S.ADR NEW,Aktien USA,Aktien USA Select,,",
+    "US81948W1045,A3CTVL,\"SHARECARE INC.  A -, 0001\",Aktien USA,Aktien USA Select,,",
+    "US83587W2052,A3DMHR,SOS LTD A SP.ADR NEW/500,Aktien International,Aktien International,,",
+    "US85225A1079,A3CQRK,\"SQUARESPACE INC. A -, 0001\",Aktien USA,Aktien USA Select,,",
+    "US8589121081,902518,\"STERICYCLE INC.    DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US87968A1043,A2DLW2,\"TELLURIAN INC.     DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US88546E1055,A3C29D,\"THOUGHTWORKS HLD. DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US8998961044,901014,\"TUPPERW.BRAND.CORP.DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US92240M1080,874420,\"VECTOR GRP LTD     DL-, 10\",Aktien USA,Aktien USA Select,,",
+    "US92534K1079,A0RM7P,\"VERTEX ENERGY INC.DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU000000LIT3,A14XX2,LIVIUM LTD.,Aktien International,Aktien International,,",
+      "Current": "AU000000LIT3,A14XX2,LITHIUM AUSTRALIA,Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "CA0585861085,A0RENB,BALLARD PWR SYS,Aktien USA,Aktien USA Select,,",
+      "Current": "CA0585861085,A0RENB,BALLARD PWR SYS,Aktien USA,Aktien Dow Jones,,"
+    },
+    {
+      "Original": "DE000TUAG505,TUAG50,TUI AG NA O.N.,Aktien Deutschland,Aktien MDAX,,",
+      "Current": "DE000TUAG505,TUAG50,TUI AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DK0062502894,A3EYNB,STRATEGIC PARTNERS DK 150,Aktien Europa,Aktien Europa Select,,",
+      "Current": "DK0062502894,A3EYNB,ORPHAZYME A/S  DK 1000,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "FR0000062671,912613,EXAIL TECHNOLOGIES   EO 1,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000062671,912613,GROUPE GORGE SA IN.EO 1,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS014003032,A3CM30,\"PIRAEUS FIN.HOL.  EO 0, 93\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS014003032,A3CM30,PIRAEUS FIN.HOL.     EO 1,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS015003007,A2AA50,\"ALPHA SE+HO.      EO -, 29\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS015003007,A2AA50,\"ALPHA SE+HO.      EO -, 30\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS087003000,A2N5ZT,\"INTRACOM HLDG.NAM.EO 0, 69\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS087003000,A2N5ZT,INTRACOM HLDG.NAM.EO 1,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS165063009,541718,\"BIOKARPET S.A. NA EO 1, 02\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS165063009,541718,\"BIOKARPET S.A. NA EO 1, 05\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS222213001,590257,\"EKTER S.A. NA     EO 0, 26\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS222213001,590257,\"EKTER S.A. NA     EO 0, 52\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS298343005,914999,\"HELLENIQ ENER. NAM.EO2, 18\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS298343005,914999,\"HELLENIC PETR. NAM.EO2, 18\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS387503006,550844,\"PHILIPPOS NAKAS IH EO-, 53\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS387503006,550844,\"PHILIPPOS NAKAS INH EO-, 6\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS495003006,A0MWBR,\"AEGEAN AIRLINES EO -0, 5\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS495003006,A0MWBR,\"AEGEAN AIRLINES EO -, 65\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS504003021,A2DSXX,ALPHA TRUST HOLDINGS S.A.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS504003021,A2DSXX,ALPHA TR.MF A.ALT.IN.,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS524003001,A3DTGV,\"BLE KEDROS REIC    EO 1, 1\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS524003001,A3DTGV,BLE KEDROS REIC      EO 1,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "KYG8232Y1017,A2DSNQ,\"PENGUIN SOLUTIONS  DL-, 03\",Aktien USA,Aktien USA Select,,",
+      "Current": "KYG8232Y1017,A2DSNQ,\"SMART GLOBAL HLDGS DL-, 03\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "NL0009805522,A1JGSL,\"NEBIUS GROUP CL.A  DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "NL0009805522,A1JGSL,\"YANDEX N.V. CL.A  DL -, 01\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "NL0015000F41,A3CYXP,\"LILIUM N.V.  CL.A  EO0, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "NL0015000F41,A3CYXP,LILIUM N.V.  CL.A     EO1,Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US00109K1051,A2QMDB,\"ADV. FLOWER CAP   DL -, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US00109K1051,A2QMDB,\"AFC GAMMA INC.    DL -, 01\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US00123Q1040,A2AR58,\"AGNC INV.CORP.    DL-, 001\",Aktien USA,Aktien USA Select,,",
+      "Current": "US00123Q1040,A2AR58,AGNC INV. CORP.,Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US03820C1053,861210,APPLIED IND. TECHS,Aktien USA,Aktien USA Select,,",
+      "Current": "US03820C1053,861210,APPLIED INDUSTRIAL TECHS INC.,Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US0404131064,A11099,\"ARISTA NETWORKS  DL-, 0001\",Aktien USA,Aktien NASDAQ 100 Select,,",
+      "Current": "US0404131064,A11099,\"ARISTA NETWORKS  DL-, 0001\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US1266501006,859034,\"CVS HEALTH CORP.   DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US1266501006,859034,CVS HEALTH CORP,Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US1651677353,A2QPFF,\"EXPAND ENERGY      DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US1651677353,A2QPFF,\"CHESAPEAKE ENERGY  DL-, 01\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US18915M1071,A2PQMN,\"CLOUDFLARE INC. A DL-, 001\",Aktien USA,Aktien NASDAQ 100 Select,,",
+      "Current": "US18915M1071,A2PQMN,\"CLOUDFLARE INC. A DL-, 001\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US22788C1053,A2PK2R,\"CROWDSTRIKE HLD. DL-, 0005\",Aktien USA,Aktien NASDAQ 100 Select,,",
+      "Current": "US22788C1053,A2PK2R,\"CROWDSTRIKE HLD. DL-, 0005\",Aktien USA,Aktien Dow Jones,,"
+    },
+    {
+      "Original": "US34959E1091,A0YEFE,\"FORTINET INC.     DL-, 001\",Aktien USA,Aktien NASDAQ 100 Select,,",
+      "Current": "US34959E1091,A0YEFE,\"FORTINET INC.     DL-, 001\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US4824801009,865884,\"KLA CORP.        DL -, 001\",Aktien USA,Aktien NASDAQ 100 Select,,",
+      "Current": "US4824801009,865884,\"KLA CORP.        DL -, 001\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US6494454001,A40G3V,FLAGSTAR FINANCIAL,Aktien USA,Aktien USA Select,,",
+      "Current": "US6494454001,A40G3V,NY COM.BANC.,Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US67577R1023,A2QG4Z,\"OPUS GENETICS    DL-, 0001\",Aktien USA,Aktien USA Select,,",
+      "Current": "US67577R1023,A2QG4Z,\"OCUPHIRE PHARMA DL-, 0001\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US6934751057,867679,PNC FINL SERVICES GRP DL5,Aktien USA,Aktien USA Select,,",
+      "Current": "US6934751057,867679,PNC FINANCIAL SERVICES GROUP I,Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US69349H1077,529983,TXNM ENERGY INC.,Aktien USA,Aktien USA Select,,",
+      "Current": "US69349H1077,529983,PNM RESOURCES INC.,Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US72919P2020,A1JA81,\"PLUG POWER INC. DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US72919P2020,A1JA81,\"PLUG POWER INC. DL-, 01\",Aktien USA,Aktien Dow Jones,,"
+    },
+    {
+      "Original": "US8485771021,A1CX36,\"SPIRIT AIRLINES  DL-, 0001\",Aktien USA,Aktien Dow Jones,,",
+      "Current": "US8485771021,A1CX36,\"SPIRIT AIRLINES  DL-, 0001\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US9831341071,663244,\"WYNN RESORTS LTD   DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US9831341071,663244,\"WYNN RESORTS LTD   DL-, 01\",Aktien USA,Aktien NASDAQ 100 Select,,"
+    }
+  ],
+  "Deletions": [
+    "US8173233060,A40P1S,SEQUANS COMMNUN.S.ADR/10,Aktien USA,Aktien USA Select,,",
+    "CA00654D2095,A40CAV,ADASTRA HOLDINGS LTD.,Aktien International,Aktien International,,",
+    "CA0307361026,A40SQ7,AMERITRUST FINL TECHN.INC,Aktien International,Aktien International,,",
+    "GB00BNVVGD77,A3CWEQ,\"ONDO INSURTECH    LS -, 05\",Aktien Europa,Aktien Europa Select,,",
+    "US00848K3095,A40RZ0,AGEAGLE AERIAL SYS NEW,Aktien International,Aktien International,,",
+    "US35952H7008,A40CAW,FUELCELL ENERGY  NEW O.N.,Aktien USA,Aktien USA Select,,",
+    "DE000A0S9QZ8,A0S9QZ,STOCK3 AG  NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "CA5015067039,A40M0M,KWESST MICRO SYS.INC.,Aktien International,Aktien International,,",
+    "KYG2287A1269,A40P6M,\"COLOR STAR TECH. DL-, 0001\",Aktien International,Aktien International,,",
+    "JP3583900000,A40S1G,TOKYO METRO CO. LTD O.N.,Aktien International,Aktien International,,",
+    "CA74061L1040,A40UCR,PREMIUM RES LTD.     O.N.,Aktien International,Aktien International,,",
+    "CA52426X2032,A40VJW,LEEF BRANDS INC.,Aktien International,Aktien International,,",
+    "US76200L3096,A2QEWP,\"REZOLUTE INC. NEW DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "NL0015002AG2,A40P4A,\"EBUSCO HOLD. N.V. EO -, 01\",Aktien Europa,Aktien Europa Select,,",
+    "US03837J2006,A40R2T,AQUA METALS INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "CA88100M1059,A40R35,TERRA CLEAN ENERGY,Aktien International,Aktien International,,",
+    "GB00BS3DYQ52,A40FLP,\"RASPBERRY PI  . LS -, 0025\",Aktien Europa,Aktien Europa Select,,",
+    "CA6513462078,A40U4L,NEWFOUNDLAND DISCOV.CORP.,Aktien International,Aktien International,,",
+    "BMG4R86G1074,A40S2B,GOLD RESERVE LTD. BERMUDA,Aktien International,Aktien International,,",
+    "US0441037944,A40S05,ASHFORD HOSPIT.TRUST NEW,Aktien USA,Aktien USA Select,,",
+    "US11778E1064,A3DCXA,B3 S.A.      UNSP.ADR/1,Aktien International,Aktien International,,",
+    "AU0000365348,A40VYR,NEW MURCHISON GOLD LTD.,Aktien International,Aktien International,,",
+    "CA4576377002,A40UCN,INMED PHARMACEUT.INC.NEW,Aktien USA,Aktien USA Select,,",
+    "GB00BQH8G337,A40GZT,\"REZOLVE AI LTD   LS-, 0001\",Aktien USA,Aktien USA Select,,",
+    "CA74739V1040,A4016R,PYROGENESIS,Aktien International,Aktien International,,",
+    "CA2059531020,A40RA7,CONAVI MEDICAL INC.,Aktien International,Aktien International,,",
+    "US74754R3012,A40THA,\"QUALIGEN THER.    DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "FR001400Q9V2,A40F75,\"EXOSENS          EO -, 425\",Aktien Europa,Aktien Europa Select,,",
+    "US49372L2097,A40NJT,\"KEZAR LIFE SC.NEW DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "CA45986N2014,A40TSV,INTERNATIONAL METALS MIN.,Aktien International,Aktien International,,",
+    "SGXZ57724486,A40P1Y,MAXEON SOLAR TECHS,Aktien USA,Aktien USA Select,,",
+    "US73102V2043,A40SXB,POLAR POWER INC. NEW,Aktien USA,Aktien USA Select,,",
+    "US9037311076,A3EX9W,\"UL SOLUTIONS CL.A DL -, 01\",Aktien USA,Aktien USA Select,,",
+    "CA76134J1075,A40UM7,RESTART LI.SCI. CORP.O.N.,Aktien International,Aktien International,,",
+    "US23128Q1013,A40ND7,CURBLINE PPTYS CORP. O.N.,Aktien USA,Aktien USA Select,,",
+    "US6273333053,A40R8R,SADOT GROUP INC.  NEW,Aktien USA,Aktien USA Select,,",
+    "CA7462347070,A40RAB,PUREPOINT URANIUM GRP NEW,Aktien International,Aktien International,,",
+    "CA00833F3079,A40RV1,AFRICAN ENERGY MET. NEW,Aktien International,Aktien International,,",
+    "LU2910446546,A40S0F,ZABKA GROUP          O.N.,Aktien Europa,Aktien Europa Select,,",
+    "CA0010021040,A40SQ8,ADSL HOLDINGS,Aktien International,Aktien International,,",
+    "IT0005623845,A40WBZ,E.P.H. S.P.A.,Aktien Europa,Aktien Europa Select,,",
+    "US46489V3024,A40EDR,\"PERSPECT.THER.NEW DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "CA36118K1084,A40TUW,FUTURE FUELS INC.,Aktien International,Aktien International,,",
+    "AT0000A3FW25,A40TC4,STEYR MOTORS AG,Aktien Europa,Aktien Europa Select,,",
+    "BMG8726X1065,A40R4Z,TEEKAY TANKERS LTD.CL.A,Aktien USA,Aktien USA Select,,",
+    "US5537453087,A40QA9,\"MSP REC.  CL.A  DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US83587W3043,A40UUE,SOS LTD A SP.ADR NEW/150,Aktien International,Aktien International,,",
+    "CA39868L1022,A40SG5,GRIT METALS CORP. O.N.,Aktien International,Aktien International,,",
+    "LU0811899946,A1J2X1,OSSIAM EUR.ESG M.LEARN.2C,Fonds,Fonds Aktien,,",
+    "LU0365089902,A0Q2X7,JUP.GL-JGF INDIA S.LDLAI,Fonds,Fonds Aktien,,",
+    "KYG7785S1158,A40M38,SANAI HEALTH IND. GRP,Aktien International,Aktien International,,",
+    "CA9214283066,A40SL4,VANADIUMCORP RES.,Aktien International,Aktien International,,",
+    "CA39261L2049,A40S1E,GREEN BATTERY MINERALS,Aktien International,Aktien International,,",
+    "CA4779161005,A40U45,JIVA TECHNOLOGIES    O.N.,Aktien International,Aktien International,,",
+    "US17253J1060,A3CYXH,CIPHER MINING INC.,Aktien USA,Aktien USA Select,,",
+    "FR001400SA10,A40P0F,\"SOLOCAL GROUP    EO -, 01\",Aktien Europa,Aktien Europa Select,,",
+    "CA00089N1033,189900,ADF GRP INC. SV,Aktien International,Aktien International,,",
+    "US5504243032,A40R34,LUMINAR TECH.  CL.A NEW,Aktien USA,Aktien USA Select,,",
+    "AU0000364754,A40VSB,SGH LTD.,Aktien International,Aktien International,,",
+    "AU0000357261,A40STF,NEURIZON THERAPEUTICS,Aktien International,Aktien International,,",
+    "CA69783Y3014,A40V05,PAN AMERICAN ENERGY NEW,Aktien International,Aktien International,,",
+    "FR001400SP13,A40P0Q,\"DOLFINES S.A.  EO 1, 40\",Aktien Europa,Aktien Europa Select,,",
+    "CA23267C3012,A40SY8,CYPHER METAVERSE INC.,Aktien International,Aktien International,,",
+    "US74319F4046,A40R36,BIORA THERAP.INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "AU000000HUB4,A1W4H8,HUB24 LTD,Aktien International,Aktien International,,",
+    "CA4028801088,A40TP4,GUNNISON COPPER,Aktien International,Aktien International,,",
+    "US8679751045,A40B6Q,SUNRISE COMMUNIC. ADR/1 A,Aktien USA,Aktien USA Select,,",
+    "US64135M1053,A3EX79,NEUROGENE INC.       O.N.,Aktien USA,Aktien USA Select,,",
+    "CA86332K4000,A40N32,STRIKEPOINT GOLD INC.,Aktien International,Aktien International,,",
+    "SGXZ53070850,A40S1F,\"HAFNIA LTD        DL -, 01\",Aktien Europa,Aktien Europa Select,,",
+    "ES0105836003,A40UWN,INMOCEMENTO SA,Aktien Europa,Aktien Europa Select,,",
+    "US55939A1079,A40S37,\"MAGNERA CORP. WI DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "CA39526C1068,A40RNR,GREENFI. FOR.PROD.INC.NEW,Aktien International,Aktien International,,",
+    "GRS001003052,A40TEH,\"ATTICA BANK       EO 0, 05\",Aktien Europa,Aktien Europa Select,,",
+    "CZ0009008942,A2QDWT,\"COLT CZ GROUP SE   KC-, 10\",Aktien Europa,Aktien Europa Select,,",
+    "DE0006618309,661830,CHAPTERS GROUP INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "CA15234A4000,A40UMC,CENTR BRANDS CORP.,Aktien International,Aktien International,,",
+    "CA8685951094,A40TAM,SUPREME CRITICAL M. O.N.,Aktien International,Aktien International,,",
+    "IT0005619843,A40P5W,LANDI RENZO S.P.A. EO O.N,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 112,
+    "Modifications": 35,
+    "Deletions": 79
+  }
+}
