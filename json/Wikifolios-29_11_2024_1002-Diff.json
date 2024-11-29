@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "DE000LS9UEG2,LS9UEG,Reputation Aktien MSTecDax-Werte,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9UEU3,LS9UEU,Reputation Aktien DAX-Werte,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9UH36,LS9UH3,Equity Long Strategien ,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000LS9UHZ5,LS9UHZ,NextGen Technology,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9UFP0,LS9UFP,Global Defense and Security,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9PJA4,LS9PJA,Harmonic Renko,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9QXX5,LS9QXX,VV Umwelt- und Klimatrends,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9PPP9,LS9PPP,CT Branchen und Trends,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9UPV7,LS9UPV,VV Wachstum Global,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9QZN1,LS9QZN,Long USA Trends Invest,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 7
+  }
+}
