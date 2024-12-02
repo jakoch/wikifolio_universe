@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "KYG3002T1195,A3DWBW,\"ELIFE HLDGS LTD    HD-0, 1\",Aktien International,Aktien International,,",
+    "US30320C1036,A3CM9P,\"FTC SOLAR INC.  DL -, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "ID1000111305,A0Q51G,ALAMTRI RES.INDON. RP 100,Aktien International,Aktien International,,",
+      "Current": "ID1000111305,A0Q51G,\"ADARO ENERGY TBK,  PT REGISTERED SHARES RP 100\",Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "US98980L1017,A2PGJ2,\"ZOOM COMMUNIC. A DL -, 001\",Aktien USA,Aktien USA Select,,",
+      "Current": "US98980L1017,A2PGJ2,\"ZOOM VIDEO COMM. A -, 001\",Aktien USA,Aktien NASDAQ 100 Select,,"
+    }
+  ],
+  "Deletions": [
+    "DE000A3DV756,A3DV75,BIT GL.TECH.LEAD. R-II,Fonds,Fonds Aktien,,",
+    "DE000A3C54U5,A3C54U,BIT GL.CRYPTO LEADERS RII,Fonds,Fonds Aktien,,",
+    "DE000A3CNGM3,A3CNGM,BIT GL.CRYPTO LEADERS R-I,Fonds,Fonds Aktien,,",
+    "DE000A3DV7M2,A3DV7M,BIT GL.CRYPTO LEADER.RIII,Fonds,Fonds Aktien,,",
+    "LI0034492384,A0NE9G,PI GLOBAL VALUE FD EO-P,Fonds,Fonds Aktien,,",
+    "DE000A2QJLA8,A2QJLA,BIT GLOBAL FINT. R-I,Fonds,Fonds Aktien,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 6
+  }
+}
