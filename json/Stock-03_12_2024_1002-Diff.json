@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "DE000A0JK2A8,A0JK2A,AURELIUS EQ.OPP.   O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "FR0013088606,A2AS7W,\"DRONE VOLT SACA   EO -, 03\",Aktien Europa,Aktien Europa Select,,",
+    "NL0015000F41,A3CYXP,\"LILIUM N.V.  CL.A  EO0, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "GRS003003035,A2N40X,NATL BK GREECE NAM.EO 1,Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS003003035,A2N40X,NATL BK GREECE NAM.EO 3,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS393503008,934398,\"METLEN ENER.+MET. EO 0, 97\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS393503008,934398,\"MYTILINEOS SA NAM.EO 0, 97\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "GRS419003009,765974,\"GREEK O.FOOTB.INH EO 0, 75\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS419003009,765974,\"GREEK O.FOOTB.INH EO 0, 30\",Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA98936T2083,A40HQQ,ZENATECH INC.NEW,Aktien USA,Aktien USA Select,,",
+    "CA8091852001,A40VXW,SCOTCH CREEK VENTURES,Aktien International,Aktien International,,",
+    "US05603J1088,A3D2RU,\"BKV CORP.  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "CA83411A1066,A40N7C,SOL STRATEGIES INC.  O.N.,Aktien International,Aktien International,,",
+    "FR001400SVN0,A40P4Q,DRONE VOLT SACA   EO 1,Aktien Europa,Aktien Europa Select,,",
+    "CA78446Q3089,A40VTD,SKRR EXPLORATION INC.,Aktien International,Aktien International,,",
+    "DE000A40UTE1,A40UTE,AUR PORTFOLIO III SE CO.,Aktien Deutschland,Aktien Sonstige,,",
+    "DE000A40KY26,A40KY2,COVESTRO AG O.N. Z.VERK.,Aktien Deutschland,Aktien DAX,,",
+    "CA7294131049,A40TAL,PLUTO VENTURES INC. O.N.,Aktien International,Aktien International,,",
+    "CA53044R8839,A40M9L,LIB.DEF.HO.  CD0,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 10
+  }
+}
