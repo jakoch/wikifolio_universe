@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "AT0000652250,902388,S IMMO AG,Aktien Europa,Aktien Europa Select,,",
+    "CA81012R1064,A2PBVN,SCOTTIE RESOURCES CORP.,Aktien International,Aktien International,,",
+    "CA88100M1059,A40R35,TERRA CLEAN ENERGY,Aktien International,Aktien International,,",
+    "FI4000081138,A2AHZH,LEHTO GROUP OYJ,Aktien Europa,Aktien Europa Select,,",
+    "FR001400MV37,A400CN,\"NEOVACS NOM.   EO 1, -\",Aktien Europa,Aktien Europa Select,,",
+    "US0404131064,A11099,\"ARISTA NETWORKS  DL-, 0001\",Aktien USA,Aktien NASDAQ 100 Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA88100M2040,A40X3Q,TERRA CLEAN ENERGY,Aktien International,Aktien International,,",
+    "FR001400TG47,A40P55,NEOVACS NOM.         EO 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
