@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "US03835L3069,A403XC,\"APTEVO THERAP.INC.DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US0404132054,A40V33,ARISTA NET.INC. NEW O.N.,Aktien USA,Aktien NASDAQ 100 Select,,",
+    "CA81012R5024,A40VVY,SCOTTIE RES. CORP. O.N.,Aktien International,Aktien International,,",
+    "IT0001206769,915322,\"SOL S.P.A.        EO 0, 52\",Aktien Europa,Aktien Europa Select,,",
+    "KYG4R20B1074,A3DBCN,\"INTER + CO.   DL-, 0000025\",Aktien International,Aktien International,,",
+    "DK0061414711,A2QGNH,\"EVERFUEL A/S    DK -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "CA59142H1073,A3EG0D,METAVISTA3D INC. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
