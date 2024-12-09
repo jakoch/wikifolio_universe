@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "US92858V1017,A2QR0L,\"VIZIO HLDG.CL.A DL-, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CH1357065999,A40H1E,\"MEYER BUR.TECH.NA.SF 7, 50\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "CH1357065999,A40H1E,\"MEYER BUR.TECH.NAM.SF-, 01\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "US38983D3008,A14Q7L,\"RITHM PROPERTY TR.DL -, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US38983D3008,A14Q7L,\"GREAT AJAX CORP.  DL -, 01\",Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA4078911001,A2DL9Z,HAMILTON THORNE LTD. O.N.,Aktien International,Aktien International,,",
+    "FR0010688440,A12CFL,WEDIA                EO 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
