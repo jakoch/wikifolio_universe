@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA22906X2059,A3EUTQ,CRYPTOBLOX TECHNOLOGIES,Aktien International,Aktien International,,",
+    "CA4078911001,A2DL9Z,HAMILTON THORNE LTD. O.N.,Aktien International,Aktien International,,",
+    "CA78109M1077,A4010V,RUA GOLD INC.,Aktien International,Aktien International,,",
+    "CA8959791028,A40K7F,TRILOGY AI CORP.,Aktien International,Aktien International,,",
+    "DK0061414711,A2QGNH,\"EVERFUEL A/S    DK -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "FR0010688440,A12CFL,WEDIA                EO 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "GB0005746358,896261,\"MCBRIDE PLC        LS-, 10\",Aktien Europa,Aktien Europa Select,,",
+    "CA8959792018,A40X6R,TRILOGY AI CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
