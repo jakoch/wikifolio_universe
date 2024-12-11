@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "AU000000CNJ3,A1W2NL,CONICO LTD,Aktien International,Aktien International,,",
+    "AU000000HXG7,A2ABJ0,HEXAGON RESOURCES LTD,Aktien International,Aktien International,,",
+    "CA02156G1028,A2QQFT,ALTIUS RENEWABLE ROYALT.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000IVNQZ81,A40R4H,\"TE CONNECTIVITY   DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "CA78109M2067,A40QYC,RUA GOLD INC.,Aktien International,Aktien International,,",
+    "CA74349D1069,A3C6TB,PROPEL HOLDINGS INC.,Aktien International,Aktien International,,",
+    "US03835L4059,A40TXV,\"APTEVO THERAP.NEW DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "CA26806J1093,A40X2S,DYNAMITE BLOCKCHAIN CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}

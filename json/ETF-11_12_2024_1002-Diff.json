@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "CH0568452707,A3GR91,AMINAX INDEX ETP,ETFs,sonstige ETFs,,",
+      "Current": "CH0568452707,A3GR91,SEBA INDEX ETP,ETFs,sonstige ETFs,,"
+    }
+  ],
+  "Deletions": [
+    "IE0007YP0PL1,A40VDZ,BNPPEFENGDGC U.ETFEOA,ETFs,ETFs Branchen,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
