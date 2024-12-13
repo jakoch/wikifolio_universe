@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "FR0012650166,A14R53,\"NHOA S.A. (WI)     EO-, 20\",Aktien Europa,Aktien Europa Select,,",
+    "GB00BLP5YB54,A116CH,ATLANTICA SU.INF.   DL-10,Aktien USA,Aktien USA Select,,",
+    "US8676524064,A1JNM7,\"SUNPOWER CORP.    DL -, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "AU0000360208,A40X3K,CONICO LTDO.N.,Aktien International,Aktien International,,",
+    "AU0000369753,A40XP4,NH3 CLEAN ENERGY LTD.,Aktien International,Aktien International,,",
+    "DE0006209901,620990,ALBA SE O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "DE000A2G8ZX8,A2G8ZX,PYRUM INNOV.AG  NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "US09077V1008,A40D7P,BIOAGE LABS INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "CA05157F1062,A3DSXF,AURIC MINERALS CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
