@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA87039X3076,A3EEHJ,SWEET EARTH HOLD. CORP.,Aktien International,Aktien International,,",
+    "CA88577D1096,A3DRP9,THREE SIXTY SOLAR LTD.,Aktien International,Aktien International,,",
+    "FR0011289040,A1J1MD,\"SQLI S.A. INH.     EO-, 80\",Aktien Europa,Aktien Europa Select,,",
+    "KYG2114E1355,A1JU86,\"CHINA WATER I.GR.  HD-, 01\",Aktien International,Aktien International,,",
+    "US14713L1026,A2H71X,\"CASA SYSTEMS INC. DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA74767K1030,A3CSAU,QUANTUM EMOTION CORP.,Aktien International,Aktien International,,",
+    "CA87039X1179,A40X9X,SWEET EARTH HOLD. CORP.,Aktien International,Aktien International,,",
+    "IE000DU292E6,A3DA9W,\"ADS TEC ENERG. DL-, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
