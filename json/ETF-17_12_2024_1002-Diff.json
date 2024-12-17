@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "GB00BRC6JM96,A4AFNJ,VALOUR DIG. ETP O.END,ETFs,sonstige ETFs,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000C5YJ791,A40KLK,ISHS MS.USA L. DLA,ETFs,ETFs Nordamerika,,",
+    "IE0003ZXNJY5,A3C5HP,ISHS TIMBER DLA,ETFs,ETFs Basic Resources,,",
+    "IE000IISJT64,A40UMS,SSGA EU1-SSP D DLA,ETFs,ETFs Welt,,",
+    "IE000VNGJFV0,A40SRA,ISHS DUR B HGDEOD,ETFs,ETFs Sonstige Bonds,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
