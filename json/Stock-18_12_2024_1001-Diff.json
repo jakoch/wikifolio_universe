@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "AU0000201006,A3DA8U,HYGROVEST LTD.,Aktien International,Aktien International,,",
+    "CA82664T1012,A3DK3Q,SIGNAL GOLD INC.,Aktien International,Aktien International,,",
+    "IT0005239881,A2DNGD,UNIEURO S.P.A. NOM O.N.,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0011040500,A1JBGJ,74SOFTWARE           EO 2,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0011040500,A1JBGJ,AXWAY SOFTWARE       EO 2,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA2328211081,A4ZZ0X,CYTOPHAGE TECHN. LTD.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
