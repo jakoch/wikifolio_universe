@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA69783Y3014,A40V05,PAN AMERICAN ENERGY NEW,Aktien International,Aktien International,,",
+    "JE00B783TY65,A1JPLB,\"APTIV PLC         DL -, 01\",Aktien USA,Aktien USA Select,,",
+    "JP3802670004,917172,FANCL CORP.,Aktien International,Aktien International,,",
+    "US1488061029,A112H2,CATALENT INC.,Aktien USA,Aktien USA Select,,",
+    "US34380C2017,A409HG,\"FLUENT INC.        DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US6294442099,A4091K,NRX PHARM.INC. NEW O.N.,Aktien USA,Aktien USA Select,,",
+    "US6963894026,A4098S,\"PALISADE BIO INC. DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "USY384721251,885166,\"HYUNDAI MOT.0, 5N.VTG GDRS\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "NL0015268814,A2QMBK,MPC ENERGY SOLUTIONS N.V.,Aktien Europa,Aktien Europa Select,,",
+    "CA40054T3055,A40XR2,G2 ENERGY CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
