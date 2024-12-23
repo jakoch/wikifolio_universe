@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA0403282050,A2H8Y7,ARHT MEDIA INC.,Aktien International,Aktien International,,",
+    "CA30727R1091,A2P38P,FANSUNITE ENTERT.,Aktien International,Aktien International,,",
+    "CA91915B1085,A2PLB4,VALEO PHARMA INC.CL.A,Aktien International,Aktien International,,",
+    "FR0000076986,863096,MONCEY (FIN.) NOM.  EO 23,Aktien Europa,Aktien Europa Select,,",
+    "US29415B1035,A3DC9B,\"ENVIVA INC.  DL -, 001\",Aktien USA,Aktien USA Select,,",
+    "US43358Y2028,A3DMJS,\"HISTOGEN INC. DL-, 0001\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "JE00BTDN8H13,A40XY4,APTIV HOLDINGS O.N.,Aktien USA,Aktien USA Select,,",
+    "CA7462441022,A40V79,PUREWAVE HYDROGEN O.N.,Aktien International,Aktien International,,",
+    "NO0011016040,A3CSVS,\"KOMPLETT ASA     NK -, 40\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
