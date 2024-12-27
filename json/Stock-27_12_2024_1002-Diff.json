@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "CA13960M1023,A2QG8V,CAPELLA MINERALS LTD,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005785802,578580,FRESEN.MED.CARE AG INH ON,Aktien Deutschland,Aktien DAX,,",
+      "Current": "DE0005785802,578580,FRESEN.MED.CARE KGAA O.N.,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE0006450000,645000,LPKF LASER+ELECTR.INH ON,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "DE0006450000,645000,LPKF LASER+ELECTR.INH ON,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000A0HN5C6,A0HN5C,DEUTSCHE WOHNEN SE INH,Aktien Deutschland,Aktien MDAX,,",
+      "Current": "DE000A0HN5C6,A0HN5C,DEUTSCHE WOHNEN SE INH,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000A40KY26,A40KY2,COVESTRO AG O.N. Z.VERK.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A40KY26,A40KY2,COVESTRO AG O.N. Z.VERK.,Aktien Deutschland,Aktien DAX,,"
+    }
+  ],
+  "Deletions": [
+    "AU000000CNJ3,A1W2NL,CONICO LTD,Aktien International,Aktien International,,",
+    "FR00140085W6,A3DHBB,MRM SA INH.       EO 20,Aktien Europa,Aktien Europa Select,,",
+    "US05351W1036,A2ACDD,AVANGRID INC.,Aktien USA,Aktien USA Select,,",
+    "FR0000075392,811008,ORAPI S.A. INH.      EO 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 4,
+    "Deletions": 4
+  }
+}
