@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "BE0974289218,A2AJLU,DMS IMAGING S.A.,Aktien Europa,Aktien Europa Select,,",
+    "CA02906A1084,A3DTW8,AMERICAN POTASH CORP.,Aktien International,Aktien International,,",
+    "CA22888A1084,A3CWU7,CRUZ BATTERY METALS CORP.,Aktien International,Aktien International,,",
+    "CA83013Q8065,A40KEH,SIYATA MOBILE NEW,Aktien USA,Aktien USA Select,,",
+    "CA92941F1053,A2PX9R,WPD PHARMACEUTICALS,Aktien International,Aktien International,,",
+    "FR0000075392,811008,ORAPI S.A. INH.      EO 1,Aktien Europa,Aktien Europa Select,,",
+    "FR00140085W6,A3DHBB,MRM SA INH.       EO 20,Aktien Europa,Aktien Europa Select,,",
+    "MT0002810100,A40G1Q,MULTITUDE SE O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "US05351W1036,A2ACDD,AVANGRID INC.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "BE0974497290,A40WHL,EUROPEAN MEDICAL SOLU.,Aktien Europa,Aktien Europa Select,,",
+    "CA83013Q8891,A40RUY,SIYATA MOBILE,Aktien USA,Aktien USA Select,,",
+    "CA0249441001,A40VTE,AMERICAN CRIT. MIN. CORP.,Aktien International,Aktien International,,",
+    "NO0010887516,A2QE76,\"TECO 2030 ASA     NK 0, 01\",Aktien Europa,Aktien Europa Select,,",
+    "CA92941F2044,A40XCT,WPD PHARMACEUTICALS NEW,Aktien International,Aktien International,,",
+    "CH1398992755,A40VJN,\"MULTITUDE AG  EO 1, 85\",Aktien Deutschland,Aktien Sonstige,,",
+    "CA22888A2074,A40YSN,CRUZ BATTERY METALS CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 0,
+    "Deletions": 7
+  }
+}
