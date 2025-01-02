@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "BMG9349W1038,A2DY3Y,VEON,Aktien Europa,Aktien Europa Select,,",
+    "CA33812R1091,A1T87E,FISSION URANIUM CORP.,Aktien International,Aktien International,,",
+    "CA3807192032,A40A5J,GOLD79 MINES LTD.,Aktien International,Aktien International,,",
+    "CA83013Q8891,A40RUY,SIYATA MOBILE,Aktien USA,Aktien USA Select,,",
+    "DE000A2G9MZ9,A2G9MZ,STEMMER IMAGING AG INH ON,Aktien Deutschland,Aktien Sonstige,,",
+    "GRS224003004,A0NJC6,\"KREKA S.A. INH.   EO 0, 65\",Aktien Europa,Aktien Europa Select,,",
+    "GRS344003009,A2PUC2,VARVARESSOS SA EU. NA,Aktien Europa,Aktien Europa Select,,",
+    "LV0000100899,927061,\"LATVIJAS GAZE     EO 1, 40\",Aktien Europa,Aktien Europa Select,,",
+    "NL0015000G40,A3CVMY,\"VAM INVESTM.SPAC   EO-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "NO0010887516,A2QE76,\"TECO 2030 ASA     NK 0, 01\",Aktien Europa,Aktien Europa Select,,",
+    "PTLIG0AE0002,914730,LISGRAFICA IMP.A.NAM.,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "FR001400T0D6,A40UCY,\"CANAL+ S.A.       EO -, 25\",Aktien Europa,Aktien Europa Select,,",
+    "NL0015000F41,A3CYXP,\"LILIUM N.V.  CL.A  EO0, 01\",Aktien International,Aktien International,,",
+    "CA37962L1013,A4098M,GLOBAL URANIUM CORP. O.N.,Aktien International,Aktien International,,",
+    "FR001400TL40,A40V35,\"LOUIS HACHETTE GRP EO-, 20\",Aktien Europa,Aktien Europa Select,,",
+    "CA13960M2013,A40XWB,CAPELLA MINERALS LTD,Aktien International,Aktien International,,",
+    "NL0015002AH0,A40UCX,\"HAVAS N.V.        EO -, 20\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 11,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
