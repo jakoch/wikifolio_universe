@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE0006605009,660500,MEDION AG O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "NL0000288918,971488,VASTNED RETAIL N.V.  EO 5,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US68404V2097,A40XND,OPTINOSE INC.  NEW O.N.,Aktien USA,Aktien USA Select,,",
+    "CA60251N2086,A40YPM,MINAS METALS LTD.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
