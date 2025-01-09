@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "FR0010285965,A0LEPS,\"1000MERCIS INH.    EO-, 10\",Aktien Europa,Aktien Europa Select,,",
+    "US74316X1019,A1103Q,\"PROFIRE ENERGY    DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "GRS432003028,A2DVTU,\"AKTOR SA          E0 0, 30\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GRS432003028,A2DVTU,\"INTRAKT S.A.      E0 0, 30\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "US4778391049,A0Q6F9,\"JBT MAREL CORP.    DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US4778391049,A0Q6F9,JOHN BEAN TECHNOLOGIES CORP. REGISTERED SHARES DL,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "JP3048370005,A2DQB7,MIRAI CORP.,Aktien International,Aktien International,,",
+    "JP3049110004,A3DRN2,TOKAIDO REIT INC.,Aktien International,Aktien International,,",
+    "JP3944360001,A0YB45,RESTAR,Aktien International,Aktien International,,",
+    "JP3647800006,866579,NAGASE + CO. LTD,Aktien International,Aktien International,,",
+    "HK0435036626,A0LGAE,SUNLIGHT REAL EST. UTS,Aktien International,Aktien International,,",
+    "JP3236330001,A2QB8W,KIOXIA HOLDINGS CORP.,Aktien International,Aktien International,,",
+    "HK2778034606,A0J2MQ,CHAMPION REAL EST. UTS,Aktien International,Aktien International,,",
+    "KYG2006G1313,A400C0,\"CENT.NEW ENE. HD-, 000625\",Aktien International,Aktien International,,",
+    "JP3153850007,A3C15U,INFRONEER HOLDINGS INC.,Aktien International,Aktien International,,",
+    "CNE100006NF4,A40U3U,S.F.HOLDING CO.LTD H YC1,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 10
+  }
+}
