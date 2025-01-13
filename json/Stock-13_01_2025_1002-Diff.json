@@ -1,0 +1,47 @@
+{
+  "Additions": [
+    "AU0000184202,A3C6E9,DOMINION MINERALS LTD.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006569908,656990,MLP SE  INH. O.N.,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "DE0006569908,656990,MLP SE  INH. O.N.,Aktien Deutschland,Aktien Sonstige,,"
+    }
+  ],
+  "Deletions": [
+    "US67090S1087,A3ELKH,NUVEEN CHURCHILL DIR.LEN.,Aktien USA,Aktien USA Select,,",
+    "US0235865062,A3DXL7,U-HAUL HLDG CO. SER.N.,Aktien USA,Aktien USA Select,,",
+    "US78518H2022,A3DNEX,\"SABA CA.INC+OP.NEW DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US6706631032,A40532,\"NUVEEN MUN.CRDT FD DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US1534361001,878937,\"CENT.+EAST.EUR.FD DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US78081T1043,A1W6BV,\"ROYCE GL.TRUST    DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US2316472073,A2P6KC,CUSHING RENAISSANCE SBI,Aktien USA,Aktien USA Select,,",
+    "US74179A1079,A3DN4Y,\"PRINCETON BANCRP DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US69355M1071,A3C822,PIMCO DYN.INC.OP.BEN.,Aktien USA,Aktien USA Select,,",
+    "MHY460021535,A40YYD,\"JX LUXVENT. NEW DL -, 0001\",Aktien International,Aktien International,,",
+    "US30320C3016,A40V4M,FTC SOLAR INC. NEW O.N.,Aktien USA,Aktien USA Select,,",
+    "US67075A1060,A3DTEH,NUVEEN PREFER.SEC+INC.OPP,Aktien USA,Aktien USA Select,,",
+    "SE0020180917,A3EETX,TETHYS OIL AB        O.N.,Aktien Europa,Aktien Europa Select,,",
+    "US3981823038,A3E3SP,AMERICAN HEALTHC.REIT,Aktien USA,Aktien USA Select,,",
+    "US71385M1071,A40PUQ,PERIMETER SOLUT.INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "US1693731077,884475,\"CHINA FD INC.      DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US25063F1075,A3DRVB,DESTINY TECH100 INC.,Aktien USA,Aktien USA Select,,",
+    "US4866061066,A0MXKB,KAYNE ANDE.MLP/M.I.DL-001,Aktien USA,Aktien USA Select,,",
+    "SE0018768707,A3D4F9,SAMPO OYJ  (SDR)/1,Aktien Europa,Aktien Europa Select,,",
+    "US43010T1043,A3DHJV,HIGHL.GL ALLOC.,Aktien USA,Aktien USA Select,,",
+    "US30290Y1010,A3E2NS,FS CREDIT OPPORTUN. CORP.,Aktien USA,Aktien USA Select,,",
+    "US8852131080,A3DEXR,THORNBURG INC.BLD.OPP.TR.,Aktien USA,Aktien USA Select,,",
+    "US11259P1093,A3CNWG,\"BROOKF.B.H.  4, 62 PR.SHS\",Aktien USA,Aktien USA Select,,",
+    "US7396501097,A3D1ZH,PRAIRIE OPER CO.  O.N.,Aktien USA,Aktien USA Select,,",
+    "US2316313004,A2P6KD,CUSHING MLP+INFRASTR.T.R.,Aktien USA,Aktien USA Select,,",
+    "US34379V1035,A3C6A3,\"FLUENCE ENER. CL.A-, 00001\",Aktien USA,Aktien USA Select,,",
+    "US69346N1072,A2PXGL,PIMCO ENERGY+TACT.CR.OPPS,Aktien USA,Aktien USA Select,,",
+    "AU000000ANL3,A2DJ27,AMANI GOLD LTD,Aktien International,Aktien International,,",
+    "SE0014855029,A2QCUH,IMPLANTICA AG  SDR./1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 29
+  }
+}
