@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "AU000000ANL3,A2DJ27,AMANI GOLD LTD,Aktien International,Aktien International,,",
+    "CA48850D1015,A3CSQW,KENADYR METALS CORP.,Aktien International,Aktien International,,",
+    "SE0020180917,A3EETX,TETHYS OIL AB        O.N.,Aktien Europa,Aktien Europa Select,,",
+    "US73730P1084,A2PEYK,\"POSEIDA THERAP.  DL-, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005220909,522090,NEXUS AG O.N.,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "DE0005220909,522090,NEXUS AG O.N.,Aktien Deutschland,Aktien Sonstige,,"
+    }
+  ],
+  "Deletions": [
+    "SG1T22929874,A0JKYS,KEPPEL REIT UTS,Aktien International,Aktien International,,",
+    "GB00BQVXM815,A40WGA,HEMOGENYX PHARM.PLC LS-01,Aktien Europa,Aktien Europa Select,,",
+    "BMG762791017,A3C4MS,ROIVANT SCIENCES,Aktien USA,Aktien USA Select,,",
+    "SG1CI9000006,A2AL3H,FRASERS LOG.+COM.TRUST,Aktien International,Aktien International,,",
+    "CA53229R1047,A40X9T,LIGHT AI,Aktien International,Aktien International,,",
+    "NL00150005Y4,A2QNWS,\"PHARVARIS N.V.  EO -, 12\",Aktien Europa,Aktien Europa Select,,",
+    "CA8139211038,A40PE6,SECURE WASTE INFRASTRUCT.,Aktien International,Aktien International,,",
+    "SG2C32962814,A1C7NP,MAPLETREE INDUSTR. TR.,Aktien International,Aktien International,,",
+    "SG1U27933225,A0LF43,FIRST REAL EST. INV. TR.,Aktien International,Aktien International,,",
+    "FR0010492199,A0MYBD,FORACO INTL SA      EO 15,Aktien Europa,Aktien Europa Select,,",
+    "SG1T70931228,A0KDUP,ESR-REIT UTS,Aktien International,Aktien International,,",
+    "GB00B1P6ZR11,A0MKAF,BROWN GRP PLC CONS.,Aktien Europa,Aktien Europa Select,,",
+    "GB00BMT9K014,A2QNEN,\"MOONPIG GROUP PLC LS -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "FR0013467479,A2PWZL,\"CONSTELLIUM SE     EO-, 02\",Aktien Europa,Aktien Europa Select,,",
+    "CA8426851090,A40QY8,SOUTHERN CROSS GOLD CONS,Aktien International,Aktien International,,",
+    "CA81752V2003,A40YSH,SERRA ENERGY METALS CORP.,Aktien International,Aktien International,,",
+    "SG2D18969584,A1H91U,MAPLETREE PAN ASIA C.REGS,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 17
+  }
+}
