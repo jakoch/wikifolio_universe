@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "DE000A0B9VV6,A0B9VV,COREO AG   O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "SE0016828511,A3C36T,EMBRACER GROUP AB B O.N.,Aktien Europa,Aktien Europa Select,,",
+    "US03940R1077,A2P4W1,\"ARCH RES. INC.CL.A DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "SE0023615885,A40WJC,EMBRACER GROUP AB B O.N.,Aktien Europa,Aktien Europa Select,,",
+    "DE000A2N8143,A2N814,BIT GL.TECH.LEAD. R-III,Fonds,Fonds Aktien,,",
+    "CA8119161054,541875,SEABRIDGE G.,Aktien International,Aktien International,,",
+    "DE000A40KYB8,A40KYB,COREO AG KONV.,Aktien Deutschland,Aktien Sonstige,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
