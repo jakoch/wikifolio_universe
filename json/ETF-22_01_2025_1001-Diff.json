@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "LU1437024992,A2AQ5K,AIS-AMU.MSCI BRAZ.U.ETF C,ETFs,ETFs Emerging Markets,,",
+    "LU1602145119,A2DR4K,A.-A.I.E.G.M.S.A.S.B.UEDI,ETFs,ETFs Nordamerika,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "XS2706232803,A3G805,LEVERAGE SHA ETP 2071,ETFs,sonstige ETFs,,",
+    "XS2820604770,A4AGVL,LEVERAGE SHA ETP 2070,ETFs,sonstige ETFs,,",
+    "DE000PB6GAS5,PB6GAS,BNP PAR.ISS. O.E. ETC,ETFs,ETFs DAX,,",
+    "XS2757381400,A4AEJB,LEVERAGE SHA ETP 2071,ETFs,sonstige ETFs,,",
+    "XS2595672036,A3G4XP,LEVERAGE SHA ETP 2073,ETFs,sonstige ETFs,,",
+    "XS2399367254,A3GWC9,LEVERAGE SHA ETP 2071,ETFs,sonstige ETFs,,",
+    "JE00BPRDNL86,A3G4FD,COINSHARES DIG.SEC.OEND,ETFs,sonstige ETFs,,",
+    "XS2399364152,A3GWCW,LEVERAGE SHA ETP 2071,ETFs,sonstige ETFs,,",
+    "IE0001R850E1,A407HQ,FIRST TR.SMID ADLA,ETFs,ETFs Nordamerika,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 9
+  }
+}

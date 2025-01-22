@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA09626M3049,A2DSHJ,BLUESTONE RESOURCES,Aktien International,Aktien International,,",
+    "CA1380502080,A116E1,CAMINO MINERALS,Aktien International,Aktien International,,",
+    "CA31729R1055,A3EE3U,FILO CORP.,Aktien International,Aktien International,,",
+    "GB00B0N8QD54,A0HMX9,\"BRITVIC PLC        LS-, 20\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA1380503070,A40Z0W,CAMINO MINERALS,Aktien International,Aktien International,,",
+    "US69007J3041,A40Z4J,OUTFRONT MEDIA INC.  NEW,Aktien USA,Aktien USA Select,,",
+    "LU0099574567,921800,FID.FDS-GL TECHNOL.A GL.,Fonds,Fonds Aktien,,",
+    "VGG2662B1031,A40755,\"CRITICAL METALS  DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "LU0348926287,A0NEG2,NORD.1-GBL CL.A.EN.F.BPEO,Fonds,Fonds Aktien,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
