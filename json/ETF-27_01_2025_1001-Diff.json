@@ -1,0 +1,19 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "CH0454664043,A2UBKC,21SHARES XRP ETP OE,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources",
+      "Current": "CH0454664043,A2UBKC,21SHARES RIPPLEXRP ETP OE,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources"
+    }
+  ],
+  "Deletions": [
+    "IE000G0E83X3,A40JYF,IS3-AI IN.AC. DLA,ETFs,sonstige ETFs,,",
+    "IE0000TZZ2B2,A40Q9Y,IM-I.SP EQWESE DLA,ETFs,ETFs Nordamerika,,",
+    "IE0009Y1MQJ2,A40M90,IS.W.E.F.R.A.E. ()DLA,ETFs,sonstige ETFs,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}

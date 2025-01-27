@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "AU0000187353,A3DCS7,BLOCK INC.  CDI/1/1,Aktien International,Aktien International,,",
+    "CA52637G1063,A2QAR2,LEOCOR GOLD INC.,Aktien International,Aktien International,,",
+    "CA76134J1075,A40UM7,RESTART LI.SCI. CORP.O.N.,Aktien International,Aktien International,,",
+    "SE0009973548,A2DYEG,CLIMEON AB  B,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "AU0000380420,A410MN,BLOCK INC.  CDI/1/1,Aktien International,Aktien International,,",
+    "HU0000180112,A2QKU6,CIG PANNONIA LIFE INSURA.,Aktien Europa,Aktien Europa Select,,",
+    "CA76134J2065,A410C5,RESTART LI.SCI. CORP.O.N.,Aktien International,Aktien International,,",
+    "SE0023837182,A40WKL,CLIMEON AB  B,Aktien Europa,Aktien Europa Select,,",
+    "GRS522003003,A3CWWS,\"REAL CONS.IT B.S. EO 0, 4\",Aktien Europa,Aktien Europa Select,,",
+    "EE3100149394,A3E3N3,\"INFORTAR AS        EO-, 3\",Aktien Europa,Aktien Europa Select,,",
+    "CA52637M1032,A40ZYP,LEOCOR MINING,Aktien International,Aktien International,,",
+    "GRS533003000,A3E2RR,\"OPTIMA BANK S.A.  EO 3, 45\",Aktien Europa,Aktien Europa Select,,",
+    "HU0000110226,A1JEWC,OPUS GLOBAL NYRT    UF 25,Aktien Europa,Aktien Europa Select,,",
+    "HU0000155726,A2H8SJ,\"ALTEO ENERG.NYIL M.UF12, 5\",Aktien Europa,Aktien Europa Select,,",
+    "IL0011832438,A3DV8W,\"BEAMR IMAGING LTD IS -, 05\",Aktien International,Aktien International,,",
+    "IL0010828585,938383,G. WILLI-FOOD INTL INC.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 12
+  }
+}
