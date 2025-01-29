@@ -1,0 +1,37 @@
+{
+  "Additions": [
+    "CA5113051042,A2QERM,LAKE WINN RESOURCES CORP.,Aktien International,Aktien International,,",
+    "GB0033873919,A0BKZD,FIR.ST.I.-S.I.G.EM L.ALSA,Fonds,Fonds Aktien,,",
+    "LU0123357419,658697,INVESCO ENERGY FUND A,Fonds,Fonds Aktien,,",
+    "NL0015001WM6,A400D5,\"QIAGEN NV         EO -, 01\",Aktien Deutschland,Aktien DAX,,",
+    "US0678061096,861254,\"BARNES GRP INC.    DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US29405E2081,A3DMHB,\"ENVERIC BIOSCI.INC.DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US68278B1070,A3DPH2,\"ONESTR.INC.CL.A  DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "BMG0585R1060,A0CATL,\"ASSURED GUARANTY   DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "KYG6542K1269,A3E1WL,\"NOAH HLDGS CL.A DL-, 00005\",Aktien International,Aktien International,,",
+    "BMG0772R2087,A2ARZ5,THE BK N.T.BUTTERF.+S.NEW,Aktien USA,Aktien USA Select,,",
+    "NL0015002CX3,A40ZZU,\"QIAGEN NV         EO -, 01\",Aktien Deutschland,Aktien DAX,,",
+    "BMG8192H1060,A2QQBF,\"SIRIUSPOINT LTD.   DL-, 10\",Aktien USA,Aktien USA Select,,",
+    "KYG596651029,A2JGHF,\"MEIRAGTX HLDGSDL-, 0000388\",Aktien USA,Aktien USA Select,,",
+    "BMG202981087,A12CQJ,\"CGN NEW ENERGY HO.HD, 0001\",Aktien International,Aktien International,,",
+    "KYG7006A1094,A3DQJA,PERFECT CORP. CL.A,Aktien International,Aktien International,,",
+    "BMG427061046,A3EYBN,HAMILTON INS.GROUP LTD B,Aktien USA,Aktien USA Select,,",
+    "KYG9471C2068,A40P0H,\"VERTICAL AEROSP.DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US00217D1000,A3CL8W,\"AST SPACEMOBIL.A DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "KYG9845F2080,A40P1H,\"LAKESHORE BIOP. DL -, 0002\",Aktien USA,Aktien USA Select,,",
+    "BMG671801022,A1W5D5,\"ODFJELL DRILL.LTD. DL-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "US29405E4061,A41091,\"ENVERIC BIOSCIEN. DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "BMG9231L1081,A0NCQS,\"UTD ENERGY GR.NEW HD -, 01\",Aktien International,Aktien International,,",
+    "BMG2116Y1057,A12HLR,CN EVERBRIGHT WATER HD 1,Aktien International,Aktien International,,",
+    "BMG6904D1083,A40GSB,\"PARATUS ENER.SVS   DL 4, 9\",Aktien Europa,Aktien Europa Select,,",
+    "BMG3156P1032,A0DLN4,ASA GOLD+PREC.MET.LTD.DL1,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 19
+  }
+}
