@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "LU1602145200,A2DR4L,A.-A.I.E.G.M.S.A.S.B.UEDI,ETFs,ETFs Welt,,",
+    "LU2339917168,A3CPLL,AIS-A.I.U.G.I-L DRH CEOA,ETFs,ETFs Sonstige Bonds,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000SVXJH05,A40V3W,I7-N100 EXTO30 DLA,ETFs,ETFs Nordamerika,,",
+    "IE000Z7P04F4,A40V3X,I7-N100TOP30 DLA,Aktien Europa,Aktien Europa Select,,",
+    "IE000R4ZNTN3,A40X3Z,IS.MSCI W.E-U.E DLA,ETFs,ETFs Welt,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
