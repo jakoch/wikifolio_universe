@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "LU1291091228,A2ACQZ,BNPPE.-F.E./N.D.E.UEQDDIS,ETFs,ETFs Branchen,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CH0496484640,A22FMC,21SHARES BC/ET COR ETP OE,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources",
+      "Current": "CH0496484640,A22FMC,21SHARES BC/ET BSK ETP OE,ETFs,sonstige ETFs,ETFs,ETFs Basic Resources"
+    }
+  ],
+  "Deletions": [
+    "LU2914558916,A40YL9,BNPPE-FDEGRC U.ETFEOD,ETFs,ETFs Branchen,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
