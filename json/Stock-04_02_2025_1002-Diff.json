@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "AU000000CAI2,A2DY0W,CALIDUS RES LTD,Aktien International,Aktien International,,",
+    "CH0038285679,A0NJ37,ORASCOM DEVELOPMENT HOLDING AG,Aktien Europa,Aktien Europa Select,,",
+    "FR0011915339,A2AMJC,\"ENERTIME S.A.     EO -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "GB0008220112,877238,D S SMITH PLC,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US09071M3043,A41038,\"BIOLINERX LTD. DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
