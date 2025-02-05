@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA09789B1031,A2PJMJ,BOND RESOURCES INC.,Aktien International,Aktien International,,",
+    "CA34546R1001,A40NYU,FOREMOST CL.EN.LTD O.N.,Aktien International,Aktien International,,",
+    "IT0005460016,A3C5QM,INTERMONTE PRTN.SIM,Aktien Europa,Aktien Europa Select,,",
+    "US0063513081,865676,\"ADAMS RES. EN. INC.DL-, 10\",Aktien USA,Aktien USA Select,,",
+    "US10921T1016,A1JTPT,\"BRIGHTCOVE INC.    DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US42234Q1022,812814,HEARTLAND FIN. USA   DL 1,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA34547F1053,A40Z8P,FOREMOST CLEAN ENER. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
