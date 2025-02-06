@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA53681K1003,A3ER6Y,LITHIUM AMERICAS CORP.,Aktien USA,Aktien USA Select,,",
+    "CA7393011092,A3CUEW,POWER NICKEL INC.,Aktien International,Aktien International,,",
+    "KYG2046Q1073,603198,CHAODA MODERN AGR. (HLDGS) LTD REGISTERED SHARES H,Aktien International,Aktien International,,",
+    "NO0010955883,A2QR2M,INTEGRATED W.S. ASA  NK 2,Aktien Europa,Aktien Europa Select,,",
+    "US87874R1005,A0MRMK,TECHTARGET INC.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US87874R3084,A40MZE,TECHTARGET INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "CA7393014062,A40V4N,POWER NICKEL INC.,Aktien International,Aktien International,,",
+    "KYG2046Q1156,A40Y97,CHAODA MODERN AGR.   HD 2,Aktien International,Aktien International,,",
+    "NO0013461350,A411HR,INTEGRATED W.S. ASA  NK 2,Aktien Europa,Aktien Europa Select,,",
+    "CH1403212751,A4111M,\"LITHIUM ARGENTINA DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
