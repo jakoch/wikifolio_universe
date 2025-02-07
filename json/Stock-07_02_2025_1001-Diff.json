@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "ES0126775032,A1JBEM,\"DISTRIB.INTL DE A.EO 0, 01\",Aktien Europa,Aktien Europa Select,,",
+    "FR0010781377,A12CFU,\"AERIENNE INT.R.EXP.EO3, 70\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "ES0126775008,A411HZ,DISTRIB.INTL DE A.EO 10,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
