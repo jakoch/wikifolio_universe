@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "FR0000035818,907928,ESKER S.A. INH.      EO 2,Aktien Europa,Aktien Europa Select,,",
+    "US09075P1057,A2JF20,\"BIOXCEL THERAPEUT DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IT0005416281,A2QAW0,IND.CHIM.FORE.S.P.A. EO 1,Aktien Europa,Aktien Europa Select,,",
+    "US26484T1060,A2P587,\"DUN+BRADSTREET HLD.DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US09075P2048,A40YSR,BIOXCEL THERAP.INC.NEW,Aktien USA,Aktien USA Select,,",
+    "US91704F1049,A12HHQ,\"URBAN EDGE PROPERT.DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US26210V1026,A2QL6Z,\"DRIVEN BRANDS HLDG.DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US2681501092,A2PPPE,\"DYNATRACE INC.    DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US8003631038,919567,SANDY SPRING BANCORP. DL1,Aktien USA,Aktien USA Select,,",
+    "SE0023313762,A40WTZ,APOTEA AB    O.N.,Aktien Europa,Aktien Europa Select,,",
+    "IT0001472171,502374,CALTAGIRONE EDITORE  EO 1,Aktien Europa,Aktien Europa Select,,",
+    "US0042391096,985331,ACADIA RLTY TRUST  DL-001,Aktien USA,Aktien USA Select,,",
+    "US83601L1026,A2QHA5,\"SOTERA HEALTH CO.  DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 11
+  }
+}
