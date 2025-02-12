@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA17040T3001,A2AKGY,CHORUS AVIAT.(VOT.+VAR.),Aktien International,Aktien International,,",
+    "CA2844451039,A2AEG2,ELCORA ADVANCED MAT.CORP.,Aktien International,Aktien International,,",
+    "US05368M1062,A2JBKV,\"AVID BIOSERVICES  DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US33817P3064,A3D6PS,\"FITLIFE BRANDS NEW DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US3789734080,A0LBTE,\"GLOBALSTAR INC. DL -, 0001\",Aktien USA,Aktien USA Select,,",
+    "US7613301099,A1XD3D,\"REVANCE THERAPEUT.DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US86614U1007,A14QAG,\"SUMMIT MAT.INC.C.A DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA2844452029,A40CV2,ELCORA ADVANCED M. O.N.,Aktien International,Aktien International,,",
+    "US33817P4054,A4113Y,FITLIFE BRANDS INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "US3789735079,A40Z0V,GLOBALSTAR INC. O.N.,Aktien International,Aktien International,,",
+    "CA17040T8885,A411JM,CHORUS AVIAT.(VOT.+VAR.),Aktien International,Aktien International,,",
+    "SE0023615638,A411F9,ASMODEE GROUP AB B O.N.,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
