@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "AU000000POS4,A0MXJ7,POSEIDON NICKEL LTD.,Aktien International,Aktien International,,",
+    "CA13677F1018,904575,CDN WESTERN BANK,Aktien International,Aktien International,,",
+    "CA36830P1045,A1XBLP,GEAR ENERGY LTD,Aktien International,Aktien International,,",
+    "CA78573W2013,A3DWN4,SABRE GOLD MINES CORP.,Aktien International,Aktien International,,",
+    "CA81732W1041,A0LBCR,SERNOVA CORP.,Aktien International,Aktien International,,",
+    "EE3100145616,A2PH52,\"BALTIKA AS         EO 0, 1\",Aktien Europa,Aktien Europa Select,,",
+    "ES0105015012,A1XFFA,LAR ESP.RE.EST.SOCIMI EO2,Aktien Europa,Aktien Europa Select,,",
+    "FR00140069V2,A3C8HG,\"GROUPE BERKEM     EO 2, 25\",Aktien Europa,Aktien Europa Select,,",
+    "GB00B1P6ZR11,A0MKAF,BROWN GRP PLC CONS.,Aktien Europa,Aktien Europa Select,,",
+    "GB00BH4JR002,A2PHG7,LOUNGERS PLC          LS1,Aktien Europa,Aktien Europa Select,,",
+    "GRS368313003,935082,\"BYTE COMPUTER     EO 0, 30\",Aktien Europa,Aktien Europa Select,,",
+    "IE00014QAJZ5,A3C9EA,\"HEALTHBEACON     EO-, 0025\",Aktien Europa,Aktien Europa Select,,",
+    "LU1642887738,A2DUCW,\"PLAY COMMUNIC. EO 0, 00012\",Aktien Europa,Aktien Europa Select,,",
+    "US05875B1061,A2QG42,\"BALLYS CORP.       DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US53261M2035,A402TN,EDGIO INC,Aktien USA,Aktien USA Select,,",
+    "US56854Q2003,A2QEUC,\"MARINUS PHARMAC.  DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA81752F1062,A411DW,SERNOVA BIOTHERAPEUTICS,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 16,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
