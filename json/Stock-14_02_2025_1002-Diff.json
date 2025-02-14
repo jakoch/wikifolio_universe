@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA42774L1094,615408,HEROUX-DEV.,Aktien International,Aktien International,,",
+    "US44888K2096,A2QKU3,\"HYDROFARM HLD. GRP -, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "GB00BN0VZ646,A4122L,FERRARI GROUP PLC EO 1,Aktien Europa,Aktien Europa Select,,",
+    "BMG4586T1036,885153,HK CHINESE           HD 1,Aktien International,Aktien International,,",
+    "US44888K4076,A40MPJ,\"HYDR. HLDGS INC. DL-, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
