@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA3619701061,931885,GABRIEL RESOURCES LTD.,Aktien International,Aktien International,,",
+    "GB00BP83GZ24,A3DAJ9,\"PROTON MOT.PWR S.LS-, 005\",Aktien Europa,Aktien Europa Select,,",
+    "US33830Q1094,A3DDSR,5E ADVANCED MATERIALS,Aktien USA,Aktien USA Select,,",
+    "US67421J1088,A3CQRG,OATLY GROUP AB SP.ADS/1,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA66979J1066,A40GFH,NOVA PACIFIC METALS  O.N.,Aktien International,Aktien International,,",
+    "US33830Q2084,A40YYW,5E ADVANCED MATLS NEW,Aktien USA,Aktien USA Select,,",
+    "CA3619705021,A40YYV,GABRIEL RESOURCES LTD.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
