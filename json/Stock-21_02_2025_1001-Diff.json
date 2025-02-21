@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CA3874372053,A40QU6,GRANITE REIT UTS,Aktien International,Aktien International,,",
+    "CH1243598427,A3ETYB,\"SANDOZ GROUP AG   SF -, 05\",Aktien Europa,Aktien Europa Select,,",
+    "CNE100003688,A2JRL2,CHINA TOWER CORP. H  YC 1,Aktien International,Aktien International,,",
+    "US45332Y1091,A2P41U,\"INARI MEDICAL INC.DL-, 001\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CNE100006T28,A412SN,CHINA TOWER CORP. H  YC 1,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
