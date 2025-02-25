@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA85941M1041,A2QJA1,STERLING METALS CORP.,Aktien International,Aktien International,,",
+    "NO0013353219,A40P0J,NORDIC UNMANNED      NK 1,Aktien Europa,Aktien Europa Select,,",
+    "US2057503003,A2PV6V,\"COMSTOCK INC.      DL-, 01\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US88023U1016,A0BLAA,\"SOMNIGROUP INT.    DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US88023U1016,A0BLAA,TEMPUR SEALY INTERNATIONAL INC,Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US89853L3024,A3EU63,\"T2 BIOSYSTEMS NEW DL-, 001\",Aktien International,Aktien International,,",
+      "Current": "US89853L3024,A3EU63,\"T2 BIOSYSTEMS NEW DL-, 001\",Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA85941M8806,A410R3,STERLING METALS NEW,Aktien International,Aktien International,,",
+    "US2057504092,A412B6,COMSTOCK INC. NEW    O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
