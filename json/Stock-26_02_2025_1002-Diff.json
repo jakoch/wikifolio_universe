@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "AU000000LRS6,A1C35K,LATIN RESOURCES LTD,Aktien International,Aktien International,,",
+    "CA24703H1029,A3DQJE,DELIVRA HEALTH BRANDS INC,Aktien International,Aktien International,,",
+    "CA7393014062,A40V4N,POWER NICKEL INC.,Aktien International,Aktien International,,",
+    "VGG2161P1403,A3EV76,CHINA SXT PHARM. NEW O.N.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US74915M2098,A2JHXW,\"QVC GROUP B       DL -, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US74915M2098,A2JHXW,QURATE RETAIL INC. QVC B,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA73929R1055,A40S32,POWER METALLIC MINES O.N.,Aktien International,Aktien International,,",
+    "VGG2161P1577,A411L7,CHINA SXT PHARM. NEW O.N.,Aktien International,Aktien International,,",
+    "CA24703H2019,A41141,DELIVRA HEALTH BR. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
