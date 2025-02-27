@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA03835T3091,A3EENM,APTOSE BIOSCIENCES INC.,Aktien USA,Aktien USA Select,,",
+    "US48576U1060,A1W77U,KARYOPHARM THERAP.DL-0001,Aktien USA,Aktien USA Select,,",
+    "US8485771021,A1CX36,\"SPIRIT AIRLINES  DL-, 0001\",Aktien USA,Aktien Dow Jones,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "AU0000383192,A411K5,SUNCORP GROUP LTD. DEF.,Aktien International,Aktien International,,",
+    "CA7235371068,A411W8,PIONEER AI FOUNDRY,Aktien International,Aktien International,,",
+    "CA03835T4081,A40YEP,APTOSE BIOSCI.JAN 2025,Aktien USA,Aktien USA Select,,",
+    "US48576U2050,A40YLC,KARYOPHARM TH.NEW.DL-0001,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
