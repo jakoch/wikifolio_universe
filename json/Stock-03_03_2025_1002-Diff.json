@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA15748D1069,A2JDZP,CHAKANA COPPER CORP.,Aktien International,Aktien International,,",
+    "CA8529191097,A3EXPE,STALLION URANIUM CORP.,Aktien International,Aktien International,,",
+    "CNE100006T28,A412SN,CHINA TOWER CORP. H  YC 1,Aktien International,Aktien International,,",
+    "US62526P5052,A40AT3,\"MULLEN A.NEW 2024 DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA8529192087,A412WZ,STALLION URANIUM CORP.,Aktien International,Aktien International,,",
+    "US62526P6043,A4113Z,MULLEN AUTOMOTIVE O.N.,Aktien USA,Aktien USA Select,,",
+    "CA15748D2059,A412JP,CHAKANA COPPER CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
