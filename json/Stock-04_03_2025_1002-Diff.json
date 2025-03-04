@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA37958K1093,A2PF4J,GLOBAL BATTERY METALS LTD,Aktien International,Aktien International,,",
+    "CA46072A2020,A3DHGP,INTERRA COPPER CORP. O.N.,Aktien International,Aktien International,,",
+    "US4181001037,A3C8W3,\"HASHICORP. INC.A -, 000015\",Aktien USA,Aktien USA Select,,",
+    "US45667G1031,A0MSSK,\"INFINERA CORP.   DL -, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "AU0000058737,A2PSXF,LOTUS RESOURCES LTD,Aktien International,Aktien International,,",
+    "CA2175231091,A40ZSP,COPPER QUEST EXPLOR. O.N.,Aktien International,Aktien International,,",
+    "US18912E2072,A40U15,\"CLOUDAST. A NEW DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "CA37958K2083,A4131E,GLOBAL BAT.MET. NEW O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
