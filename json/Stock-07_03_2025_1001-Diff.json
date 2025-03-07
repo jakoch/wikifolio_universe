@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "AU0000305724,A3E13Q,ARCADIUM LITHIUM CDI/1,Aktien International,Aktien International,,",
+    "CA85284P2017,A3DBCU,STAMPER OIL+GAS CORP.,Aktien International,Aktien International,,",
+    "FR0013495298,A2P1T0,GAUSSIN S.A.         EO 1,Aktien Europa,Aktien Europa Select,,",
+    "JE00BM9HZ112,A3E4N8,ARCADIUM LITHIUM PLC ON,Aktien Europa,Aktien Europa Select,,",
+    "US2908464017,A408VF,EMCORE CORP. NEW O.N.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "ES0172708234,A1W97D,\"GR.EZENTIS SA  EO-, 00013\",Aktien Europa,Aktien Europa Select,,",
+    "CA85284P3007,A40R3X,STAMPER OIL+GAS CORP.,Aktien International,Aktien International,,",
+    "US76206K1079,A2DPZC,RHEINMETALL (UNSP.ADR)1/5,Aktien Deutschland,Aktien DAX,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
