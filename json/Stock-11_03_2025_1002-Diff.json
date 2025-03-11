@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA45568X2059,A2P359,INDIGO EXPLORATION INC.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "GB00BQ2K3557,A3DR4C,\"RIVER GLOBAL      LS-, 01\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GB00BQ2K3557,A3DR4C,\"ASSETCO PLC       LS-, 01\",Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA45568X3040,A411WD,INDIGO EXPLORATION INC.,Aktien International,Aktien International,,",
+    "CA45674L1031,A2QCDY,INFLECTION RESOURCES LTD.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
