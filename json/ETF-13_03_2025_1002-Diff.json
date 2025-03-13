@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "CA74643U1012,A40GEC,PRPS.ETH.STK.C. N.CRR.HDC,ETFs,ETFs Nordamerika,,",
+    "IE000HLUHPT1,A3DNYY,LG.JP ESG EXCL. DLA,ETFs,ETFs Asien,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "FR001400U5Q4,ETF262,AM.PEA MOMSCIW EOA,ETFs,ETFs Welt,,",
+    "IE0003BJ2JS4,A40Y9J,WT-URA.NU.EN. I SYS.HDGDE,ETFs,ETFs Basic Resources,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
