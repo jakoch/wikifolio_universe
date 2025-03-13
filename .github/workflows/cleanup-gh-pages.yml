@@ -1,7 +1,7 @@
 name: Cleanup gh-pages
 
 on:
-  workflow_dispatch: 
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,10 +11,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout gh-pages only
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4 # https://github.com/actions/checkout
         with:
           ref: gh-pages
           fetch-depth: 0  # full history for git filter-repo
+
+      - name: ✂️ Free Disk Space
+        uses: jlumbroso/free-disk-space@v1.3.1 # https://github.com/jlumbroso/free-disk-space
+        with:
+          tool-cache: true
+          android: true
+          dotnet: true
+          haskell: true
+          large-packages: true
+          docker-images: true
+          swap-storage: true
 
       - name: Install git-filter-repo
         run: |
