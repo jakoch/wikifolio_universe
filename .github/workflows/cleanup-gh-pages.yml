@@ -1,0 +1,33 @@
+name: Cleanup gh-pages
+
+on:
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  clean-gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout gh-pages only
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          fetch-depth: 0  # full history for git filter-repo
+
+      - name: Install git-filter-repo
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y git-filter-repo
+
+      - name: Remove CSV folder from history
+        run: |
+          git filter-repo --path csv --invert-paths
+          rm -rf refs/original/
+          git reflog expire --all --expire=now
+          git gc --prune=now --aggressive
+
+      - name: Force Push Cleaned Branch
+        run: |
+          git push --force origin gh-pages
