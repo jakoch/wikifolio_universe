@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "FR001400U5Q4,ETF262,AM.PEA MOMSCIW EOA,ETFs,ETFs Welt,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "LU1327051279,LYX0UW,AM.MUSD-1INV ETF A,ETFs,ETFs Nordamerika,,",
+      "Current": "LU1327051279,LYX0UW,M-L.S+P 500 D.(-2X)I.UE A,ETFs,ETFs Nordamerika,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

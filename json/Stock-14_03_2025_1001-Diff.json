@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA3719571018,A3ENW3,GENESIS AI CORP.,Aktien International,Aktien International,,",
+    "CA7562304054,A410XP,RECHARGE RESOURCES LTD.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0013451333,A2PU5K,\"FDJ UNITED  (PROM.)EO-, 40\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0013451333,A2PU5K,\"LA FRAN.D.J.(PROM.)EO-, 40\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "US45113Y2037,A3DWMU,AMBER INT. HLD.ADR/5 A,Aktien USA,Aktien USA Select,,",
+      "Current": "US45113Y2037,A3DWMU,ICLICK INT.ASIA ADR/5 A,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA3719572008,A413WM,GENESIS AI CORP.,Aktien International,Aktien International,,",
+    "AU0000155228,A3C6E1,MTM CRITICAL METALS LTD,Aktien International,Aktien International,,",
+    "SE0019175274,A3D32A,SCANDINAVIAN ASTOR GROUP,Aktien Europa,Aktien Europa Select,,",
+    "CA9219661076,A413AZ,VANGUARD MINING CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}
