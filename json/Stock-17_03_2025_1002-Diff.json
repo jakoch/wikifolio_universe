@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA90022K1003,A2PVJL,TURMALINA METALS,Aktien International,Aktien International,,",
+    "US63008J6038,A3D578,\"NANOVIBRONIX NEW DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "SE0012673267,A2PK19,\"EVOLUTION AB (PU) SK-, 003\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "SE0012673267,A2PK19,\"EVOLUTION GAM.GR.SK-, 003\",Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "US63008J7028,A412UM,\"NANOVIBRONIX      DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "CA4947261026,A412A8,KING COPPER DISC. CORP.,Aktien International,Aktien International,,",
+    "IL0011809428,A3C812,WINDWARD LTD,Aktien International,Aktien International,,",
+    "CA3024371088,A3DKDR,FANDIFI TECHNOLOGY CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
