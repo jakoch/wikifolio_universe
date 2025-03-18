@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA3024371088,A3DKDR,FANDIFI TECHNOLOGY CORP.,Aktien International,Aktien International,,",
+    "CA64079L3039,A3EVSV,NEPTUNE WELLNESS SOL.,Aktien USA,Aktien USA Select,,",
+    "EE3100075888,A3CTN8,\"ELMO RENT AS      EO-, 10\",Aktien Europa,Aktien Europa Select,,",
+    "FR0010211037,A0LEP0,\"PLANET MEDIA S.A. EO -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "FR00140050Q2,A3CVJ2,\"MONTAG.NEIGE DEVEL.EO 1, -\",Aktien Europa,Aktien Europa Select,,",
+    "IL0011809428,A3C812,WINDWARD LTD,Aktien International,Aktien International,,",
+    "US33616C1009,A1C7VF,FST REP.BK S.FR.NEW DL-01,Aktien USA,Aktien USA Select,,",
+    "US72941H5090,A3EEZB,PLUS THERAPEUTICS,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AT0000A21KS2,A2JN9W,CPI EUROPE AG INH.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "AT0000A21KS2,A2JN9W,IMMOFINANZ AG INH.,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
