@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "BE0974461940,A3E19Y,MDXHEALTH S.A.,Aktien Europa,Aktien Europa Select,,",
+    "CA3805564075,A3EVXA,GOLD BULL RESOURCES CORP.,Aktien International,Aktien International,,",
+    "CA83405M1086,A3CQT3,SOFTCHOICE CORP.,Aktien International,Aktien International,,",
+    "CA8875441047,A142P6,TINLEY BEVERAGE,Aktien International,Aktien International,,",
+    "JP3974580007,A3C9MC,RENEWABLE JAPAN CO. LTD.,Aktien International,Aktien International,,",
+    "KYG1329V2058,A3DMJZ,\"BLUE HAT INT.E.TE.DL-, 001\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "GB00BF8Q6K64,A2N7PB,\"ABERDEEN GP.LS-, 139682539\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GB00BF8Q6K64,A2N7PB,\"STD.LIFE AB.LS-, 139682539\",Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA07568L1022,A4113W,BECKETTS INC. O.N.,Aktien International,Aktien International,,",
+    "KYG1329V1142,A411N4,\"BLUE HAT INT.E.TE. DL 1, -\",Aktien International,Aktien International,,",
+    "US86260J1025,A3C7H6,\"STRAN + CO.INC. DL -, 0001\",Aktien USA,Aktien USA Select,,",
+    "CA0886691066,A3DLW3,BEYOND OIL LTD.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
