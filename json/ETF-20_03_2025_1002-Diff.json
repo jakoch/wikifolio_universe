@@ -1,0 +1,147 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE0005933931,593393,ISHS CORE DAX UC.ETF EOA,ETFs,sonstige ETFs,,",
+      "Current": "DE0005933931,593393,ISHS CORE DAX UC.ETF EOA,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "DE000A0F5UF5,A0F5UF,ISHARES NASDAQ-100 U.ETF,ETFs,sonstige ETFs,,",
+      "Current": "DE000A0F5UF5,A0F5UF,ISHARES NASDAQ-100 U.ETF,ETFs,ETFs Nordamerika,,"
+    },
+    {
+      "Original": "DE000A0Q4R69,A0Q4R6,ISHS DAX ESG UCITS,ETFs,sonstige ETFs,,",
+      "Current": "DE000A0Q4R69,A0Q4R6,ISHS DAX ESG UCITS,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "DE000A2QP331,A2QP33,ISHS CORE DAX UC.ETF EOD,ETFs,sonstige ETFs,,",
+      "Current": "DE000A2QP331,A2QP33,ISHS CORE DAX UC.ETF EOD,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "DE000ETF9090,ETF909,AMUNDI-A.DAX50ESG2 UE DIS,ETFs,sonstige ETFs,,",
+      "Current": "DE000ETF9090,ETF909,LYXOR1-DAX50 ESG(DR)U.E.I,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "DE000ETFL011,ETFL01,DK DAX,ETFs,sonstige ETFs,,",
+      "Current": "DE000ETFL011,ETFL01,DK DAX,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "DE000ETFL060,ETFL06,DK DAX (AUSSCHUETTEND),ETFs,sonstige ETFs,,",
+      "Current": "DE000ETFL060,ETFL06,DK DAX (AUSSCHUETTEND),ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "FR0010869495,LYX0FV,MUF-AMU.SHDAX-2X INV.UE A,ETFs,sonstige ETFs,,",
+      "Current": "FR0010869495,LYX0FV,LY.D.SHORTDAX X2 UETF A,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "IE00B3XXRP09,A1JX53,VANGUARD S+P 500U.ETF DLD,ETFs,sonstige ETFs,,",
+      "Current": "IE00B3XXRP09,A1JX53,VANGUARD S+P 500U.ETF DLD,ETFs,ETFs Nordamerika,,"
+    },
+    {
+      "Original": "IE00B4K48X80,A0RPWG,ISHSIII-C.M.E.U.E.EO ACC,ETFs,sonstige ETFs,,",
+      "Current": "IE00B4K48X80,A0RPWG,ISHARES MSCI EUROPE (ACC),ETFs,ETFs Europa Gesamt,,"
+    },
+    {
+      "Original": "IE00B4L5Y983,A0RPWH,ISHSIII-CORE MSCI WLD DLA,ETFs,sonstige ETFs,,",
+      "Current": "IE00B4L5Y983,A0RPWH,ISHARES MSCI WORLD (ACC),ETFs,ETFs Welt,,"
+    },
+    {
+      "Original": "IE00B4QNHH68,A0X895,L+G-L+G DAX DAILY 2X LONG,ETFs,sonstige ETFs,,",
+      "Current": "IE00B4QNHH68,A0X895,L+G-L+G DAX DAILY 2X LONG,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "IE00B4QNHZ41,A0X896,L+G-L+G DAX D.2X SHORT,ETFs,sonstige ETFs,,",
+      "Current": "IE00B4QNHZ41,A0X896,L+G-L+G DAX D.2X SHORT,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "IE00B53SZB19,A0YEDL,ISHSVII-NASDAQ 100 DL ACC,ETFs,sonstige ETFs,,",
+      "Current": "IE00B53SZB19,A0YEDL,ISHSVII-NASDAQ 100 DL ACC,ETFs,ETFs Nordamerika,,"
+    },
+    {
+      "Original": "IE00B5BMR087,A0YEDG,ISHSVII-CORE S+P500 DLACC,ETFs,sonstige ETFs,,",
+      "Current": "IE00B5BMR087,A0YEDG,CS ETF(IE)ON S+P 500,ETFs,ETFs Nordamerika,,"
+    },
+    {
+      "Original": "IE00B878KX55,A1VBKS,WITR MU.AS.I.LEVD.ETP2062,ETFs,sonstige ETFs,,",
+      "Current": "IE00B878KX55,A1VBKS,WITR MU.AS.I.LEVD.ETP2062,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "IE00B8GKPP93,A1VBKG,WITR MU.AS.I.LEVD.ETP2062,ETFs,sonstige ETFs,,",
+      "Current": "IE00B8GKPP93,A1VBKG,WITR MU.AS.I.LEVD.ETP2062,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "IE00BG143G97,A2JF6S,VANGUARD-V.GER.A.CAP EOD,ETFs,sonstige ETFs,,",
+      "Current": "IE00BG143G97,A2JF6S,VANGUARD-V.GER.A.CAP EOD,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "IE00BK5BQT80,A2PKXG,VANG.FTSE A.W. DLA,ETFs,sonstige ETFs,,",
+      "Current": "IE00BK5BQT80,A2PKXG,VANG.FTSE A.W. DLA,ETFs,ETFs Welt,,"
+    },
+    {
+      "Original": "LU0252633754,LYX0AC,MUL AMUN DAX III ETF ACC,ETFs,sonstige ETFs,,",
+      "Current": "LU0252633754,LYX0AC,MUL-LYXOR DAX DR UC.ETF A,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0252634307,LYX0AD,MUL AMUN LEVDAX ETF ACC,ETFs,sonstige ETFs,,",
+      "Current": "LU0252634307,LYX0AD,MUL-LYX.DLY.LEVDAX U.E. A,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0274211480,DBX1DA,XTR.DAX 1C,ETFs,sonstige ETFs,,",
+      "Current": "LU0274211480,DBX1DA,XTR.DAX 1C,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0292106241,DBX1DS,XTR.SHORTDAX DAILY SW. 1C,ETFs,sonstige ETFs,,",
+      "Current": "LU0292106241,DBX1DS,XTR.SHORTDAX DAILY SW. 1C,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0411075020,DBX0BY,XTR.SHORTDAX X2 DA.SW. 1C,ETFs,sonstige ETFs,,",
+      "Current": "LU0411075020,DBX0BY,XTR.SHORTDAX X2 DA.SW. 1C,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0411075376,DBX0BZ,XTR.LEVDAX DA.SWAP 1C,ETFs,sonstige ETFs,,",
+      "Current": "LU0411075376,DBX0BZ,XTR.LEVDAX DA.SWAP 1C,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0838782315,DBX0NH,XTR.DAX ESG SCR.1D,ETFs,sonstige ETFs,,",
+      "Current": "LU0838782315,DBX0NH,XTR.DAX INCOME 1D,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU0908500753,LYX0Q0,AIS AM ST E600 ETF A,ETFs,sonstige ETFs,,",
+      "Current": "LU0908500753,LYX0Q0,LY.I.-L.CO.ST.EO 600(DR)A,ETFs,ETFs Europa Gesamt,,"
+    },
+    {
+      "Original": "LU1221100792,DBX0PY,XTR.DAX ESG SCR.2CDLH,ETFs,sonstige ETFs,,",
+      "Current": "LU1221100792,DBX0PY,XTR.DAX INCOME 2CDLH,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU1349386927,DBX0QB,XTR.DAX 1D,ETFs,sonstige ETFs,,",
+      "Current": "LU1349386927,DBX0QB,XTR.DAX 1D,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU2090062436,LYX04A,MUL AMUN DAX III ETF DIST,ETFs,sonstige ETFs,,",
+      "Current": "LU2090062436,LYX04A,MUL-LYX.DAX DR EOD,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU2090062600,LYX04V,MUL AMUN LEVDAX ETF DIST,ETFs,sonstige ETFs,,",
+      "Current": "LU2090062600,LYX04V,MUL-LYX.D.L.DAX EOD,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU2240851688,A2QGW0,AIS-DAX 50 ESG ETF UHEOA,ETFs,sonstige ETFs,,",
+      "Current": "LU2240851688,A2QGW0,AIS-DAX 50 ESG ETF UHEOA,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU2572257041,ETF017,AIS-SHDDA1XIN U.ETFEOD,ETFs,sonstige ETFs,,",
+      "Current": "LU2572257041,ETF017,AIS-SHDDA1XIN U.ETFEOD,ETFs,ETFs DAX,,"
+    },
+    {
+      "Original": "LU2611732046,ETF200,AIS AMUNDI DAX ETF DIST,ETFs,sonstige ETFs,,",
+      "Current": "LU2611732046,ETF200,AM I.AM DAX U.ETFEOD,ETFs,ETFs DAX,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 34,
+    "Deletions": 0
+  }
+}
