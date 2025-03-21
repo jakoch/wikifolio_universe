@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "AU0000015588,A2N4R3,KLEOS SPACE CDI/1/1,Aktien International,Aktien International,,",
+    "CA22675G1028,A3ESD2,CRITICAL REAG. PROC.CORP.,Aktien International,Aktien International,,",
+    "CA55069Q1046,A2PH9W,LUXXFOLIO HLDGS INC.,Aktien International,Aktien International,,",
+    "US2321091082,A0B9QG,\"CUTERA INC.       DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US6541103031,A40GAE,NIKOLA CORP. NEW O.N.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA22675G2018,A414LR,CRITICAL REAG. PROC.CORP.,Aktien International,Aktien International,,",
+    "ES0105517025,A3DXTC,\"ENERGIA IN.Y DES. EO 0, 25\",Aktien Europa,Aktien Europa Select,,",
+    "CA55069Q3026,A4148N,LUXXFOLIO HLDGS INC. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
