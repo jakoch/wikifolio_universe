@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "US00183L1026,A2H48X,\"ANGI HOMESER.INC. DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US68620A2033,A2QA6Q,\"ORGANOVO HLDGS     DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US00032Q1040,A3CSR9,\"WHITEHAWK THERAP.DL-, 0001\",Aktien USA,Aktien USA Select,,",
+      "Current": "US00032Q1040,A3CSR9,\"AADI BIOSCIENCES DL-, 0001\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US1710774076,A2AG5N,\"NIAGEN BIOSCIE.  DL -, 001\",Aktien USA,Aktien USA Select,,",
+      "Current": "US1710774076,A2AG5N,\"CHROMADEX CORP.  DL -, 001\",Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "US68620A3023,A41083,\"ORGANOVO HLDGS    DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "CA67113B1085,A2PNTH,O3 MINING INC.,Aktien International,Aktien International,,",
+    "GB00BMCBZL07,A2QFXD,\"TRPL.PT.ENG.TRANS.   -, 01\",Aktien Europa,Aktien Europa Select,,",
+    "US00183L2016,A4142Q,ANGI INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "GB00BNXJB679,A411B0,\"HBX GROUP INTL    EO -, 01\",Aktien Europa,Aktien Europa Select,,",
+    "FR0011675362,A2N6LV,NEOEN S.A.EO 2,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 6
+  }
+}
