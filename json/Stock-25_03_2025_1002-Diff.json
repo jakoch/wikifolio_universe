@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA46500E1079,A2DMA2,ISOENERGY LTD. O.N.,Aktien International,Aktien International,,",
+    "CA67113B1085,A2PNTH,O3 MINING INC.,Aktien International,Aktien International,,",
+    "CA90366H1010,A3DHEZ,US CRITICAL METALS CORP.,Aktien International,Aktien International,,",
+    "FR0011675362,A2N6LV,NEOEN S.A.EO 2,Aktien Europa,Aktien Europa Select,,",
+    "GB00B1VZ0M25,A0MR1A,\"HARGREAVES LANSD. DL-, 004\",Aktien Europa,Aktien Europa Select,,",
+    "GB00BMCBZL07,A2QFXD,\"TRPL.PT.ENG.TRANS.   -, 01\",Aktien Europa,Aktien Europa Select,,",
+    "LU0084408755,987184,VONT.-ASIA PAC.EQU. B-DL,Fonds,Fonds Aktien,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA46500E8678,A412Q0,ISOENERGY LTD NEW,Aktien International,Aktien International,,",
+    "CA90366H4089,A414N9,US CRITICAL METALS CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
