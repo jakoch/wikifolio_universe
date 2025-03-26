@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "FR0014005DA7,A3C284,EXCL.NETW. (PROM.)EO 1,Aktien Europa,Aktien Europa Select,,",
+    "LU0665628672,A1JED1,AGIF-ALL.CHI.STR.BD AH2EO,Fonds,Fonds Renten,,",
+    "US38867H1041,A3CWFL,GRAPHEX GROUP  SP.ADR/20,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA28616D1087,A401HN,ELECTRUM DISC.CORP. O.N.,Aktien International,Aktien International,,",
+    "ES0152768612,A0LBGE,\"AIRTIF.INTEL.STR. EO-, 09\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}

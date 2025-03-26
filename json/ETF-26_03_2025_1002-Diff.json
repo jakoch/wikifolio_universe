@@ -1,0 +1,21 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "FR0010510800,LYX0B6,MUF-AMU.EO OVERN.RTN UE A,ETFs,ETFs Europa Bonds,ETFs,sonstige ETFs",
+      "Current": "FR0010510800,LYX0B6,LYX ETF EUR CASH,ETFs,ETFs Europa Bonds,ETFs,sonstige ETFs"
+    },
+    {
+      "Original": "LU1190417599,LYX0WM,MUL-AM.SM.OVERN.RET.UEACC,ETFs,ETFs Europa Bonds,,",
+      "Current": "LU1190417599,LYX0WM,LYXOR IF-LYX.SM.O.R.UECEO,ETFs,ETFs Europa Bonds,,"
+    }
+  ],
+  "Deletions": [
+    "IE000SU1VJ03,A412BB,SPDR M.W.S.C UH.DLD,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
