@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA92539Q1090,A3D776,VERSES AI  CL.A(SUB.VTG.),Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US25809K1051,A2QHEA,\"DOORDASH INC.CL.A -, 00001\",Aktien USA,Aktien USA Select,Aktien USA,Aktien NASDAQ 100 Select",
+      "Current": "US25809K1051,A2QHEA,\"DOORDASH INC.CL.A -, 00001\",Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA92539Q4060,A412WD,VERSES AI,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
