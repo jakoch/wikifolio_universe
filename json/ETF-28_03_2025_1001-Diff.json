@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "IE000DLDNVK1,A414JC,IS-MSCI US.SWAP HGDLSD,ETFs,sonstige ETFs,,",
+    "IE000OPODKS3,A414J9,IS-MSCI US.SWAP DLA,ETFs,ETFs Nordamerika,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000OYABFQ2,A4127P,ISHS6RUS2000SW HGD(EOA,ETFs,ETFs Nordamerika,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
