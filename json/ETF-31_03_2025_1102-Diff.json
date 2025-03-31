@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "IE00BYVQ9G36,A4131T,IS2-DL TB 7-10 DLA,ETFs,ETFs Sonstige Bonds,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE00B7KQ7B66,A1JVCA,UBS(I)-MSCI WOR. U.E.ADDL,ETFs,ETFs Welt,,",
+      "Current": "IE00B7KQ7B66,A1JVCA,UBS MSCI World (USD),ETFs,ETFs Welt,,"
+    }
+  ],
+  "Deletions": [
+    "IE000MMRLY96,A410XV,HE2-YB TOI E. DLD,ETFs,ETFs Sonstige Bonds,,",
+    "DE000NXTA026,NXTA02,NXTASSETS ETP OPEN END,ETFs,sonstige ETFs,,",
+    "DE000NXTA018,NXTA01,NXTASSETS ETP OPEN END,ETFs,sonstige ETFs,,",
+    "IE000Y83YZ44,A40Y9H,WT-GL QUAL.GR. I SYS.HDGD,ETFs,ETFs Branchen,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}

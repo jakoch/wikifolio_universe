@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA4967421070,A3DHX7,KINGSVIEW MINERALS LTD,Aktien International,Aktien International,,",
+    "FI4000127527,A2DGQ6,HEEROS OYJ,Aktien Europa,Aktien Europa Select,,",
+    "US0213691035,A2DYPC,ALTAIR ENGINEERING INC.,Aktien USA,Aktien USA Select,,",
+    "US02919L5057,A40QA8,\"AMERICAN R.H. NEW DL-, 001\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "LI0274481113,A14VGZ,Q FDS-GL.VALUE EOR,Fonds,Fonds Aktien,,",
+      "Current": "LI0274481113,A14VGZ,QUANTEX FDS-Q.GBL VA.F.EO,Fonds,Fonds Aktien,,"
+    }
+  ],
+  "Deletions": [
+    "SE0017936891,A3DM8R,4C GROUP AB,Aktien Europa,Aktien Europa Select,,",
+    "US02919L6048,A414N4,\"AMERICAN R.H. NEW DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "CA4967422060,A414WG,KINGSVIEW MINERALS NEW,Aktien International,Aktien International,,",
+    "GB00BD3VDH82,A2DJ2T,\"VIVOPOWER INTL.  DL -, 12\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
