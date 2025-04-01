@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "LI0507461338,A2P2FA,GF G.-CAN.OP.FD -EUR-EOD,Fonds,Fonds Aktien,,",
+    "LU0110790085,938780,BIP INVT PARTNERS S.A.,Aktien Europa,Aktien Europa Select,,",
+    "NO0010851603,A2PKSD,ULTIMOVACS AS         DK1,Aktien Europa,Aktien Europa Select,,",
+    "US9314271084,A12HJF,WALGREENS BOOTS ALLIANCE CORP.,Aktien USA,Aktien Dow Jones,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "NO0013524942,A415VC,ZELLUNA ASA          NK 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
