@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA08947T1057,A3C8M5,BIG RED MINING CORP.,Aktien International,Aktien International,,",
+    "CA25472M1077,A3EFKA,DISCOVERY LITHIUM INC.,Aktien International,Aktien International,,",
+    "CA29872T1003,A2N6V9,EURO MANGANESE INC.,Aktien International,Aktien International,,",
+    "CA92905D1042,A3D4EP,VORTEX ENERGY CORP.,Aktien International,Aktien International,,",
+    "US69526K1051,A2QCUG,\"PACTIV EVERGREEN  DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA0369271014,A414DM,ANTIMONY RESOURCES,Aktien International,Aktien International,,",
+    "CA29872T2092,A412JN,EURO MANGANESE INC.,Aktien International,Aktien International,,",
+    "CA25472R1064,A415F7,DISCOVERY EN.MET. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
