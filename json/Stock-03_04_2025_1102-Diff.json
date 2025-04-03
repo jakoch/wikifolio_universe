@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA50203F2052,A3DAAU,LI-METAL CORP.,Aktien International,Aktien International,,",
+    "CA68620P7056,A3EHBC,ORGANIGRAM HLDGS INC.,Aktien USA,Aktien USA Select,,",
+    "CA7273511088,A3CS6B,PLANT VEDA FOODS LTD,Aktien International,Aktien International,,",
+    "GB00B4T7HX10,A1W8G9,LEARNING TECH.GR.LS-00375,Aktien Europa,Aktien Europa Select,,",
+    "US05360L4032,A40BWJ,\"AVENUE THERAP.   DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US3189161033,A0KETG,FIRST BANCSHARES INC.DL 1,Aktien USA,Aktien USA Select,,",
+    "US6301043054,A3D3B8,\"NANTHEALTH NEW   DL-, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA05455X2059,A40A7B,AXCAP VENTURES INC. NEW,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
