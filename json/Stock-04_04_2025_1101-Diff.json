@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA02080J1075,A3EHUU,ALPHAGEN INTELLIG. CORP.,Aktien International,Aktien International,,",
+    "US46116X1019,A1XDTL,\"INTRA-CELLUL.THE.DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US64157F1030,A12EPL,NEVRO CORP.,Aktien USA,Aktien USA Select,,",
+    "US91829F1049,A1JQ58,\"VOXX INTL CORP. A  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US97264L1008,A2P2NJ,WIMI HOLOGR.CLD B ADR/2,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA02080J3055,A415QN,ALPHAGEN INTELLIG. CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}
