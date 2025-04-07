@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "AU000000PNR8,A0YFVM,PANTORO LTD.,Aktien International,Aktien International,,",
+    "CA2823651054,A1W82Z,EGUANA TECHS INC.,Aktien International,Aktien International,,",
+    "CA31858L1013,A3DTEB,FIRST AMERN URANIUM,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA2823655014,A415SU,EGUANA TECHS INC.,Aktien International,Aktien International,,",
+    "AU0000389033,A416J1,PANTORO LTD. DEF.,Aktien International,Aktien International,,",
+    "US9314271084,A12HJF,\"WALGREENS BOOTS AL.DL-, 01\",Aktien USA,Aktien Dow Jones,,",
+    "CA31858L2003,A415CW,FIRST AMERN URANIUM,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
