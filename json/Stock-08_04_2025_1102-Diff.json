@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "AU000000IPL1,813015,INCITEC PIVOT LTD.,Aktien International,Aktien International,,",
+    "CA2568272058,A14VGG,DOLLY VARDEN SILVER,Aktien International,Aktien International,,",
+    "CA6555PC3019,A4041F,NORDEN CROWN METALS CORP.,Aktien International,Aktien International,,",
+    "IT0005337958,A2N7H7,PIOVAN S.P.A.,Aktien Europa,Aktien Europa Select,,",
+    "VGG6483G1000,A3CQVK,\"NEWEGG COMMER. DL-, 021848\",Aktien International,Aktien International,,",
+    "US88145X1081,A0X9Y8,TERRITORIAL BANCORP INC.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "AU0000390544,A416F0,DYNO NOBEL LTD.,Aktien International,Aktien International,,",
+    "CA2569191018,A414WF,DOMESTIC METALS CORP.,Aktien International,Aktien International,,",
+    "DK0063855168,A41BEB,ROCKWOOL A/S  NAM. B DK 1,Aktien Europa,Aktien Europa Select,,",
+    "CA2568277834,A415A0,DOLLY VARDEN SILVER,Aktien International,Aktien International,,",
+    "VGG6483G2099,A41BEF,\"NEWEGG COMMER. DL-, 43696\",Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
