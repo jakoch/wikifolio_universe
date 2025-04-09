@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "DK0010219153,889488,ROCKWOOL INTERNATIONAL A/S,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AT0000A0E9W5,A0X9EJ,KONTRON AG O.N,Aktien Europa,Aktien Europa Select,Aktien Deutschland,Aktien TECDAX",
+      "Current": "AT0000A0E9W5,A0X9EJ,KONTRON AG O.N,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "CA42841L1085,A3DE86,HI-VIEW RESOURCES INC.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
