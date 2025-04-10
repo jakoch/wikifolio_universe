@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE000ETFL474,ETFL47,DEKA EURO PRIME ESG UETF,ETFs,ETFs Europa Gesamt,,",
+      "Current": "DE000ETFL474,ETFL47,DEKA OEKOM EO NACHH.U.ETF,ETFs,ETFs Europa Gesamt,,"
+    }
+  ],
+  "Deletions": [
+    "CH1431521033,A4A5WJ,21SHARES DOGE ETP O.END,ETFs,sonstige ETFs,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

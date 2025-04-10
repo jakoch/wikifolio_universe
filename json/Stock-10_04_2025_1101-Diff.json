@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA28623W1077,A3C9TZ,ELEVATION GOLD MIN. CORP.,Aktien International,Aktien International,,",
+    "CA87043J2039,A3E3TP,SWEET POISON SPIRITS INC.,Aktien International,Aktien International,,",
+    "ES0105118006,A2PQSS,QUADPACK INDUSTRIES EO 1,Aktien Europa,Aktien Europa Select,,",
+    "US87978U1088,A3CSM8,\"TEMPEST THERAP.   DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US87978U2078,A41556,TEMPEST THERAP.NEW O.N.,Aktien USA,Aktien USA Select,,",
+    "CA44916F1071,A415NT,HYPER BIT TECHNOLOGIES,Aktien International,Aktien International,,",
+    "DE000A3MQR65,A3MQR6,VIROMED MEDICAL  INH O.N.,Aktien Deutschland,Aktien Sonstige,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
