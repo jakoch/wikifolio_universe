@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA18453C1077,A2JRJ2,CLEAR BLUE TECHNOLOGIES I,Aktien International,Aktien International,,",
+    "SE0000191827,533995,\"ATRIUM LJUNGBERG  SK 2, 50\",Aktien Europa,Aktien Europa Select,,",
+    "TH0201010R12,676052,INTOUCH HOLDINGS PCL REG. SHS (NVDRS) BA 1,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA83086W1023,A415CZ,SKYCAP INVESTMENT HLDGS,Aktien International,Aktien International,,",
+    "SE0024320832,A411NX,\"ATRIUM LJUNGBERG  SK 0, 50\",Aktien Europa,Aktien Europa Select,,",
+    "CA68617J1003,A415A3,ORGANIGRAM GLOBAL INC.,Aktien USA,Aktien USA Select,,",
+    "CA18453C4048,A414LQ,CLEAR BLUE TECHNOLOGIES I,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
