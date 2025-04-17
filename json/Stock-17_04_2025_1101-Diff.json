@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA45780T2065,A2DGN0,INPLAY OIL CORP. O.N.,Aktien International,Aktien International,,",
+    "CH0011029946,588714,INFICON HOLDING AG,Aktien Europa,Aktien Europa Select,,",
+    "GB00BLS0XX25,A119M7,\"EQUALS GROUP PLC   LS-, 01\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000BFB0019,BFB001,METRO AG   ST O.N.,Aktien Deutschland,Aktien MDAX,,",
+      "Current": "DE000BFB0019,BFB001,METRO AG   ST O.N.,Aktien Deutschland,Aktien SDAX,,"
+    }
+  ],
+  "Deletions": [
+    "CA9575984021,A3ENYV,WSTRN ALASKA MNLS SUB.VTG,Aktien International,Aktien International,,",
+    "CA45780T4046,A4170S,INPLAY OIL CORP. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
