@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA04368A1057,A3DE8V,ASEP MEDICAL HOLDINGS INC,Aktien International,Aktien International,,",
+    "FR0013183589,A2AM9S,\"AURES TECH. INH.   EO-, 25\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CNE1000031C1,A2JM2W,HAIER SMART HOME CO.D YC1,Aktien International,Aktien International,,",
+      "Current": "CNE1000031C1,A2JM2W,HAIER SMART HOME CO.D YC1,Aktien Deutschland,Aktien Sonstige,,"
+    }
+  ],
+  "Deletions": [
+    "CA04368A2048,A41748,ASEP MEDICAL HOLDINGS INC,Aktien International,Aktien International,,",
+    "CNE100000BG0,A0Q8DQ,CRRC CORP. LTD. H    YC 1,Aktien International,Aktien International,,",
+    "CA37895W1095,A412UK,GLOBAL TACT.MET.CORP.O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
