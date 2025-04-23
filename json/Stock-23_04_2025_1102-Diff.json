@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA38120R1055,A3DJD6,GOLDEN SHIELD RESOURCES,Aktien International,Aktien International,,",
+    "CNE100000BG0,A0Q8DQ,CRRC CORP. LTD. H    YC 1,Aktien International,Aktien International,,",
+    "HK0000057171,A0YDVU,CPMC HOLDINGS LTD,Aktien International,Aktien International,,",
+    "IT0001223277,914835,\"BEGHELLI S.P.A.   EO -, 05\",Aktien Europa,Aktien Europa Select,,",
+    "US1407552082,A40WYX,CARA THERAPEUTICS  O.N.,Aktien USA,Aktien USA Select,,",
+    "US69913P1057,A3C5FT,\"PARAGON 28 INC.  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US7033951036,A0B6VB,\"PATTERSON COS INC. DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA38120R6005,A416MD,GOLDEN SHIELD RESOUR. NEW,Aktien International,Aktien International,,",
+    "US1407553072,A414VY,TVARDI THERAPEUTICS  O.N.,Aktien USA,Aktien USA Select,,",
+    "CA74167W1032,A40M0H,PRIMARY HYDROGEN CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
