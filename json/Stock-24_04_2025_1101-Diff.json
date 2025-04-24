@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "CA00833F3079,A40RV1,AFRICAN ENERGY MET. NEW,Aktien International,Aktien International,,",
+    "CA5015067039,A40M0M,KWESST MICRO SYS.INC.,Aktien International,Aktien International,,",
+    "FI4000369657,A2PEYU,GLASTON OYJ,Aktien Europa,Aktien Europa Select,,",
+    "FR0000051732,877757,ATOS SE NOM.         EO 1,Aktien Europa,Aktien Europa Select,,",
+    "US81750R1023,A14VXX,\"SERES THERAPEUT. DL -, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "BE0003764785,869057,ACKERMANS + VAN HAAREN,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0003764785,869057,ACKERMANS & VAN HAAREN S.A.,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0003816338,A0DNRS,CMB.TECH NV NAM.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0003816338,A0DNRS,EURONAV NV NAM.,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "FI4000587340,A41BFU,GLASTON OYJ,Aktien Europa,Aktien Europa Select,,",
+    "FR001400X2S4,A411MH,ATOS SE NOM.EO 1,Aktien Europa,Aktien Europa Select,,",
+    "CA5589221004,A411DV,MAGMA SILVER CORP.,Aktien International,Aktien International,,",
+    "CA34638F1053,A3D492,FORMATION METALS INC NEW.,Aktien International,Aktien International,,",
+    "CA5015068029,A415KV,KWESST MICRO SYS.INC.,Aktien International,Aktien International,,",
+    "US81750R2013,A413XF,\"SERES THERA.NEW  DL -, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 6
+  }
+}
