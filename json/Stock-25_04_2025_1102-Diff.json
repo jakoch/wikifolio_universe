@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA21250C1068,A2PD0W,CONVERGE TECHNOLOGY SOL.,Aktien International,Aktien International,,",
+    "CA64913V5099,A3EG39,NEW WAVE HLDGS CORP. O.N.,Aktien International,Aktien International,,",
+    "JP3342000001,870233,SANYO SPL STEEL,Aktien International,Aktien International,,",
+    "US83417Q2049,A3CSSD,\"SOLARWINDS CORP.  DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005659700,565970,ECKERT+ZIEGLER  INH O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0005659700,565970,ECKERT+ZIEGLER  INH O.N.,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "JE00BTDN8H13,A417CC,\"APTIV PLC         DL -, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "JE00BTDN8H13,A40XY4,APTIV HOLDINGS O.N.,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA64913V6089,A4177B,NEW WAVE HLDGS CORP. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
