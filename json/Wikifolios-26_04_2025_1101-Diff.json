@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "DE000LS9L3L2,LS9L3L,DAX-Werte nach Levermann,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9L5P8,LS9L5P,TecDAX-Werte nach Levermann,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9L6C4,LS9L6C,US-Werte nach Levermann,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9LDM1,LS9LDM,Invest nach Levermann weltweit,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9LU63,LS9LU6,Aktien weltweit nach Levermann+,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9LX52,LS9LX5,Leverex follows to Levermann ,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,",
+    "DE000LS9M093,LS9M09,Daxwerte Bad 20+ nach Levermann,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9PDU5,LS9PDU,Stockpicking Levermann-Angelehnt,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9QUB7,LS9QUB,Nach Levermann F und Z Score,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9U9H6,LS9U9H,Alpha Flow,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 10,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
