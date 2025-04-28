@@ -1,0 +1,67 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "BE0003470755,856200,SOLVAY S.A.  A,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0003470755,856200,SOLVAY,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0003565737,854943,KBC GROEP N.V.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0003565737,854943,KBC GROEP,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0003593044,914421,COFINIMMO,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0003593044,914421,COFINIMMO S.A.,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0003739530,852738,UCB S.A.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0003739530,852738,UCB CAP.,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0003797140,873222,GBL SA,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0003797140,873222,GRPE BRUXELLES LAMBERT SA(GBL),Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0165385973,909765,MELEXIS NV,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0165385973,909765,Melexis,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0974259880,A1H5AN,D'IETEREN GROUP P.S.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0974259880,A1H5AN,DIETEREN P.S.,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0974264930,A1J1DR,AGEAS SA/NV,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0974264930,A1J1DR,AGEAS,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0974268972,A1W0FA,BPOST S.A. COMPARTMENT A,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0974268972,A1W0FA,BPOST,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0974314461,A2DR7Z,BELYSSE GROUP N.V.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0974314461,A2DR7Z,BALTA GROUP N.V.,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0974320526,A2H5A3,UMICORE S.A.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0974320526,A2H5A3,UMICORE S.A. ACTIONS NOM. O.N.,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0974349814,A2PXG1,WAREHOUSES DE PAUW N.V.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0974349814,A2PXG1,WAREHOUSES DE PAUW S.C.A.,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "BE0974464977,A3E1GW,SYENSQO S.A.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "BE0974464977,A3E1GW,SYENSQO N.V.,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "AU000000PNR8,A0YFVM,PANTORO GOLD LTD.,Aktien International,Aktien International,,",
+    "US16934W1062,A1T65B,\"CHIMERIX INC.   DL -, 001\",Aktien USA,Aktien USA Select,,",
+    "FI0009007637,920512,INNOFACTOR OYJ,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 13,
+    "Deletions": 3
+  }
+}
