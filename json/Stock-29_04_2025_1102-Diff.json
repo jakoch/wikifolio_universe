@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "FI0009007637,920512,INNOFACTOR OYJ,Aktien Europa,Aktien Europa Select,,",
+    "US16934W1062,A1T65B,\"CHIMERIX INC.   DL -, 001\",Aktien USA,Aktien USA Select,,",
+    "US27616P1030,A14NJ2,\"EASTERLY GOV.PPTYS DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US98420X1037,A2PFVY,\"X4 PHARMACEUTIC.  DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US27616P3010,A417BU,EASTERLY GOVT P. NEW O.N.,Aktien USA,Aktien USA Select,,",
+    "US98420X2027,A3E4QR,X4 PHARMACEUTICALS NEW,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
