@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "DE000A4AHWT9,A4AHWT,DDA ETP O.END HELIAD,ETFs,sonstige ETFs,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0014003IY1,LYX9ZB,MUF-AMUNDI MSCI WLD2 EOA,ETFs,ETFs Welt,,",
+      "Current": "FR0014003IY1,LYX9ZB,L.MSCI WORLD EOA,ETFs,ETFs Welt,,"
+    },
+    {
+      "Original": "IE0004HBJKG0,A40943,BNP-MSCIASRIPAB U.ETF DLA,ETFs,ETFs Welt,,",
+      "Current": "IE0004HBJKG0,A40943,BNP-MSCIISRI5PC U.ETFDLA,ETFs,ETFs Welt,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

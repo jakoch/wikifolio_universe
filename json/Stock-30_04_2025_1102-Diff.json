@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CH0014284498,891169,SIEGFRIED HL NA,Aktien Europa,Aktien Europa Select,,",
+    "SG1T70931228,A0KDUP,ESR-REIT UTS,Aktien International,Aktien International,,",
+    "US02155X2053,A3D4GD,ALTERITY THERAP.ADR/600,Aktien USA,Aktien USA Select,,",
+    "US12122L1017,A2QJYD,BURGERFI INTERNATIONAL,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "ID1000102502,A0HFV0,XLSMART TELECOM SE.RP 100,Aktien International,Aktien International,,",
+      "Current": "ID1000102502,A0HFV0,XL AXIATA,Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "SE0010546911,A2H8S5,DONE.AI GROUP AB,Aktien Europa,Aktien Europa Select,,",
+      "Current": "SE0010546911,A2H8S5,24SEVENOFFICE GROUP AB,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "SGXC55341835,A4189M,ESR-REIT UTS,Aktien International,Aktien International,,",
+    "CH1429326825,A41BKT,\"SIEGFRIED HL NA SF 0, 72\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
