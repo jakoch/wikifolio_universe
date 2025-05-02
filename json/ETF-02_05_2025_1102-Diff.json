@@ -1,0 +1,35 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE000ETFL227,ETFL22,DK DB EUROG.GER.MONEYM.,ETFs,ETFs Europa Bonds,,",
+      "Current": "DE000ETFL227,ETFL22,DEKA DT.BÃRSE EUROGOV.GER.M.MKT.U.ETF,ETFs,ETFs Europa Bonds,,"
+    },
+    {
+      "Original": "FR0010754200,A0RNWC,AMUNDI ETF-GOV.0-6M EO IG,ETFs,ETFs Europa Bonds,,",
+      "Current": "FR0010754200,A0RNWC,AMUNDI ETF EUROMTS CASH 3 MONTHS,ETFs,ETFs Europa Bonds,,"
+    },
+    {
+      "Original": "IE00B3BPCH51,A0RAC9,IM3-EO CASH 3M U.ETF EOA,ETFs,ETFs Europa Bonds,,",
+      "Current": "IE00B3BPCH51,A0RAC9,POWERSHARES EUROMTS CASH 3 MONTHS FUND,ETFs,ETFs Europa Bonds,,"
+    },
+    {
+      "Original": "LU1230136894,LYX0UU,MUL-AM.SM.OV.R.LSHDGUETF,ETFs,ETFs Europa Bonds,,",
+      "Current": "LU1230136894,LYX0UU,LYXOR IF-LYX.SM.O.R.UECLS,ETFs,ETFs Europa Bonds,,"
+    },
+    {
+      "Original": "LU1248511575,LYX0UV,MUL-AM.SM.OV.RET.DLHDGUE.,ETFs,ETFs Europa Bonds,,",
+      "Current": "LU1248511575,LYX0UV,LYXOR IF-LYX.SM.O.R.UECDL,ETFs,ETFs Europa Bonds,,"
+    },
+    {
+      "Original": "LU2082999306,LYX047,MUL-AM.SM.OVERN.RET.UETFD,ETFs,ETFs Europa Bonds,,",
+      "Current": "LU2082999306,LYX047,LIF-SM.OV.RE EOD,ETFs,ETFs Europa Bonds,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 6,
+    "Deletions": 0
+  }
+}

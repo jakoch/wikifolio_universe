@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "CA0832981090,A1J1ME,BENTON RESOURCES INC.,Aktien International,Aktien International,,",
+    "GB00B23K0M20,A0MZ15,\"CAPITA PLC   SL-, 02066666\",Aktien Europa,Aktien Europa Select,,",
+    "US0736851090,A0DJZ9,\"BEACON ROOFING S.  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US08579W1036,A1J4U3,\"BERRY GLOBAL GRP   DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CH1248667003,A3ECF6,SCHWEITER TECHS  VNA SF 1,Aktien Europa,Aktien Europa Select,,",
+      "Current": "CH1248667003,A3ECF6,SCHWEITER TECHS NAM. SF 1,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CH1173567111,A3DHG2,GURIT HLDG AG NA SF  5,Aktien Europa,Aktien Europa Select,,",
+    "CH0038285679,A0NJ37,ORASCOM DEVEL.NA.SF 5,Aktien Europa,Aktien Europa Select,,",
+    "CA0832971018,A415W6,BENTON RES INC. O.N.,Aktien International,Aktien International,,",
+    "CH1351577726,A40EQB,SWISS STEEL HOLDING AG,Aktien Europa,Aktien Europa Select,,",
+    "CH0350665672,A2DRA8,BQUE CTLE JURA  NA  SF 14,Aktien Europa,Aktien Europa Select,,",
+    "CH0002361068,908306,\"STARRAGTORNOS GROUP SF8, 5\",Aktien Europa,Aktien Europa Select,,",
+    "CH0001624714,913709,CPH GROUP AG NAA,Aktien Europa,Aktien Europa Select,,",
+    "CH1338987303,A40A93,INTERSHOP HLDG NAM. SF 2,Aktien Europa,Aktien Europa Select,,",
+    "CH0032816131,A0RFC0,SF URBAN PROPERTIES AG,Aktien Europa,Aktien Europa Select,,",
+    "CH0460027110,A2N6M6,\"BLACKSTONE RES.NAM.SF-, 50\",Aktien Europa,Aktien Europa Select,,",
+    "GB00BPCT7534,A4189D,\"CAPITA PLC        LS -, 31\",Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 11
+  }
+}
