@@ -1,0 +1,33 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "BMG524181036,A1W99P,\"KLN LOGISTICS GRP. HD-, 50\",Aktien International,Aktien International,,",
+      "Current": "BMG524181036,A1W99P,\"KERRY LOG.NETWORK  HD-, 50\",Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "CNE100002FK9,A2DPT0,GUOTAI HAITONG SEC.H  YC1,Aktien International,Aktien International,,",
+      "Current": "CNE100002FK9,A2DPT0,GUOTAI JUNAN SEC.  H  YC1,Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "DE000A255F11,A255F1,FR.VORWERK GRP SE INH ON,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A255F11,A255F1,FR.VORWERK GRP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000A2YNT30,A2YNT3,ALZCHEM GROUP AG INH O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A2YNT30,A2YNT3,ALZCHEM GROUP AG KONV.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "FI4000348909,A2N9R7,SUNBORN INTERNATIONAL OYJ,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FI4000348909,A2N9R7,RUSH FACTORY OYJ,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "US7811541090,A40A36,\"RUBRIK INC. A DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 5,
+    "Deletions": 1
+  }
+}
