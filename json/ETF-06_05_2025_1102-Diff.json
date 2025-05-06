@@ -1,0 +1,15 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "FR0011550680,A1W6FE,BNPPEFR-S+P 500 UE DLCD,ETFs,ETFs Europa Gesamt,,",
+      "Current": "FR0011550680,A1W6FE,BNPPEFR-S+P 500 UE DLCD,ETFs,ETFs Nordamerika,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "CA53014U7006,A401Y6,LIBERO COPPER+GOLD CORP.,Aktien International,Aktien International,,",
+    "CA60251N2086,A40YPM,MINAS METALS LTD.,Aktien International,Aktien International,,",
+    "CA7481401007,A2NB6R,QUEBEC PRECIOUS METALS,Aktien International,Aktien International,,",
+    "CA9575984021,A3ENYV,WSTRN ALASKA MNLS SUB.VTG,Aktien International,Aktien International,,",
+    "CH0043238366,A0Q4FN,ARYZTA,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CA34638F1053,A3D492,FORMATION METALS INC.,Aktien International,Aktien International,,",
+      "Current": "CA34638F1053,A3D492,FORMATION METALS INC NEW.,Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "US02079K1079,A14Y6H,\"ALPHABET INC.CL.C DL-, 001\",Aktien USA,Aktien NASDAQ 100 Select,,",
+      "Current": "US02079K1079,A14Y6H,\"ALPHABET INC.CL C DL-, 001\",Aktien USA,Aktien NASDAQ 100 Select,,"
+    }
+  ],
+  "Deletions": [
+    "CH1134540470,A3C20K,\"ON HOLDING AG A SF-, 01\",Aktien USA,Aktien USA Select,,",
+    "CH1425684714,A41BKN,\"ARYZTA AG NAM.     SF-, 80\",Aktien Europa,Aktien Europa Select,,",
+    "GB00B104RS51,A0JK0D,\"CITY LON.INV.GRP   LS-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "CA21750C1014,A4170P,COPPER GIANT RESOU.CORP.,Aktien International,Aktien International,,",
+    "CA01176C1095,A415SW,ALASKA SILVER CORP. O.N.,Aktien International,Aktien International,,",
+    "CA9129371097,A416QM,UNIVERSAL DIGITAL INC.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 6
+  }
+}
