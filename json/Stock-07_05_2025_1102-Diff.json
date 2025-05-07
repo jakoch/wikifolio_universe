@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA83410M1014,A2PED1,SOKOMAN MINLS CORP.,Aktien International,Aktien International,,",
+    "US91854V2060,A3EQ4P,VACASA INC. CL.A NEW O.N.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A255F11,A255F1,FR.VORWERK GRP SE INH ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A255F11,A255F1,FR.VORWERK GRP SE INH ON,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000A40ESG2,A40ESG,MEDIGENE AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A40ESG2,A40ESG,MEDIGENE AG NA O.N. KONV,Aktien Deutschland,Aktien Sonstige,,"
+    }
+  ],
+  "Deletions": [
+    "CA09570Q5095,A413T9,BLUE MOON METALS INC.,Aktien International,Aktien International,,",
+    "CA83410N1096,A415SV,SOKOMAN MIN.CORP. NEW,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
