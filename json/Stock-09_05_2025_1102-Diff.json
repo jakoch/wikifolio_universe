@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "AU000000DEG6,633879,DE GREY MINING LTD. REGISTERED SHARES O.N.,Aktien International,Aktien International,,",
+    "SE0005677135,A1XEP7,BUFAB AB             O.N.,Aktien Europa,Aktien Europa Select,,",
+    "US8200141088,A4047S,\"SHARPL.G. LTD DL-, 0001\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000BFB0019,BFB001,METRO AG   ST O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000BFB0019,BFB001,METRO AG   ST O.N.,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "US98262P1012,A2PSZQ,WW INTL INC.,Aktien USA,Aktien Dow Jones,,",
+      "Current": "US98262P1012,A2PSZQ,WW INTL INC.,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA58404N3076,A418LA,MEDARO MINING CORP NEW,Aktien International,Aktien International,,",
+    "CA00289A1093,A417GP,ABEN GOLD,Aktien International,Aktien International,,",
+    "CA59403F1053,A3EHXQ,MIATA METALS CORP.,Aktien International,Aktien International,,",
+    "SE0025010671,A41BGQ,BUFAB AB             O.N.,Aktien Europa,Aktien Europa Select,,",
+    "DE000A2P4HL9,A2P4HL,123FAHRSCHULE SE INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "US8200144058,A417JK,\"SHARPL.GAM. NEW  DL-, 0001\",Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 6
+  }
+}
