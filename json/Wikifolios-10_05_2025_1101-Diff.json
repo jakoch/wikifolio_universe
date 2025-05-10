@@ -1,0 +1,14 @@
+{
+  "Additions": [
+    "DE000LS9LJ68,LS9LJ6,Variante nach Levermann,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,",
+    "DE000LS9TUN6,LS9TUN,Global Asset Matrix,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,",
+    "DE000LS9U9S3,LS9U9S,Financial_Leverage_Power,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}
