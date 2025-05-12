@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "CA0029381088,A3D6JF,ABEN MINERALS LTD,Aktien International,Aktien International,,",
+    "CA58404N2086,A409MY,MEDARO MINING CORP NEW,Aktien International,Aktien International,,",
+    "CA9895892052,A0RDR9,ZIMTU CAPITAL CORP.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CH0024666528,A0MYT7,HT5                 SF 10,Aktien Europa,Aktien Europa Select,,",
+      "Current": "CH0024666528,A0MYT7,HOCN                SF 10,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "LU0164455502,914233,CARM.PTF-CLIM.TRAN.AEOA,Fonds,Fonds Aktien,,",
+      "Current": "LU0164455502,914233,CA.-P.-GREEN GOLD AEOA,Fonds,Fonds Aktien,,"
+    },
+    {
+      "Original": "US00175J1079,A2DLLC,OUTDOOR HLD.,Aktien USA,Aktien USA Select,,",
+      "Current": "US00175J1079,A2DLLC,AMMO INC.,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "IE00BFZ4RS80,A41706,LAZ.G.A.-E.M.EA ADLD,Aktien International,Aktien International,,",
+    "CA06849F1080,A417GQ,BARRICK MINING CORP.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 2
+  }
+}

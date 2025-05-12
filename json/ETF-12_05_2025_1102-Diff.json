@@ -1,0 +1,31 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE000AK4O3W6,A3DLEG,ISHSII-EO CB 0-3Y ESG EOA,ETFs,ETFs Europa Bonds,,",
+      "Current": "IE000AK4O3W6,A3DLEG,ISII-EOCB03E ()EOA,ETFs,ETFs Europa Bonds,,"
+    },
+    {
+      "Original": "IE00B6X2VY59,A1J5ST,ISV-EU.CO.BD I.R.HDG EOD,ETFs,ETFs Europa Bonds,,",
+      "Current": "IE00B6X2VY59,A1J5ST,ISV-E.C.B.I.R.H.U.ETF EOD,ETFs,ETFs Europa Bonds,,"
+    },
+    {
+      "Original": "IE00BJ5JP097,A2PHCE,ISHS V-M.W.F.S.A.ETF DLD,ETFs,ETFs Branchen,,",
+      "Current": "IE00BJ5JP097,A2PHCE,ISV-M.W.FNC.S. DLD,ETFs,ETFs Branchen,,"
+    },
+    {
+      "Original": "IE00BYZTVV78,A142NU,ISHSII-EO CB 0-3Y ESG EOD,ETFs,ETFs Europa Bonds,,",
+      "Current": "IE00BYZTVV78,A142NU,ISHARES SUST EUR CORP 0-3Y,ETFs,ETFs Europa Bonds,,"
+    },
+    {
+      "Original": "LU1861137484,A2JSDC,AIS-AMEOSCPA ETF      EOA,ETFs,ETFs Europa Gesamt,,",
+      "Current": "LU1861137484,A2JSDC,AIS-A.M.EU.SRI DR AOEA,ETFs,ETFs Europa Gesamt,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 5,
+    "Deletions": 0
+  }
+}
