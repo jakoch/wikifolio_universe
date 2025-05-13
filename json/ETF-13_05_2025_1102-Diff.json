@@ -1,0 +1,21 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE0007WMHDE3,A3EB32,HANETF-EUROPEAN RENEW.EA,ETFs,ETFs Branchen,,",
+      "Current": "IE0007WMHDE3,A3EB32,HANETF-EUR.GRE.DEAL EDLA,ETFs,ETFs Branchen,,"
+    },
+    {
+      "Original": "IE000IQQEL77,A3EWMH,HANE-SP.PU.PL.CO.MI.DLA,ETFs,ETFs Basic Resources,,",
+      "Current": "IE000IQQEL77,A3EWMH,H.I.S.C.M.E.S DLA,ETFs,ETFs Basic Resources,,"
+    }
+  ],
+  "Deletions": [
+    "IE000SAXJ1M1,A40QH6,GLX EOSTX50CVCL EOD,ETFs,ETFs Europa Gesamt,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

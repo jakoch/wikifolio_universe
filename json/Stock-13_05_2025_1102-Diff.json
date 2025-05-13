@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA0679011084,870450,BARRICK GOLD CORP,Aktien USA,Aktien USA Select,,",
+    "CA8549371091,A4127U,STAR COPPER CORP.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "GB00BN7SWP63,A3DMB5,\"GSK PLC  LS-, 3125\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GB00BN7SWP63,A3DMB5,GSK PLC,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA9895895022,A417U6,ZIMZU CAPITAL CORP. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
