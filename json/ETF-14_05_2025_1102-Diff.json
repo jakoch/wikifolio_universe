@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "LU1377381980,A2AL3Z,BNPPE.-E.L.V.US UECEO,ETFs,ETFs Nordamerika,,",
+    "LU1377382012,A2AL30,BNP  EQUITY MOMENTUM EUROPE,ETFs,ETFs Europa Gesamt,,",
+    "LU1481201298,A2DHWC,BNPPE.-E.L.V.US UEDEO,ETFs,ETFs Nordamerika,,",
+    "LU1481201538,A2DHWF,BNPPE.-E.MO.EU.UEDEO,ETFs,ETFs Europa Gesamt,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3GVKY4,A3GVKY,BITWISE EURO O.END ETP,ETFs,sonstige ETFs,,",
+      "Current": "DE000A3GVKY4,A3GVKY,ETC ISSUANCE O.END ETN,ETFs,sonstige ETFs,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CA82621E1060,A1XCQ0,SIENNA RESOURCES INC.,Aktien International,Aktien International,,",
+    "IE00BFZ4RS80,A41706,LAZ.G.A.-E.M.EA ADLD,Aktien International,Aktien International,,",
+    "US23254L8019,A3E2F3,\"CYCLACEL PHARM.   DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000PFSE212,PFSE21,PFISTERER HLDG SE INH ON,Aktien Deutschland,Aktien Sonstige,,",
+    "CA82621E2050,A418KR,SIENNA RES INC.,Aktien International,Aktien International,,",
+    "US23254L8845,A418C5,CYCLACEL P.  NEW25 DL-001,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
