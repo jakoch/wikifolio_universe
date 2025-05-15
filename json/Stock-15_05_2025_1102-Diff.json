@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA68827L1013,A115K2,OSISKO GOLD ROYALT.,Aktien USA,Aktien USA Select,,",
+    "CA9284621005,A3DK5S,VITAL BATTERY METALS INC,Aktien International,Aktien International,,",
+    "GB0031030819,913253,\"ALLIANCE PHARMA    LS-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "GRS496003005,A0M62T,\"TERNA ENERGY SAEO 0, 30\",Aktien Europa,Aktien Europa Select,,",
+    "US02028M1053,A3ESGW,ALMACENES EX.S.A. 8/1 ADR,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US0846707026,A0YJQ2,\"BERKSH. H.B NEW DL-, 00333\",Aktien USA,Aktien USA Select,,",
+      "Current": "US0846707026,A0YJQ2,BERKSHIRE HATHAWAY,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA68390D1069,A417BX,OR ROYALTIES INC.,Aktien USA,Aktien USA Select,,",
+    "VGG320891077,A3DNR9,ETORO GROUP LTD.,Aktien USA,Aktien USA Select,,",
+    "CA5021541076,A3EQZ1,LQWD TECHNOLOGIES CORP.,Aktien International,Aktien International,,",
+    "CA05358H1091,A418SP,AVENTIS ENERGY INC.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
