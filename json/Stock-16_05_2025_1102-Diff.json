@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA92340V1076,A40APF,VEREN INC.,Aktien USA,Aktien USA Select,,",
+    "SE0001174970,A0B987,MILLICOM INTL CELL. SDRS,Aktien Europa,Aktien Europa Select,,",
+    "SE0017084759,A3C955,NORVA24 GROUP AB (PUBL.),Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "ES0139140174,A2ANXU,\"INMOBIL.COL.SOC.EO 2, 50\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "ES0139140174,A2ANXU,INMOBILIARIA COLONIAL S.A.,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "US47100L3015,A40X9V,\"DEFI DEVELOP.   DL-, 00001\",Aktien USA,Aktien USA Select,,",
+    "NO0013135368,A40F8T,\"SOLSTAD MARITIME   NK-, 20\",Aktien Deutschland,Aktien Sonstige,,",
+    "DE000A40ZUK5,A40ZUK,DATAGROUP SE INH. Z.VERK.,Aktien Deutschland,Aktien Sonstige,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
