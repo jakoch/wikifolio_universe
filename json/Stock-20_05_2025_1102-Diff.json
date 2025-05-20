@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "NL0012047823,A2DM1P,\"AVANTIUM N.V.     EO -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "US01671P1003,A2JQTK,\"ALLAKOS INC. DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US2547091080,A0MUES,DISCOVER FINANCIAL SERVICES,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "ES0144580Y14,A0M46B,\"IBERDROLA INH.    EO -, 75\",Aktien Hot Stocks,Aktien Hot Stocks,Aktien Europa,Aktien Europa Select",
+      "Current": "ES0144580Y14,A0M46B,\"IBERDROLA INH.    EO -, 75\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000120578,920657,SANOFI SA INHABER    EO 2,Aktien Hot Stocks,Aktien Hot Stocks,Aktien Europa,Aktien Europa Select",
+      "Current": "FR0000120578,920657,SANOFI SA INHABER    EO 2,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000130809,873403,\"STE GENERALE INH. EO 1, 25\",Aktien Hot Stocks,Aktien Hot Stocks,Aktien Europa,Aktien Europa Select",
+      "Current": "FR0000130809,873403,\"STE GENERALE INH. EO 1, 25\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    }
+  ],
+  "Deletions": [
+    "NL0015002IE0,A419G6,AVANTIUM N.V.     EO - 1,Aktien Europa,Aktien Europa Select,,",
+    "CA87877T6088,A418RY,TECTONIC METALS INC. NEW,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 2
+  }
+}
