@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "CA00829Q1019,A0MZJC,AFRICA OIL,Aktien Hot Stocks,Aktien Hot Stocks,,",
+    "CA01921D1050,A3ESFF,ALLIED GOLD CORP.,Aktien International,Aktien International,,",
+    "US6556641008,867804,NORDSTROM INC.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0000133308,906849,ORANGE INH.          EO 4,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000133308,906849,ORANGE INH.          EO 4,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "IT0003856405,A0ETQX,\"LEONARDO S.P.A.   EO 4, 40\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "IT0003856405,A0ETQX,\"LEONARDO S.P.A.   EO 4, 40\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "US55306N1046,920343,MKS INC.,Aktien USA,Aktien USA Select,,",
+      "Current": "US55306N1046,920343,MKS INSTRUMENTS INC.,Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA01921D2041,A417BV,ALLIED GOLD CORP. NEW,Aktien International,Aktien International,,",
+    "CA5889141019,A418LE,MEREN ENERGY INC.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 2
+  }
+}

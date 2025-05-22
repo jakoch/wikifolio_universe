@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "CH1385084384,A4AKM2,21SHARES SOLANA ETP O.END,ETFs,sonstige ETFs,,",
+      "Current": "CH1385084384,A4AKM2,21SHARES APTOS ETP O.END,ETFs,sonstige ETFs,,"
+    }
+  ],
+  "Deletions": [
+    "IE0008D0AIU9,A417BG,BNPPE-MSCIWEWS U.EOA,ETFs,ETFs Welt,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
