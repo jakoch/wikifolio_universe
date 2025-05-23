@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "US05968L1026,896739,BANCOLOMB. ADR/4 KP 500,Aktien International,Aktien International,,",
+    "US30712A1034,A2DHZX,FANHUA INC. ADR/20,Aktien International,Aktien International,,",
+    "US68404V2097,A40XND,OPTINOSE INC.  NEW O.N.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000A40QVM8,A40QVM,INNOSCRIPTA SE INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "KYG3314G1102,A419L8,AIFU INC.  CL.A O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
