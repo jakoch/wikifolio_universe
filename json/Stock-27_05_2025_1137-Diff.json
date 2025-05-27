@@ -1,0 +1,143 @@
+{
+  "Additions": [
+    "CA0435041094,A2DJNA,ASCENDANT RES INC.,Aktien International,Aktien International,,",
+    "CA76927D1015,A2QBJD,RIVERSIDE RES INC.,Aktien International,Aktien International,,",
+    "DE000A0LD2U1,A0LD2U,ALSTRIA OFFICE REIT-AG,Aktien Deutschland,Aktien Sonstige,,",
+    "VGG273581030,A2DXPA,DESPEGAR.COM CORP.,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "ES0178430E18,850775,TELEFONICA INH.      EO 1,Aktien Europa,Aktien Europa Select,,",
+      "Current": "ES0178430E18,850775,TELEFONICA INH.      EO 1,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "ES0183746314,873772,\"VIDRALA SA INH.   EO 1, 02\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "ES0183746314,873772,\"VIDRALA SA INH.   EO 1, 02\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000051807,889287,\"TELEPERFORMANCE INH.EO2, 5\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000051807,889287,\"TELEPERFORMANCE INH.EO2, 5\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000054470,901581,\"UBISOFT ENTMT IN.EO-, 0775\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000054470,901581,\"UBISOFT ENTMT IN.EO-, 0775\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000120271,850727,\"TOTALENERGIES SE  EO 2, 50\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000120271,850727,\"TOTALENERGIES SE  EO 2, 50\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000121204,850709,WENDEL SE INH.       EO 4,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000121204,850709,WENDEL SE INH.       EO 4,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000121329,850842,THALES S.A.          EO 3,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000121329,850842,THALES S.A.          EO 3,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000124141,501451,VEOLIA ENVIRONNE. EO 5,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000124141,501451,VEOLIA ENVIRONNE. EO 5,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000125007,872087,ST GOBAIN            EO 4,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000125007,872087,ST GOBAIN            EO 4,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000125486,867475,\"VINCI S.A. INH.   EO 2, 50\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000125486,867475,\"VINCI S.A. INH.   EO 2, 50\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000127771,591068,\"VIVENDI SE   INH. EO 0, 55\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0000127771,591068,\"VIVENDI SE   INH. EO 0, 55\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0000130809,873403,\"STE GENERALE INH. EO 1, 25\",Aktien Europa,Aktien Europa Select,Aktien Europa,Aktien Europa Select",
+      "Current": "FR0000130809,873403,\"STE GENERALE INH. EO 1, 25\",Aktien Hot Stocks,Aktien Hot Stocks,Aktien Europa,Aktien Europa Select"
+    },
+    {
+      "Original": "FR0005691656,913141,\"TRIGANO SA INH. EO 4, 2567\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0005691656,913141,\"TRIGANO SA INH. EO 4, 2567\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0011981968,A116LR,\"WORLDLINE S.A.    EO -, 68\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0011981968,A116LR,\"WORLDLINE S.A.    EO -, 68\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0013176526,A2ALDB,VALEO SE INH.        EO 1,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0013176526,A2ALDB,VALEO SE INH.        EO 1,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0013230612,A2DMZM,TIKEHAU CAP. S.C.A. EO 12,Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0013230612,A2DMZM,TIKEHAU CAP. S.C.A. EO 12,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0013326246,A2JH5S,\"URW (STAPLED SHS)  EO-, 05\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0013326246,A2JH5S,\"URW (STAPLED SHS)  EO-, 05\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "FR0013447729,A2PSEA,\"VERALLIA SA (PROM.)EO3, 38\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0013447729,A2PSEA,\"VERALLIA SA (PROM.)EO3, 38\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "GB00B0WMWD03,A0JDDS,\"QINETIQ GROUP PLC LS -, 01\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "GB00B0WMWD03,A0JDDS,QINETIQ PLC,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "IT0003242622,A0B5N8,\"TERNA R.E.N. SPA  EO -, 22\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "IT0003242622,A0B5N8,\"TERNA R.E.N. SPA  EO -, 22\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "IT0003497168,120470,TELECOM ITALIA,Aktien Europa,Aktien Europa Select,,",
+      "Current": "IT0003497168,120470,TELECOM ITALIA,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "IT0004810054,A1JWCF,UNIPOL ASSICURAZIONI NAM.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "IT0004810054,A1JWCF,UNIPOL ASSICURAZIONI NAM.,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "IT0005162406,A2AHWL,TECHNOGYM S.P.A.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "IT0005162406,A2AHWL,TECHNOGYM S.P.A.,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "IT0005239360,A2DJV6,UNICREDIT,Aktien Europa,Aktien Europa Select,,",
+      "Current": "IT0005239360,A2DJV6,UNICREDIT,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "IT0005482333,A3DES7,TECHNOPROBE S.P.A.,Aktien Europa,Aktien Europa Select,,",
+      "Current": "IT0005482333,A3DES7,TECHNOPROBE S.P.A.,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "LU2598331598,A3EWCS,TENARIS S.A. DL 1,Aktien Europa,Aktien Europa Select,,",
+      "Current": "LU2598331598,A3EWCS,TENARIS S.A. DL 1,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "NL0000226223,893438,STMICROELECTRONICS,Aktien Europa,Aktien Europa Select,,",
+      "Current": "NL0000226223,893438,STMICROELECTRONICS,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "NL0000395903,A0J2R1,WOLTERS KLUWER NAM. EO-12,Aktien Europa,Aktien Europa Select,,",
+      "Current": "NL0000395903,A0J2R1,WOLTERS KLUWER NAM. EO-12,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "NL0014559478,A2QNZT,\"TECHNIP ENERGIES  EO -, 01\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "NL0014559478,A2QNZT,\"TECHNIP ENERGIES  EO -, 01\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "NL00150001Q9,A2QL01,\"STELLANTIS NV     EO -, 01\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "NL00150001Q9,A2QL01,\"STELLANTIS NV     EO -, 01\",Aktien Hot Stocks,Aktien Hot Stocks,,"
+    },
+    {
+      "Original": "NL0015000IY2,A3C291,UNIVERSAL MUSIC GROUP EO1,Aktien Europa,Aktien Europa Select,,",
+      "Current": "NL0015000IY2,A3C291,UNIVERSAL MUSIC GROUP EO1,Aktien Hot Stocks,Aktien Hot Stocks,,"
+    }
+  ],
+  "Deletions": [
+    "US15743P1049,A415NW,CHAGEE HOLDINGS ADS,Aktien USA,Aktien USA Select,,",
+    "CA76927E1097,A418L1,RIVERSIDE RES. INC.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 31,
+    "Deletions": 2
+  }
+}
