@@ -1,0 +1,22 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE000U5MJOZ6,A40FFH,JPM-US EQ PR.I.A.ETF D DL,ETFs,sonstige ETFs,,",
+      "Current": "IE000U5MJOZ6,A40FFH,JPMETFUEPIA JPETFDIDLD,ETFs,ETFs Sonstige Bonds,,"
+    },
+    {
+      "Original": "IE000U9J8HX9,A40FFF,JPM-NQ EQ PR.I.A.ETF D DL,ETFs,sonstige ETFs,,",
+      "Current": "IE000U9J8HX9,A40FFF,JPMETF-NDQEPIA JPETFDIDLD,ETFs,sonstige ETFs,,"
+    }
+  ],
+  "Deletions": [
+    "IE000D6810F1,A417ZD,ISHS USA DLA,ETFs,ETFs Nordamerika,,",
+    "IE00072RHT03,A40J96,IM 2-I.C.E.ACC DLA,ETFs,ETFs Branchen,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
