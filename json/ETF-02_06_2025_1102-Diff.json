@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "IE0005H5G7N0,A417ZF,ISIII-ISHYCBUE HDGLSD,ETFs,ETFs Sonstige Bonds,,",
+    "IE000D6810F1,A417ZD,ISHS USA DLA,ETFs,ETFs Nordamerika,,",
+    "IE000RKSAPB9,A417ZE,ISIII-ISHYCBUE HDGDLD,ETFs,ETFs Sonstige Bonds,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "SE0024738389,A4A5D4,VIRTUNE AB O.END ETP,ETFs,sonstige ETFs,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}

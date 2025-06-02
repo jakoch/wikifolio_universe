@@ -1,0 +1,82 @@
+{
+  "Additions": [
+    "CA00830W1059,A14QAB,AFRICA ENERGY,Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0011648971,A1XAEB,\"QUANTUM GENOMICS  EO -, 04\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0011648971,A1XAEB,\"QUANTUM GENOMICS  EO -, 40\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "FR0013410370,A2PGRQ,\"AUPLATA MIN. GRP EO-, 0005\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR0013410370,A2PGRQ,\"AUPLATA MINING GRP EO-, 80\",Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "FR001400IV58,A3EJGW,\"AVENTADOR       EO 0, 0001\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "FR001400IV58,A3EJGW,AVENTADOR            EO 4,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "IT0005324105,A2JG84,\"MEDIA LAB S.P.A.   EO-, 31\",Aktien Europa,Aktien Europa Select,,",
+    "GRS528003007,A3D2J1,THE AZUR SELECTION SA EO1,Aktien Europa,Aktien Europa Select,,",
+    "CA39115V3092,A3DMEW,GREAT PANTHER MINING,Aktien International,Aktien International,,",
+    "NL0010949392,A12FH2,\"CNOVA NV          EO -, 05\",Aktien Europa,Aktien Europa Select,,",
+    "FR0013308582,A3CNLG,\"LARGO     EO 0, 02\",Aktien Europa,Aktien Europa Select,,",
+    "FR0014003T71,A3CSTG,OMER - DECUGIS + CIE EO 1,Aktien Europa,Aktien Europa Select,,",
+    "FR0012336691,A3DY7D,HOME CONCEPT FRANCE  EO10,Aktien Europa,Aktien Europa Select,,",
+    "FR0013253812,A2DXYX,\"ALVEEN EO -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "FR0010768770,A12CFR,\"WEYA               EO-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "FR0000031973,855598,\"F.S.D.V. INH.    EO 15, 50\",Aktien Europa,Aktien Europa Select,,",
+    "FR001400IUV6,A3ENLU,OSMOSUN S.A. EO 1,Aktien Europa,Aktien Europa Select,,",
+    "PTAZR0AM0006,A12BD8,\"AZOREAN-AQUAT.TECH.EO-, 05\",Aktien Europa,Aktien Europa Select,,",
+    "FR0014004974,A3CU5X,\"ENOGIA            EO -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "FR0000035123,871325,FINATIS S.A.INH.    EO 15,Aktien Europa,Aktien Europa Select,,",
+    "FR0011158823,A12CGL,\"INFOCLIP           EO-, 30\",Aktien Europa,Aktien Europa Select,,",
+    "FR00140066X4,A3DE95,METAVISIO             EO1,Aktien Europa,Aktien Europa Select,,",
+    "FR0006859039,810751,STE IMM.PA.D.L.NOM. EO 39,Aktien Europa,Aktien Europa Select,,",
+    "FR001400QW73,A40LF4,\"MACOMPTA.FR S.A. EO-, 30\",Aktien Europa,Aktien Europa Select,,",
+    "FR0000076960,806321,\"GRP. CARNIVOR NOM.EO 3, 81\",Aktien Europa,Aktien Europa Select,,",
+    "BE6252013725,A12CE2,CONDOR TECHNOLOGIES NV,Aktien Europa,Aktien Europa Select,,",
+    "IT0005336521,A2PD8M,ITALY INNOVAZIONI     EO1,Aktien Europa,Aktien Europa Select,,",
+    "CA6857821046,A2P6H4,OREA MINING CORP.,Aktien International,Aktien International,,",
+    "FR0010086371,A0BM3E,IMALLIANCE INH. O.N.,Aktien Europa,Aktien Europa Select,,",
+    "FR0010972091,A3DY7A,\"SOC.CONSEIL EXT.   EO-, 22\",Aktien Europa,Aktien Europa Select,,",
+    "FR001400DIY6,A3D2C4,\"CABASSE S.A.EO-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "FR0013419876,A2PLHP,\"KUMULUS VAPE       EO-, 05\",Aktien Europa,Aktien Europa Select,,",
+    "FR0000064958,541846,\"INTEXA S.A. INH.   EO 1, 6\",Aktien Europa,Aktien Europa Select,,",
+    "FR0000054421,901467,BOURRELIER GR.SA INH.EO 5,Aktien Europa,Aktien Europa Select,,",
+    "FR0006174496,764506,\"VERNEY-CARRON NOM. EO3, 20\",Aktien Europa,Aktien Europa Select,,",
+    "FR0013330792,A2JM7Q,\"ENENSYS TECHNOLOG  EO-, 25\",Aktien Europa,Aktien Europa Select,,",
+    "CA43741D1050,A411C1,HOMELAND URA. CORP. O.N.,Aktien International,Aktien International,,",
+    "ES0105719001,A3EWMK,NORTEM BIOG S.A.  EO 2,Aktien Europa,Aktien Europa Select,,",
+    "FR0000060824,541814,\"FINANC.MARJOS INH.EO 0, 10\",Aktien Europa,Aktien Europa Select,,",
+    "IT0005460081,A3EXNG,REBIRTH              EO 1,Aktien Europa,Aktien Europa Select,,",
+    "FR001400KO61,A3EUNY,\"ARCHOS S.A. NOM. EO 0, 009\",Aktien Europa,Aktien Europa Select,,",
+    "FR0000065492,932525,SELCODIS SA,Aktien Europa,Aktien Europa Select,,",
+    "FR0000062465,887983,\"ALAN ALLMAN AS.INH.EO -, 3\",Aktien Europa,Aktien Europa Select,,",
+    "FR0000035719,901770,ELECTRICITE MADAGAS. EO 5,Aktien Europa,Aktien Europa Select,,",
+    "FR0000060840,792659,DEVERNOIS S.A.,Aktien Europa,Aktien Europa Select,,",
+    "FR0000064735,806344,HYDRAULIQUE PB NOM. EO 22,Aktien Europa,Aktien Europa Select,,",
+    "IT0005450819,A3C33K,MEXEDIA S.P.A.,Aktien Europa,Aktien Europa Select,,",
+    "CA00830W5019,A41BLL,AFRICA ENERGY,Aktien International,Aktien International,,",
+    "FR001400CM63,A3DVNM,\"ONCODES.PREC.MED. EO-, 34\",Aktien Europa,Aktien Europa Select,,",
+    "ES0105029005,A14MDC,\"FACEPHI BIOMETRIA  EO-, 04\",Aktien Europa,Aktien Europa Select,,",
+    "ES0105704003,A3D7S7,\"VIRTUALWARE      EO -, 035\",Aktien Europa,Aktien Europa Select,,",
+    "FR0011053636,A1JG36,\"BLOCKCHAIN GRP SA  EO-, 04\",Aktien Europa,Aktien Europa Select,,",
+    "FR0000065260,872622,\"DOCKS PETR.AMBES EO  7, 65\",Aktien Europa,Aktien Europa Select,,",
+    "FR0006205019,805861,LOMBARD ET MEDOT NOM.EO 2,Aktien Europa,Aktien Europa Select,,",
+    "CA0519188035,A2PBDG,AURCANA SILVER CORP.,Aktien International,Aktien International,,",
+    "FR00140059B5,A3C5FU,\"AUDACIA S.A.      EO -, 12\",Aktien Europa,Aktien Europa Select,,",
+    "FR0011038348,A1JFY3,\"KLARSEN           EO -, 20\",Aktien Europa,Aktien Europa Select,,",
+    "FR0013371507,A2PE81,CORETECH 5 S.A.,Aktien Europa,Aktien Europa Select,,",
+    "FR001400H3A0,A3EF01,MON COURTIER ENERGIE EO 1,Aktien Europa,Aktien Europa Select,,",
+    "FR0000061657,805854,MAISON ANT.BA.NOM   EO 16,Aktien Europa,Aktien Europa Select,,",
+    "FR0000060907,798633,\"LA CHAUSSERIA INH.EO 3, 81\",Aktien Europa,Aktien Europa Select,,",
+    "FR0000052755,806277,EDITIONS DU SIGNE NM.EO 1,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 3,
+    "Deletions": 56
+  }
+}
