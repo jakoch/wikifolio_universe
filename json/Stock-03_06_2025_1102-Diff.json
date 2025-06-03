@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "BMG5753U1128,A0QZ6P,\"MAIDEN HLDGS LTD  DL -, 01\",Aktien USA,Aktien USA Select,,",
+    "CA0519188035,A2PBDG,AURCANA SILVER CORP.,Aktien International,Aktien International,,",
+    "CA39115V3092,A3DMEW,GREAT PANTHER MINING,Aktien International,Aktien International,,",
+    "CA6857821046,A2P6H4,OREA MINING CORP.,Aktien International,Aktien International,,",
+    "GB00B1XZS820,A0MUKL,ANGLO AMERICAN,Aktien Europa,Aktien Europa Select,,",
+    "GB00BDVZYZ77,A1W5N2,ROYAL MAIL,Aktien Europa,Aktien Europa Select,,",
+    "US2826443010,A2P19Y,EKSO BIONICS HLDGS DL-001,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "GB00BTK05J60,A41BF3,\"ANGLO AMERICAN DL -, 6239\",Aktien Europa,Aktien Europa Select,,",
+    "US2826444000,A4197U,\"EKSO BIONICS. NEW DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "CA0399441033,A40PRU,ARGENTA SILVER A,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}
