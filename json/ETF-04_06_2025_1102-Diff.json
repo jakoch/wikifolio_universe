@@ -1,0 +1,31 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE00BJK55C48,A2PNZM,IS2-EOHYCBESGSRI ETF  EOA,ETFs,ETFs Europa Bonds,,",
+      "Current": "IE00BJK55C48,A2PNZM,ISHSII-EHYCBESG EOA,ETFs,ETFs Europa Bonds,,"
+    },
+    {
+      "Original": "LU0321462953,DBX0AV,XTK2 DL JPM EM BOND 1CEOH,ETFs,ETFs Sonstige Bonds,,",
+      "Current": "LU0321462953,DBX0AV,XTR.II USD EM BD 1CEOH,ETFs,ETFs Sonstige Bonds,,"
+    },
+    {
+      "Original": "LU0677077884,DBX0MB,XTK2 DL JPM EM BOND 2DDL,ETFs,ETFs Sonstige Bonds,,",
+      "Current": "LU0677077884,DBX0MB,XTR.II USD EM BD 2D DL,ETFs,ETFs Sonstige Bonds,,"
+    },
+    {
+      "Original": "LU1920015440,DBX0RD,XTK2 DL JPM EM BOND 2CDLA,ETFs,ETFs Sonstige Bonds,,",
+      "Current": "LU1920015440,DBX0RD,XTK2 USD E.M.BOND 2CDLA,ETFs,ETFs Sonstige Bonds,,"
+    },
+    {
+      "Original": "LU1971906802,A2PGD1,UBSEOSTXX50ESG AEOD,ETFs,ETFs Europa Gesamt,,",
+      "Current": "LU1971906802,A2PGD1,UBSLFS-ESTX50 ESG AEOD,ETFs,ETFs Europa Gesamt,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 5,
+    "Deletions": 0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Additions": [
+    "AU0000128787,A2QLTL,ASTON MINERALS LTD,Aktien International,Aktien International,,",
+    "CA05455W1086,A3CTL4,AWAKN LIFE SCIENCES CORP,Aktien International,Aktien International,,",
+    "LU0164455502,914233,CARM.PTF-CLIM.TRAN.AEOA,Fonds,Fonds Aktien,,",
+    "NO0003043309,888818,\"KONGSBERG GRUPPEN NK 1, 25\",Aktien Europa,Aktien Europa Select,,",
+    "SE0000375115,935409,MYCRONIC,Aktien Europa,Aktien Europa Select,,",
+    "US1628282063,A3DZZZ,\"CHECKPOINT THER. DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US4040301081,A0ESPV,\"H+E EQUIPMENT SERV.DL-, 01\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU0000185993,A3C7R6,IREN LTD.,Aktien USA,Aktien USA Select,,",
+      "Current": "AU0000185993,A3C7R6,IRIS ENERGY LTD,Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "DE0009780411,978041,LBBW GLOBAL DIVIDEND R,Fonds,Fonds Aktien,,",
+      "Current": "DE0009780411,978041,LBBW DIVID.STRAT.EUROL.R,Fonds,Fonds Aktien,,"
+    },
+    {
+      "Original": "DE000A0NAUM4,A0NAUM,LBBW GLOBAL DIVIDEND I,Fonds,Fonds Aktien,,",
+      "Current": "DE000A0NAUM4,A0NAUM,LBBW DIVID.STRAT.EUROL.I,Fonds,Fonds Aktien,,"
+    },
+    {
+      "Original": "US03486T2024,A2AKNF,VALTERRA PLATI.SP.ADR 1/6,Aktien International,Aktien International,,",
+      "Current": "US03486T2024,A2AKNF,ANGLO AMER.PL. SP.ADR 1/6,Aktien International,Aktien International,,"
+    },
+    {
+      "Original": "ZAE000013181,856547,\"VALTERRA PLATINUM  RC-, 10\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "ZAE000013181,856547,\"ANGLO AMERN PLATIN.RC-, 10\",Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "NO0013536151,A41BLY,\"KONGSBERG GRUPPEN NK 0, 25\",Aktien Europa,Aktien Europa Select,,",
+    "US1725731079,A417ZL,CIRCLE INTERNET GRP CL.A,Aktien USA,Aktien USA Select,,",
+    "SE0025158629,A41BLJ,\"MYCRONIC AB        SK 0, 5\",Aktien Europa,Aktien Europa Select,,",
+    "GB00BMD1Z199,A3DCC0,\"SOLVONIS THERAP. LS -, 001\",Aktien International,Aktien International,,",
+    "CA6415361071,A3CTE1,NEVGOLD CORP.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 5,
+    "Deletions": 5
+  }
+}
