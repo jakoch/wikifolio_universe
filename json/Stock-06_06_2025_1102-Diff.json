@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "FR0000035123,871325,FINATIS S.A.INH.    EO 15,Aktien Europa,Aktien Europa Select,,",
+    "FR0000061657,805854,MAISON ANT.BA.NOM   EO 16,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "BMG359472021,A2PFGD,\"FLEX LNG LTD       DL-, 10\",Aktien USA,Aktien USA Select,,",
+      "Current": "BMG359472021,A2PFGD,\"FLEX LNG LTD       DL-, 10\",Aktien USA,Aktien Dow Jones,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
