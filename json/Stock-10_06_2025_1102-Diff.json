@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "SG1AB9000005,A119Y7,JAPFA LTD,Aktien International,Aktien International,,",
+    "US00808Y4061,A3EW0P,\"AETHLON MEDIC.NEW DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US0977021049,A2QNZN,\"BOLT BIOTHERAP. DL-, 00001\",Aktien USA,Aktien USA Select,,",
+    "US6402681083,165417,NEKTAR THERAPEUTICS,Aktien USA,Aktien USA Select,,",
+    "US72581M3051,A0Q3ZH,\"PIXELWORKS INC.NEW DL-, 01\",Aktien USA,Aktien Dow Jones,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "NO0010890304,A2QBSN,\"AKER CARB.CAPT.AS NK -, 02\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "NO0010890304,A2QBSN,AKER CARB.CAPT.AS NK1,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "INE14LE01019,A419N9,ADITYA BIRLA LSB. IR 10,Aktien USA,Aktien USA Select,,",
+    "US6402683063,A419UB,NEKTAR THERAP.   NEW O.N.,Aktien USA,Aktien USA Select,,",
+    "US00808Y5050,A419N8,\"AETHLON MED. NEW DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US72581M4042,A418SM,\"PIXELWORKS INC.   DL-, 001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
