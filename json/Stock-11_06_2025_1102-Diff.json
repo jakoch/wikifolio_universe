@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "CA1208311029,157793,BURCON NUTRASCIENCE CORP.,Aktien International,Aktien International,,",
+    "CA62757L2075,A3EHUB,MUSK METALS CORP.,Aktien International,Aktien International,,",
+    "DE0005227201,522720,BIOTEST AG ST O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "DE0005227235,522723,BIOTEST AG VZ O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "INE14LE01019,A419N9,ADITYA BIRLA LSB. IR 10,Aktien USA,Aktien USA Select,,",
+    "KYG1146Y1017,A144EN,BEIGENE LTD,Aktien International,Aktien International,,",
+    "US44183U2096,A2QAG9,\"HOUSTON AMERN ENE.DL-, 001\",Aktien International,Aktien International,,",
+    "US46122W2044,A1H4QV,\"INUVO INC. NEW   DL -, 001\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CH0244767585,A12DFH,\"UBS GROUP AG      SF -, 10\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "CH0244767585,A12DFH,UBS GROUP,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CH1391448177,A41ANK,BEONE MEDICINES AG,Aktien International,Aktien International,,",
+    "US0977022039,A419U9,\"BOLT BIOTHE.NEW DL-, 00001\",Aktien USA,Aktien USA Select,,",
+    "US46122W3034,A41A0W,\"INUVO INC.        DL-, 001\",Aktien International,Aktien International,,",
+    "US44183U3086,A4146A,HOUSTON AMERN ENER.DL-001,Aktien International,Aktien International,,",
+    "CA1208313009,A412WU,BURCON NUTRASCIENCE,Aktien International,Aktien International,,",
+    "CA37405C1068,A414TA,GERMANIUM MNG CORP. O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 1,
+    "Deletions": 6
+  }
+}
