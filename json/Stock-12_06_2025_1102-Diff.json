@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "BRELETACNOR6,899026,CENTRAIS EL.BR.ELETROBRAS,Aktien International,Aktien International,,",
+    "JP3126240005,A2PAHJ,ARTERIA NETWORKS CORP.,Aktien International,Aktien International,,",
+    "TH0201A10Y19,A111A3,INTOUCH HOLDING,Aktien International,Aktien International,,",
+    "US91823Y1091,A2QDG5,VIA OPTRONICS AG SP.ADS/1,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "BE0974409410,A3DMB0,HOME INVEST BELGIUM,Aktien Hot Stocks,Aktien Hot Stocks,,",
+      "Current": "BE0974409410,A3DMB0,HOME INVEST BELGIUM,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "SE0007075056,A14UH1,\"EOLUS B            SK-, 50\",Aktien Europa,Aktien Europa Select,,",
+      "Current": "SE0007075056,A14UH1,\"EOLUS VIND AB B    SK-, 50\",Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA82825J1093,A3EWAU,SILVER STORM MINING LTD,Aktien International,Aktien International,,",
+    "KYG9572D1034,A40Z5Y,WEBULL CORP.,Aktien International,Aktien International,,",
+    "SE0007614722,A1415N,K33 AB,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}

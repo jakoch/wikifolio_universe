@@ -1,0 +1,21 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "SE0021486156,A4AKW5,VIRTUNE AB O.END XRP ETP,ETFs,sonstige ETFs,,",
+      "Current": "SE0021486156,A4AKW5,VIRTUNE AB O.END ETP,ETFs,sonstige ETFs,,"
+    },
+    {
+      "Original": "SE0024738389,A4A5D4,VIRTUNE AB OE.CB50IDX ETP,ETFs,sonstige ETFs,,",
+      "Current": "SE0024738389,A4A5D4,VIRTUNE AB O.END ETP,ETFs,sonstige ETFs,,"
+    }
+  ],
+  "Deletions": [
+    "IE00BD26N851,A2H80B,PFI ETF-US ST HY.CBD EOAH,ETFs,ETFs Sonstige Bonds,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
