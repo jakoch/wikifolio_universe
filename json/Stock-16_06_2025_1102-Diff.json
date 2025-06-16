@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "AU000000RFX8,A1H9W2,REDFLOW LTD.,Aktien International,Aktien International,,",
+    "CA67053L1085,A1JU8C,NULEGACY GOLD CORP.,Aktien International,Aktien International,,",
+    "CA74061L1040,A40UCR,PREMIUM RES LTD.     O.N.,Aktien International,Aktien International,,",
+    "US00901B1052,A2PREX,AIM IMMUNOTECH INC.,Aktien International,Aktien International,,",
+    "US68237Q1040,A40MF5,\"ONCONETIX INC. DL -, 00001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA67053L6035,A41A12,NULEGACY GOLD CORP. O.N.,Aktien International,Aktien International,,",
+    "AU000000KLL6,A2DHAZ,KALIUM LAKES LTD O.N.,Aktien International,Aktien International,,",
+    "CA36269A2065,A3DR7H,GAIA GROW CORP.,Aktien International,Aktien International,,",
+    "US00901B3033,A416YS,\"AIM IMMUNOTEC.NEW DL-, 001\",Aktien International,Aktien International,,",
+    "US68237Q2030,A41A5A,ONCONETIX INC.,Aktien USA,Aktien USA Select,,",
+    "US88023B1035,A40EDP,\"TEMPUS AI INC.  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "CA65346E1051,A41A95,NEXMETALS MINING     O.N.,Aktien International,Aktien International,,",
+    "CA85238C1086,A416C1,SRANAN GOLD CORP.,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 8
+  }
+}
