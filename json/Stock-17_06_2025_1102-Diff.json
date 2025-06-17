@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "AU000000KLL6,A2DHAZ,KALIUM LAKES LTD O.N.,Aktien International,Aktien International,,",
+    "CA36269A2065,A3DR7H,GAIA GROW CORP.,Aktien International,Aktien International,,",
+    "CH0038285679,A0NJ37,ORASCOM DEVEL.NA.SF 5,Aktien Europa,Aktien Europa Select,,",
+    "NO0012785098,A3D34Y,AWILCO DRILLING PLC(SNDR),Aktien Europa,Aktien Europa Select,,",
+    "US31572Q8087,A12EZ0,\"FIBROGEN INC.      DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US38000Q1022,A1W8HZ,GLYCOMIMETICS INC. DL-001,Aktien USA,Aktien USA Select,,",
+    "US81728A1088,A2QM6J,\"SENSEI BIOTHER. DL -, 0001\",Aktien International,Aktien International,,",
+    "US92747V1061,A3CR3Q,VINTAGE WINE ESTATES INC.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US98138J4040,A4137P,\"WORKHORSE GRP NEW DL-, 001\",Aktien USA,Aktien USA Select,,",
+    "US38000Q2012,A4189C,GLYCOMIMETICS INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "US81728A2078,A41A4Z,SENSEI BIOTHERAPEUT. O.N.,Aktien USA,Aktien USA Select,,",
+    "US31572Q8814,A419WK,FIBROGEN INC.   NEW O.N.,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
