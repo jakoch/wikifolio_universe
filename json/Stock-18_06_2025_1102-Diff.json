@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "LU0247467987,A0JEL6,UNIRESERVE:EO-CORPORATES,Fonds,Fonds Renten,,",
+    "US75382E1091,A2PNYQ,\"RAPT THERAP. INC.DL-, 0001\",Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US75382E2081,A418SN,RAPT THERAP.INC. NEW O.N.,Aktien USA,Aktien USA Select,,",
+    "CA1567881018,A2QQRF,CERRADO GOLD INC.,Aktien International,Aktien International,,",
+    "DE000A254294,A25429,HEIDEL.BETEIL.HLDG O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "US55406W1036,A2QMNV,LUXEXPERIENCE BV SP.ADS/1,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
