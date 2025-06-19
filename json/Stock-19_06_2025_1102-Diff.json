@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "DE0005326789,532678,UNISELECTION: GLOBAL I,Fonds,Fonds Aktien,,",
+    "DE000A2AQ952,A2AQ95,SOLIT WERTEFONDS R,Fonds,Fonds Aktien,,",
+    "DE000A2BPP88,A2BPP8,BETA SYST.SOFTW. INH.O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "ES0105046009,A12D3A,AENA,Aktien Europa,Aktien Europa Select,,",
+    "GB00BLNNFY18,A3C6YH,HARMONY ENERGY INCOME TR.,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A40UTE1,A40UTE,AUR PORTFOLIO III INH ON,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A40UTE1,A40UTE,AUR PORTFOLIO III SE CO.,Aktien Deutschland,Aktien Sonstige,,"
+    }
+  ],
+  "Deletions": [
+    "ES0105046017,A41B4U,AENA SME S.A.       EO 1,Aktien Europa,Aktien Europa Select,,",
+    "US0231114044,A41557,AMARIN CORP.ADR NEW 2025,Aktien USA,Aktien USA Select,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
