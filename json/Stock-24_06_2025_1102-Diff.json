@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA6752221037,A0MVLD,OCEANAGOLD CORP.,Aktien International,Aktien International,,",
+    "CA68752A1049,A2P8CC,ORSU METALS CORP.,Aktien International,Aktien International,,",
+    "CA92539Q4060,A412WD,VERSES AI,Aktien International,Aktien International,,",
+    "US74365N2027,A3D9TY,PROTAGENIC THERAPEUT.INC.,Aktien USA,Aktien USA Select,,",
+    "US85859N1028,A3CN1T,\"STEM INC.        DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US9129091081,529498,US STEEL CORP,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "NO0013325506,A40YLR,\"MORELD ASA        NK -, 10\",Aktien Europa,Aktien Europa Select,,",
+    "US85859N3008,A41BP2,\"STEM INC.        DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "CA65564N1006,A3EV4N,NORDIQUE RESOURCES INC.,Aktien International,Aktien International,,",
+    "CA6752224007,A41ADE,OCEANAGOLD CORP.,Aktien International,Aktien International,,",
+    "CA92539Q6040,A41BQ1,VERSES AI,Aktien International,Aktien International,,",
+    "CH1430134226,A414LY,AMRIZE AG   DL 1000,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
