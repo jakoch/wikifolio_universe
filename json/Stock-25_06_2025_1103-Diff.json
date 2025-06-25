@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA39261L2049,A40S1E,GREEN BATTERY MINERALS,Aktien International,Aktien International,,",
+    "DE000A2YPDD0,A2YPDD,VIB VERMOEGEN  NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "ES0105670006,A3DSKR,\"UMBRELLA GL.ENERGY EO-, 02\",Aktien Europa,Aktien Europa Select,,",
+    "GB00B15XDH89,A0J3TY,\"GREATLAND GOLD PLC LS-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "KYG0443C1015,A3DFBH,AQUILA ACQ.CORP. CL.A,Aktien International,Aktien International,,",
+    "KYG4066M1078,A3CQZ3,\"GRAPHEX GROUP LTD HD -, 01\",Aktien International,Aktien International,,",
+    "US15117F8077,A3DQSD,CELLECTAR NEW22 DL-00001,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US45782T1051,A2PCBU,INMUNEBIO INC.,Aktien USA,Aktien USA Select,,",
+    "US15117F8804,A41BQ3,CELLECTAR NEW22 DL-00001,Aktien USA,Aktien USA Select,,",
+    "KYG2545C1042,A41BDZ,CRESCENT BIOPHARMA O.N.,Aktien USA,Aktien USA Select,,",
+    "KYG9898T1058,A411C9,ZG GROUP  O.N.,Aktien International,Aktien International,,",
+    "CA3194101067,A418KT,F.CDN GRAPHITE INC.,Aktien International,Aktien International,,",
+    "DE000AUTD0C3,AUTD0C,AUTODOC SE  NA O.N.,Aktien Deutschland,Aktien Sonstige,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}
