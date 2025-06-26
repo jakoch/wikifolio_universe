@@ -1,0 +1,18 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "XS3087774306,A4A5J2,HAN.MUL.ASS. ETC O.END,ETFs,sonstige ETFs,,",
+      "Current": "XS3087774306,A4A5J2,HAN.MUL.ASS. ETC O.END,ETFs,ETFs Basic Resources,,"
+    }
+  ],
+  "Deletions": [
+    "IE000DQLYVB9,A412X8,IS6-SP500 SWPEA ()EOA,ETFs,ETFs Nordamerika,,",
+    "CH1456607683,A4A5J0,21SHARES HEDERA ETP O.END,ETFs,sonstige ETFs,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

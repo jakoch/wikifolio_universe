@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA64913V6089,A4177B,NEW WAVE HLDGS CORP. O.N.,Aktien International,Aktien International,,",
+    "CA89141H1055,A3DKKC,TORRENT GOLD INC.,Aktien International,Aktien International,,",
+    "DE000AUTD0C3,AUTD0C,AUTODOC SE  NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "DE000SHA0019,SHA001,SCHAEFFLER AG INH.,Aktien Deutschland,Aktien Sonstige,,",
+    "US29405E4061,A41091,\"ENVERIC BIOSCIEN. DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US38000Q2012,A4189C,GLYCOMIMETICS INC. O.N.,Aktien USA,Aktien USA Select,,",
+    "US44888K4076,A40MPJ,\"HYDR. HLDGS INC. DL-, 0001\",Aktien USA,Aktien USA Select,,",
+    "US51509P1030,A2QK2Y,LANDSEA HOMES CORP. O.N.,Aktien USA,Aktien USA Select,,",
+    "US68232V8845,A40PJ7,\"TRAWS PHARMA INC.  DL-, 01\",Aktien USA,Aktien USA Select,,",
+    "US75915K3095,A3DNZ4,REGULUS THER.COMPAR DL001,Aktien USA,Aktien USA Select,,",
+    "US8964385046,A404JF,TRINITY BIOTEC.ADR NEW A,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000A2YPDD0,A2YPDD,VIB VERMOEGEN  NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "CA44486R1010,A41B76,HUMANOID GL HLDGS,Aktien International,Aktien International,,",
+    "DE000SHA0100,SHA010,SCHAEFFLER AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+    "CA89141H2046,A41AYJ,TORRENT GOLD O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 11,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
