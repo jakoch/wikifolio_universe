@@ -1,0 +1,245 @@
+{
+  "Additions": [
+    "CA55026L3056,A2N5K0,LUMINA GOLD CORP. (NEW),Aktien International,Aktien International,,",
+    "CA65346E1051,A41A95,NEXMETALS MINING     O.N.,Aktien International,Aktien International,,",
+    "NL0015000LC2,A3C6XX,MAINZ BIOMED B.V.   EO 1,Aktien USA,Aktien USA Select,,",
+    "NL0015000NM7,A3C7D9,\"QEV N.V.           EO-, 01\",Aktien Europa,Aktien Europa Select,,",
+    "US00848K3095,A40RZ0,AGEAGLE AERIAL SYS NEW,Aktien International,Aktien International,,",
+    "US13471N3008,A3D4G4,CAN-FITE BIOPH. ADR/300,Aktien International,Aktien International,,",
+    "US37229T5092,A3D6A1,\"KARTOON STUD. NEW DL-, 001\",Aktien International,Aktien International,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005146807,514680,DELTICOM AG  NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005146807,514680,DELTICOM,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE0005313506,531350,ENERGIEKONTOR O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005313506,531350,ENERGIEKONTOR O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE0005493365,549336,HYPOPORT SE  NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005493365,549336,HYPOPORT SE  NA O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE0005533400,553340,DT.GRUNDST.AUKT.AG,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005533400,553340,DEUTSCHE GRUNDSTÃCKSAUKTIONEN,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE0005550602,555060,DRAEGERWERK ST.A.O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005550602,555060,DRAEGERWERK ST AG,Aktien Deutschland,Aktien TECDAX,,"
+    },
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0005565204,556520,DUERR AG O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005565204,556520,DUERR AG O.N.,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE0005664809,566480,EVOTEC SE  INH O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0005664809,566480,EVOTEC SE  INH O.N.,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0005677108,567710,ELMOS SEMICOND. INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005677108,567710,ELMOS SEMICOND. INH O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE0005772206,577220,FIELMANN GROUP AG O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005772206,577220,FIELMANN GROUP AG O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE0005773303,577330,FRAPORT AG FFM.AIRPORT,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005773303,577330,FRAPORT AG FFM.AIRPORT,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE0005774103,577410,FORTEC ELEKTRO. O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005774103,577410,FORTEC ELEKTRO,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE0005800601,580060,GFT TECHNOLOGIES SE,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0005800601,580060,GFT TECHNOLOGIES SE,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE0006083405,608340,HORNBACH HOLD.ST O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0006083405,608340,HORNBACH HOLD.ST O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE0006200108,620010,INDUS HOLDING AG,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0006200108,620010,INDUS HOLDING AG,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE0007314007,731400,HEIDELBERG.DRUCKMA.O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0007314007,731400,HEIDELBERG.DRUCKMA.O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE0007830572,783057,DALDRUP+SOEHNE AG,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0007830572,783057,DALDRUP & SÃHNE,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE0007856023,785602,ELRINGKLINGER AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0007856023,785602,ELRINGKLINGER AG NA O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE0008019001,801900,DT.PFANDBRIEFBK AG,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE0008019001,801900,DT.PFANDBRIEFBK AG,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000A0HN5C6,A0HN5C,DEUTSCHE WOHNEN SE INH,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A0HN5C6,A0HN5C,DEUTSCHE WOHNEN SE INH,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE000A0JC8S7,A0JC8S,DATAGROUP SE  INH. O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A0JC8S7,A0JC8S,DATAGROUP IT SERVICES HOLDING AG,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000A0LD6E6,A0LD6E,GERRESHEIMER AG,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A0LD6E6,A0LD6E,GERRESHEIMER AG,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE000A0MVLS8,A0MVLS,ENVITEC BIOGAS O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A0MVLS8,A0MVLS,ENVITEC BIOGAS,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000A0MZ4B0,A0MZ4B,DELIGNIT AG      INH.O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A0MZ4B0,A0MZ4B,DELIGNIT AG,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000A0XFSF0,A0XFSF,DEMIRE DT.MTS.RE AG,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A0XFSF0,A0XFSF,DEMIRE AG,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000A0XYG76,A0XYG7,DT.ROHSTOFF AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A0XYG76,A0XYG7,DEUTSCHE ROHSTOFF AG,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A13SX22,A13SX2,HELLA GMBH+CO. KGAA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A13SX22,A13SX2,HELLA GMBH+CO. KGAA O.N.,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE000A161408,A16140,HELLOFRESH SE  INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A161408,A16140,HELLOFRESH SE  INH O.N.,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE000A161N30,A161N3,GRENKE AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A161N30,A161N3,GRENKE AG NA O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000A1A6WE6,A1A6WE,DOCCHECK AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A1A6WE6,A1A6WE,DOCCHECK AG,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000A1EWVY8,A1EWVY,FORMYCON AG,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A1EWVY8,A1EWVY,FORMYCON AG,Aktien Deutschland,Aktien TECDAX,,"
+    },
+    {
+      "Original": "DE000A1PHFF7,A1PHFF,HUGO BOSS AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A1PHFF7,A1PHFF,HUGO BOSS AG NA O.N.,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE000A1TNUT7,A1TNUT,DT.BETEILIG.AG   NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A1TNUT7,A1TNUT,DT.BETEILIG.AG   NA O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000A288904,A28890,COMPUGROUP MED. NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A288904,A28890,COMPUGROUP MED. NA O.N.,Aktien Deutschland,Aktien TECDAX,,"
+    },
+    {
+      "Original": "DE000A2E4K43,A2E4K4,DELIVERY HERO SE NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A2E4K43,A2E4K4,DELIVERY HERO SE NA O.N.,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE000A2GS5D8,A2GS5D,DERMAPHARM HLDG INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A2GS5D8,A2GS5D,DERMAPHARM HLDG INH O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000A3E5D64,A3E5D6,FUCHS SE  VZO NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A3E5D64,A3E5D6,FUCHS SE  VZO NA O.N.,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE000A3H2333,A3H233,HAMBORNER REIT AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000A3H2333,A3H233,HAMBORNER REIT AG NA O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000BEAU7Y1,BEAU7Y,DOUGLAS AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000BEAU7Y1,BEAU7Y,DOUGLAS AG ST I,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000EVNK013,EVNK01,EVONIK INDUSTRIES NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000EVNK013,EVNK01,EVONIK INDUSTRIES NA O.N.,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "DE000FPH9000,FPH900,FRANCOTYP-POSTALIA HLDG,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000FPH9000,FPH900,FRANCOTYP,Aktien Deutschland,Aktien Sonstige,,"
+    },
+    {
+      "Original": "DE000FTG1111,FTG111,FLATEXDEGIRO AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000FTG1111,FTG111,FLATEXDEGIRO AG NA O.N.,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000HAG0005,HAG000,HENSOLDT AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "DE000HAG0005,HAG000,HENSOLDT AG INH O.N.,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "LU0775917882,A1JXCV,\"GRAND CITY PROPERT.EO-, 10\",Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "LU0775917882,A1JXCV,\"GRAND CITY PROPERT.EO-, 10\",Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "LU2290523658,A2QM3K,HOMETOGO SE          EO 1,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "LU2290523658,A2QM3K,HOMETOGO SE          EO 1,Aktien Europa,Aktien Europa Select,,"
+    },
+    {
+      "Original": "US3385171059,347324,\"FLANIGANS ENTER. DL-, 1\",Aktien International,Aktien International,,",
+      "Current": "US3385171059,347324,\"FLANIGANS ENTER. DL-, 1\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US3580291066,879529,FRESENIUS MD.CARE ADR 1/2,Aktien Deutschland,Aktien Sonstige,,",
+      "Current": "US3580291066,879529,FRESENIUS MD.CARE ADR 1/2,Aktien Deutschland,Aktien MDAX,,"
+    },
+    {
+      "Original": "US46520M2044,A1JNEX,\"ACCESS NEWSWIRE    DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US46520M2044,A1JNEX,\"ISSUER DIRECT NEW  DL-, 01\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US67011P1003,A113R6,\"DNOW INC           DL-, 01\",Aktien USA,Aktien USA Select,,",
+      "Current": "US67011P1003,A113R6,\"NOW INC.           DL-, 01\",Aktien USA,Aktien USA Select,,"
+    },
+    {
+      "Original": "US69002R1032,A3CV8N,\"TEADS HOLDING CO. DL-, 001\",Aktien USA,Aktien USA Select,,",
+      "Current": "US69002R1032,A3CV8N,\"OUTBRAIN INC.     DL-, 001\",Aktien USA,Aktien USA Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA65346E2042,A41ALY,NEXMETALS MINING     O.N.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 56,
+    "Deletions": 1
+  }
+}
