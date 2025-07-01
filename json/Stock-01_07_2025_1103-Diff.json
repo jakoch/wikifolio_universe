@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA13758Y2015,A1J4RA,CANICKEL MINING,Aktien Hot Stocks,Aktien Hot Stocks,,",
+    "CA31622P2061,A2PW04,FIDELITY MINERALS,Aktien International,Aktien International,,",
+    "CA8473811005,A2AHL5,SPEARMINT RESOURCES INC,Aktien International,Aktien International,,",
+    "NL0012170237,A2DMX3,\"PLAYA HOTELS+RES. EO -, 10\",Aktien USA,Aktien USA Select,,",
+    "US98262P1012,A2PSZQ,WW INTL INC.,Aktien USA,Aktien Dow Jones,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "JE00BF0XVB15,A2DY13,CALEDONIA MINING     O.N.,Aktien Europa,Aktien Europa Select,Aktien USA,Aktien USA Select",
+      "Current": "JE00BF0XVB15,A2DY13,CALEDONIA MINING     O.N.,Aktien Europa,Aktien Europa Select,,"
+    }
+  ],
+  "Deletions": [
+    "CA0068131097,A41AGV,ADELAYDE EXPL. INCO.N.,Aktien International,Aktien International,,",
+    "NL0015002J37,A41ARP,\"JBS N.N.         EO -, 01\",Aktien USA,Aktien USA Select,,",
+    "CA31622P3051,A41BZU,FIDELITY MINERALS NEW,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
