@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA5015068029,A415KV,KWESST MICRO SYS.INC.,Aktien International,Aktien International,,",
+    "CA92873W1005,A3EB9Y,VOLT LITHIUM CORP,Aktien International,Aktien International,,",
+    "GB00BD5JNK30,A2JN4U,\"AQUIS EXCHANGE PL   LS-, 1\",Aktien Europa,Aktien Europa Select,,",
+    "US05478C1053,A2P099,AZEK CO. INC. CL.A,Aktien USA,Aktien USA Select,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,,"
+    }
+  ],
+  "Deletions": [
+    "CA53155T1084,A419Q5,LIBERTYSTREAM I.P. O.N.,Aktien International,Aktien International,,",
+    "CA2447781063,A41BTD,DEFSEC TECHNOLOGIES INC.,Aktien International,Aktien International,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
