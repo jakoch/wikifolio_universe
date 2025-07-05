@@ -416,9 +416,9 @@ move_files() {
   mkdir -p sqlite
   mv ./*.sqlite.zip sqlite/
 
-  print_status 'Moving *.json files into json folder';
-  mkdir -p json
-  mv ./*.json json/
+  #print_status 'Moving *.json files into json folder';
+  #mkdir -p json
+  #mv ./*.json json/
 
   cd ..
 }
