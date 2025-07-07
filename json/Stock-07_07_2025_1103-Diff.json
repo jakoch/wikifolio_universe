@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA0203981034,A1JSSD,ALMONTY INDUSTRIES INC.,Aktien International,Aktien International,,,,",
+    "FR001400RKU0,A40H9L,\"SAFE S.A.       EO 300, -\",Aktien Europa,Aktien Europa Select,,,,",
+    "US30034T1034,A14YWK,\"EVERI HLDGS INC.  DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "DE000A12UK08,A12UK0,MOUNTAIN ALLIANCE NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "CA0203987072,A414Q8,ALMONTY INDUSTRY O.N.,Aktien International,Aktien International,,,,",
+    "FR001400ZU25,A41AHG,\"SAFE S.A.       EO 4, 80\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
