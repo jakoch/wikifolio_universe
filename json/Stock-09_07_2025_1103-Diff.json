@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA8834261080,A2JDME,THERMA BRIGHT INC.,Aktien International,Aktien International,,,,",
+    "NO0010808892,A2H7BK,CRAYON GROUP HOLDING NK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "US5603172082,A1C8BP,VK CO. LTD. GDR REG S,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AT0000625504,854019,BTV VIER LAENDER BANK AG,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "AT0000625504,854019,BK TIROL VORARLBG,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA8834262070,A41C5B,THERMA BRIGHT INC.,Aktien International,Aktien International,,,,",
+    "CA17989L1022,A3E4MS,CLARA TECH. CORP. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
