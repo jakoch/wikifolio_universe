@@ -1,0 +1,109 @@
+{
+  "Additions": [
+    "BE0974323553,A2H8QY,SMARTPHOTO GROUP,Aktien Europa,Aktien Europa Select,,,,",
+    "CA09064N1033,A1KCZ1,BIOASIS TECHNOLOGIES INC.,Aktien International,Aktien International,,,,",
+    "US26443V1017,A2ABDD,DULUTH HOLDINGS INC.,Aktien USA,Aktien USA Select,,,,",
+    "US74915M7048,A41BJY,\"QVC GROUP B       DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US86745K1043,A2PNYK,\"SUNNOVA ENERGY INT.-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005220909,522090,NEXUS AG O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE0005220909,522090,NEXUS AG O.N.,Aktien Deutschland,Aktien SDAX,,,,"
+    },
+    {
+      "Original": "DE0006292006,629200,KSB SE+CO.KGAA  ST O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE0006292006,629200,KSB SE & CO. KGAA INHABER-STAMMAKTIEN O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE0006580806,658080,MENSCH UND MASCH.O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE0006580806,658080,MENSCH UND MASCHINE,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE0006968001,696800,PWO AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE0006968001,696800,PROGRESS-WERK OBERK. O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE0007074007,707400,KWS SAAT KGAA  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE0007074007,707400,KWS SAAT SE O.N.,Aktien Deutschland,Aktien SDAX,,,,"
+    },
+    {
+      "Original": "DE000A0ETBQ4,A0ETBQ,MBB SE O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A0ETBQ4,A0ETBQ,MBB SE,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A0H52F5,A0H52F,MVV ENERGIE AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A0H52F5,A0H52F,MVV ENERGIE AG,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A0HGQS8,A0HGQS,PLANOPTIK AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A0HGQS8,A0HGQS,PLAN OPTIK         O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A0KPPR7,A0KPPR,NABALTEC AG INH.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A0KPPR7,A0KPPR,NABALTECH,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A0Z1JH9,A0Z1JH,PSI SOFTWARE SE NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A0Z1JH9,A0Z1JH,PSI SOFTWARE AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A12UPJ7,A12UPJ,PAL NEXT AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A12UPJ7,A12UPJ,PANTAFLIX AG  INH. O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A14KRD3,A14KRD,DT.KONSUM REIT-AG,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A14KRD3,A14KRD,KONSUM REIT-AG,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A161NR7,A161NR,THE NAGA GROUP AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A161NR7,A161NR,THE NAGA GROUP AG NAMENS-AKTIEN O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A1A6V48,A1A6V4,KPS AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A1A6V48,A1A6V4,KPS AG,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A1TNWJ4,A1TNWJ,MPC MUENCH.PET.CAP.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A1TNWJ4,A1TNWJ,MPC MUENCH.PET.CAP.O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A289V03,A289V0,MPH HEALTH CARE  INH O.N,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A289V03,A289V0,MPH HEALTH CARE KONV. O.N,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A2E4MK4,A2E4MK,NORATIS AG  INH. O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A2E4MK4,A2E4MK,NORATIS AG INHABER-AKTIEN O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,,",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX,,"
+    },
+    {
+      "Original": "DE000A2NB650,A2NB65,MUTARES KGAA  NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A2NB650,A2NB65,MUTARES KGAA  NA O.N.,Aktien Deutschland,Aktien SDAX,,,,"
+    },
+    {
+      "Original": "DE000A3DW408,A3DW40,DN DT.NACHHALT. NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A3DW408,A3DW40,NEON EQUITY  NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A4096T1,A4096T,PRO DV AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A4096T1,A4096T,PRO DV AG INH O.N. KONV.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A40KYB8,A40KYB,COREO AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A40KYB8,A40KYB,COREO AG KONV.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000PAT1AG3,PAT1AG,PATRIZIA SE NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000PAT1AG3,PAT1AG,PATRIZIA SE NA O.N.,Aktien Deutschland,Aktien SDAX,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 23,
+    "Deletions": 0
+  }
+}
