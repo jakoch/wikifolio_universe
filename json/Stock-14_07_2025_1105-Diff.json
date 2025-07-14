@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "CA73938G1081,A3D83A,POWERSTONE METALS CORP.,Aktien International,Aktien International,,,,",
+    "SE0011527845,A2PASN,Q-LINEA AB,Aktien Europa,Aktien Europa Select,,,,",
+    "US08862L1035,A2PNGL,\"BEYOND AIR INC.  DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US52110H1005,A2JGKR,LAZYDAYS HOLDINGS INC.,Aktien USA,Aktien USA Select,,,,",
+    "US65343E1082,A2PHHE,\"NEXTCURE INC.     DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US69291A1007,A2QGHH,\"PHX MINERALS A  DL-, 01666\",Aktien USA,Aktien USA Select,,,,",
+    "US8068821060,899146,RADIUS RECYCLING INC.DL 1,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "US08862L2025,A41C99,BEYOND AIR INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US65343E2072,A41AKJ,\"NEXTCURE INC.NEW  DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "CA53160R1055,A41D32,LIBRA ENERGY MATERIALS,Aktien International,Aktien International,,,,",
+    "DE0006208408,620840,KAP AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US52110H2094,A41BA9,LAZYDAYS HOLDINGS O.N.,Aktien USA,Aktien USA Select,,,,",
+    "SE0025420714,A41DDP,Q-LINEA AB,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 3,
+    "Deletions": 6
+  }
+}
