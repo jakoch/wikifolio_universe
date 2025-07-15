@@ -1,0 +1,95 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE000LS9SQF2,LS9SQF,Worldwide Invest MS,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+      "Current": "DE000LS9SQF2,LS9SQF,Worldwide Invest MS,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9TRZ6,LS9TRZ,USA Leveraged,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9TRZ6,LS9TRZ,USA Leveraged,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9U0T0,LS9U0T,Crypto Currency Trader,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9U0T0,LS9U0T,Crypto Currency Trader,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9U138,LS9U13,Diversifikation Matrix,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9U138,LS9U13,Diversifikation Matrix,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9U1H3,LS9U1H,Faktor Momentum Trader,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9U1H3,LS9U1H,Faktor Momentum Trader,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9U2M1,LS9U2M,Freedom Investor,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9U2M1,LS9U2M,Freedom Investor,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9U351,LS9U35,Value- und Dividendenstrategie,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9U351,LS9U35,Value- und Dividendenstrategie,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9U369,LS9U36,Wachstums-Perlen Trend,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9U369,LS9U36,Wachstums-Perlen Trend,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9U4H7,LS9U4H,Optunity InvestiGATOR,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9U4H7,LS9U4H,Optunity InvestiGATOR,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9U7B3,LS9U7B,Digitale Goldgrube,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9U7B3,LS9U7B,Digitale Goldgrube,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9U930,LS9U93,ArgentinienTurbo,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9U930,LS9U93,ArgentinienTurbo,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9U9A1,LS9U9A,Defensives Bonus Invest,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9U9A1,LS9U9A,Defensives Bonus Invest,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9UP51,LS9UP5,Pick-up Strategy,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9UP51,LS9UP5,Pick-up Strategy,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9UPB9,LS9UPB,US Aktien Leveraged nach SMA200,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9UPB9,LS9UPB,US Aktien Leveraged nach SMA200,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9UR18,LS9UR1,Cryptotrade,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9UR18,LS9UR1,Cryptotrade,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9UTD7,LS9UTD,Crypto Evas Bitcoin-Werte RWA,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9UTD7,LS9UTD,Crypto Evas Bitcoin-Werte RWA,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9UW29,LS9UW2,US-Techwerte mit Booster,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9UW29,LS9UW2,US-Techwerte mit Booster,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9UYP1,LS9UYP,BlackForest,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9UYP1,LS9UYP,BlackForest,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9VA99,LS9VA9,SHI Income Capital,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9VA99,LS9VA9,SHI Income Capital,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9VAN4,LS9VAN,All Weather Asset Strategies,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+      "Current": "DE000LS9VAN4,LS9VAN,All Weather Asset Strategies,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9VBH4,LS9VBH,Globale Referenz,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9VBH4,LS9VBH,Globale Referenz,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 21,
+    "Deletions": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA68707R1038,A2QBUC,OROGEN ROYALTIES INC.,Aktien International,Aktien International,,,,",
+    "FR0013270626,A2DVHU,\"INFOR.MAISON INT. EO -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "US25058X3035,A40AXJ,DESKTOP METAL INC. A O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US6097861081,A3D3L6,MONOGRAM TECHNOLOGIES INC,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US6097861081,A3D3L6,MONOGRAM ORTHOPAEDICS INC,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US3142111034,914304,FEDERATED HERMES,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US3142111034,914304,FEDERATED INVESTORS (PA.),Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "GB00B128J450,A0JKX1,\"IP GROUP PLC      LS -, 02\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
