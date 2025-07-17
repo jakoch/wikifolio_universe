@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA53228G1090,A3CYWT,LIFESPEAK INC.,Aktien International,Aktien International,,,,",
+    "DE0007775207,777520,WESTAG AG  INH ST O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE0007775231,777523,WESTAG AG  INH VZO O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A2TSL71,A2TSL7,SYNLAB AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "IE00BNC17X36,A2QC11,FUSION FUEL GREEN CL.A,Aktien USA,Aktien USA Select,,,,",
+    "NO0013293142,A40K03,XXL ASA A         NK 40,Aktien Europa,Aktien Europa Select,,,,",
+    "US5410981097,A3CTU4,\"LOGAN RIDGE FIN.   DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA86848C1086,A41A13,SUPERQ QUANTUM COM. O.N.,Aktien International,Aktien International,,,,",
+    "IE00045C7B38,A41DDS,FUSION FUEL GREEN CL.A,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
