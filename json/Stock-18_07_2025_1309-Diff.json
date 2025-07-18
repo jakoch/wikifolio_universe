@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "CA02312A1066,A3DQ02,AMAROQ MINERALS LTD,Aktien International,Aktien International,,,,",
+    "CA0886412042,A3D3KN,BEYOND MED TEC. INC. NEW,Aktien International,Aktien International,,,,",
+    "US0044342055,552863,ACER GDR REG.S/5 TA 10,Aktien International,Aktien International,,,,",
+    "US09627Y1091,A14SDD,BLUEPRINT MED.CORP.DL-001,Aktien USA,Aktien USA Select,,,,",
+    "US15872M1045,A2P58Q,\"CHAMPIONX CORP.    DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US81728A2078,A41A4Z,SENSEI BIOTHERAPEUT. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US88362L2097,A3D3XX,THERMOGENESIS H.INC. NEW,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "CA3808871097,A4134N,GOLDEN CROSS RES.INC. NEW,Aktien International,Aktien International,,,,",
+    "CA02311U1030,A41AT8,AMAROQ LTD        O.N.,Aktien International,Aktien International,,,,",
+    "CA7608011002,A41AYF,REP.TEC.INC. O.N.,Aktien International,Aktien International,,,,",
+    "US09175A2069,A411ZL,BITMINE IMMERSION TEC.NEW,Aktien USA,Aktien USA Select,,,,",
+    "JP3119820003,A40CPM,ASTROSCALE HLDS INC. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 1,
+    "Deletions": 5
+  }
+}
