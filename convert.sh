@@ -151,12 +151,21 @@ install_wiuc() {
 
   local version
   local url
-  version="$(curl -s https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest | jq -r '.tag_name' | cut -c 2-)"; echo "Latest WIUC Version: $version"
-  url="https://github.com/jakoch/wikifolio_universe_converter/releases/download/v$version/wiuc-$version-clang15-x64-linux.zip"; echo "Download URL: $url"
+
+  version="$(curl -s https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest | jq -r '.tag_name' | cut -c 2-)"
+  if [[ "$version" == "null" || -z "$version" ]]; then
+    echo "::warning ⚠️  Warning: Failed to fetch latest version from GitHub. Falling back to version 1.0.9"
+    version="1.0.9"
+  fi
+  echo "Using WIUC Version: $version"
+
+  url="https://github.com/jakoch/wikifolio_universe_converter/releases/download/v$version/wiuc-$version-clang15-x64-linux.zip"
+  echo "Download URL: $url"
+
   # --retry-all-errors only supported by curl v7.71.0+
   curl --retry 3 -L --output ./wiuc.zip "$url"
   mkdir -p data
-  7z e ./wiuc.zip -odata  
+  7z e ./wiuc.zip -odata
   rm ./wiuc.zip
   chmod +x data/wiuc
 }
