@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU1094612022,DBX0PN,XTR.II HARV.CH.GOV.BD 1D,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "LU1094612022,DBX0PN,DB X- II HARVEST CSI CHINA,ETFs,ETFs Asien,,,,"
+    }
+  ],
+  "Deletions": [
+    "CH1464217285,A4AN6H,21SHARES XDC ETP O.END,ETFs,sonstige ETFs,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

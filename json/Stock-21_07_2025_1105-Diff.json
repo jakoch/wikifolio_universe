@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "US1689133098,A2P250,\"SMART POWERR CORP.DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "IT0005595423,A40HJX,SYS DAT S.P.A. O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "US1689134088,A41B3R,\"SMART POWER CORP. DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "CNE100001T72,A12F2G,YANGTZE OPT.FIB.AND CAB.H,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
