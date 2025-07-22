@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "FR001400TG47,A40P55,NEOVACS NOM.         EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "KYG319891092,A2PK8B,ESR CAYMAN LTD.,Aktien International,Aktien International,,,,",
+    "SE0007331608,A14XKR,TF BANK AB,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "SE0025666969,A41E66,TF BANK AB,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0014010856,A41BPL,\"NEOVACS NOM.     EO 1, -\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA57778V1013,A415NU,MAXUS MINING INC.,Aktien International,Aktien International,,,,",
+    "CA25383T1003,A414JE,DIGITAL COMMODITIES CAP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
