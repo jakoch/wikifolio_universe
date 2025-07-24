@@ -1,0 +1,18 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU0533033667,LYX0GP,MUL AMUN W INFTEC ETF ACC,ETFs,ETFs Branchen,,,,",
+      "Current": "LU0533033667,LYX0GP,LYXOR MSCI WORLD INFORMATION TECHNO. TR,ETFs,ETFs Branchen,,,,"
+    }
+  ],
+  "Deletions": [
+    "DE000A2QP4C4,A2QP4C,ISHS DJ GL.T50 U.ETF EOA,ETFs,ETFs Nordamerika,,,,",
+    "IE000YELA4E3,A41AY5,LE.GE.LG SP 100 EQ.WE.DLA,ETFs,ETFs Nordamerika,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
