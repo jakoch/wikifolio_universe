@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "CA23249L1067,A41D8S,CVW SUSTAINABLE ROY. O.N.,Aktien International,Aktien International,,,,",
+    "DK0060036564,A0HDE3,SPAR NORD BANK NAM. DK 10,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0004152700,A12CFB,\"ODIOT S.A.         EO-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "US05380C1027,A2P733,\"AVITA MEDICAL    DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US15117N6022,A3DWEJ,\"IMUNON INC.        DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US3116421021,909382,\"FARO TECHS INC.   DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US8681681057,866479,SUPERIOR INDUSTRIES INTL,Aktien USA,Aktien USA Select,,,,",
+    "US92511W1080,A2JPEV,\"VERRICA PHARMAC. DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU0000155228,A3C6E1,METALLIUM LTD.,Aktien International,Aktien International,,,,",
+      "Current": "AU0000155228,A3C6E1,MTM CRITICAL METALS LTD,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "GB00BYT1DJ19,A2AMU0,\"ICG PLC          LS-, 2625\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB00BYT1DJ19,A2AMU0,\"INTERMED.CAP.GRP.LS-, 2625\",Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "US92511W2070,A41A98,VERRICA PHARM.   NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA37888C1023,A3E4VP,GLENSTAR MINERALS INC.,Aktien International,Aktien International,,,,",
+    "FR0014010DV3,A41BNU,\"ODIOT S.A.         EO 1, -\",Aktien Europa,Aktien Europa Select,,,,",
+    "US15117N7012,A41CNR,\"IMUNON INC. NEW    DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}
