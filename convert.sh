@@ -145,6 +145,23 @@ install_csvdiff() {
   sudo dpkg -i csvdiff.deb
 }
 
+get_latest_wiuc_version() {
+  local response
+  response="$(curl -s --fail --retry 3 --retry-delay 1 https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest)"
+  if [[ $? -eq 0 ]]; then
+    version="$(echo "$response" | jq -r '.tag_name' | cut -c 2-)"
+    if [[ -n "$version" && "$version" != "null" ]]; then
+      echo "$version"
+      return 0
+    fi
+  fi
+
+  local fallback_version="1.0.9"
+  echo "::warning ⚠️  Warning: Failed to fetch latest version from GitHub. Falling back to version $fallback_version"
+  echo "$fallback_version"
+  return 1
+}
+
 install_wiuc() {
   print_status "🔽 Installing Wikifolio Universe Converter"
   isInstalled "$(data/wiuc --version)" && return
@@ -152,11 +169,7 @@ install_wiuc() {
   local version
   local url
 
-  version="$(curl -s https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest | jq -r '.tag_name' | cut -c 2-)"
-  if [[ "$version" == "null" || -z "$version" ]]; then
-    echo "::warning ⚠️  Warning: Failed to fetch latest version from GitHub. Falling back to version 1.0.9"
-    version="1.0.9"
-  fi
+  version="$(get_latest_wiuc_version)"
   echo "Using WIUC Version: $version"
 
   url="https://github.com/jakoch/wikifolio_universe_converter/releases/download/v$version/wiuc-$version-clang15-x64-linux.zip"
