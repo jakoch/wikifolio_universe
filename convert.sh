@@ -146,16 +146,17 @@ install_csvdiff() {
 }
 
 get_latest_wiuc_version() {
+  # Fetch the latest version of Wikifolio Universe Converter from GitHub
   local response
-  response="$(curl -s --fail --retry 3 --retry-delay 1 https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest)"
-  if [[ $? -eq 0 ]]; then
+  local version
+  if response="$(curl -s --fail --retry 3 --retry-delay 1 https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest)"; then
     version="$(echo "$response" | jq -r '.tag_name' | cut -c 2-)"
     if [[ -n "$version" && "$version" != "null" ]]; then
       echo "$version"
       return 0
     fi
   fi
-
+  # If fetching the version fails, use a fallback version
   local fallback_version="1.0.9"
   echo "::warning ⚠️  Warning: Failed to fetch latest version from GitHub. Falling back to version $fallback_version"
   echo "$fallback_version"
