@@ -46,20 +46,25 @@ jobs:
       - name: Create gh-pages-review branch with only monthly commits
         run: |
           set -euo pipefail
-          FIRST=${{ steps.find_commit.outputs.first_commit }}
 
-          # Start a truly orphan branch (no history)
+          # Find the first commit for the current month (avoid piping to head)
+          FIRST=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" --max-count=1 gh-pages || true)
+
+          if [ -z "${FIRST:-}" ]; then
+            echo "No commits found for this month — nothing to review."
+            exit 0
+          fi
+
+          # Create an orphan branch and reset to the tree of FIRST
           git checkout --orphan gh-pages-review
+          git reset --hard "$FIRST"
 
-          # Reset working tree to empty
-          git reset --hard
-
-          # Create the first commit of the month as a new commit
-          git checkout $FIRST -- .
-          git commit -m "First commit of the month (recreated)" --date="$(git show -s --format=%ci $FIRST)"
-
-          # Cherry-pick subsequent commits onto this branch
-          git cherry-pick $(git rev-list --reverse $FIRST..gh-pages) || true
+          # Cherry-pick any commits after FIRST from gh-pages onto the orphan branch
+          # Use rev-list to collect commits in chronological order
+          COMMITS=$(git rev-list --reverse "$FIRST"..gh-pages --since="$(date '+%Y-%m-01 00:00:00')" || true)
+          if [ -n "${COMMITS:-}" ]; then
+            git cherry-pick $COMMITS || true
+          fi
 
           echo "✅ gh-pages-review branch now contains all commits from $FIRST onward."
 
