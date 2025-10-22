@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write # required to push to the repository
 
 jobs:
   clean-gh-pages:
@@ -16,26 +16,26 @@ jobs:
           ref: gh-pages
           fetch-depth: 0  # full history for git filter-repo
 
-      - name: ✂️ Free Disk Space
-        uses: jlumbroso/free-disk-space@v1.3.1 # https://github.com/jlumbroso/free-disk-space
-        with:
-          tool-cache: true
-          android: true
-          dotnet: true
-          haskell: true
-          large-packages: true
-          docker-images: true
-          swap-storage: true
-
       - name: Install git-filter-repo
         run: |
           sudo apt-get update
           sudo apt-get install -y git-filter-repo
 
-      - name: Remove CSV folder from history
+      - name: Remove all commits before the first day of current month
         run: |
-          git filter-repo --path csv --invert-paths
-          rm -rf refs/original/
+          # Generate "YYYY-MM-01" for the current month
+          CUTOFF_DATE=$(date +%Y-%m-01)
+          echo "Cutoff date: $CUTOFF_DATE"
+
+          # Get the first commit for the first day of this month
+          FIRST_COMMIT=$(git log --reverse --since="$CUTOFF_DATE" --format="%H" | head -n 1)
+          echo "First commit for $CUTOFF_DATE: $FIRST_COMMIT"
+
+          # Keep only the history from that commit onward
+          git filter-repo --force --keep-branches --keep-tags --keep="$FIRST_COMMIT..gh-pages"
+
+      - name: Cleanup Git History
+        run: |
           git reflog expire --all --expire=now
           git gc --prune=now --aggressive
 
