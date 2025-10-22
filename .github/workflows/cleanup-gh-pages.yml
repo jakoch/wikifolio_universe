@@ -62,6 +62,11 @@ jobs:
           echo "month_start=$CURRENT_MONTH_START" >> $GITHUB_OUTPUT
           echo "commit_count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
 
+      - name: Set git user identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Create new branch with current month only
         env:
           FIRST_COMMIT: ${{ steps.find_commit.outputs.first_commit }}
