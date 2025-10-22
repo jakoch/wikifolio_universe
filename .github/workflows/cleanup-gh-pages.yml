@@ -16,19 +16,13 @@ jobs:
           ref: gh-pages
           fetch-depth: 1  # start shallow to avoid huge downloads
 
-      - name: Install git-filter-repo
-        run: |
-          sudo apt-get update
-          python3 -m pip install --upgrade --user git-filter-repo
-          echo "$HOME/.local/bin" >> $GITHUB_PATH
-
       - name: Determine cutoff and first commit (deepen until found)
         id: find_commit
         run: |
           set -euo pipefail
 
-          # First day of the current month
-          CUTOFF_DATE=$(date +%Y-%m-01)
+          # First day of the previous month (to include current month's first day in the dataset)
+          CUTOFF_DATE=$(date -d 'last month' +%Y-%m-01)
           echo "Cutoff date: $CUTOFF_DATE"
 
           # Try shallow fetch since date if available (fast, small)
@@ -71,12 +65,12 @@ jobs:
       #    git checkout -b backup-gh-pages
       #    git push origin backup-gh-pages
 
-      - name: Create and rewrite branch starting from first commit
+      - name: Create branch with all commits from cutoff onward
         run: |
           FIRST_COMMIT=${{ steps.find_commit.outputs.first }}
-          git branch temp-start "$FIRST_COMMIT"
-          git checkout temp-start
-          git filter-repo --force --refs temp-start
+          git checkout "$FIRST_COMMIT"
+          git checkout -b temp-start
+          git cherry-pick "$FIRST_COMMIT"..HEAD
 
       - name: Cleanup Git objects
         run: |
