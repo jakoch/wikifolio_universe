@@ -85,6 +85,10 @@ jobs:
 
           git checkout --orphan gh-pages-review "$FIRST_COMMIT_TO_KEEP"
 
+          # Remove all files from index and working directory
+          git rm -rf --cached .
+          git clean -fdx
+
           # Cherry-pick remaining commits (skip first one, already checked out)
           if [ "$TOTAL_COMMITS" -gt 1 ]; then
             echo "Cherry-picking remaining commits..."
@@ -100,8 +104,6 @@ jobs:
               }
             done
           fi
-
-          echo "✓ Successfully cherry-picked all commits"
 
       - name: Verify new branch
         run: |
