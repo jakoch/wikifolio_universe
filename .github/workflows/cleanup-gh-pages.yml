@@ -73,27 +73,35 @@ jobs:
           echo "Creating new branch from $FIRST_COMMIT onwards..."
           echo "Keeping $COMMIT_COUNT commits since $MONTH_START"
 
-          # Get list of commits to keep (newest first)
-          git log --since="$MONTH_START 00:00:00" --format="%H" > commits_to_keep.txt
+          # Get list of commits to keep (oldest first for proper cherry-picking)
+          git log --since="$MONTH_START 00:00:00" --reverse --format="%H" > commits_to_keep.txt
 
-          # Create fresh orphan branch
-          git checkout --orphan gh-pages-review
-          git rm -rf . 2>/dev/null || true
-          git clean -fdx
+          TOTAL_COMMITS=$(wc -l < commits_to_keep.txt)
+          echo "Processing $TOTAL_COMMITS commits..."
 
-          # Cherry-pick commits in reverse order (oldest first)
-          echo "Cherry-picking commits..."
-          tac commits_to_keep.txt | while IFS= read -r COMMIT; do
-            COMMIT_MSG=$(git log -1 --format="%s" "$COMMIT")
-            COMMIT_DATE=$(git log -1 --format="%ci" "$COMMIT")
-            echo "  → $COMMIT ($COMMIT_DATE): $COMMIT_MSG"
+          # Create fresh orphan branch from first commit
+          FIRST_COMMIT_TO_KEEP=$(head -n 1 commits_to_keep.txt)
+          echo "Creating orphan branch from first commit: $FIRST_COMMIT_TO_KEEP"
 
-            GIT_COMMITTER_DATE="$COMMIT_DATE" \
-            git cherry-pick --allow-empty --keep-redundant-commits "$COMMIT" || {
-              echo "⚠️  Failed to cherry-pick $COMMIT, attempting to continue..."
-              git cherry-pick --skip || true
-            }
-          done
+          git checkout --orphan gh-pages-review "$FIRST_COMMIT_TO_KEEP"
+
+          # Cherry-pick remaining commits (skip first one, already checked out)
+          if [ "$TOTAL_COMMITS" -gt 1 ]; then
+            echo "Cherry-picking remaining commits..."
+            tail -n +2 commits_to_keep.txt | while IFS= read -r COMMIT; do
+              COMMIT_MSG=$(git log -1 --format="%s" "$COMMIT")
+              COMMIT_DATE=$(git log -1 --format="%ci" "$COMMIT")
+              echo "  → $COMMIT ($COMMIT_DATE): $COMMIT_MSG"
+
+              git cherry-pick --allow-empty --keep-redundant-commits "$COMMIT" || {
+                echo "⚠️  Failed to cherry-pick $COMMIT"
+                git cherry-pick --abort || true
+                exit 1
+              }
+            done
+          fi
+
+          echo "✓ Successfully cherry-picked all commits"
 
       - name: Verify new branch
         run: |
