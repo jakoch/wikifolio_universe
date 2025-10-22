@@ -37,7 +37,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          git fetch --shallow-since="${{ steps.dates.outputs.fetch_since }}" --unshallow origin gh-pages
+          git fetch --shallow-since="${{ steps.dates.outputs.fetch_since }}" origin gh-pages
 
           FIRST_COMMIT=$(git rev-list --reverse --since="${{ steps.dates.outputs.month_start }}" --max-count=1 gh-pages)
 
@@ -62,9 +62,8 @@ jobs:
           git checkout --orphan gh-pages-review
           git reset --hard
 
-          # Recreate first commit
-          git checkout $FIRST_COMMIT -- .
-          git commit -m "$(git log -1 --pretty=%B $FIRST_COMMIT)" --date="$(git show -s --format=%ci $FIRST_COMMIT)"
+          # Cherry-pick fFirst commit of month
+          git cherry-pick $FIRST_COMMIT
 
           # Cherry-pick the rest of the month
           if [ -n "$MONTH_COMMITS" ]; then
