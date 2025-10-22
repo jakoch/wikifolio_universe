@@ -61,20 +61,16 @@ jobs:
           CUTOFF_DATE=$(date -d 'last month' +%Y-%m-01)
           echo "Filtering commits since $CUTOFF_DATE"
 
+          # Convert cutoff date to Unix timestamp
+          CUTOFF_TS=$(date -d "$CUTOFF_DATE" +%s)
+          echo "Cutoff timestamp: $CUTOFF_TS"
+
           git filter-repo --force --commit-callback "
-          import datetime
-          cutoff = int(datetime.datetime.strptime('$CUTOFF_DATE', '%Y-%m-%d').timestamp())
-          # commit.committer_date can be bytes, str (like '12345 +0000'), or an int.
-          cd = commit.committer_date
-          if isinstance(cd, bytes):
-              cd = cd.decode('utf-8')
-          if isinstance(cd, str):
-              ts = int(cd.split()[0])
-          else:
-              ts = int(cd)
-          if ts < cutoff:
+            import datetime
+            cutoff = int('$CUTOFF_TS')
+            if commit.committer_date_int < cutoff:
               commit.skip = True
-          "
+            "
 
       - name: Clean up git objects
         run: |
