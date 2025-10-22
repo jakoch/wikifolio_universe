@@ -1,4 +1,4 @@
-name: Cleanup gh-pages (review, shallow safe)
+name: Cleanup gh-pages
 
 on:
   workflow_dispatch:
@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v5
         with:
           ref: gh-pages
-          fetch-depth: 10  # start small, we'll deepen as needed
+          fetch-depth: 40  # start small, we'll deepen as needed
 
       - name: Set git user identity
         run: |
@@ -32,8 +32,8 @@ jobs:
           echo "Looking for first commit since: $TARGET_MONTH_START"
 
           FIRST_COMMIT=""
-          DEPTH=10
-          MAX_DEPTH=90  # prevent infinite loop
+          DEPTH=20
+          MAX_DEPTH=100  # prevent infinite loop
 
           while [ -z "$FIRST_COMMIT" ] && [ $DEPTH -le $MAX_DEPTH ]; do
             echo "🔎 Searching with depth=$DEPTH..."
