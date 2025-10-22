@@ -32,9 +32,10 @@ jobs:
         id: find_commit
         run: |
           set -euo pipefail
-          FIRST_COMMIT=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" gh-pages | head -n 1)
 
-          if [ -z "$FIRST_COMMIT" ]; then
+          FIRST_COMMIT=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" --max-count=1 gh-pages || true)
+
+          if [ -z "${FIRST_COMMIT:-}" ]; then
             echo "No commits found for this month — skipping workflow."
             exit 0
           fi
@@ -47,13 +48,13 @@ jobs:
           set -euo pipefail
           FIRST=${{ steps.find_commit.outputs.first_commit }}
 
-          # Start orphan branch from first commit
-          git checkout --orphan gh-pages-review $FIRST
+          # Start an orphan branch (no history)
+          git checkout --orphan gh-pages-review
 
-          # Reset working tree to match first commit
-          git reset --hard
+          # Reset working tree to match the repository state at FIRST
+          git reset --hard $FIRST
 
-          # Cherry-pick all subsequent commits onto new branch
+          # Cherry-pick all subsequent commits onto new branch (if any)
           git cherry-pick $FIRST..gh-pages || true
 
           echo "✅ gh-pages-review branch now contains all commits from $FIRST onward."
