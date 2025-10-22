@@ -9,7 +9,11 @@ on:
     # Daily at 08:00.
     - cron: '0 9 * * *'
   push:
+    paths-ignore:
+      - '.github/workflows/**'
   pull_request:
+    paths-ignore:
+      - '.github/workflows/**'
   # You can manually run this workflow.
   workflow_dispatch:
 
@@ -40,7 +44,7 @@ jobs:
       run: |
         chmod +x ./convert.sh
         . ./convert.sh && run
-        
+
     - name: ✔ Commit
       run: |
         cd data
