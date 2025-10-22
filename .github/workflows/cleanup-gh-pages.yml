@@ -29,9 +29,10 @@ jobs:
           set -euo pipefail
 
           # Fetch all commits since the first day of this month
-          git fetch --shallow-since=$(date '+%Y-%m-01') origin gh-pages
+          # but with 1 day buffer to ensure we get the first commit
+          git fetch --shallow-since=$(date -d 'yesterday' '+%Y-%m-01') origin gh-pages
 
-          FIRST_COMMIT=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" --max-count=1 gh-pages || true)
+          FIRST_COMMIT=$(git rev-list --reverse --since="$(date -d 'yesterday' '+%Y-%m-01 00:00:00')" gh-pages | head -n 1)
 
           # handle empty month case
           if [ -z "${FIRST_COMMIT:-}" ]; then
