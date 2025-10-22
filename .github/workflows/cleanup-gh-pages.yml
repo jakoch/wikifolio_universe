@@ -69,7 +69,8 @@ jobs:
             import time
             import calendar
             cutoff = int('$CUTOFF_TS')
-            struct = time.strptime(commit.committer_date, '%a %b %d %H:%M:%S %Y %z')
+            date_str = commit.committer_date.decode('utf-8')
+            struct = time.strptime(date_str, '%a %b %d %H:%M:%S %Y %z')
             commit_ts = calendar.timegm(struct)
             if commit_ts < cutoff:
               commit.skip = True
