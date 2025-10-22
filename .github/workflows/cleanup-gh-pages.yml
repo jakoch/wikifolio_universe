@@ -48,14 +48,18 @@ jobs:
           set -euo pipefail
           FIRST=${{ steps.find_commit.outputs.first_commit }}
 
-          # Start an orphan branch (no history)
+          # Start a truly orphan branch (no history)
           git checkout --orphan gh-pages-review
 
-          # Reset working tree to match the repository state at FIRST
-          git reset --hard $FIRST
+          # Reset working tree to empty
+          git reset --hard
 
-          # Cherry-pick all subsequent commits onto new branch (if any)
-          git cherry-pick $FIRST..gh-pages || true
+          # Create the first commit of the month as a new commit
+          git checkout $FIRST -- .
+          git commit -m "First commit of the month (recreated)" --date="$(git show -s --format=%ci $FIRST)"
+
+          # Cherry-pick subsequent commits onto this branch
+          git cherry-pick $(git rev-list --reverse $FIRST..gh-pages) || true
 
           echo "✅ gh-pages-review branch now contains all commits from $FIRST onward."
 
