@@ -4,34 +4,39 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write # required to push to the repository
+  contents: write
 
 jobs:
   clean-gh-pages:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout gh-pages only
-        uses: actions/checkout@v5 # https://github.com/actions/checkout
+      - name: Checkout gh-pages (shallow)
+        uses: actions/checkout@v5
         with:
           ref: gh-pages
-          fetch-depth: 1  # start shallow to avoid huge downloads
+          fetch-depth: 1
+
+      - name: Install git-filter-repo
+        run: |
+          sudo apt-get update
+          python3 -m pip install --upgrade --user git-filter-repo
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
 
       - name: Determine cutoff and first commit (deepen until found)
         id: find_commit
         run: |
           set -euo pipefail
 
-          # First day of the previous month (to include current month's first day in the dataset)
+          # First day of previous month (keep current month)
           CUTOFF_DATE=$(date -d 'last month' +%Y-%m-01)
           echo "Cutoff date: $CUTOFF_DATE"
 
-          # Try shallow fetch since date if available (fast, small)
           if git fetch --help | grep -q -- '--shallow-since'; then
             echo "Attempting git fetch --shallow-since=$CUTOFF_DATE"
             git fetch --shallow-since="$CUTOFF_DATE" origin gh-pages || true
           fi
 
-          # Loop: search for first commit since cutoff, deepen repo incrementally if not found
           DEEPEN_STEP=1000
           MAX_ATTEMPTS=20
           ATTEMPT=0
@@ -40,16 +45,12 @@ jobs:
           while [ -z "$FIRST_COMMIT" ] && [ $ATTEMPT -lt $MAX_ATTEMPTS ]; do
             git checkout gh-pages
             git reset --hard origin/gh-pages
-
             FIRST_COMMIT=$(git log --reverse --since="$CUTOFF_DATE" --format="%H" | head -n 1 || true)
-            if [ -n "$FIRST_COMMIT" ]; then
-              break
-            fi
+            if [ -n "$FIRST_COMMIT" ]; then break; fi
 
             ATTEMPT=$((ATTEMPT+1))
-            echo "Commit not found yet (attempt $ATTEMPT/$MAX_ATTEMPTS). Deepening by $DEEPEN_STEP..."
-            git fetch --deepen "$DEEPEN_STEP" origin gh-pages || \
-            git fetch --depth $((ATTEMPT * DEEPEN_STEP)) origin gh-pages || true
+            echo "Deepening history (attempt $ATTEMPT)..."
+            git fetch --deepen 1000 origin gh-pages || true
           done
 
           if [ -z "$FIRST_COMMIT" ]; then
@@ -57,20 +58,13 @@ jobs:
             exit 1
           fi
 
-          echo "First commit for $CUTOFF_DATE: $FIRST_COMMIT"
           echo "first=$FIRST_COMMIT" >> $GITHUB_OUTPUT
+          echo "cutoff=$CUTOFF_DATE" >> $GITHUB_OUTPUT
 
-      #- name: Create backup branch before rewrite
-      #  run: |
-      #    git checkout -b backup-gh-pages
-      #    git push origin backup-gh-pages
-
-      - name: Create branch with all commits from cutoff onward
+      - name: Rewrite branch history since cutoff
         run: |
-          FIRST_COMMIT=${{ steps.find_commit.outputs.first }}
-          git checkout "$FIRST_COMMIT"
-          git checkout -b temp-start
-          git cherry-pick "$FIRST_COMMIT"..HEAD
+          CUTOFF_DATE=${{ steps.find_commit.outputs.cutoff }}
+          git filter-repo --force --refs gh-pages --since "$CUTOFF_DATE"
 
       - name: Cleanup Git objects
         run: |
@@ -81,7 +75,3 @@ jobs:
         run: |
           git checkout -B gh-pages-review
           git push --force origin gh-pages-review
-
-      #- name: Force Push Cleaned Branch (overwrite)
-      #  run: |
-      #    git push --force origin gh-pages
