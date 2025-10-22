@@ -9,48 +9,42 @@ permissions:
 jobs:
   clean-gh-pages:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout gh-pages (shallow)
         uses: actions/checkout@v5
         with:
           ref: gh-pages
-          fetch-depth: 1
+          fetch-depth: 7  # small initial depth
 
       - name: Install git-filter-repo
         run: |
-          sudo apt-get update
+          sudo apt-get update -y
           python3 -m pip install --upgrade --user git-filter-repo
           echo "$HOME/.local/bin" >> $GITHUB_PATH
 
-      - name: Determine cutoff and first commit (deepen until found)
+      - name: Find first commit since previous month
         id: find_commit
         run: |
           set -euo pipefail
 
-          # First day of previous month (keep current month)
+          # First day of the previous month
           CUTOFF_DATE=$(date -d 'last month' +%Y-%m-01)
           echo "Cutoff date: $CUTOFF_DATE"
 
-          if git fetch --help | grep -q -- '--shallow-since'; then
-            echo "Attempting git fetch --shallow-since=$CUTOFF_DATE"
-            git fetch --shallow-since="$CUTOFF_DATE" origin gh-pages || true
-          fi
-
-          DEEPEN_STEP=1000
-          MAX_ATTEMPTS=20
-          ATTEMPT=0
+          # Since there's one commit per day, 60 commits cover ~2 months
+          MAX_COMMITS=60
+          FETCHED=0
           FIRST_COMMIT=""
 
-          while [ -z "$FIRST_COMMIT" ] && [ $ATTEMPT -lt $MAX_ATTEMPTS ]; do
-            git checkout gh-pages
-            git reset --hard origin/gh-pages
+          while [ -z "$FIRST_COMMIT" ] && [ $FETCHED -lt $MAX_COMMITS ]; do
             FIRST_COMMIT=$(git log --reverse --since="$CUTOFF_DATE" --format="%H" | head -n 1 || true)
-            if [ -n "$FIRST_COMMIT" ]; then break; fi
+            if [ -n "$FIRST_COMMIT" ]; then
+              break
+            fi
 
-            ATTEMPT=$((ATTEMPT+1))
-            echo "Deepening history (attempt $ATTEMPT)..."
-            git fetch --deepen 1000 origin gh-pages || true
+            FETCHED=$((FETCHED+10))
+            echo "No commit found yet — deepening by 10 commits (total $FETCHED)..."
+            git fetch --deepen 10 origin gh-pages || true
           done
 
           if [ -z "$FIRST_COMMIT" ]; then
@@ -58,15 +52,22 @@ jobs:
             exit 1
           fi
 
+          echo "Found first commit since $CUTOFF_DATE: $FIRST_COMMIT"
           echo "first=$FIRST_COMMIT" >> $GITHUB_OUTPUT
-          echo "cutoff=$CUTOFF_DATE" >> $GITHUB_OUTPUT
 
-      - name: Rewrite branch history since cutoff
+      - name: Filter history (keep commits from cutoff onward)
         run: |
-          CUTOFF_DATE=${{ steps.find_commit.outputs.cutoff }}
-          git filter-repo --force --refs gh-pages --since "$CUTOFF_DATE"
+          set -euo pipefail
+          CUTOFF_DATE=$(date -d 'last month' +%Y-%m-01)
 
-      - name: Cleanup Git objects
+          git filter-repo --force --commit-callback "
+            import datetime
+            cutoff = datetime.datetime.strptime('$CUTOFF_DATE', '%Y-%m-%d')
+            if commit.commit_time < cutoff.timestamp():
+                commit.skip = True
+          "
+
+      - name: Clean up git objects
         run: |
           git reflog expire --all --expire=now
           git gc --prune=now --aggressive
@@ -75,3 +76,7 @@ jobs:
         run: |
           git checkout -B gh-pages-review
           git push --force origin gh-pages-review
+
+      # Uncomment to overwrite the actual gh-pages branch
+      # - name: Force push cleaned branch
+      #   run: git push --force origin gh-pages
