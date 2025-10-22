@@ -55,16 +55,17 @@ jobs:
           echo "Found first commit since $CUTOFF_DATE: $FIRST_COMMIT"
           echo "first=$FIRST_COMMIT" >> $GITHUB_OUTPUT
 
-      - name: Filter history (keep commits from cutoff onward)
+      - name: Filter history since cutoff
         run: |
           set -euo pipefail
           CUTOFF_DATE=$(date -d 'last month' +%Y-%m-01)
+          echo "Filtering commits since $CUTOFF_DATE"
 
           git filter-repo --force --commit-callback "
-            import datetime
-            cutoff = datetime.datetime.strptime('$CUTOFF_DATE', '%Y-%m-%d')
-            if commit.commit_time < cutoff.timestamp():
-                commit.skip = True
+          import datetime
+          cutoff = datetime.datetime.strptime('$CUTOFF_DATE', '%Y-%m-%d').timestamp()
+          if commit.committer_date_int < cutoff:
+            commit.skip = True
           "
 
       - name: Clean up git objects
