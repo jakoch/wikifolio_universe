@@ -36,7 +36,8 @@ jobs:
         id: find_commit
         run: |
           set -euo pipefail
-          git fetch --shallow-since="${{ steps.dates.outputs.fetch_since }}" origin gh-pages
+
+          git fetch --shallow-since="${{ steps.dates.outputs.fetch_since }}" --unshallow origin gh-pages
 
           FIRST_COMMIT=$(git rev-list --reverse --since="${{ steps.dates.outputs.month_start }}" --max-count=1 gh-pages)
 
