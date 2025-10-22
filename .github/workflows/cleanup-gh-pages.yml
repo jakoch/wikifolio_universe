@@ -2,6 +2,8 @@ name: Cleanup gh-pages
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 3 2 * *'  # Run on 2nd day of each month at 3 AM UTC
 
 permissions:
   contents: write
@@ -14,78 +16,119 @@ jobs:
         uses: actions/checkout@v5
         with:
           ref: gh-pages
-          fetch-depth: 7  # small initial depth
+          fetch-depth: 5  # Start with ~5 days
 
-      - name: Install git-filter-repo
-        run: |
-          sudo apt-get update -y
-          python3 -m pip install --upgrade --user git-filter-repo
-          echo "$HOME/.local/bin" >> $GITHUB_PATH
-
-      - name: Find first commit since previous month
+      - name: Find first commit of current month
         id: find_commit
         run: |
           set -euo pipefail
 
-          # First day of the previous month
-          CUTOFF_DATE=$(date -d 'last month' +%Y-%m-01)
-          echo "Cutoff date: $CUTOFF_DATE"
+          # First day of current month
+          CURRENT_MONTH_START=$(date +%Y-%m-01)
+          echo "Looking for first commit on or after: $CURRENT_MONTH_START"
 
-          # Since there's one commit per day, 60 commits cover ~2 months
-          MAX_COMMITS=60
-          FETCHED=0
+          # Max 40 commits (~40 days to cover edge cases)
+          MAX_COMMITS=40
+          FETCHED=5
           FIRST_COMMIT=""
 
           while [ -z "$FIRST_COMMIT" ] && [ $FETCHED -lt $MAX_COMMITS ]; do
-            FIRST_COMMIT=$(git log --reverse --since="$CUTOFF_DATE" --format="%H" | head -n 1 || true)
+            # Find oldest commit on or after month start
+            FIRST_COMMIT=$(git log --reverse --since="$CURRENT_MONTH_START 00:00:00" --format="%H" | head -n 1 || true)
+
             if [ -n "$FIRST_COMMIT" ]; then
+              COMMIT_DATE=$(git show -s --format=%ci "$FIRST_COMMIT")
+              echo "✓ Found first commit: $FIRST_COMMIT"
+              echo "  Date: $COMMIT_DATE"
               break
             fi
 
-            FETCHED=$((FETCHED+10))
-            echo "No commit found yet — deepening by 10 commits (total $FETCHED)..."
-            git fetch --deepen 10 origin gh-pages || true
+            # Deepen gradually (5 commits at a time = ~5 days)
+            echo "No commit found yet, fetching 5 more commits (total: $((FETCHED + 5)))..."
+            git fetch --deepen 5 origin gh-pages || true
+            FETCHED=$((FETCHED + 5))
           done
 
           if [ -z "$FIRST_COMMIT" ]; then
-            echo "No commits found since $CUTOFF_DATE — aborting."
+            echo "❌ No commits found since $CURRENT_MONTH_START"
             exit 1
           fi
 
-          echo "Found first commit since $CUTOFF_DATE: $FIRST_COMMIT"
-          echo "first=$FIRST_COMMIT" >> $GITHUB_OUTPUT
+          # Count how many commits we're keeping
+          COMMIT_COUNT=$(git log --since="$CURRENT_MONTH_START 00:00:00" --oneline | wc -l)
+          echo "Will keep $COMMIT_COUNT commits from current month"
 
-      - name: Filter history since cutoff
+          echo "first_commit=$FIRST_COMMIT" >> $GITHUB_OUTPUT
+          echo "month_start=$CURRENT_MONTH_START" >> $GITHUB_OUTPUT
+          echo "commit_count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
+
+      - name: Create new branch with current month only
+        env:
+          FIRST_COMMIT: ${{ steps.find_commit.outputs.first_commit }}
+          MONTH_START: ${{ steps.find_commit.outputs.month_start }}
+          COMMIT_COUNT: ${{ steps.find_commit.outputs.commit_count }}
         run: |
           set -euo pipefail
-          CUTOFF_DATE=$(date -d 'last month' +%Y-%m-01)
-          echo "Filtering commits since $CUTOFF_DATE"
 
-          # Convert cutoff date to Unix timestamp
-          CUTOFF_TS=$(date -d "$CUTOFF_DATE" +%s)
-          echo "Cutoff timestamp: $CUTOFF_TS"
+          echo "Creating new branch from $FIRST_COMMIT onwards..."
+          echo "Keeping $COMMIT_COUNT commits since $MONTH_START"
 
-          git filter-repo --force --commit-callback "
-            import time
-            import calendar
-            cutoff = int('$CUTOFF_TS')
-            date_str = commit.committer_date.decode('utf-8')
-            struct = time.strptime(date_str, '%a %b %d %H:%M:%S %Y %z')
-            commit_ts = calendar.timegm(struct)
-            if commit_ts < cutoff:
-              commit.skip = True
-            "
+          # Get list of commits to keep (newest first)
+          git log --since="$MONTH_START 00:00:00" --format="%H" > commits_to_keep.txt
+
+          # Create fresh orphan branch
+          git checkout --orphan gh-pages-review
+          git rm -rf . 2>/dev/null || true
+          git clean -fdx
+
+          # Cherry-pick commits in reverse order (oldest first)
+          echo "Cherry-picking commits..."
+          tac commits_to_keep.txt | while IFS= read -r COMMIT; do
+            COMMIT_MSG=$(git log -1 --format="%s" "$COMMIT")
+            COMMIT_DATE=$(git log -1 --format="%ci" "$COMMIT")
+            echo "  → $COMMIT ($COMMIT_DATE): $COMMIT_MSG"
+
+            GIT_COMMITTER_DATE="$COMMIT_DATE" \
+            git cherry-pick --allow-empty --keep-redundant-commits "$COMMIT" || {
+              echo "⚠️  Failed to cherry-pick $COMMIT, attempting to continue..."
+              git cherry-pick --skip || true
+            }
+          done
+
+      - name: Verify new branch
+        run: |
+          set -euo pipefail
+
+          MONTH_START=$(date +%Y-%m-01)
+          NEW_COUNT=$(git log --oneline | wc -l)
+          OLDEST_DATE=$(git log --reverse --format="%ci" | head -n 1)
+          NEWEST_DATE=$(git log --format="%ci" | head -n 1)
+
+          echo "New branch statistics:"
+          echo "  Total commits: $NEW_COUNT"
+          echo "  Oldest commit: $OLDEST_DATE"
+          echo "  Newest commit: $NEWEST_DATE"
+
+          # Verify oldest commit is from current month
+          OLDEST_MONTH=$(echo "$OLDEST_DATE" | cut -d'-' -f1,2)
+          CURRENT_MONTH=$(date +%Y-%m)
+
+          if [ "$OLDEST_MONTH" != "$CURRENT_MONTH" ]; then
+            echo "⚠️  Warning: Oldest commit is from $OLDEST_MONTH, not $CURRENT_MONTH"
+          else
+            echo "✓ Verification passed: All commits are from $CURRENT_MONTH"
+          fi
 
       - name: Clean up git objects
         run: |
           git reflog expire --all --expire=now
           git gc --prune=now --aggressive
 
-      - name: Push cleaned branch for review
+      - name: Show of gh-pages-review
         run: |
-          git checkout -B gh-pages-review
-          git push --force origin gh-pages-review
+          set -euo pipefail
+          git log --oneline --graph --decorate -20
 
-      # Uncomment to overwrite the actual gh-pages branch
-      # - name: Force push cleaned branch
-      #   run: git push --force origin gh-pages
+      - name: Push review branch
+        run: |
+          git push --force origin gh-pages-review
