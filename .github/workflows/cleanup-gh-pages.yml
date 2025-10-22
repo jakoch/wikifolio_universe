@@ -12,57 +12,51 @@ jobs:
   clean-gh-pages-review:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout gh-pages (shallow clone)
+      - name: Checkout gh-pages (shallow)
         uses: actions/checkout@v5
         with:
           ref: gh-pages
-          fetch-depth: 40  # start small, we'll deepen as needed
+          fetch-depth: 50  # shallow, but enough for recent commits
 
       - name: Set git user identity
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Find first commit of current month (deepening as needed)
+      - name: Fetch enough history for month start
+        run: |
+          # Fetch all commits since the first day of this month
+          git fetch --shallow-since=$(date '+%Y-%m-01') origin gh-pages
+
+      - name: Find first commit of current month
         id: find_commit
         run: |
           set -euo pipefail
-
-          TARGET_MONTH_START=$(date '+%Y-%m-01 00:00:00')
-          echo "Looking for first commit since: $TARGET_MONTH_START"
-
-          FIRST_COMMIT=""
-          DEPTH=20
-          MAX_DEPTH=100  # prevent infinite loop
-
-          while [ -z "$FIRST_COMMIT" ] && [ $DEPTH -le $MAX_DEPTH ]; do
-            echo "🔎 Searching with depth=$DEPTH..."
-            git fetch --deepen=$DEPTH origin gh-pages
-
-            FIRST_COMMIT=$(git log \
-              --since="$TARGET_MONTH_START" \
-              --reverse --pretty=format:"%H" --no-merges | head -n 1 || true)
-
-            if [ -z "$FIRST_COMMIT" ]; then
-              echo "No commit found yet — deepening..."
-              DEPTH=$((DEPTH * 2))
-            fi
-          done
+          FIRST_COMMIT=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" gh-pages | head -n 1)
 
           if [ -z "$FIRST_COMMIT" ]; then
-            echo "❌ Could not find first commit of month (history too shallow)."
+            echo "No commits found for this month — skipping workflow."
             exit 0
           fi
 
-          echo "✅ Found first commit of this month: $FIRST_COMMIT"
+          echo "✅ First commit of this month: $FIRST_COMMIT"
           echo "first_commit=$FIRST_COMMIT" >> $GITHUB_OUTPUT
 
-      - name: Create gh-pages-review branch from cutoff
+      - name: Create gh-pages-review branch with only monthly commits
         run: |
           set -euo pipefail
-          git checkout -b gh-pages-review
-          git reset --hard ${{ steps.find_commit.outputs.first_commit }}
-          echo "✅ gh-pages-review now starts from ${{ steps.find_commit.outputs.first_commit }}"
+          FIRST=${{ steps.find_commit.outputs.first_commit }}
+
+          # Start orphan branch from first commit
+          git checkout --orphan gh-pages-review $FIRST
+
+          # Reset working tree to match first commit
+          git reset --hard
+
+          # Cherry-pick all subsequent commits onto new branch
+          git cherry-pick $FIRST..gh-pages || true
+
+          echo "✅ gh-pages-review branch now contains all commits from $FIRST onward."
 
       - name: Push gh-pages-review branch
         run: |
@@ -70,5 +64,5 @@ jobs:
 
       - name: Show summary
         run: |
-          echo "✅ gh-pages-review branch pushed."
-          echo "Contains all commits from $(date '+%Y-%m-01') onward."
+          echo "✅ gh-pages-review pushed."
+          echo "Contains only commits from $(date '+%Y-%m-01') onward."
