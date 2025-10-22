@@ -67,8 +67,9 @@ jobs:
 
           git filter-repo --force --commit-callback "
             import datetime
-            cutoff = int('$CUTOFF_TS')
-            if commit.committer_date_seconds < cutoff:
+            cutoff = datetime.datetime.fromtimestamp(int('$CUTOFF_TS'), tz=datetime.timezone.utc)
+            commit_dt = datetime.datetime.fromisoformat(commit.committer_date)
+            if commit_dt < cutoff:
               commit.skip = True
             "
 
