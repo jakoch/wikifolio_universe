@@ -115,14 +115,18 @@ jobs:
           set -euo pipefail
 
           MONTH_START=$(date +%Y-%m-01)
-          NEW_COUNT=$(git log --oneline | wc -l)
-          OLDEST_DATE=$(git log --reverse --format="%ci" | head -n 1)
-          NEWEST_DATE=$(git log --format="%ci" | head -n 1)
 
-          echo "New branch statistics:"
-          echo "  Total commits: $NEW_COUNT"
-          echo "  Oldest commit: $OLDEST_DATE"
-          echo "  Newest commit: $NEWEST_DATE"
+          # Total commits
+          NEW_COUNT=$(git rev-list --count HEAD)
+          echo "Total commits: $NEW_COUNT"
+
+          # Oldest commit date
+          OLDEST_DATE=$(git log --reverse --format="%ci" -1)
+          echo "Oldest commit: $OLDEST_DATE"
+
+          # Newest commit date
+          NEWEST_DATE=$(git log --format="%ci" -1)
+          echo "Newest commit: $NEWEST_DATE"
 
           # Verify oldest commit is from current month
           OLDEST_MONTH=$(echo "$OLDEST_DATE" | cut -d'-' -f1,2)
