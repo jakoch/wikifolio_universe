@@ -16,25 +16,24 @@ jobs:
         uses: actions/checkout@v5
         with:
           ref: gh-pages
-          fetch-depth: 50  # shallow, but enough for recent commits
+          fetch-depth: 1  # fetch latest commit, then use fetch shallow-since later
 
       - name: Set git user identity
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Fetch enough history for month start
-        run: |
-          # Fetch all commits since the first day of this month
-          git fetch --shallow-since=$(date '+%Y-%m-01') origin gh-pages
-
       - name: Find first commit of current month
         id: find_commit
         run: |
           set -euo pipefail
 
+          # Fetch all commits since the first day of this month
+          git fetch --shallow-since=$(date '+%Y-%m-01') origin gh-pages
+
           FIRST_COMMIT=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" --max-count=1 gh-pages || true)
 
+          # handle empty month case
           if [ -z "${FIRST_COMMIT:-}" ]; then
             echo "No commits found for this month — skipping workflow."
             exit 0
@@ -47,23 +46,23 @@ jobs:
         run: |
           set -euo pipefail
 
-          # Find the first commit for the current month (avoid piping to head)
-          FIRST=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" --max-count=1 gh-pages || true)
+          # Find first commit of current month
+          FIRST=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" gh-pages | head -n 1)
 
-          if [ -z "${FIRST:-}" ]; then
-            echo "No commits found for this month — nothing to review."
-            exit 0
-          fi
+          # Find all commits from this month (excluding the first one)
+          MONTH_COMMITS=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" gh-pages | grep -v "^$FIRST$")
 
-          # Create an orphan branch and reset to the tree of FIRST
+          # Start a truly orphan branch
           git checkout --orphan gh-pages-review
-          git reset --hard "$FIRST"
+          git reset --hard  # start empty
 
-          # Cherry-pick any commits after FIRST from gh-pages onto the orphan branch
-          # Use rev-list to collect commits in chronological order
-          COMMITS=$(git rev-list --reverse "$FIRST"..gh-pages --since="$(date '+%Y-%m-01 00:00:00')" || true)
-          if [ -n "${COMMITS:-}" ]; then
-            git cherry-pick $COMMITS || true
+          # Recreate first commit as new root
+          git checkout $FIRST -- .
+          git commit -m "$(git log -1 --pretty=%B $FIRST)" --date="$(git show -s --format=%ci $FIRST)"
+
+          # Cherry-pick the rest of the month
+          if [ -n "$MONTH_COMMITS" ]; then
+            git cherry-pick $MONTH_COMMITS || true
           fi
 
           echo "✅ gh-pages-review branch now contains all commits from $FIRST onward."
