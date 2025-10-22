@@ -51,7 +51,7 @@ jobs:
           FIRST=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" gh-pages | head -n 1)
 
           # Find all commits from this month (excluding the first one)
-          MONTH_COMMITS=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" gh-pages | grep -v "^$FIRST$")
+          MONTH_COMMITS=$(git rev-list --reverse --since="$(date '+%Y-%m-01 00:00:00')" gh-pages | grep -v "^$FIRST$" || true)
 
           # Start a truly orphan branch
           git checkout --orphan gh-pages-review
