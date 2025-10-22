@@ -1,4 +1,4 @@
-name: Cleanup gh-pages
+name: Cleanup gh-pages (review, shallow safe)
 
 on:
   workflow_dispatch:
@@ -9,148 +9,66 @@ permissions:
   contents: write
 
 jobs:
-  clean-gh-pages:
+  clean-gh-pages-review:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout gh-pages
+      - name: Checkout gh-pages (shallow clone)
         uses: actions/checkout@v5
         with:
           ref: gh-pages
-          fetch-depth: 5  # Start with ~5 days
-
-      - name: Find first commit of current month
-        id: find_commit
-        run: |
-          set -euo pipefail
-
-          # First day of current month
-          CURRENT_MONTH_START=$(date +%Y-%m-01)
-          echo "Looking for first commit on or after: $CURRENT_MONTH_START"
-
-          # Start with initial shallow depth (matches checkout)
-          FETCHED=5
-          MAX_FETCH=40  # Max commits to fetch to cover edge cases
-          FIRST_COMMIT=""
-
-          while [ -z "$FIRST_COMMIT" ] && [ "$FETCHED" -le "$MAX_FETCH" ]; do
-            # Check if first commit exists in current history
-            FIRST_COMMIT=$(git log --reverse --since="$CURRENT_MONTH_START 00:00:00" --format="%H" | head -n1 || true)
-
-            if [ -n "$FIRST_COMMIT" ]; then
-              COMMIT_DATE=$(git show -s --format=%ci "$FIRST_COMMIT")
-              echo "✓ Found first commit: $FIRST_COMMIT"
-              echo "  Date: $COMMIT_DATE"
-              break
-            fi
-
-            # Deepen by 5 commits at a time
-            echo "No commit found yet, fetching 5 more commits (total: $((FETCHED + 5)))..."
-            git fetch --deepen 5 origin gh-pages || true
-            FETCHED=$((FETCHED + 5))
-          done
-
-          if [ -z "$FIRST_COMMIT" ]; then
-            echo "❌ No commits found since $CURRENT_MONTH_START after fetching $FETCHED commits"
-            exit 1
-          fi
-
-          # Count commits to keep
-          COMMIT_COUNT=$(git log --since="$CURRENT_MONTH_START 00:00:00" --oneline | wc -l)
-          echo "Will keep $COMMIT_COUNT commits from current month"
-
-          # Output for next steps
-          echo "first_commit=$FIRST_COMMIT" >> $GITHUB_OUTPUT
-          echo "month_start=$CURRENT_MONTH_START" >> $GITHUB_OUTPUT
-          echo "commit_count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
+          fetch-depth: 10  # start small, we'll deepen as needed
 
       - name: Set git user identity
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Create new branch with current month only
-        env:
-          FIRST_COMMIT: ${{ steps.find_commit.outputs.first_commit }}
-          MONTH_START: ${{ steps.find_commit.outputs.month_start }}
-          COMMIT_COUNT: ${{ steps.find_commit.outputs.commit_count }}
+      - name: Find first commit of current month (deepening as needed)
+        id: find_commit
         run: |
           set -euo pipefail
 
-          echo "Creating new branch from $FIRST_COMMIT onwards..."
-          echo "Keeping $COMMIT_COUNT commits since $MONTH_START"
+          TARGET_MONTH_START=$(date '+%Y-%m-01 00:00:00')
+          echo "Looking for first commit since: $TARGET_MONTH_START"
 
-          # Create temp file outside of git tree to hold commit hashes
-          TMP_FILE=$(mktemp)
-          git log --since="$MONTH_START 00:00:00" --reverse --format="%H %ci" > "$TMP_FILE"
-          TOTAL_COMMITS=$(wc -l < "$TMP_FILE")
-          echo "Processing $TOTAL_COMMITS commits..."
-          echo "Commits to keep:"
-          cat "$TMP_FILE"
+          FIRST_COMMIT=""
+          DEPTH=10
+          MAX_DEPTH=90  # prevent infinite loop
 
-          # Start new orphan branch
-          FIRST_COMMIT_TO_KEEP=$(head -n 1 "$TMP_FILE")
-          git checkout --orphan gh-pages-review
+          while [ -z "$FIRST_COMMIT" ] && [ $DEPTH -le $MAX_DEPTH ]; do
+            echo "🔎 Searching with depth=$DEPTH..."
+            git fetch --deepen=$DEPTH origin gh-pages
 
-          # Clear all files
-          git rm -rf --cached .
-          git clean -fdx
-          git reset --hard "$FIRST_COMMIT_TO_KEEP"
+            FIRST_COMMIT=$(git log \
+              --since="$TARGET_MONTH_START" \
+              --reverse --pretty=format:"%H" --no-merges | head -n 1 || true)
 
-          if [ "$TOTAL_COMMITS" -gt 1 ]; then
-            echo "Cherry-picking remaining commits..."
-            tail -n +2 "$TMP_FILE" | while IFS= read -r COMMIT; do
-              COMMIT_MSG=$(git log -1 --format="%s" "$COMMIT")
-              COMMIT_DATE=$(git log -1 --format="%ci" "$COMMIT")
-              echo "  → $COMMIT ($COMMIT_DATE): $COMMIT_MSG"
+            if [ -z "$FIRST_COMMIT" ]; then
+              echo "No commit found yet — deepening..."
+              DEPTH=$((DEPTH * 2))
+            fi
+          done
 
-              git cherry-pick --allow-empty --keep-redundant-commits "$COMMIT" || {
-                echo "⚠️  Failed to cherry-pick $COMMIT"
-                git cherry-pick --abort || true
-                exit 1
-              }
-            done
+          if [ -z "$FIRST_COMMIT" ]; then
+            echo "❌ Could not find first commit of month (history too shallow)."
+            exit 0
           fi
 
-          rm -f "$TMP_FILE"
+          echo "✅ Found first commit of this month: $FIRST_COMMIT"
+          echo "first_commit=$FIRST_COMMIT" >> $GITHUB_OUTPUT
 
-      - name: Verify new branch
+      - name: Create gh-pages-review branch from cutoff
         run: |
           set -euo pipefail
+          git checkout -b gh-pages-review
+          git reset --hard ${{ steps.find_commit.outputs.first_commit }}
+          echo "✅ gh-pages-review now starts from ${{ steps.find_commit.outputs.first_commit }}"
 
-          MONTH_START=$(date +%Y-%m-01)
-
-          # Total commits
-          NEW_COUNT=$(git rev-list --count HEAD)
-          echo "Total commits: $NEW_COUNT"
-
-          # Oldest commit date
-          OLDEST_DATE=$(git log --reverse --format="%ci" -1)
-          echo "Oldest commit: $OLDEST_DATE"
-
-          # Newest commit date
-          NEWEST_DATE=$(git log --format="%ci" -1)
-          echo "Newest commit: $NEWEST_DATE"
-
-          # Verify oldest commit is from current month
-          OLDEST_MONTH=$(echo "$OLDEST_DATE" | cut -d'-' -f1,2)
-          CURRENT_MONTH=$(date +%Y-%m)
-
-          if [ "$OLDEST_MONTH" != "$CURRENT_MONTH" ]; then
-            echo "⚠️  Warning: Oldest commit is from $OLDEST_MONTH, not $CURRENT_MONTH"
-          else
-            echo "✓ Verification passed: All commits are from $CURRENT_MONTH"
-          fi
-
-      - name: Clean up git objects
+      - name: Push gh-pages-review branch
         run: |
-          git reflog expire --all --expire=now
-          git gc --prune=now --aggressive
+          git push origin gh-pages-review --force
 
-      - name: Show gh-pages-review
+      - name: Show summary
         run: |
-          set -euo pipefail
-          git log --oneline --graph --decorate -20
-
-      - name: Push review branch
-        run: |
-          git push --force origin gh-pages-review
+          echo "✅ gh-pages-review branch pushed."
+          echo "Contains all commits from $(date '+%Y-%m-01') onward."
