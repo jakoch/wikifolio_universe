@@ -19,26 +19,47 @@ jobs:
       - name: Install git-filter-repo
         run: |
           sudo apt-get update
-          sudo apt-get install -y git-filter-repo
+          python3 -m pip install --upgrade --user git-filter-repo
 
-      - name: Remove all commits before the first day of current month
+      - name: Determine cutoff and first commit
+        id: find_commit
         run: |
-          # Generate "YYYY-MM-01" for the current month
+          # First day of the current month
           CUTOFF_DATE=$(date +%Y-%m-01)
-          echo "Cutoff date: $CUTOFF_DATE"
+          echo "Cutoff date: $CUTOFF_DATE"^
 
-          # Get the first commit for the first day of this month
-          FIRST_COMMIT=$(git log --reverse --since="$CUTOFF_DATE" --format="%H" | head -n 1)
+          # Find the first commit made since that date
+          FIRST_COMMIT=$(git log --reverse --since="$CUTOFF_DATE" --format="%H" | head -n 1 || true)
+
+          if [ -z "$FIRST_COMMIT" ]; then
+            echo "No commits found since $CUTOFF_DATE — aborting."
+            exit 1
+          fi
+
           echo "First commit for $CUTOFF_DATE: $FIRST_COMMIT"
+          echo "first=$FIRST_COMMIT" >> $GITHUB_OUTPUT
 
-          # Keep only the history from that commit onward
-          git filter-repo --force --keep-branches --keep-tags --keep="$FIRST_COMMIT..gh-pages"
+      #- name: Create backup branch before rewrite
+      #  run: |
+      #    git checkout -b backup-gh-pages
+      #    git push origin backup-gh-pages
 
-      - name: Cleanup Git History
+      - name: Create branch starting from first commit
+        run: |
+          FIRST_COMMIT=${{ steps.find_commit.outputs.first }}
+          git branch temp-start "$FIRST_COMMIT"
+          git checkout temp-start
+
+      - name: Cleanup Git objects
         run: |
           git reflog expire --all --expire=now
           git gc --prune=now --aggressive
 
-      - name: Force Push Cleaned Branch
+      - name: Push cleaned branch for review
         run: |
-          git push --force origin gh-pages
+          git checkout -B gh-pages-review
+          git push --force origin gh-pages-review
+
+      #- name: Force Push Cleaned Branch (overwrite)
+      #  run: |
+      #    git push --force origin gh-pages
