@@ -12,7 +12,7 @@ jobs:
   clean-gh-pages:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout gh-pages (shallow)
+      - name: Checkout gh-pages
         uses: actions/checkout@v5
         with:
           ref: gh-pages
@@ -27,14 +27,14 @@ jobs:
           CURRENT_MONTH_START=$(date +%Y-%m-01)
           echo "Looking for first commit on or after: $CURRENT_MONTH_START"
 
-          # Max 40 commits (~40 days to cover edge cases)
-          MAX_COMMITS=40
+          # Start with initial shallow depth (matches checkout)
           FETCHED=5
+          MAX_FETCH=40  # Max commits to fetch to cover edge cases
           FIRST_COMMIT=""
 
-          while [ -z "$FIRST_COMMIT" ] && [ $FETCHED -lt $MAX_COMMITS ]; do
-            # Find oldest commit on or after month start
-            FIRST_COMMIT=$(git log --reverse --since="$CURRENT_MONTH_START 00:00:00" --format="%H" | head -n 1 || true)
+          while [ -z "$FIRST_COMMIT" ] && [ "$FETCHED" -le "$MAX_FETCH" ]; do
+            # Check if first commit exists in current history
+            FIRST_COMMIT=$(git log --reverse --since="$CURRENT_MONTH_START 00:00:00" --format="%H" | head -n1 || true)
 
             if [ -n "$FIRST_COMMIT" ]; then
               COMMIT_DATE=$(git show -s --format=%ci "$FIRST_COMMIT")
@@ -43,21 +43,22 @@ jobs:
               break
             fi
 
-            # Deepen gradually (5 commits at a time = ~5 days)
+            # Deepen by 5 commits at a time
             echo "No commit found yet, fetching 5 more commits (total: $((FETCHED + 5)))..."
             git fetch --deepen 5 origin gh-pages || true
             FETCHED=$((FETCHED + 5))
           done
 
           if [ -z "$FIRST_COMMIT" ]; then
-            echo "❌ No commits found since $CURRENT_MONTH_START"
+            echo "❌ No commits found since $CURRENT_MONTH_START after fetching $FETCHED commits"
             exit 1
           fi
 
-          # Count how many commits we're keeping
+          # Count commits to keep
           COMMIT_COUNT=$(git log --since="$CURRENT_MONTH_START 00:00:00" --oneline | wc -l)
           echo "Will keep $COMMIT_COUNT commits from current month"
 
+          # Output for next steps
           echo "first_commit=$FIRST_COMMIT" >> $GITHUB_OUTPUT
           echo "month_start=$CURRENT_MONTH_START" >> $GITHUB_OUTPUT
           echo "commit_count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
@@ -80,9 +81,11 @@ jobs:
 
           # Create temp file outside of git tree to hold commit hashes
           TMP_FILE=$(mktemp)
-          git log --since="$MONTH_START 00:00:00" --reverse --format="%H" > "$TMP_FILE"
+          git log --since="$MONTH_START 00:00:00" --reverse --format="%H %ci" > "$TMP_FILE"
           TOTAL_COMMITS=$(wc -l < "$TMP_FILE")
           echo "Processing $TOTAL_COMMITS commits..."
+          echo "Commits to keep:"
+          cat "$TMP_FILE"
 
           # Start new orphan branch
           FIRST_COMMIT_TO_KEEP=$(head -n 1 "$TMP_FILE")
@@ -94,18 +97,18 @@ jobs:
           git reset --hard "$FIRST_COMMIT_TO_KEEP"
 
           if [ "$TOTAL_COMMITS" -gt 1 ]; then
-          echo "Cherry-picking remaining commits..."
-          tail -n +2 "$TMP_FILE" | while IFS= read -r COMMIT; do
-            COMMIT_MSG=$(git log -1 --format="%s" "$COMMIT")
-            COMMIT_DATE=$(git log -1 --format="%ci" "$COMMIT")
-            echo "  → $COMMIT ($COMMIT_DATE): $COMMIT_MSG"
+            echo "Cherry-picking remaining commits..."
+            tail -n +2 "$TMP_FILE" | while IFS= read -r COMMIT; do
+              COMMIT_MSG=$(git log -1 --format="%s" "$COMMIT")
+              COMMIT_DATE=$(git log -1 --format="%ci" "$COMMIT")
+              echo "  → $COMMIT ($COMMIT_DATE): $COMMIT_MSG"
 
-            git cherry-pick --allow-empty --keep-redundant-commits "$COMMIT" || {
-              echo "⚠️  Failed to cherry-pick $COMMIT"
-              git cherry-pick --abort || true
-              exit 1
-            }
-          done
+              git cherry-pick --allow-empty --keep-redundant-commits "$COMMIT" || {
+                echo "⚠️  Failed to cherry-pick $COMMIT"
+                git cherry-pick --abort || true
+                exit 1
+              }
+            done
           fi
 
           rm -f "$TMP_FILE"
@@ -143,7 +146,7 @@ jobs:
           git reflog expire --all --expire=now
           git gc --prune=now --aggressive
 
-      - name: Show of gh-pages-review
+      - name: Show gh-pages-review
         run: |
           set -euo pipefail
           git log --oneline --graph --decorate -20
