@@ -25,7 +25,7 @@ jobs:
 
         # FETCH_SINCE         = first day of the previous month (ensures last month is complete).
         # CURRENT_MONTH_START = first day of current month (upper bound).
-        # FETCH_UNTIL         = last second of previous month.
+        # FETCH_UNTIL         = NOW (actual upper bound).
       - name: Set monthly cutoff dates
         id: dates
         run: |
@@ -35,8 +35,8 @@ jobs:
             # First day of current month (for reference)
             CURRENT_MONTH_START="$(date -u '+%Y-%m-01') 00:00:00"
 
-            # Last second of previous month
-            FETCH_UNTIL="$CURRENT_MONTH_START"
+            # NOW
+            FETCH_UNTIL="$(date -u '+%Y-%m-%d %H:%M:%S')"
 
             echo "fetch_since=$FETCH_SINCE" >> "$GITHUB_OUTPUT"
             echo "fetch_until=$FETCH_UNTIL" >> "$GITHUB_OUTPUT"
