@@ -100,16 +100,12 @@ jobs:
 
           echo "📦 Found $COMMIT_COUNT commits for $TARGET_MONTH"
 
-          # Create branch starting at the FIRST commit (not orphan!)
-          git checkout -b gh-pages-review "$FIRST_COMMIT"
+          # Create an orphan branch
+          git checkout --orphan gh-pages-review
+          git reset --hard
 
-          # Get the rest of the commits (skip the first)
-          REST_COMMITS=$(echo "$COMMITS" | tail -n +2)
-
-          # Cherry-pick the rest
-          if [ -n "$REST_COMMITS" ]; then
-            echo "$REST_COMMITS" | xargs git cherry-pick
-          fi
+          # Cherry-pick all commits of the month
+          echo "$COMMITS" | xargs git cherry-pick
 
           echo "✅ gh-pages-review now contains full history of $TARGET_MONTH"
           echo "   Total commits: $(git rev-list --count HEAD)"
