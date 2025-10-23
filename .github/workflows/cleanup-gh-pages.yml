@@ -102,6 +102,7 @@ jobs:
 
           # Create an orphan branch
           git checkout --orphan gh-pages-review
+          git rm -rf . || true
           git reset --hard
 
           # Cherry-pick all commits of the month
