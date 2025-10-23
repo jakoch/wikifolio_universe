@@ -23,6 +23,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+        # FETCH_SINCE         = first day of the previous month (ensures last month is complete).
+        # CURRENT_MONTH_START = first day of current month (upper bound).
+        # FETCH_UNTIL         = last second of previous month.
       - name: Set monthly cutoff dates
         id: dates
         run: |
@@ -79,29 +82,38 @@ jobs:
           echo "✅ First commit of ${{ steps.dates.outputs.target_month }}: $FIRST_COMMIT"
           echo "first_commit=$FIRST_COMMIT" >> "$GITHUB_OUTPUT"
 
-      - name: Create gh-pages-review branch with monthly commits
+      - name: Create gh-pages-review branch with full monthly history
         run: |
           set -euo pipefail
-          FIRST_COMMIT=${{ steps.find_commit.outputs.first_commit }}
-          MONTH_START=${{ steps.dates.outputs.month_start }}
+          FIRST_COMMIT="${{ steps.find_commit.outputs.first_commit }}"
+          SINCE="${{ steps.dates.outputs.fetch_since }}"
+          UNTIL="${{ steps.dates.outputs.fetch_until }}"
+          TARGET_MONTH="${{ steps.dates.outputs.target_month }}"
 
-          # Find all commits from this month excluding first
-          MONTH_COMMITS=$(git rev-list --reverse --since="$MONTH_START" --skip=1 gh-pages || true)
+          # Get ALL commits in the target month, in chronological order
+          COMMITS=$(git log origin/gh-pages --since="$SINCE" --until="$UNTIL" --reverse --format="%H")
+          COMMIT_COUNT=$(echo "$COMMITS" | wc -l)
 
-          # Start orphan branch
-          git checkout --orphan gh-pages-review
-          git reset --hard
-
-          # Cherry-pick fFirst commit of month
-          git cherry-pick $FIRST_COMMIT
-
-          # Cherry-pick the rest of the month
-          if [ -n "$MONTH_COMMITS" ]; then
-            git cherry-pick $MONTH_COMMITS || { echo "❌ Cherry-pick failed"; exit 1; }
+          if [ -z "$FIRST_COMMIT" ] || [ "$COMMIT_COUNT" -eq 0 ]; then
+            echo "⚠️ No commits found for $TARGET_MONTH"
+           exit 0
           fi
 
-          echo "✅ gh-pages-review branch now contains all commits from $FIRST_COMMIT onward."
-          echo "Included $(git rev-list --count HEAD) commits in gh-pages-review."
+          echo "📦 Found $COMMIT_COUNT commits for $TARGET_MONTH"
+
+          # Create branch starting at the FIRST commit (not orphan!)
+          git checkout -b gh-pages-review "$FIRST_COMMIT"
+
+          # Get the rest of the commits (skip the first)
+          REST_COMMITS=$(echo "$COMMITS" | tail -n +2)
+
+          # Cherry-pick the rest
+          if [ -n "$REST_COMMITS" ]; then
+            echo "$REST_COMMITS" | xargs git cherry-pick
+          fi
+
+          echo "✅ gh-pages-review now contains full history of $TARGET_MONTH"
+          echo "   Total commits: $(git rev-list --count HEAD)"
 
       - name: Push gh-pages-review branch
         run: |
