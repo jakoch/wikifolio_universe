@@ -90,7 +90,12 @@ jobs:
           TARGET_MONTH="${{ steps.dates.outputs.target_month }}"
 
           # Get ALL commits in the target month, in chronological order
-          COMMITS=$(git log origin/gh-pages --since="$SINCE" --reverse --format="%H")
+          # %H → commit hash
+          # %an → author name
+          # %ae → author email
+          # %ad → author date
+          # %s → commit subject
+          COMMITS=$(git log origin/gh-pages --since="$SINCE" --reverse --format="%H|%an|%ae|%ad|%s")
           COMMIT_COUNT=$(echo "$COMMITS" | wc -l)
 
           if [ -z "$FIRST_COMMIT" ] || [ "$COMMIT_COUNT" -eq 0 ]; then
@@ -103,18 +108,19 @@ jobs:
           # Create orphan branch (empty history)
           git checkout --orphan gh-pages-review
 
-          # Reset working directory and index
+          # Clear working directory
           git reset --hard
-
-          # Remove all files from index and working directory
           git rm -rf --quiet . 2>/dev/null || true
           git clean -fdx
 
-          # Make initial empty commit
-          #git commit --allow-empty -m "Initial empty commit"
-
-          # Cherry-pick all commits of the month
-          echo "$COMMITS" | xargs -n1 -I{} git cherry-pick --strategy=recursive -X theirs --allow-empty {}
+          # Replay each commit by checking out its files and committing
+          while IFS="|" read -r HASH AUTHOR EMAIL DATE SUBJECT; do
+            git checkout "$HASH" -- .
+            git add -A
+            GIT_AUTHOR_NAME="$AUTHOR" GIT_AUTHOR_EMAIL="$EMAIL" GIT_AUTHOR_DATE="$DATE" \
+            GIT_COMMITTER_NAME="$AUTHOR" GIT_COMMITTER_EMAIL="$EMAIL" GIT_COMMITTER_DATE="$DATE" \
+                git commit -m "$SUBJECT"
+          done <<< "$COMMITS"
 
           echo "✅ gh-pages-review now contains full history of $TARGET_MONTH"
           echo "   Total commits: $(git rev-list --count HEAD)"
