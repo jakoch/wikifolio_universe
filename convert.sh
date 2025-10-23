@@ -439,9 +439,9 @@ move_files() {
   mkdir -p sqlite
   mv ./*.sqlite.zip sqlite/
 
-  print_status 'Moving *.json files into json folder';
-  mkdir -p json
-  mv ./*.json json/
+  #print_status 'Moving *.json files into json folder';
+  #mkdir -p json
+  #mv ./*.json json/
 
   cd ..
 }
@@ -468,7 +468,7 @@ show_folders() {
   ls -lash data
   ls -lash data/csv
   ls -lash data/sqlite
-  ls -lash data/json
+  #ls -lash data/json
 }
 
 # do a git checkout of gh_pages branch into the data folder
@@ -500,6 +500,13 @@ checkout_ghpages()
 
   cd ..
 }
+
+#
+# Note for the first run:
+# if gh-pages is an empty repo
+# comment out unzip_old_csv_files and diff_csv_files
+# run build to generate the intial data set, then restore the functions
+#
 
 run() {
   if ! isCISystem; then
