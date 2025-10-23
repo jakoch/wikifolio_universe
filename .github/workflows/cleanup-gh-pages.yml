@@ -87,11 +87,10 @@ jobs:
           set -euo pipefail
           FIRST_COMMIT="${{ steps.find_commit.outputs.first_commit }}"
           SINCE="${{ steps.dates.outputs.fetch_since }}"
-          UNTIL="${{ steps.dates.outputs.fetch_until }}"
           TARGET_MONTH="${{ steps.dates.outputs.target_month }}"
 
           # Get ALL commits in the target month, in chronological order
-          COMMITS=$(git log origin/gh-pages --since="$SINCE" --until="$UNTIL" --reverse --format="%H")
+          COMMITS=$(git log origin/gh-pages --since="$SINCE" --reverse --format="%H")
           COMMIT_COUNT=$(echo "$COMMITS" | wc -l)
 
           if [ -z "$FIRST_COMMIT" ] || [ "$COMMIT_COUNT" -eq 0 ]; then
