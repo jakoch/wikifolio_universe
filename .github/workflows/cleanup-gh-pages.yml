@@ -103,8 +103,11 @@ jobs:
           # Create orphan branch (empty history)
           git checkout --orphan gh-pages-review
 
+          # Reset working directory and index
+          git reset --hard
+
           # Remove all files from index and working directory
-          git rm -rf . 2>/dev/null || true
+          git rm -rf --quiet . 2>/dev/null || true
           git clean -fdx
 
           # Make initial empty commit
