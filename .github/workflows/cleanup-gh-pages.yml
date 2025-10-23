@@ -16,52 +16,43 @@ jobs:
         uses: actions/checkout@v5
         with:
           ref: gh-pages
-          fetch-depth: 45
+          fetch-depth: 32 # needed for --deepen in later steps
 
       - name: Set git user identity
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # -----------------------------------------------------------------------------
-      # Script Purpose:
-      #   Define and export timestamps for GitHub Actions to represent:
-      #     1. The start of the current month (UTC)
-      #     2. The start of the month corresponding to "yesterday" (UTC)
-      #
-      # Description:
-      #   - FETCH_SINCE: Points to the first day of the month that "yesterday" belongs to.
-      #   - MONTH_START: Points to the first day of the current month.
-      #   - Both values include "00:00:00" to mark the beginning of the day.
-      #   - Outputs are written to $GITHUB_OUTPUT for later workflow steps.
-      #
-      # Example Output (if today is 2025-10-23 UTC):
-      #   FETCH_SINCE=2025-10-01 00:00:00
-      #   MONTH_START=2025-10-01 00:00:00
-      #
-      # Example Output (if today is 2025-11-01 UTC):
-      #   FETCH_SINCE=2025-10-01 00:00:00
-      #   MONTH_START=2025-11-01 00:00:00
-      #
-      # -----------------------------------------------------------------------------
-      - name: Set fetch cutoff and month start date
+      - name: Set monthly cutoff dates
         id: dates
         run: |
-          FETCH_SINCE="$(date -u -d 'yesterday' '+%Y-%m-01') 00:00:00"
-          MONTH_START="$(date -u '+%Y-%m-01') 00:00:00"
-          echo "fetch_since=$FETCH_SINCE" >> $GITHUB_OUTPUT
-          echo "month_start=$MONTH_START" >> $GITHUB_OUTPUT
-          echo "✅ FETCH_SINCE=$FETCH_SINCE, MONTH_START=$MONTH_START"
+            # First day of previous month (since "yesterday" ensures we never use current incomplete month)
+            FETCH_SINCE="$(date -u -d 'yesterday' '+%Y-%m-01') 00:00:00"
+
+            # First day of current month (for reference)
+            CURRENT_MONTH_START="$(date -u '+%Y-%m-01') 00:00:00"
+
+            # Last second of previous month
+            FETCH_UNTIL="$CURRENT_MONTH_START"
+
+            echo "fetch_since=$FETCH_SINCE" >> "$GITHUB_OUTPUT"
+            echo "fetch_until=$FETCH_UNTIL" >> "$GITHUB_OUTPUT"
+            echo "target_month=${FETCH_SINCE:0:7}" >> "$GITHUB_OUTPUT"  # e.g. "2025-10"
+
+            echo "✅ Processing month: ${FETCH_SINCE:0:7}"
+            echo "   Since: $FETCH_SINCE"
+            echo "   Until: $FETCH_UNTIL"
 
       - name: Find first commit of current month
         id: find_commit
         run: |
           set -euo pipefail
 
-          MONTH_START="${{ steps.dates.outputs.month_start }}"
+          SINCE="${{ steps.dates.outputs.fetch_since }}"
+          UNTIL="${{ steps.dates.outputs.fetch_until }}"
 
           DEPTH=10
-          MAX_DEPTH=500
+          MAX_DEPTH=60
           FIRST_COMMIT=""
 
           # Loop: fetch incrementally and scan commits
@@ -69,26 +60,23 @@ jobs:
             echo "🔍 Fetching next $DEPTH commits..."
             git fetch --deepen=$DEPTH origin gh-pages
 
-            # Get commits since MONTH_START, oldest first, with date
-            git log "origin/gh-pages" --since="$MONTH_START" --reverse --format="%H %ad" --date=short | \
-            while read commit date; do
-                DAY="${date:8:2}"  # Extract DD from YYYY-MM-DD
-                if [ "$DAY" = "01" ]; then
-                FIRST_COMMIT="$commit"
+            # Get the very first commit in the target month (oldest → newest)
+            FIRST_COMMIT=$(git log origin/gh-pages --since="$SINCE" --until="$UNTIL" --reverse --format="%H" | head -n1)
+
+            if [ -n "$FIRST_COMMIT" ]; then
                 break
-                fi
-            done
+            fi
 
             DEPTH=$((DEPTH + 10))
           done
 
           # Exit if no commit found
           if [ -z "${FIRST_COMMIT:-}" ]; then
-            echo "⚠️ No first-of-month commit found — skipping workflow."
+            echo "⚠️ No commits found in target month (${{ steps.dates.outputs.target_month }}) — skipping."
             exit 0
           fi
 
-          echo "✅ First commit of the month (DD=01): $FIRST_COMMIT"
+          echo "✅ First commit of ${{ steps.dates.outputs.target_month }}: $FIRST_COMMIT"
           echo "first_commit=$FIRST_COMMIT" >> "$GITHUB_OUTPUT"
 
       - name: Create gh-pages-review branch with monthly commits
