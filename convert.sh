@@ -450,13 +450,13 @@ delete_files() {
   cd data || return
 
     print_status 'Deleting *.csv and *.sqlite files' 0 blue;
-    rm ./*.csv
-    rm ./*.sqlite
-    rm -rf csv/old
+    rm ./*.csv || true
+    rm ./*.sqlite || true
+    rm -rf csv/old || true
 
     if isCISystem; then
       print_status 'Deleting wiuc'
-      rm -rf wiuc
+      rm -rf wiuc || true
     fi
 
   cd ..
@@ -510,14 +510,14 @@ run() {
   show_infos
 
   prepare_data_folder
-  unzip_old_csv_files
+  #unzip_old_csv_files
 
   convert
   compress
 
   create_databases
 
-  diff_csv_files
+  #diff_csv_files
 
   move_files
   delete_files
