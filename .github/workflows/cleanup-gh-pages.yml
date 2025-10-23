@@ -58,33 +58,38 @@ jobs:
         run: |
           set -euo pipefail
 
-          # Fetch commits since the start of the month
-          # Initial shallow fetch with only recent commits
-          git fetch --shallow-since="${{ steps.dates.outputs.fetch_since }}" origin gh-pages
+          MONTH_START="${{ steps.dates.outputs.month_start }}"
 
-          # Try to find the first commit of the current month
-          FIRST_COMMIT=$(git rev-list --reverse --since="${{ steps.dates.outputs.month_start }}" --max-count=1 gh-pages || true)
-
-          # If we didn't find one, deepen the history a few times
           DEPTH=10
           MAX_DEPTH=500
+          FIRST_COMMIT=""
 
-          # Loop to deepen history until we find the first commit or reach max depth
-          while [ -z "${FIRST_COMMIT:-}" ] && [ $DEPTH -le $MAX_DEPTH ]; do
-            echo "🔍 First commit not found yet, deepening history to $DEPTH commits..."
+          # Loop: fetch incrementally and scan commits
+          while [ -z "${FIRST_COMMIT:-}" ] && [ "$DEPTH" -le "$MAX_DEPTH" ]; do
+            echo "🔍 Fetching next $DEPTH commits..."
             git fetch --deepen=$DEPTH origin gh-pages
-            FIRST_COMMIT=$(git rev-list --reverse --since="${{ steps.dates.outputs.month_start }}" --max-count=1 gh-pages || true)
+
+            # Get commits since MONTH_START, oldest first, with date
+            git log "origin/gh-pages" --since="$MONTH_START" --reverse --format="%H %ad" --date=short | \
+            while read commit date; do
+                DAY="${date:8:2}"  # Extract DD from YYYY-MM-DD
+                if [ "$DAY" = "01" ]; then
+                FIRST_COMMIT="$commit"
+                break
+                fi
+            done
+
             DEPTH=$((DEPTH + 10))
           done
 
-          # Exit gracefully if no commits found
+          # Exit if no commit found
           if [ -z "${FIRST_COMMIT:-}" ]; then
-            echo "⚠️ No commits found for this month — skipping workflow."
+            echo "⚠️ No first-of-month commit found — skipping workflow."
             exit 0
           fi
 
-          echo "✅ First commit of this month: $FIRST_COMMIT"
-          echo "first_commit=$FIRST_COMMIT" >> $GITHUB_OUTPUT
+          echo "✅ First commit of the month (DD=01): $FIRST_COMMIT"
+          echo "first_commit=$FIRST_COMMIT" >> "$GITHUB_OUTPUT"
 
       - name: Create gh-pages-review branch with monthly commits
         run: |
