@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA0682943059,A2PMRU,BAROYECA GOLD+SILVER INC.,Aktien International,Aktien International,,,,",
+    "CA0976923056,A3D8AK,BOLT METALS CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA0976924047,A41PGU,BOLT METALS CORP.,Aktien International,Aktien International,,,,",
+    "CA98956K1030,A41NVE,0749116 B C LTD.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
