@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA26926A1030,A3C8SV,E-TECH RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "CH0350494719,A2DLDK,BQUE CANT.D.GEN.NAM.SF 50,Aktien Europa,Aktien Europa Select,,,,",
+    "KYG8917X1218,787139,\"TONGDA GROUP HLDGS HD-, 01\",Aktien International,Aktien International,,,,",
+    "US8173233060,A40P1S,SEQUANS COMMNUN.S.ADR/10,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA75865L1094,A41NVD,REEXPLORATION INC.,Aktien International,Aktien International,,,,",
+    "KYG8917X1549,A41H9Z,\"TONGDA GROUP HLDGS HD-, 50\",Aktien International,Aktien International,,,,",
+    "JP3548600000,891900,DISCO CORP.,Aktien International,Aktien International,,,,",
+    "CH1485899350,A41NLS,BQUE CANT.D.GEN.NAM.SF 5,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
