@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE0002A3VE77,A40JUG,JH-PAN EU.H.C.EQ.ETF EOA,ETFs,ETFs Europa Gesamt,,,,",
+      "Current": "IE0002A3VE77,A40JUG,J.H.T.P.E.H.C.E EOA,ETFs,ETFs Europa Gesamt,,,,"
+    }
+  ],
+  "Deletions": [
+    "SE0026821282,A4AQH5,VIRTUNE AB O.END ETP,ETFs,sonstige ETFs,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
