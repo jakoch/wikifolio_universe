@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA05455X2059,A40A7B,AXCAP VENTURES INC. NEW,Aktien International,Aktien International,,,,",
+    "CA4826272052,A401U0,K9 GOLD CORP.,Aktien International,Aktien International,,,,",
+    "DE000A40UTE1,A40UTE,AUR PORTFOLIO III INH ON,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "US57636Q1040,A0F602,\"MASTERCARD INC.A DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US57636Q1040,A0F602,MASTERCARD,Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA03090L1085,A41T8M,AMERICORE RESOURCES CORP.,Aktien International,Aktien International,,,,",
+    "CA7800171091,A41TVD,ROXMORE RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "DE000A0LSAQ3,A0LSAQ,AUR PORTFOLIO III IN KONV,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}
