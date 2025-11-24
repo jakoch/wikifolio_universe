@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "AU000000AVL6,A2ABRH,AUSTRALIAN VANADIUM LTD. REGISTERED SHARES O.N.,Aktien International,Aktien International,,,,",
+    "CA30222R1091,A2DWXY,EXRO TECHS INC. NEW,Aktien International,Aktien International,,,,",
+    "CA31858L3092,A41DFR,FIRST AMERN URANIUM,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "US36472T1097,A2PVRP,\"USA TODAY CO. INC. DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US36472T1097,A2PVRP,\"NEW MEDIA INV.GRP. DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA65704Y1079,A41VGD,NORTH AMER.NIO.CRIT.MATE.,Aktien International,Aktien International,,,,",
+    "LU1048328220,A111C3,EDREAMS ODIGEO S.A.,Aktien Europa,Aktien Europa Select,,,,",
+    "AU0000428138,A41HB0,AUSTRALIAN VANADIUM LTD,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}
