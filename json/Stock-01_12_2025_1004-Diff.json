@@ -1,0 +1,64 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "TH0001010R16,676019,BANGKOK BK -NVDR-   BA 10,Aktien International,Aktien International,,,,",
+    "AU000000IFL2,787897,INSIGNIA FINANCIAL LTD.,Aktien International,Aktien International,,,,",
+    "ID1000113707,A0YGYC,PT BK TABUNG.NEG.P RP500,Aktien International,Aktien International,,,,",
+    "AU0000329302,A40BCT,TERRA METALS LTD.,Aktien International,Aktien International,,,,",
+    "AU0000157679,A3CWH9,ALMONTY INDUSTRIES CDIS/1,Aktien International,Aktien International,,,,",
+    "AU0000079212,A2P5M9,AML3D LTD,Aktien International,Aktien International,,,,",
+    "US4606901001,851781,\"INTERPUBL.GR. COS. DL-, 10\",Aktien USA,Aktien USA Select,,,,",
+    "ID1000095706,358693,UNILEVER INDONESIA  RP 2,Aktien International,Aktien International,,,,",
+    "AU0000339426,A40HTA,ALCOA CORP. CDI /1,Aktien International,Aktien International,,,,",
+    "TH0016010R14,676056,KASIKORNBK -NVDR-   BA 10,Aktien International,Aktien International,,,,",
+    "AU0000318552,A402TM,CAPSTONE COPPER CORP.,Aktien International,Aktien International,,,,",
+    "TH0041010Y13,A0X8PJ,\"CIMB THAI BANK-FGN-BA-, 50\",Aktien International,Aktien International,,,,",
+    "IL0011974909,A3EQCL,ODDITY TECH. LTD.,Aktien International,Aktien International,,,,",
+    "AU0000189318,A3D13K,IPD GROUP LTD,Aktien International,Aktien International,,,,",
+    "AU0000294498,A3EWMX,CHARIOT CORPORATION LTD.,Aktien International,Aktien International,,,,",
+    "ID1000108905,A0M953,LIPPO KARAWACI TBK RP 100,Aktien International,Aktien International,,,,",
+    "AU000000CDA3,A0DJ8C,CODAN LTD.,Aktien International,Aktien International,,,,",
+    "AU0000251498,A3D2FY,HELIA GROUP LTD.,Aktien International,Aktien International,,,,",
+    "SG1I55882803,881302,GREAT EASTN HLDGS LOC.,Aktien International,Aktien International,,,,",
+    "TH0121010R12,691433,KIATNAKIN PH.-NVDR- BA 10,Aktien International,Aktien International,,,,",
+    "AU000000BXN6,A1JWM6,BIOXYNE LTD,Aktien International,Aktien International,,,,",
+    "AU000000SUH8,A1C3D0,STHN HEMISPHERE MNG,Aktien International,Aktien International,,,,",
+    "AU0000147266,A3EEXL,TORQUE METALS LIMITED,Aktien International,Aktien International,,,,",
+    "ID1000110901,A0Q3ZA,INDIKA ENERGY TBK  RP 100,Aktien International,Aktien International,,,,",
+    "HK0086000525,868278,SUN HUNG K.CO.LTD,Aktien International,Aktien International,,,,",
+    "AU0000416109,A41HF5,RYZON MATERIALS LTD.,Aktien International,Aktien International,,,,",
+    "AU000000KPO1,A14WKY,KALINA POWER LTD,Aktien International,Aktien International,,,,",
+    "AU0000081341,A2P18Q,IONIC RARE EARTHS LTD,Aktien International,Aktien International,,,,",
+    "AU0000332553,A40E7U,RESOURO STRATEGIC METALS,Aktien International,Aktien International,,,,",
+    "AU0000003PL9,A119T1,3P LEARNING LTD,Aktien International,Aktien International,,,,",
+    "AU0000305468,A3E1Z6,KALI METALS ORD.F.P. O.N.,Aktien International,Aktien International,,,,",
+    "AU000000SRN2,A2DH6T,SUREFIRE RES,Aktien International,Aktien International,,,,",
+    "AU0000111395,A3EEY2,PROSPECH LIMITED,Aktien International,Aktien International,,,,",
+    "CNE1000025S9,A2AF8R,CH.ZHESHANG BANK H   YC 1,Aktien International,Aktien International,,,,",
+    "TH0438010Z10,A0CANQ,ITALIAN-THAI DEV.FGN  BA1,Aktien International,Aktien International,,,,",
+    "ID1000098007,A0CA1P,BANK CIMB NIAGA   RP 5000,Aktien International,Aktien International,,,,",
+    "AU000000PAR5,A12FJ4,PARADIGM BIOPHARMACEUT.,Aktien International,Aktien International,,,,",
+    "AU0000040982,A2PKPN,RICEGROWERS LTD CL.B O.N.,Aktien International,Aktien International,,,,",
+    "AU0000253510,A3D22Z,REGAL ASIAN INVESTMENTS,Aktien International,Aktien International,,,,",
+    "AU000000SUL0,A0B5SL,SUPER RETAIL GROUP LTD.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 3,
+    "Deletions": 40
+  }
+}
