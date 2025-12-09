@@ -1,0 +1,56 @@
+{
+  "Additions": [
+    "CA21872J3073,A3CSSU,CORE ONE LABS INC.,Aktien International,Aktien International,,,,",
+    "CA43005Y1007,A4193E,HIGHLAND CRIT.MINER. A,Aktien International,Aktien International,,,,",
+    "CH0012410517,853020,BALOISE HLD N,Aktien Europa,Aktien Europa Select,,,,",
+    "DE000A40KY26,A40KY2,COVESTRO AG O.N. Z.VERK.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "GB00B10RZP78,A0JNE2,\"UNILEVER PLC   LS-, 031111\",Aktien Europa,Aktien Europa Select,,,,",
+    "US7311052010,A3DP4R,POLESTAR AUTO.ADR/A,Aktien USA,Aktien USA Select,,,,",
+    "US89151E1091,882930,TOTALENERGIE SPONS. ADR 1,Aktien USA,Aktien USA Select,,,,",
+    "US9047677045,854342,\"UNILEVER ADR/1 LS-, 031111\",Aktien USA,Aktien USA Select,,,,",
+    "US98138J4040,A4137P,\"WORKHORSE GRP NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU000000LTR4,A0LFDX,LIONTOWN LTD.,Aktien International,Aktien International,,,,",
+      "Current": "AU000000LTR4,A0LFDX,LIONTOWN RESOURCES LTD,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "AU000000MGX7,896269,MGX RESOURCES LTD.,Aktien International,Aktien International,,,,",
+      "Current": "AU000000MGX7,896269,MOUNT GIB.I.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "NL0015002MS2,A41NML,MAGNUM I.C.CO. EO 1,Aktien USA,Aktien Dow Jones,,,,",
+      "Current": "NL0015002MS2,A41NML,MAGNUM I.C.CO. EO 1,Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA05368K1003,A2PN04,AVICANNA INC.,Aktien International,Aktien International,,,,",
+    "CA0804995029,A2PLWB,BELMONT RES INC.,Aktien International,Aktien International,,,,",
+    "CA1170881041,A2QEGP,BRUNSWICK EXPLORAT. INC.,Aktien International,Aktien International,,,,",
+    "GB00BVZNY531,A41RJP,\"PRINCES GROUP PLC LS 0, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA31788W1023,A2ADY5,FINEQIA INTERN. INC. O.N.,Aktien International,Aktien International,,,,",
+    "CA0704902067,A118WH,BACTECH ENVIRONMENT.CORP.,Aktien International,Aktien International,,,,",
+    "CA6658043089,A2PBMA,NORTHERN SUPERIOR RES,Aktien International,Aktien International,,,,",
+    "US7311054099,A41TQY,POLESTAR AUTO.ADR/30 A,Aktien USA,Aktien USA Select,,,,",
+    "US9047678035,A41MZQ,UNILEVER ADR/1 NEW 2025,Aktien Europa,Aktien Europa Select,,,,",
+    "IL0011857013,A3ESFC,PARAZERO TECHNOLOGIES LTD,Aktien USA,Aktien USA Select,,,,",
+    "US98138J5039,A41V25,\"WORKHORSE GRP NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "CA4299351094,A41WE7,HIGHLAND C.M. A NEW O.N.,Aktien International,Aktien International,,,,",
+    "CA7500802029,A1405R,RACKLA METALS INC.,Aktien International,Aktien International,,,,",
+    "GB00BVZK7T90,A41NM1,UNILEVER PLC,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 5,
+    "Deletions": 14
+  }
+}
