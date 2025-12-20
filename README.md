@@ -1,13 +1,13 @@
 # Das gesamte [wikifolio.com Anlageuniversum](https://help.wikifolio.com/article/102-welche-werte-kann-ich-im-wikifolio-handeln) im &Uuml;berblick:
 
 
-### Downloads vom 19_12_2025_1003
+### Downloads vom 20_12_2025_1001
 
 | | XLSX | SQLite | CSV |
 |--|--|--|--|
-| **Investment Universe** | [xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) (10 MB) | [sqlite](sqlite/Investment_Universe-19_12_2025_1003.sqlite.zip) (10 MB) | |
+| **Investment Universe** | [xlsx](https://wikifolio.blob.core.windows.net/prod-documents/Investment_Universe.de.xlsx) (10 MB) | [sqlite](sqlite/Investment_Universe-20_12_2025_1001.sqlite.zip) (10 MB) | |
 | *By Security Type* ||||
-| **Stock** |  | [sqlite](sqlite/Stock-19_12_2025_1003.sqlite.zip) (325 KB) | [csv](csv/Stock-19_12_2025_1003.csv.zip) (237 KB) |
-| **ETF** |  | [sqlite](sqlite/ETF-19_12_2025_1003.sqlite.zip) (93 KB) | [csv](csv/ETF-19_12_2025_1003.csv.zip) (64 KB) |
-| **Derivatives** |  | [sqlite](sqlite/Derivatives-19_12_2025_1003.sqlite.zip) (9 MB) | [csv](csv/Derivatives-19_12_2025_1003.csv.zip) (5 MB) |
-| **Wikifolios** |  | [sqlite](sqlite/Wikifolios-19_12_2025_1003.sqlite.zip) (213 KB) | [csv](csv/Wikifolios-19_12_2025_1003.csv.zip) (153 KB) |
+| **Stock** |  | [sqlite](sqlite/Stock-20_12_2025_1001.sqlite.zip) (325 KB) | [csv](csv/Stock-20_12_2025_1001.csv.zip) (236 KB) |
+| **ETF** |  | [sqlite](sqlite/ETF-20_12_2025_1001.sqlite.zip) (93 KB) | [csv](csv/ETF-20_12_2025_1001.csv.zip) (64 KB) |
+| **Derivatives** |  | [sqlite](sqlite/Derivatives-20_12_2025_1001.sqlite.zip) (9 MB) | [csv](csv/Derivatives-20_12_2025_1001.csv.zip) (5 MB) |
+| **Wikifolios** |  | [sqlite](sqlite/Wikifolios-20_12_2025_1001.sqlite.zip) (213 KB) | [csv](csv/Wikifolios-20_12_2025_1001.csv.zip) (153 KB) |
