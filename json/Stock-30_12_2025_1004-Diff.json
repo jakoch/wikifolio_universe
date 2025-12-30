@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "BMG236541170,A40SQP,\"SHELF DRILL.NRTH. NK -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA60252Q1019,A1CTEA,MINAURUM GOLD INC.,Aktien International,Aktien International,,,,",
+    "US88583P1049,A3CWHD,\"374WATER INC.    DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "AU0000413890,A41JQH,DPM METALS INC.   CDIS/1,Aktien International,Aktien International,,,,",
+    "US72703X1063,A3C84C,\"PLANET LABS PBC A  -, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "CA60253E1079,A41V7D,MINAURUM SILER INC.,Aktien International,Aktien International,,,,",
+    "US88583P2039,A41TV6,374WATER INC.    NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA49752E1060,A41937,KIRKSTONE METALS CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 5
+  }
+}
