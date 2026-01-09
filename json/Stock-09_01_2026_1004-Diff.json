@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "AU000000SWM4,A1JAA5,SEVEN WEST MEDIA LTD,Aktien International,Aktien International,,,,",
+    "CA73965Q1028,A2AR2U,PRAIRIE PROVIDENT RES.INC,Aktien International,Aktien International,,,,",
+    "DE000A2QEFA1,A2QEFA,PLATFORM GRP AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA73965Q8882,A41Y9A,PRAIRIE PROVIDENT RES.NEW,Aktien International,Aktien International,,,,",
+    "AU0000252314,A3D2WD,PATAGONIA LITHIUM LTD,Aktien International,Aktien International,,,,",
+    "US63942X1063,A3C5RC,\"NAVITAS SEM.CL.A DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "DE000A40ZW88,A40ZW8,THE PLATFORM GRP SE NA ON,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
