@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "FR0013335742,A2JN4M,\"COGELEC S.A.       EO-, 45\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BS457501,A411HA,\"CORO ENERGY PLC  LS-, 005\",Aktien Europa,Aktien Europa Select,,,,",
+    "US45674M1018,A3C6AA,\"INFORMATICA CL.A  DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US91705J1051,A2DRLB,URBAN ONE INC. A,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US91705J3032,A41XFM,URBAN ONE   CL.A NEW,Aktien USA,Aktien USA Select,,,,",
+    "US84612H1068,A2QM56,\"SOW GOOD INC. DL -, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US87151X1019,A3DK1X,SYMBOTIC INC. CL.A   O.N.,Aktien USA,Aktien USA Select,,,,",
+    "GB00BPSRYZ03,A41YMA,\"CORO ENERGY PLC  LS-, 01\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
