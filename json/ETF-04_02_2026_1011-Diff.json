@@ -1,0 +1,20 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU1135865084,LYX0Q9,MULACSPP500 E ACC,ETFs,ETFs Nordamerika,,,,",
+      "Current": "LU1135865084,LYX0Q9,MUL AMUN S+P500 ETF E ACC,ETFs,ETFs Nordamerika,,,,"
+    }
+  ],
+  "Deletions": [
+    "LU3173209654,A41ZY1,BNPPE-MSCI W.2 U.ETFEOA,ETFs,ETFs Welt,,,,",
+    "LU3257630437,A41ZY3,BNPP EA-MSCI EM U.ETFEOA,ETFs,ETFs Emerging Markets,,,,",
+    "LU3215536486,A41ZY2,BNPP EA-MSCIEMU U.ETFEOA,ETFs,ETFs Emerging Markets,,,,",
+    "LU3257630510,A41ZY4,BNPPE-MS.EM.E.C U.ETFEOA,ETFs,ETFs Emerging Markets,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}

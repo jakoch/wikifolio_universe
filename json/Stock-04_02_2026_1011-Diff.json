@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "CA88605U1075,A2N8Q7,THUNDERBIRD ENTER.GRP,Aktien International,Aktien International,,,,",
+    "CA8974711084,A3DRXM,TROY MINERALS INC.,Aktien International,Aktien International,,,,",
+    "NO0010809783,A2QPYT,\"OTOVO ASA         NK 0, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "US33621E1091,A0RA8R,\"FIRST SAVINGS FINL DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US7376301039,A0JDAK,POTLATCHDELTIC CORP. DL 1,Aktien USA,Aktien USA Select,,,,",
+    "US7495271071,A2DKYD,\"REV GROUP INC.  DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "NO0013721613,A41YPU,\"OTOVO ASA         NK 0, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA59100N1042,A41ZJ6,META CRIT. MINERALS O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}
