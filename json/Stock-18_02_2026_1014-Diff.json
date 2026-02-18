@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "AU0000308157,A3E2VR,GLOBAL URANIUM+ENRICHMENT,Aktien International,Aktien International,,,,",
+    "CA1389093040,A14ZX4,CANUC RES CORP.,Aktien International,Aktien International,,,,",
+    "CA75686Y7028,A3CMJ3,RED PINE EXPLORATION,Aktien International,Aktien International,,,,",
+    "KYG8020E1199,A2DH1J,SEMICONDUCTOR MAN.INTL,Aktien International,Aktien International,,,,",
+    "US65540B1052,A1W1QK,\"NOODLES+CO. A      DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US87157B4005,A3E1W0,\"SYNCHRONOSS NEW  DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA74984K1003,A4237K,RPX GOLD INC. O.N.,Aktien International,Aktien International,,,,",
+    "US65540B3033,A4237M,NOODLES+CO. A NEW    O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA1389095029,A41V6H,CANUC RES CORP.     O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
