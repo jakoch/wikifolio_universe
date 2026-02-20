@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "BMG3398L1182,A3EDHE,FIDELIS INSURANCE HLDGS,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA65346B1013,A410LD,NEXCEL METALS CORP. O.N.,Aktien International,Aktien International,,,,",
+    "CA7270533085,A423DL,PLANET VENTURES NEW,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}
