@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "GB00B90XFF12,A1KAFP,\"SOUND ENERGY LS-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA72811X2041,A1XBPT,PLAYFAIR MNG,Aktien International,Aktien International,,,,",
+    "US30258N1054,A2H6NG,\"FAT BRANDS INC.A DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA72811X3031,A4237J,PLAYFAIR MNG,Aktien International,Aktien International,,,,",
+    "CNE1000069Z2,A3E3BH,REPT BAT.E.C.LTD  H YC1,Aktien International,Aktien International,,,,",
+    "GB00BVP8H932,A41YQG,\"SOUND ENERGY LS-, 001\",Aktien Europa,Aktien Europa Select,,,,",
+    "CNE100003N76,A2PRXP,SHANGH.HENLIUS BIO.  HD 1,Aktien International,Aktien International,,,,",
+    "CNE100006N08,A40US5,JIANGSU GUOFU H.E.E.H YC1,Aktien International,Aktien International,,,,",
+    "CNE1000070H8,A41ESB,NANJING LEADS BIOLABS CO.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 6
+  }
+}
