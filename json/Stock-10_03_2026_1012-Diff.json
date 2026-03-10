@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "GB00B5N0P849,A1JGY5,John Wood Group,Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BNYKB709,A3CQR6,\"KITWAVE GROUP PLC LS -, 01\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA75889D2086,A41DJN,REGENCY SILVER CORP.,Aktien International,Aktien International,,,,",
+    "US87507T1016,A40CKL,\"TAMBORAN RES.C. DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 4,
+    "Deletions": 2
+  }
+}
