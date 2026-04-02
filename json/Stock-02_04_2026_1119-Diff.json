@@ -1,0 +1,39 @@
+{
+  "Additions": [
+    "FI0009007306,919622,EXEL COMPOSITES OYJ,Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BCRX1J15,A1W8J6,\"JUST GROUP PLC    LS -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "GG00B39HF298,A0Q234,\"INDUS GAS LTD     LS -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA11259V1067,A3DGQ5,BROOKFIELD BUS.CORP. CL.A,Aktien International,Aktien International,,,,",
+    "CA50067J2020,A40EUJ,KORYX COPPER INC. NEW,Aktien International,Aktien International,,,,",
+    "CNE100000312,A0M4XY,DONGFENG MOTOR,Aktien International,Aktien International,,,,",
+    "JE00BTDN8H13,A417CC,\"APTIV PLC         DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US00972G2075,A3ESDF,\"AKARI THER.ADR/2000 -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US31573L1052,A3EP67,FIBROBIOLOGICS INC.,Aktien USA,Aktien USA Select,,,,",
+    "US32026V1044,A12EWX,\"FIRST FOUNDATION  DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US00972G4055,A4270Y,\"AKARI THER.ADR/80000 -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "CA1130061007,A422AG,BROOKFILED BUSI. NEW O.N.,Aktien International,Aktien International,,,,",
+    "LU3306723589,A428NP,KORYX COPPER O.N.,Aktien International,Aktien International,,,,",
+    "JE00BWK75100,A426PJ,\"VERSIGENT LTD. DL -, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 10,
+    "Modifications": 3,
+    "Deletions": 4
+  }
+}
