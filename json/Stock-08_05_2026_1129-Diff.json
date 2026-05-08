@@ -1,0 +1,55 @@
+{
+  "Additions": [
+    "CA00248Y1079,A416BY,AXO COPPER CORP.,Aktien International,Aktien International,,,,",
+    "US18539C1053,A2N5TZ,\"CLEARWAY ENERGY A NDL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US3076751086,873769,FARMER BROS. CO.,Aktien USA,Aktien USA Select,,,,",
+    "US3810131017,A14XX5,\"GOLDEN ENTERTAINM. DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US6915436074,A3CRS8,OXFORD LANE CAP.CORP.DL25,Aktien USA,Aktien USA Select,,,,",
+    "US8808811074,A2QNWR,\"TERNS PHARMACEUT.DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US91060H1086,A3D86W,UNITED HOMES GROUP CL.A,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA05465W1068,A42784,AXO.MET.COR. O.N.,Aktien International,Aktien International,,,,",
+    "GB00BVK55Z16,A41YYW,REABOLD RESOURCES LS 1,Aktien Europa,Aktien Europa Select,,,,",
+    "US74039M4087,A41HQB,\"AXE COMPUTE INC.   DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US7240782091,A421FE,PIPER SANDLER NEW O.N,Aktien USA,Aktien USA Select,,,,",
+    "US40054J1097,A41N3H,GR AEROMEXICO SP.ADR/1,Aktien USA,Aktien USA Select,,,,",
+    "US78397Q1094,A3DEJZ,\"SES AI CORP. A   DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US8629453007,A41U5B,STRIVE INC. CL.A NEW,Aktien USA,Aktien USA Select,,,,",
+    "US9467841055,A3EXMR,WAYSTAR HOLDING CORP.O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US45827U1097,A3CTLE,\"INTAPP INC.  DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US0231931058,A41E0R,AMBIQ MICRO INC O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US78781J1097,A411ZN,\"SAILPOINT INC.   DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US00676P1075,A3DRWP,ADEIA INC.,Aktien USA,Aktien USA Select,,,,",
+    "US7501021056,A2QAH7,\"RACKSPACE TECH. DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US0016611073,A418BU,AMC ROBOTICS CORP.,Aktien USA,Aktien USA Select,,,,",
+    "US60365F1093,A420FV,MINIMED GRP INC.  O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US26443V1017,A2ABDD,DULUTH HOLDINGS INC.,Aktien USA,Aktien USA Select,,,,",
+    "US79589L1061,A3C9GD,\"SAMSARA INC. A   DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US04302A1043,A3C6A9,\"ARTERIS INC.   DL -, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US78137L1052,A3DRQQ,RUMBLE INC.  CL.A O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US0094221068,A4146B,\"AIRO GRP HLDGS DL-, 000001\",Aktien USA,Aktien USA Select,,,,",
+    "US30069T1016,A3DJ8F,\"EXCELERATE ENER.A DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US88822Q1031,A1W15L,\"TIPTREE INC.      DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US7444302084,A41J5B,PUBLIC POLICY HO.CO. NEW,Aktien USA,Aktien USA Select,,,,",
+    "US9837FR2091,A3EUT8,SPRUCE POWER HOLDING CORP,Aktien USA,Aktien USA Select,,,,",
+    "US23834J2015,A3D4BP,DAVE INC. NEW,Aktien USA,Aktien USA Select,,,,",
+    "US53229X1019,A421M9,LIFTOFF MOBILE INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US14280C1053,A41CM7,CARLSMED INC.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 2,
+    "Deletions": 27
+  }
+}
