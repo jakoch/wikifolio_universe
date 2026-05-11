@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "IE00B7XD2195,A1VBKL,WITR MU.AS.I.SILV.ETP2062,ETFs,ETFs DAX,,,,",
+    "IE00B7SD4R47,A1VBKT,WITR MU.AS.I.ESTX ETP2062,ETFs,ETFs Europa Gesamt,,,,",
+    "IE00B88D2999,A1VBKV,WITR MU.AS.I.FTSE ETP2062,ETFs,ETFs Europa Gesamt,,,,",
+    "IE00BYMB4Q22,A2D1VD,WITR MU.AS.I. ETP 2062,ETFs,ETFs Europa Gesamt,,,,",
+    "IE00B878KX55,A1VBKS,WITR MU.AS.I.LEVD.ETP2062,ETFs,sonstige ETFs,ETFs,ETFs DAX,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "XS3306518492,A4ARZQ,WITR MU.AS.I.LEVD.ETP2062,ETFs,sonstige ETFs,,,,",
+    "XS3306519201,A4ARZT,WITR MU.AS.I. ETP 2062,ETFs,ETFs Europa Gesamt,,,,",
+    "XS3306519896,A4ARZU,WITR MU.AS.I.FTSE ETP2062,ETFs,ETFs Europa Gesamt,,,,",
+    "XS3306518658,A4ARZX,WITR MU.AS.I.ESTX ETP2062,ETFs,ETFs Europa Gesamt,,,,",
+    "XS3306516876,A4ARZW,WITR MU.AS.I.SILV.ETP2062,ETFs,ETFs DAX,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
