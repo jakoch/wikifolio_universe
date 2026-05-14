@@ -1,0 +1,21 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "US25461A1714,A426HX,DSETFT-DJGMI DLD,ETFs,ETFs Nordamerika,,,,",
+      "Current": "US25461A1714,A426HX,DSETFT-DJGMI DLD,ETFs,ETFs Basic Resources,,,,"
+    },
+    {
+      "Original": "US25461A1896,A426K1,DSETFT-DGMIB DLD,ETFs,ETFs Nordamerika,,,,",
+      "Current": "US25461A1896,A426K1,DSETFT-DGMIB DLD,ETFs,ETFs Basic Resources,,,,"
+    }
+  ],
+  "Deletions": [
+    "IE0002HWPU75,A4248V,HI-JGHDE DLD,ETFs,sonstige ETFs,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
