@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "BE0003880979,A0M9QW,KEYWARE TECHNOLOGIES O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "CH0033361673,A0M2K9,U-BLOX,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010812230,A1J4UX,\"SIRIUS MEDIA       EO-, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "US1263491094,899518,\"CSG SYS INTL       DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US8342033094,A3DS0P,\"SOLENO THERAPEUT. DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "BE0974503352,A42CS9,KEYWARE TECHNOLOGIES O.N.,Aktien Hot Stocks,Aktien Hot Stocks,,,,",
+    "CA79467H1029,A427WK,SALESCLOSER TECHN. LTD.ON,Aktien International,Aktien International,,,,",
+    "FR0014017FP5,A41YWE,\"SIRIUS MEDIA     EO 100, -\",Aktien Europa,Aktien Europa Select,,,,",
+    "KYG290181018,A3CRQL,\"DLOCAL LTD A      DL-, 002\",Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}
