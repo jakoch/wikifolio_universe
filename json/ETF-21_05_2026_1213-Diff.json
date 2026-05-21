@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "IE0005FKEK99,A3DXM8,JPM-GRSOSUBA A,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000FBG59J1,A3DXM9,JPM-GRSOSUBA EOHA,ETFs,ETFs Sonstige Bonds,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE000BS9KP42,A40ZH1,JPM-EM LOC BOND UE UHDLD,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE000BS9KP42,A40ZH0,JPME-EMLOCUBDAC JPETFDIUS,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BC7GZX26,A1W3V2,ST.S.SPDR B0-3Y.US C.B.UE,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE00BC7GZX26,A1W3V2,SPDR B.0-3Y.US C.B.UETF,ETFs,ETFs Sonstige Bonds,,,,"
+    }
+  ],
+  "Deletions": [
+    "IE000K7PC2G4,A425HR,V-VFDESCE EOD,ETFs,ETFs Europa Gesamt,,,,",
+    "IE00069H3LK0,A425HQ,V-VFDESCE EOA,ETFs,ETFs Europa Gesamt,,,,",
+    "IE000TGCBXG8,A40ZH0,JPM-EM LOC BOND UE UHDLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000VH3JSL8,A425RU,V-VFEE EOD,ETFs,ETFs Europa Gesamt,,,,",
+    "IE000Q4J3CW6,A425RT,V-VFEE EOA,ETFs,ETFs Europa Gesamt,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 5
+  }
+}
