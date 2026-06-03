@@ -1,0 +1,37 @@
+{
+  "Additions": [
+    "SE0001137985,A0BLFX,ACTIVE BIOTECH      SK 10,Aktien Europa,Aktien Europa Select,,,,",
+    "CA29391A1030,A423RJ,EPIC GOLD CORP. O.N.,Aktien International,Aktien International,,,,",
+    "KYG451391133,A41YW3,\"HITEK GLOBAL INC.A , -005\",Aktien International,Aktien International,,,,",
+    "US20731J1025,A14YNV,PRESURANCE HOLDINGS INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0008474230,847423,DWS EURO FLEXIZINS NC,Fonds,Fonds Renten,,,,",
+      "Current": "DE0008474230,847423,DWS EURO FLEXIZINS NC,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [
+    "US52476L1098,A41GD9,LEGENCE CORP. CL.A   O.N.,Aktien USA,Aktien USA Select,,,,",
+    "SE0029278555,A41Z2Z,ACTIVE BIOTECH O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "KYG4790P1037,A41XT7,INSILICO MED.C. O.N.,Aktien International,Aktien International,,,,",
+    "US84472E1029,A41F7Q,SOUTHSTATE BANK CORP.O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US00402L1070,A2QDZ9,\"AC.SPORT.+OUTD.INC DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US29415C1018,A2QD94,EOS ENERGY ENTERPR.CL.A,Aktien USA,Aktien USA Select,,,,",
+    "US20731J4094,A42CQ9,PRESURANCE HOLDINGS NEW,Aktien International,Aktien International,,,,",
+    "US53115L1044,A2DQR0,\"LIBERTY ENERGY   A DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "CA29391A2020,A42DD6,EPIC GOLD CORP. O.N.,Aktien International,Aktien International,,,,",
+    "NO0010859580,A2QP0Z,\"ARCTIC BIOSCIENCE NK -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "US15102K1007,A2JAAX,\"CELCUITY INC.    DL -, 001\",Aktien USA,Aktien USA Select,,,,",
+    "FO000A0DN9X4,A0DN9X,ATLANTIC PETROL.PF   DK 1,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 12
+  }
+}
