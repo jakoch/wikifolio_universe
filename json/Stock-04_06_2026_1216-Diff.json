@@ -1,0 +1,39 @@
+{
+  "Additions": [
+    "CA14919F3051,A41L41,CATHEDRA BITCOIN INC.,Aktien International,Aktien International,,,,",
+    "US7434762024,A1J7JT,PROSIEBENSAT.1 MEDI.ADR4/,Aktien International,Aktien International,,,,",
+    "US88362T1034,A1H99U,\"THERMON GRO.HLDGS DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "DE000BFB0019,BFB001,METRO AG   ST O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000BFB0027,BFB002,METRO AG   VZO O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "DE000A41YD16,A41YD1,METRO AG NA ST O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US3143521058,A426JK,FEDEX FGHT HLDG CO. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "KYG451391216,A41Z2M,\"HITEK GLOB. INC.A DL-, 015\",Aktien International,Aktien International,,,,",
+    "DE000A41YD24,A41YD2,METRO AG NA VZO O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US3004261034,A40QEU,EVERUS CONSTR.GRP O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 4,
+    "Deletions": 5
+  }
+}
