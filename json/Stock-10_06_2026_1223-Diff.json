@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "GB0008497975,A0KEXA,\"MINOAN GROUP PLC LS -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BL6K7L04,A3CWKE,\"HYDRO.CAP.GROWTH  LS -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BSM98843,A2AK3B,\"DIRECTA PLUS PLC LS-, 0025\",Aktien Europa,Aktien Europa Select,,,,",
+    "IE00B4XVDC01,A0YG05,\"OVOCA BIO PLC     EO-, 125\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA0037351073,A401ML,ABOUND ENERGY INC.  O.N.,Aktien International,Aktien International,,,,",
+    "CA52637M1032,A40ZYP,LEOCOR MINING,Aktien International,Aktien International,,,,",
+    "CA82967M1005,A0RM6R,SIRONA BIOCHEM CORP.,Aktien International,Aktien International,,,,",
+    "JP3827600002,869223,FURUKAWA BATTERY,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "US46264C3051,A3ENPZ,\"AUTHID INC.      DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "CA52637P1062,A42CBH,LEOCOR MINING,Aktien International,Aktien International,,,,",
+    "US4869171078,A42788,KEEL INFRASTR.CORP. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA0037352063,A42EJQ,ABOUND ENERGY INC.  O.N.,Aktien International,Aktien International,,,,",
+    "IE000XRZAWV1,A421QR,\"TALISMAN METALS    EO-, 02\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 2,
+    "Deletions": 5
+  }
+}

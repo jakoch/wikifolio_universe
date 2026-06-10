@@ -1,0 +1,35 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "US37950E2596,A1T965,GLOBAL X MSCI ARGENT. ETF,ETFs,ETFs Nordamerika,ETFs,sonstige ETFs,,",
+      "Current": "US37950E2596,A1T965,GLOBAL X MSCI ARGENT. ETF,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "US37954Y3190,A2P29T,GLOBAL X MSCI GREECE NEW,ETFs,ETFs Nordamerika,ETFs,sonstige ETFs,,",
+      "Current": "US37954Y3190,A2P29T,GLOBAL X MSCI GREECE NEW,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "US37954Y3273,A2P29S,GLBL X MSCI COLOMBIA  NEW,ETFs,ETFs Nordamerika,ETFs,sonstige ETFs,,",
+      "Current": "US37954Y3273,A2P29S,GLBL X MSCI COLOMBIA  NEW,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "US4642866408,A0NGGF,ISHS-MSCI CHILE ETF,ETFs,ETFs Nordamerika,ETFs,sonstige ETFs,,",
+      "Current": "US4642866408,A0NGGF,ISHS-MSCI CHILE ETF,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "US46434G8143,A2AUCG,ISHS INC-MSCI MALYSIA NEW,ETFs,ETFs Nordamerika,ETFs,sonstige ETFs,,",
+      "Current": "US46434G8143,A2AUCG,ISHS INC-MSCI MALYSIA NEW,ETFs,ETFs Nordamerika,,,,"
+    }
+  ],
+  "Deletions": [
+    "LU3299677271,ETF335,A.EO ST.50T.I. U.ETFEOD,ETFs,ETFs Europa Gesamt,,,,",
+    "IE000A9G9R73,A42BME,ISHS IV-SP.TE.E DLA,ETFs,ETFs Branchen,,,,",
+    "LU3299677438,ETF337,AIS-A.N.100T.I. U.ETFEOD,ETFs,ETFs Nordamerika,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 5,
+    "Deletions": 3
+  }
+}
