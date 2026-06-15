@@ -1,0 +1,201 @@
+{
+  "Additions": [
+    "FR0011981968,A116LR,\"WORLDLINE S.A.    EO -, 68\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA23003L2012,A421FF,CULLINAN METALS CORP.,Aktien International,Aktien International,,,,",
+    "US0191702085,A42DCT,ALL IN FUTURET.ALL. O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CA0074082060,A40KQL,ADURO CLEAN TECHN. INC.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA0074082060,A40KQL,ADURO CLEAN TECHN. INC.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA09076J2074,A40C6G,BIOHARVEST SC.INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA09076J2074,A40C6G,BIOHARVEST SC.INC. O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA24477V1058,A420P3,DEFINIUM THERAP.INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA24477V1058,A420P3,DEFINIUM THERAP.INC. O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA25380B1022,A412K2,DIGI POWER X INC.    O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA25380B1022,A412K2,DIGI POWER X INC.    O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA34547F1053,A40Z8P,FOREMOST CLEAN ENER. O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA34547F1053,A40Z8P,FOREMOST CLEAN ENER. O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA50043K4063,A3DL9D,KOLIBRI GLOBAL ENERGY INC,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA50043K4063,A3DL9D,KOLIBRI GLOBAL ENERGY INC,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA6026871054,A41GYL,MINDWALK HOLDINGS CORP.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA6026871054,A41GYL,MINDWALK HOLDINGS CORP.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA6544846091,A3D7SC,NIOCORP DEVELOPMENTS,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA6544846091,A3D7SC,NIOCORP DEVELOPMENTS,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA73933V1004,A41C55,POWERBANK CORP.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA73933V1004,A41C55,POWERBANK CORP.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA74346M5054,A41MFQ,PROMIS NEUROSCIENCES,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA74346M5054,A41MFQ,PROMIS NEUROSCIENCES,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA80401L8033,A4211W,SATELLOS BIOSCIENCE INC.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA80401L8033,A4211W,SATELLOS BIOSCIENCE INC.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA8559191066,A4165W,STARZ ENTMT CORP.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA8559191066,A4165W,STARZ ENTMT CORP.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA92663R1055,A2G832,VIEMED HLTHCARE INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA92663R1055,A2G832,VIEMED HLTHCARE INC. O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "GB00BFMBMT84,A2JES0,\"SENSATA TECHN.HLDG LS-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "GB00BFMBMT84,A2JES0,\"SENSATA TECHN.HLDG LS-, 01\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US00370M1036,A3EWCP,ABIVAX SA SP.ADR  O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US00370M1036,A3EWCP,ABIVAX SA SP.ADR  O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US04390B1052,A40ZYR,ASCENTAGE PH.GRP SP.ADR/4,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US04390B1052,A40ZYR,ASCENTAGE PH.GRP SP.ADR/4,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US07782B1044,A3DKYL,BELITE BIO INC.SP.ADR/1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US07782B1044,A3DKYL,BELITE BIO INC.SP.ADR/1,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US0906556065,A3C9XF,\"BIORESTORAT.THERAP.DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US0906556065,A3C9XF,\"BIORESTORAT.THERAP.DL-, 01\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US12233L2060,A40AE6,BURN.ROCK BIOT.SP.ADR/A10,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US12233L2060,A40AE6,BURN.ROCK BIOT.SP.ADR/A10,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US12634H2004,A2JAHL,\"CPI CARD GROUP    DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US12634H2004,A2JAHL,\"CPI CARD GROUP    DL-, 001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US12738K1097,A2PEPV,CADELER A/S SPONS.ADR/4,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US12738K1097,A2PEPV,CADELER A/S SPONS.ADR/4,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US15236F1003,A41XL4,AXIA ENERGIA  PFD ADR,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US15236F1003,A41XL4,CENTRAIS EL.BR.EL.PFD ADR,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US20441B7047,A400EY,C. PARAN. EN. SP.ADR/4,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US20441B7047,A400EY,C. PARAN. EN. SP.ADR/4,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US20451W1018,A2QCDR,COMPASS PATHW SP.ADR,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US20451W1018,A2QCDR,COMPASS PATHW SP.ADR,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US23306J3095,A40WEX,DBV TECH.SP.ADR 5 EO-10,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US23306J3095,A40WEX,DBV TECH.SP.ADR 5 EO-10,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US30050E1055,A0QZ3J,EVOTEC SE ADR 1/2 O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US30050E1055,A0QZ3J,EVOTEC SE ADR 1/2 O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US3789735079,A40Z0V,GLOBALSTAR INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US3789735079,A40Z0V,GLOBALSTAR INC. O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US3845561063,857127,\"GRAHAM CORP.       DL-, 10\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US3845561063,857127,\"GRAHAM CORP.       DL-, 10\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US4437872058,A2PL3W,\"STAR EQUITY HLDGS.DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US4437872058,A2PL3W,\"HUDSON GLOBAL INC.DL-, 001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US44916E1001,A3DP3Q,IPERIONX LTD SP.ADR/10,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US44916E1001,A3DP3Q,IPERIONX LTD SP.ADR/10,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US45779A8466,A3CMP3,\"INSPIREMD 1/18 DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US45779A8466,A3CMP3,\"INSPIREMD 1/18 DL-, 0001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US45781K2042,A2PSSH,INNATE PHARMA SP.ADR/1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US45781K2042,A2PSSH,INNATE PHARMA SP.ADR/1,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US46124U1079,A2P796,INVENTIVA  ADS/1  O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US46124U1079,A2P796,INVENTIVA  ADS/1  O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US5907174016,A4004R,MESOBLAST SP.ADRS 144A/10,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US5907174016,A4004R,MESOBLAST SP.ADRS 144A/10,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US63009J1079,A2QKZM,NANOBIOTIX S.A. SP.ADR,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US63009J1079,A2QKZM,NANOBIOTIX S.A. SP.ADR,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US63905A2006,A2PEL9,NATUZZI S.P.A. ADR/5 EO 1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US63905A2006,A2PEL9,NATUZZI S.P.A. ADR/5 EO 1,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US67010L1008,A3DFKW,NOVONIX LTD    SP.ADS/4,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US67010L1008,A3DFKW,NOVONIX LTD    SP.ADS/4,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US71716E1055,A2QLQY,PHARMING GRP SP. ADRS,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US71716E1055,A2QLQY,PHARMING GRP SP. ADRS,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US76122Q1058,566037,\"RESOURCES CONNECT. DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US76122Q1058,566037,\"RESOURCES CONNECT. DL-, 01\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US87164U5083,A40MGC,\"THERIVA BIO.  DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US87164U5083,A40MGC,\"THERIVA BIO.  DL-, 001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US8999241040,A3D9PT,\"TURBO ENERG S.A.AD EO 0, 5\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8999241040,A3D9PT,\"TURBO ENERG S.A.AD EO 0, 5\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "NL0009805522,A1JGSL,\"NEBIUS GROUP CL.A  DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "NL0009805522,A1JGSL,\"NEBIUS GROUP CL.A  DL-, 01\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US9467601053,A0KFCZ,CLIMB GLOBAL SOLU.  DL-01,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9467601053,A0KFCZ,CLIMB GLOBAL SOLU.  DL-01,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US25862B1098,A2P7L2,DOUBLED.INTERAC.SP.ADS/20,Aktien International,Aktien International,,,,",
+    "JP3460200003,A0DNGL,TAKARA BIO INC.,Aktien International,Aktien International,,,,",
+    "CA0529421095,A42EGW,AUTOMATA RARE EARTH O.N.,Aktien International,Aktien International,,,,",
+    "SE0005962206,A2DVVT,PEPTONIC MEDICAL,Aktien Europa,Aktien Europa Select,,,,",
+    "FR00140182K6,A41YZ9,\"WORLDLINE S.A.    EO -, 80\",Aktien Hot Stocks,Aktien Hot Stocks,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 45,
+    "Deletions": 5
+  }
+}
