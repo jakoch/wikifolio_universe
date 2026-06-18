@@ -1,0 +1,67 @@
+{
+  "Additions": [
+    "NL0014040206,A2PUCU,\"CENTOGENE N.V. EO -, 12\",Aktien USA,Aktien Dow Jones,,,,",
+    "CA05156F1071,A1H6VS,AURION RESOURCES LTD,Aktien International,Aktien International,,,,",
+    "US98161H1014,A2QRDL,WORLDLINE S.A. UNSP.ADR,Aktien International,Aktien International,,,,",
+    "US4834971032,A2DG49,\"KALVISTA PHARMA.  DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US4893981070,A0YFMB,\"KENNEDY-WILSON   DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "US00901B3033,A416YS,\"AIM IMMUNOTEC.NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US00901B3033,A416YS,\"AIM IMMUNOTEC.NEW DL-, 001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US03615A1088,A2PNH2,\"ANNOVIS BIO INC. DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US03615A1088,A2PNH2,\"ANNOVIS BIO INC. DL-, 0001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US1508377066,A418TV,\"CEL-SCI CORP. NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US1508377066,A418TV,\"CEL-SCI CORP. NEW DL-, 001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US2057504092,A412B6,COMSTOCK INC. NEW    O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US2057504092,A412B6,COMSTOCK INC. NEW    O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US44183U3086,A4146A,ABUNDIA GLO.IMP.G. DL-001,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US44183U3086,A4146A,HOUSTON AMERN ENER.DL-001,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US87876P2011,A114T5,\"TECOGEN (NEW) NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US87876P2011,A114T5,\"TECOGEN (NEW) NEW DL-, 001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA24378A1012,A420P7,DEEP SEA MINERALS O.N.,Aktien International,Aktien International,,,,",
+    "DE000A11QLP3,A11QLP,BENO HOLDING AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A0N3EU3,A0N3EU,CGRE AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A41YE64,A41YE6,COMMERZBANK AG Z. VERK.,Aktien Deutschland,Aktien DAX,,,,",
+    "DE000A0H1GY2,A0H1GY,H2 CORE AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "GB00BYYW3C20,A2AG67,\"FORTERRA PLC      LS -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "DE000A31C222,A31C22,HAUSVORTEIL AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US87260H1041,A0MRNP,TMM REAL EST.DEV.GDR S 1,Aktien International,Aktien International,,,,",
+    "BG1100032140,A142WT,\"SIRMA GROUP HOLD. EO 0, 51\",Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 10,
+    "Deletions": 9
+  }
+}
