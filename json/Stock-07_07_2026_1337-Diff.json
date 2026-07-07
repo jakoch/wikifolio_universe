@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA03114B1022,A2DJY1,AMEX EXPLORATION INC.,Aktien International,Aktien International,,,,",
+    "CA2094161064,A3ENPV,CONSOL.LITHIUM METALS INC,Aktien International,Aktien International,,,,",
+    "CA2546771072,A3CM15,DISCOVERY SILVER CORP.,Aktien International,Aktien International,,,,",
+    "KYG739441031,A414WM,REAL ASSET ACQUISITION A,Aktien USA,Aktien USA Select,,,,",
+    "US81761L1026,A2PSPV,\"SERVICE PROP.TR. SBI -, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,,"
+    }
+  ],
+  "Deletions": [
+    "ES0144580Y14,A0M46B,\"IBERDROLA INH.    EO -, 75\",Aktien Hot Stocks,Aktien Hot Stocks,Aktien Europa,Aktien Europa Select,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
