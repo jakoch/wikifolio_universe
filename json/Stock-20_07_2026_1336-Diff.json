@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "GB00B0FYMT95,A0F7D5,HELICAL PLC,Aktien Europa,Aktien Europa Select,,,,",
+    "CA98144X1087,A41NGX,WORLD COPPER LTD NEW,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CNE100001TK2,A12GNE,SHENGJING BANK CO. LTD.,Aktien International,Aktien International,,,,",
+    "DE000A0JQ5U3,A0JQ5U,MANZ AG,Aktien Deutschland,Aktien Sonstige,,,,",
+    "CA98144X2077,A42G5H,WORLD COPPER LTD A NEW,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 4,
+    "Deletions": 3
+  }
+}
