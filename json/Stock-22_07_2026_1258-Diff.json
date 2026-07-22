@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "LU0058891119,973500,JSS EQUITY-EUROPE PEOD,Fonds,Fonds Aktien,,,,",
+    "US1976411033,A2JJ7B,\"COLUMBIA FINANCIA  DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "JP3368000000,859554,RESONAC HOLDINGS CORP.,Aktien International,Aktien International,,,,",
+      "Current": "JP3368000000,859554,SHOWA DENKO K.K. REGISTERED SHARES O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "GB00BT5GNW84,A41Z6S,\"HELICAL PLC LS -, 0105\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}
