@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "FR0000036816,854219,TOUR EIFFEL INH.     EO 5,Aktien Europa,Aktien Europa Select,,,,",
+    "GB00B7TW1V39,A1KC94,\"REDCENTRIC PLCLS-, 001\",Aktien Europa,Aktien Europa Select,,,,",
+    "GG00BB0RDB98,A1W50T,BLUEFIELD SOLAR INCOME FD,Aktien Europa,Aktien Europa Select,,,,",
+    "CA22758R1082,A2P9G6,CROSS RIVER VENTURES CORP,Aktien International,Aktien International,,,,",
+    "CA7857133069,A119PK,SABLE RESOURCES LTD,Aktien International,Aktien International,,,,",
+    "US14986C1027,A2DKLR,CBAK ENERGY TECH. NEW,Aktien International,Aktien International,,,,",
+    "DE000A2G9M17,A2G9M1,CAPSENSIXX AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [
+    "JE00B43SP147,A1H6NA,\"JERSEY ELECTR. A   LS-, 05\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BVV5L858,A41Z7A,\"REDCENTRIC PLCLS-, 001\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 4,
+    "Deletions": 2
+  }
+}
