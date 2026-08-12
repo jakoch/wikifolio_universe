@@ -1,0 +1,39 @@
+{
+  "Additions": [
+    "FR0013530102,A2QA55,VEOM GROUP S.A.      EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "FR001400DIY6,A3D2C4,\"CABASSE S.A.EO-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "AU000000IFL2,787897,INSIGNIA FINANCIAL LTD.,Aktien International,Aktien International,,,,",
+    "CA30151G1081,A2H7ZK,AITENDERS TECHNOLOGIES,Aktien International,Aktien International,,,,",
+    "CA98388T1021,A2P1PE,XTM INC.,Aktien International,Aktien International,,,,",
+    "KYG200801002,A42B3B,CBAK ENERGY TECHNOL.LTD,Aktien International,Aktien International,,,,",
+    "TH0148010R15,676041,BANPU PUBLIC,Aktien International,Aktien International,,,,",
+    "TH0148A10Z14,A1XECY,BANPU PCL -FGN-      BA 1,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "BMG8080M1001,A42DZ3,SHAMARAN PETROLEUM O.N.,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "BMG8080M1001,A42DZ3,SHAMARAN PETROLEUM O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA0095711002,A42J0M,AITENDERS TE O.N.,Aktien International,Aktien International,,,,",
+    "US94352A1043,A42FEQ,WAVE LIFE SCIENCES O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 4,
+    "Deletions": 2
+  }
+}
