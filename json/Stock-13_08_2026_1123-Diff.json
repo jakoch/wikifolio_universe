@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA37962L1013,A4098M,GLOBAL URANIUM CORP. O.N.,Aktien International,Aktien International,,,,",
+    "US00972G4055,A4270Y,\"AKARI THER.ADR/80000 -, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA37962L2003,A42J3A,GLOBAL URANIUM O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 3,
+    "Deletions": 1
+  }
+}
