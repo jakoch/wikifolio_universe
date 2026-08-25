@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "KYG7415M1400,A42H24,\"RECON T. NEW A DL-, 0001\",Aktien International,Aktien International,,,,",
+    "US5303073051,A12DQC,LIBERTY BROADBAND C,Aktien USA,Aktien USA Select,,,,",
+    "US83086J2006,A3ES4X,SKYE BIOSCIENCE INC.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "PLOPTTC00011,534356,CD PROJEKT RED S.A.  ZY 1,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "PLOPTTC00011,534356,CD PROJEKT S.A. C    ZY 1,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "US29476L1070,985334,\"VIVMARK RES. SBI   DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US29476L1070,985334,\"EQUITY RESI. SBI   DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US37892C1062,A3CPAL,\"BRIGHTLINE INTERACT.-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US37892C1062,A3CPAL,\"GLIMPSE GROUP INC. -, 001\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "US83086J3095,A42JP2,\"SKYE BIOSCIENCE DL -, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 4,
+    "Deletions": 1
+  }
+}
