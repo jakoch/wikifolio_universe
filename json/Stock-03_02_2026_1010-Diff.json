@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "CA3397643006,A41DFJ,FLORA GROWTH CORP.,Aktien USA,Aktien USA Select,,,,",
+    "FR001400OS22,A403R1,\"BOOSTHEAT SAS EO -, 0001\",Aktien Europa,Aktien Europa Select,,,,",
+    "GG00BP2NJT37,A3CQ2Y,TAYLOR MARITIME LTD.,Aktien Europa,Aktien Europa Select,,,,",
+    "NO0005638858,874342,OLAV THON A/S        NK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "US03828A1016,A2PHHB,\"APPLIED THERAPEUTDL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US0463531089,886715,\"ASTRAZENECA DL-, 25 SP.ADR\",Aktien USA,Aktien USA Select,,,,",
+    "US12740C1036,A3C6GA,\"CADENCE BANK       DL 2, 5\",Aktien USA,Aktien USA Select,,,,",
+    "US2003401070,864861,COMERICA INC.        DL 5,Aktien USA,Aktien USA Select,,,,",
+    "US47074L1052,A2P9J0,\"JAMF HOLDING CORP.DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US7562552049,A1KA5V,RECKIT.BENCK. SP. ADR 1/5,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA98956L1013,A41ZXY,ZEROSTACK CORP.      DL 1,Aktien USA,Aktien USA Select,,,,",
+    "GG00BTZC2850,A41YPB,TAYLOR MARITIME LTD.,Aktien Europa,Aktien Europa Select,,,,",
+    "US7562553039,A420BX,RECKITT BENCKISER ADRO.N,Aktien Europa,Aktien Europa Select,,,,",
+    "FR00140153G5,A4205N,BOOSTHEAT SAS PC     EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "DE000A3D75E2,A3D75E,EMPIRIA STIFT.BAL.GL. Z,Fonds,Fonds Aktien,,,,",
+    "DE000A3D75F9,A3D75F,EMPIRIA MAX RETURN GLBL V,Fonds,Fonds Aktien,,,,",
+    "DE000A3D75C6,A3D75C,EMPIRIA STIFT.BAL.GL. R,Fonds,Fonds Aktien,,,,"
+  ],
+  "Summary": {
+    "Additions": 10,
+    "Modifications": 1,
+    "Deletions": 7
+  }
+}

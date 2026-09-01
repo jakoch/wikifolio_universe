@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "FR0010907956,A1C017,\"CARMAT            EO -, 04\",Aktien Europa,Aktien Europa Select,,,,",
+    "IT0005366601,A2PHH8,ANTARES VISION SPA   O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "CA65564N1006,A3EV4N,NORDIQUE RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "JP3792600003,853852,HINO MOTORS LTD,Aktien International,Aktien International,,,,",
+    "KYG451391059,A2P098,\"HITEK GLOBAL INC.A , -0001\",Aktien International,Aktien International,,,,",
+    "US09549B1044,A3C319,\"BLUE FOUNDRY BANC. DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US3906071093,A0LG02,GREAT LA.DR.+DO.NEW DL-01,Aktien USA,Aktien USA Select,,,,",
+    "US9114601035,351160,UTD SECURITY BANCSHARES,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA96033F1053,A427B2,WESTGOLD MET.CORP. O.N.,Aktien International,Aktien International,,,,",
+    "JE00BTDN8H13,A417CC,\"APTIV PLC         DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "KYG4289N1300,A426X2,\"PARANOVUS ENT.TECH.DL 1, -\",Aktien International,Aktien International,,,,",
+    "KYG451391133,A41YW3,\"HITEK GLOBAL INC.A , -005\",Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}

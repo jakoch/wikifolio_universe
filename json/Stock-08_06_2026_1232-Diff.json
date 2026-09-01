@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "CA8119161054,541875,SEABRIDGE G.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA8119271028,A42AD5,SEABRIDGE GOLD INC. NEW,Aktien International,Aktien International,,,,",
+    "US5015562037,865545,KYOCERA CORP. ADR/1 O.N.,Aktien International,Aktien International,,,,",
+    "CA97818W1077,A3C166,WONDERFI TECHNOLOGIES INC,Aktien International,Aktien International,,,,",
+    "CA53680U1093,A2QGR9,LITHIUM SOUTH DEVEL.CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 3,
+    "Deletions": 4
+  }
+}

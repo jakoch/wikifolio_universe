@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "CNE1000002F5,A0M4XD,CHINA CMNCTS CONSTR.H YC1,Aktien International,Aktien International,,,,",
+    "CNE1000002V2,A0M4XS,CHINA TELECOM H      YC 1,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

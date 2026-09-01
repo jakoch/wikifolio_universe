@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "ES0171743901,A14TF0,\"PROMOTORA D.IN. A EO 0, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "GG00BWZ6KJ56,A41YYD,TAYLOR MARITIME LTD.,Aktien Europa,Aktien Europa Select,,,,",
+    "CA2902575000,A41NV7,ELSE NUTRITION HLDGS O.N.,Aktien International,Aktien International,,,,",
+    "CA38141A4046,A3DWU4,GOLDGROUP MINING INC.,Aktien International,Aktien International,,,,",
+    "CA5362211040,A3CPJ7,THE LION ELECTRIC COMPANY,Aktien International,Aktien International,,,,",
+    "US8589271068,A3DW1V,\"STELLAR BANCORP   DL -, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [
+    "TH0245010010,883941,THAI AIR.ITL -FGN-  BA 10,Aktien International,Aktien International,,,,",
+    "DE000A42FR12,A42FR1,SMAG MOB.ANT.MASTS INH ON,Aktien Deutschland,Aktien Sonstige,,,,",
+    "AU0000477796,A42GCG,BLS PHARMACEUTICALS LTD.,Aktien International,Aktien International,,,,",
+    "US26614N2018,A42BMN,DUPONT DE NEMO. NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "FI4000602354,A42AE8,IQM FINLAND OY    EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "ES01717430J3,A42GRN,PROMOTORA D.IN. A EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "CA2902576099,A42G5F,ELSE NUTRITION HLDGS NEW,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 2,
+    "Deletions": 7
+  }
+}

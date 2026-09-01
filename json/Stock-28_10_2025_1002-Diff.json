@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "CA0293641068,A3E2NY,AMERICAN SALARS LITH.INC,Aktien International,Aktien International,,,,",
+    "CA65343P1036,A2PN5K,NGEX MINERALS LTD.,Aktien International,Aktien International,,,,",
+    "CA67053L6035,A41A12,NULEGACY GOLD CORP. O.N.,Aktien International,Aktien International,,,,",
+    "LU0122612848,602744,F.TEM.INV-F.EU.GWTH A ACC,Fonds,Fonds Aktien,,,,",
+    "US0512761034,A2QM5Q,\"AUGUSTA GOLD     DL-, 0001\",Aktien International,Aktien International,,,,",
+    "US0556301077,985301,BP PRUDHOE BAY ROLTY UBI,Aktien USA,Aktien USA Select,,,,",
+    "US40251W4087,A2PY50,\"GULF RES INC.    DL-, 0005\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "BE0974334667,A2JRRB,WINAMP GROUP S.A.    EO 1,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "BE0974334667,A2JRRB,LLAMA GROUP S.A.     EO 1,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "FR0013286259,A2H6LX,\"THX PHARMA        EO -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR0013286259,A2H6LX,\"THERANEXUS EO -, 25\",Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "US40251W5076,A41P94,GULF RES INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA67053L7025,A41JBQ,NULEGA O.N.,Aktien International,Aktien International,,,,",
+    "CA62930A1021,A41KP9,NGEX MINERALS LTD NEW,Aktien International,Aktien International,,,,",
+    "KYG0567U1278,A40P0P,ARQIT QUANTUM INC.,Aktien USA,Aktien USA Select,,,,",
+    "CA0293642058,A41NJ4,AMERICAN SALARS LITH O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 2,
+    "Deletions": 5
+  }
+}

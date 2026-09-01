@@ -1,0 +1,55 @@
+{
+  "Additions": [
+    "CA3186411078,A40A1R,FIRST ATLANTIC NICKEL,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010478248,A0NEZJ,\"ATARI S.A.        EO 0, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA8676EP1086,784556,SUNOPTA INC.,Aktien USA,Aktien USA Select,,,,",
+    "CA8849038085,A3EETN,THOMSON REUTERS CORP.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CNE100007CV2,A41ZGW,MUYUAN FOODS O.N.,Aktien International,Aktien International,,,,",
+    "AU0000211609,A3DUM1,MARONAN METALS LTD,Aktien International,Aktien International,,,,",
+    "HK0000544194,A2PURU,SINOMAB BIOSCIENCE,Aktien International,Aktien International,,,,",
+    "JP3102360009,A3D868,ISPACE INC.,Aktien International,Aktien International,,,,",
+    "CA3186401095,A42AVX,FIRST ATLANTIC NICK+COBAL,Aktien International,Aktien International,,,,",
+    "JP3545220000,A1CUV9,TECHNO HORIZON CO. LTD.,Aktien International,Aktien International,,,,",
+    "BMG2119K2017,A3D4DV,CHINA KINGST.MNG HLDGS,Aktien International,Aktien International,,,,",
+    "CNE100006V73,A4160P,AUNTEA JENNY IND. HD 1,Aktien International,Aktien International,,,,",
+    "FR00140173Y6,A428RT,ATARI S.A.        EO 2,Aktien Europa,Aktien Europa Select,,,,",
+    "JP3356500003,881802,SHIMA SEIKI MFG LTD,Aktien International,Aktien International,,,,",
+    "CNE100007J37,A426XN,EPIWORLD INT. HD1,Aktien International,Aktien International,,,,",
+    "JP3778280002,A0RL7T,VITAL KSK HLDGS INC.,Aktien International,Aktien International,,,,",
+    "AU000000CGS8,A0ESLQ,COGSTATE LTD.,Aktien International,Aktien International,,,,",
+    "AU000000ABX3,A117FA,ABX GROUP LTD.,Aktien International,Aktien International,,,,",
+    "AU0000432205,A41V2S,6K ADDITIVE INC.,Aktien International,Aktien International,,,,",
+    "KYG7S12M1051,A40DQD,XTALPI HOLDINGS LTD.,Aktien International,Aktien International,,,,",
+    "AU0000258170,A3D3KK,EVEREST METALS CORPORATIO,Aktien International,Aktien International,,,,",
+    "AU0000427874,A41S60,EQUUS MINING LTD,Aktien International,Aktien International,,,,",
+    "JP3430400006,912666,ZENRIN CO.,Aktien International,Aktien International,,,,",
+    "JP3284600008,863693,KOITO MFG CO. LTD,Aktien International,Aktien International,,,,",
+    "AU0000445603,A41XT2,AMERICAN TUNGSTEN+ANTIMON,Aktien International,Aktien International,,,,",
+    "JP3545320008,A41M8L,TEKSCEND PHOTOMASK   O.N.,Aktien International,Aktien International,,,,",
+    "AU0000430498,A41TFE,MOONLIGHT RES.LTD O.N.,Aktien International,Aktien International,,,,",
+    "AU000000SGQ8,A1CZK7,ST.GEORGE MINING LTD,Aktien International,Aktien International,,,,",
+    "KYG8879R1048,A2PG9T,\"TIME INTERCONNECT  HD-, 01\",Aktien International,Aktien International,,,,",
+    "AU0000046203,A2PKRC,CARNABY RESOURCES LTD.,Aktien International,Aktien International,,,,",
+    "AU0000022238,A3EEXN,STEALTH GROUP HOLD. LTD,Aktien International,Aktien International,,,,",
+    "AU0000131849,A2QMDE,BOAB METALS LTD,Aktien International,Aktien International,,,,",
+    "CNE100007JY1,A429HS,VICTORY GIANT TECH   HD 1,Aktien International,Aktien International,,,,",
+    "CA8849038812,A426HV,THOMSON REUTERS CORP.NEW,Aktien USA,Aktien USA Select,,,,",
+    "KYG9560F1028,A40KYP,WERIDE INC.        A O.N.,Aktien International,Aktien International,,,,",
+    "AU0000432536,A41V6J,UNITY METALS LTD  O.N.,Aktien International,Aktien International,,,,",
+    "AU000000RHI5,A0H0J3,RED HILL MINERALS LTD.,Aktien International,Aktien International,,,,",
+    "JP3433500000,A3DUAD,SOCIONEXT INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 34
+  }
+}

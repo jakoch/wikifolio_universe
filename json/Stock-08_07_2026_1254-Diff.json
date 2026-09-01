@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "CA03835T4081,A40YEP,APTOSE BIOSCI.JAN 2025,Aktien International,Aktien International,,,,",
+    "KYG872641009,A1XBE8,\"TECNOGLASS INC.  DL-, 0001\",Aktien International,Aktien International,,,,",
+    "US00827B1061,A2QL1G,\"AFFIRM HLDGS A  DL-, 00001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [
+    "US4629211073,A42GGM,IQM FINLAND SP.ADR/1,Aktien USA,Aktien USA Select,,,,",
+    "CA25466C1077,A42FT5,DIS.MIN. O.N.,Aktien International,Aktien International,,,,",
+    "US81761L2016,A42FDT,SSERVICE PROPERT.TR. NEW,Aktien USA,Aktien USA Select,,,,",
+    "US2312694084,A42DTL,\"CURIS INC.    NEW DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "CA03114D1087,A42G55,AMEX GOLD MINING INC.,Aktien International,Aktien International,,,,",
+    "CA65563W1014,A42FGV,NORDIQUE CRITICAL METALS,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 4,
+    "Deletions": 6
+  }
+}

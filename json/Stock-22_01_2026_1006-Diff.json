@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "CA60255C8850,A3DR6E,MIND MEDICINE (MINDMED),Aktien International,Aktien International,,,,",
+    "DE0008474313,847431,SEB ZINSGLOBAL,Fonds,Fonds Aktien,,,,",
+    "GRS320313000,919767,\"PLAISIO COMPUT.NA EO 0, 33\",Aktien Europa,Aktien Europa Select,,,,",
+    "LT0000101446,A0B6SJ,\"PANEVEZIO STATYBOS EO0, 29\",Aktien Europa,Aktien Europa Select,,,,",
+    "LU0198839143,A0DKM4,UBSL EQ-SM.CPS EUR(EO)P-A,Fonds,Fonds Aktien,,,,",
+    "SE0010414615,A2H6XD,LOGISTRI FASTIGHETS AB,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0014731089,A2QJHS,NORDIC WATERPROOFING HLDG,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "NL0000289783,970259,ROBECO GL.STARS EQ. A,Fonds,Fonds Aktien,,,,",
+    "NL0000289817,970254,ROLINCO N.V.        EO E,Fonds,Fonds Aktien,,,,",
+    "CA24477V1058,A420P3,DEFINIUM THERAP.INC. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}

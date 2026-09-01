@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "BMG2415A1137,A3DD6Z,\"COOL COMPANY LTDDL 1, 00\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA00971M5028,A41FPP,AKANDA CORP.NEW 8/2025,Aktien USA,Aktien USA Select,,,,",
+    "DE000A40ZUK5,A40ZUK,DATAGROUP SE INH. Z.VERK.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "JE00BJ1F3079,A2PKFL,\"AMCOR PLC      DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US75605Y1064,A1J54Y,REALOGY HOLDINGS CORP.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "ES0105513008,A2QFYY,\"SOLTEC POWER HOLD.EO 0, 05\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "ES0105513008,A2QFYY,\"SOLTEC POWER HOLD. EO-, 25\",Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "KYG6181S1093,A41ZNR,MINIMAX GROUP INC.,Aktien International,Aktien International,,,,",
+    "JE00BV7DQ550,A41YMQ,\"AMCOR PLC      DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "CA00971M6018,A41ZNG,AKANDA CORP. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "FR0014010YR7,A41H70,\"VERGNET S.A.  EO -, 76\",Aktien Europa,Aktien Europa Select,,,,",
+    "US7710491033,A2QHVS,\"ROBLOX CORP.CL.A DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 5
+  }
+}

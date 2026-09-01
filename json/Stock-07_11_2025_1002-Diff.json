@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA2902571041,A2PNZE,ELSE NUTRITION HLDG,Aktien International,Aktien International,,,,",
+    "CA60256C1086,A3EB9V,MINDBIO THERAPEUT,Aktien International,Aktien International,,,,",
+    "KYG8917X1549,A41H9Z,\"TONGDA GROUP HLDGS HD-, 50\",Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA2902575000,A41NV7,ELSE NUTRITION HLDGS O.N.,Aktien International,Aktien International,,,,",
+    "CA60256C2076,A41RJS,MINDBIO THERAPEUT,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

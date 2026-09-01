@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "IE000WARATZ3,A3DN5G,HSBC-EUROP.S.E. EOD,ETFs,ETFs Europa Gesamt,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000P2CI9P3,A4224C,ISHS 2-E.D.F.E. EOA,ETFs,ETFs Europa Gesamt,,,,",
+    "IE00078SFIQ6,A4224D,ISHS 2-E.F.F.E. EOA,ETFs,ETFs Europa Gesamt,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}

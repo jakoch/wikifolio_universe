@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "CH1360612142,A4AHQD,21SHARES IMMUTABLE ETP OE,ETFs,sonstige ETFs,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE000KDY10O3,A3DE9M,HAN.-FU.US DEF.U.ETF DLA,ETFs,ETFs Branchen,,,,",
+      "Current": "IE000KDY10O3,A3DE9M,HANETF-ETC GRP WEB3.0 DLA,ETFs,ETFs Basic Resources,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

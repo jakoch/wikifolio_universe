@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "CA83423L1085,A3CXUB,SOLIS MINERALS LTD.,Aktien International,Aktien International,,,,",
+    "FR0000035305,932700,TRACTIAL S.A.        EO 2,Aktien Europa,Aktien Europa Select,,,,",
+    "GRS014003032,A3CM30,\"PIRAEUS FIN.HOL.  EO 0, 93\",Aktien Europa,Aktien Europa Select,,,,",
+    "JP3791800000,864156,MAXELL LTD.,Aktien International,Aktien International,,,,",
+    "JP3975800008,864317,RYOBI LTD,Aktien International,Aktien International,,,,",
+    "KYG5215A1004,A2P65S,\"KANGJI MED.HLDS DL-, 00001\",Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DK0010311471,A0D9FT,AL SYDBANK NAM.     DK 10,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "DK0010311471,A0D9FT,SYDBANK A/S,Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "AU0000189029,A3C8R2,SOLIS MINERALS LTD O.N.,Aktien International,Aktien International,,,,",
+    "US58507V1070,A41V2L,MEDLINE INC.   CL. A O.N.,Aktien USA,Aktien USA Select,,,,",
+    "GRS831003009,A41XFW,PIRAEUS BANK  EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0014014ZV8,A41YK9,TRACTIAL S.A.        EO 1,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}

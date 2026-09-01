@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA54180A1066,A3CR8A,LONCOR GOLD INC.,Aktien International,Aktien International,,,,",
+    "CH0010947627,890218,\"AIRESIS NA        SF 0, 25\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0011052257,A1JBVH,\"GLOBAL BIOENERGIES EO-, 05\",Aktien Europa,Aktien Europa Select,,,,",
+    "US5504243032,A40R34,LUMINAR TECH.  CL.A NEW,Aktien USA,Aktien USA Select,,,,",
+    "US83600C1036,A1T9NK,\"SOTHERLY HOTELS    DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

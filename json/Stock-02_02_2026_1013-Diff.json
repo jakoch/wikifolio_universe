@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA80401L3083,A3CSSM,SATELLOS BIOSCIENCE INC.,Aktien International,Aktien International,,,,",
+    "GB00B24CGK77,A0M1W6,RECKITT BENCKIS,Aktien Europa,Aktien Europa Select,,,,",
+    "LU0054738967,972880,N.-F.-NESTOR FERNOST FD.B,Fonds,Fonds Aktien,,,,",
+    "US04962H5063,A2JJ99,\"ATOSSA THERAPEU. DL -, 015\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "US04962H7044,A41ZVB,\"ATOSSA THERAP.NEW  DL-, 18\",Aktien USA,Aktien USA Select,,,,",
+    "US03828A1016,A2PHHB,\"APPLIED THERAPEUTDL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "CA80401L8033,A4211W,SATELLOS BIOSCIENCE INC.,Aktien International,Aktien International,,,,",
+    "NO0005638858,874342,OLAV THON A/S        NK 1,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 4
+  }
+}

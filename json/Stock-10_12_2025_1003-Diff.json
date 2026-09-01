@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "US74346Y1038,A0MRGS,PROS HLDGS INC.,Aktien USA,Aktien USA Select,,,,",
+    "ZAE000265971,A2PD0F,\"MULTICHOICE GRP    RC-, 02\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US0231398845,A1T95E,\"OCTAVE SPECIAL. GP.DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US0231398845,A1T95E,\"AMBAC FINL GRP NEW DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

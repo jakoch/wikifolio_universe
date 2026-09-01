@@ -1,0 +1,43 @@
+{
+  "Additions": [
+    "CA11120Q3026,A114WV,BRIXTON METALS CORP.,Aktien International,Aktien International,,,,",
+    "CA30219M1059,A2QDKZ,EXPLOITS DISCOVERY CORP.,Aktien International,Aktien International,,,,",
+    "CA7270533085,A423DL,PLANET VENTURES NEW,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "LU0584671464,A1H63F,\"ADECOAGRO S.A.    DL 1, 50\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "LU0584671464,A1H63F,\"ADECOAGRO S.A.    DL 1, 50\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "US37954A3032,A41G72,\"GLO.MED REIT NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US37954A3032,A41G72,\"GLOBAL MED REIT DL.-, 001\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US4583341098,883617,\"INTERPARFUMS      DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US4583341098,883617,INTER PARFUMS INC. DL-001,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US68629Y1038,A3C684,\"ORION PROPERTIES   DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US68629Y1038,A3C684,\"ORION OFFICE REIT  DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7731211089,A419CG,\"ROCKET LAB CORP. DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7731211089,A419CG,ROCKET LAB CORP. O.N.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US88642R1095,A2DVJZ,\"TIDEWATER INC.    DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US88642R1095,A2DVJZ,\"TIDEWATER INC.     DL-, 10\",Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA29391A1030,A423RJ,EPIC GOLD CORP. O.N.,Aktien International,Aktien International,,,,",
+    "CA11120Q7084,A423P0,BRI.MET.COR. O.N.,Aktien International,Aktien International,,,,",
+    "CA86084H1001,A2PASS,STINGRAY GROUP INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 6,
+    "Deletions": 3
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "GB0002998192,675545,\"IDOX PLC           LS-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BFN4GY99,A2DWS6,\"ZINNWALD LITHIUM  LS -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "IT0001073045,924693,BANCA PROFILO,Aktien Europa,Aktien Europa Select,,,,",
+    "CA14307R2000,A3DWE7,CARLYLE COMMODIT.CORP.,Aktien International,Aktien International,,,,",
+    "US05350V1061,A2JNRG,\"AVANOS MEDICAL INC.DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "DE000BGAG981,BGAG98,BIO-GATE AG O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA82809U1049,A42F8L,SILVER PONY RES CORP. NEW,Aktien International,Aktien International,,,,",
+    "DE000A42D2N5,A42D2N,HELIOS SOLAR AG INH EO 1,Aktien Deutschland,Aktien Sonstige,,,,",
+    "IT0005704439,A41Z7V,BANCA PROFILO,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}

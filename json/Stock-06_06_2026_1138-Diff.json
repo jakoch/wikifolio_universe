@@ -1,0 +1,41 @@
+{
+  "Additions": [
+    "DK0060477263,A1T85G,\"ASETEK A/S        DK -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR001400BMH7,A3DRSF,TERACT               EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "CA53680U1093,A2QGR9,LITHIUM SOUTH DEVEL.CORP.,Aktien International,Aktien International,,,,",
+    "CA97818W1077,A3C166,WONDERFI TECHNOLOGIES INC,Aktien International,Aktien International,,,,",
+    "US5015562037,865545,KYOCERA CORP. ADR/1 O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US00486H1059,A3C7M6,ADTRAN HOLDINGS INC.,Aktien Deutschland,Aktien SDAX,Aktien USA,Aktien USA Select,,",
+      "Current": "US00486H1059,A3C7M6,ADTRAN HOLDINGS INC.,Aktien Deutschland,Aktien SDAX,,,,"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 6,
+    "Deletions": 0
+  }
+}

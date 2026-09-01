@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "LU1072616219,A1154Z,\"B+M EUROP.VAL.RET.LS -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA10567D2041,A110Z0,BRAVADA GOLD NEW,Aktien International,Aktien International,,,,",
+    "CA4577022078,A40GPX,INSPIRATION ENERGY CORP.,Aktien International,Aktien International,,,,",
+    "CA74739W2013,A40QEV,Q PRECIOUS+BATTERY MET.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "JE00BVSYJW51,A41PFG,B+M EUR.VAL.RET.PLC LS-01,Aktien Europa,Aktien Europa Select,,,,",
+    "CA10567D3031,A425BV,BRAVADA GOLD CORP.,Aktien International,Aktien International,,,,",
+    "CA45791Q1000,A425BW,INSPIRATION MINING CORP.,Aktien International,Aktien International,,,,",
+    "BRAXIAACNPC9,A41ZNX,AXIA ENERGIA        PFD C,Aktien International,Aktien International,,,,",
+    "CA3186491005,A424Z6,FIRST ALTAS RESS. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 4,
+    "Deletions": 5
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "JE00BMDKH437,A3CUCW,DIGITAL 9 INFRASTRUCTURE,Aktien Europa,Aktien Europa Select,,,,",
+    "CA3449112018,A1C09C,FORAN MNG CORP.,Aktien International,Aktien International,,,,",
+    "CA8685951094,A40TAM,SUPREME CRITICAL M. O.N.,Aktien International,Aktien International,,,,",
+    "CA98383L2030,A3EY0E,XR IMMERSIVE TECH INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "NO0010921232,A2QNH0,AKER HORIZONS ASA    NK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "CA57779K1049,A427JH,MAVERICK G.A.S. O.N.,Aktien International,Aktien International,,,,",
+    "JE00BPH3HM76,A41YXJ,DIGITAL 9 INFRA(POST RED),Aktien Europa,Aktien Europa Select,,,,",
+    "LU0114997082,940076,STARCAP-EQU.VAL.PL.AEO,Fonds,Fonds Aktien,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}

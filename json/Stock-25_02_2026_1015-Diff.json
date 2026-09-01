@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA86084H1001,A2PASS,STINGRAY GROUP INC.,Aktien International,Aktien International,,,,",
+    "CA8839301097,A3EP87,THESIS GOLD INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA86084H4070,A423P2,STI.GRP.INC. O.N.,Aktien International,Aktien International,,,,",
+    "CA8839221063,A422AH,THESIS GOLD + SILVER O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Additions": [],
+  "Modifications": [],
+  "Deletions": [
+    "IE000TWAN2K7,A41MLS,JPM-MODRTE ALOC.EQ UE EOA,ETFs,sonstige ETFs,,,,",
+    "IE000VKFA2D2,DBX0XV,X(IE)-DJE EUR.EQ.RES.CEOD,ETFs,ETFs Europa Gesamt,,,,",
+    "IE00020O1MD6,A41WW6,COMDIR.SPALW.S.S.E.UH.EOA,ETFs,ETFs Welt,,,,",
+    "IE000MVWFDH1,A41MLT,JPM-GROWTH ALOC.EQ UE EOA,ETFs,sonstige ETFs,,,,",
+    "IE000FASRFS4,A41MLU,JPM-CONSRV.ALOC.EQ UE EOA,ETFs,sonstige ETFs,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}

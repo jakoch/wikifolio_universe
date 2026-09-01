@@ -1,0 +1,39 @@
+{
+  "Additions": [
+    "DK0060907293,A2GSX8,NILFIS HLDG A/S     DK 20,Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BPP4RY41,A3DT3B,\"UNIGEL GROUP LTD. LS-, 005\",Aktien Europa,Aktien Europa Select,,,,",
+    "NO0010112675,A0BKK5,REC SILICON          NK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0015382072,A2QP0Q,LIPIGON PHARMA. AB,Aktien Europa,Aktien Europa Select,,,,",
+    "AU000000ERM4,A0M8BN,EMMERSON RESOURCES LTD,Aktien International,Aktien International,,,,",
+    "CA14875E1025,A2PED2,CAT STRATEGIC MET.,Aktien International,Aktien International,,,,",
+    "US26614N2018,A42BMN,DUPONT DE NEMO. NEW O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US3137451015,A3DB2A,\"FED.RLTY INV.TRUST DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "CA14875E3005,A42F9Q,CAT STRATEGIC MET.,Aktien International,Aktien International,,,,",
+    "US74768A1043,A42CZ0,QUANTINUUM INC. A O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 4,
+    "Deletions": 3
+  }
+}

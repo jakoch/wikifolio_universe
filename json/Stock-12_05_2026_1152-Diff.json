@@ -1,0 +1,56 @@
+{
+  "Additions": [
+    "GG00BTZC2850,A41YPB,TAYLOR MARITIME LTD.,Aktien Europa,Aktien Europa Select,,,,",
+    "IT0005200248,A2APNH,SOLUTIONS CAP.MAN.SIM SPA,Aktien Europa,Aktien Europa Select,,,,",
+    "CA81111V2066,A41EY5,SCRYB INC.,Aktien International,Aktien International,,,,",
+    "US1381031061,A3CM9A,CANTALOUPE INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US14216R1014,A3DZG2,CARISMA THERAPEUTICS INC.,Aktien USA,Aktien USA Select,,,,",
+    "US14365C1036,264713,\"CARNIVAL PLC ADR/1 DL1, 66\",Aktien USA,Aktien USA Select,,,,",
+    "US39818P7996,A3EDEU,\"PEAKSTONE RE.TR. DL -, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US49372L2097,A40NJT,\"KEZAR LIFE SC.NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US9026851066,A3CYXY,UDEMY INC.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA98980T1049,A3EKSC,ZODIAC GOLD INC. O.N.,Aktien International,Aktien International,,,,",
+    "CA92214C1023,A4205J,VANTA HLDGS INC. O.N.,Aktien International,Aktien International,,,,",
+    "CA88673A1084,A41SVZ,TIGER GOLD CORP. NEW O.N.,Aktien International,Aktien International,,,,",
+    "CA02553R1073,A3CNZB,AMERN EAGLE GOLD CORP.,Aktien International,Aktien International,,,,",
+    "CA66611D1033,662226,NORTHFIELD CAPITAL A,Aktien International,Aktien International,,,,",
+    "CA91673R1055,A40Y79,UPSIDE GOLD CORP.,Aktien International,Aktien International,,,,",
+    "CA66660C1059,A42B09,NORTHPALM CAP CORP. O.N.,Aktien International,Aktien International,,,,",
+    "CA46123W2031,A400ES,INTREPID METALS CORP.,Aktien International,Aktien International,,,,",
+    "CA42366G1046,A41UK3,HEMLO MINING CORP.  O.N.,Aktien International,Aktien International,,,,",
+    "CA7477051014,A412FS,QUARTERBACK RES INC.,Aktien International,Aktien International,,,,",
+    "CA26245V1013,A3E1GE,DRYDEN GOLD CORP     O.N.,Aktien International,Aktien International,,,,",
+    "CA81688C3003,A40S1T,SENDERO RES CORP.,Aktien International,Aktien International,,,,",
+    "CA5504281067,A41KPB,LUNR ROYALTIES CORP. O.N.,Aktien International,Aktien International,,,,",
+    "CA6951041095,A41ALZ,PACIFICA SILVER CORP.,Aktien International,Aktien International,,,,",
+    "CA8742231001,A3DLEX,TALENT INFIN.RES.DEVEL.,Aktien International,Aktien International,,,,",
+    "CA70289T1012,A2PN6R,PATAGONIA GOLD CORP.,Aktien International,Aktien International,,,,",
+    "CA88831L2021,A41MZZ,TITAN MINING CORP.,Aktien International,Aktien International,,,,",
+    "CA0191151046,A4131W,ALLIED CRITICAL METALS,Aktien International,Aktien International,,,,",
+    "CA75527Q1081,A2PN0F,RE ROYALTIES LTD.,Aktien International,Aktien International,,,,",
+    "CA36118G1072,A41WY4,FUTUREGEN INDUSTRIES CORP,Aktien International,Aktien International,,,,",
+    "CA3645856046,A3D376,GALWAY METALS INC.,Aktien International,Aktien International,,,,",
+    "CA4383402001,A3D4EU,HONEY BADGER SILVER INC.,Aktien International,Aktien International,,,,",
+    "CA3620M15016,A116D1,GMV MINERALS INC.,Aktien International,Aktien International,,,,",
+    "CA04302L1004,A2PN6T,ARTEMIS GOLD INC.,Aktien International,Aktien International,,,,",
+    "GG00BWZ6KJ56,A41YYD,TAYLOR MARITIME LTD.,Aktien Europa,Aktien Europa Select,,,,",
+    "CA81640B1013,A41JQV,SEL.COP.MIN.INC. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 2,
+    "Deletions": 26
+  }
+}

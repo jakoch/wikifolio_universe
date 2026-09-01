@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CH0012410517,853020,BALOISE HLD N,Aktien Europa,Aktien Europa Select,,,,",
+    "GB0003308607,884647,\"SPECTRIS PLC       LS-, 05\",Aktien Europa,Aktien Europa Select,,,,",
+    "US89151E1091,882930,TOTALENERGIE SPONS. ADR 1,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

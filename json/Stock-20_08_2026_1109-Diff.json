@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "SE0015483276,A2QPAW,CINT GROUP AB,Aktien Europa,Aktien Europa Select,,,,",
+    "CA03444Q1000,A0LCR5,ANDREW PELLER LTD A,Aktien International,Aktien International,,,,",
+    "CA09950M3003,189946,BORALEX INC. A,Aktien International,Aktien International,,,,",
+    "US9478901096,895305,\"WEBSTER FINL CORP. DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

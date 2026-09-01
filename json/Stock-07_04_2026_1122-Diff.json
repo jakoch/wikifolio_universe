@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "AU000000SER1,A0Q626,STRATEGIC ENERGY RESOURCES LTD REGISTERED SHARES O,Aktien International,Aktien International,,,,",
+    "KYG4289N1227,A41YKL,\"PARANOVUS ENT.TECH.DL 1, -\",Aktien International,Aktien International,,,,",
+    "CA98420Q3061,A3EUNZ,XORTX THERAPEUTICS,Aktien USA,Aktien USA Select,,,,",
+    "JE00BWK75100,A426PJ,\"VERSIGENT LTD. DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US68278B1070,A3DPH2,\"ONESTR.INC.CL.A  DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA98420Q4051,A427MJ,XORTX THERAPEUTICS,Aktien USA,Aktien USA Select,,,,",
+    "US3906071093,A0LG02,GREAT LA.DR.+DO.NEW DL-01,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

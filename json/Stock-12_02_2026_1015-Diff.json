@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "AU000000RUL2,A0Q13U,RPMGLOBAL HOLDINGS LTD.,Aktien International,Aktien International,,,,",
+    "BE0003215143,865600,FLORIDIENNE SA,Aktien Europa,Aktien Europa Select,,,,",
+    "CA89778A1003,A417U9,TRUBAR INC.,Aktien International,Aktien International,,,,",
+    "SE0002095604,A1CVKF,ARISE,Aktien Europa,Aktien Europa Select,,,,",
+    "US89469A1043,A0ER18,\"TREEHOUSE FOODS INC. REGISTERED SHARES DL -, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US5949728530,A41EXE,STRATEGY INC.  PERP.STR.A,Aktien USA,Aktien USA Select,,,,",
+    "BE0974502347,A41YQE,FLORIDIENNE SA,Aktien Europa,Aktien Europa Select,,,,",
+    "US46125A1007,A3D5BY,INTUITIVE MACH.INC.CL.A,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}

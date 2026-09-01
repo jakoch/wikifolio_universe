@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA00149L1058,A2JN3M,AJN RESOURCES INC. O.N.,Aktien International,Aktien International,,,,",
+    "CA74040N1069,A3EQWJ,PREDICTMEDIX AI INC.,Aktien International,Aktien International,,,,",
+    "FR0013410370,A2PGRQ,\"AUPLATA MIN. GRP EO-, 0005\",Aktien Europa,Aktien Europa Select,,,,",
+    "US0401263027,A41VWR,ARGO BLOCKCH. SP.ADR/2160,Aktien USA,Aktien USA Select,,,,",
+    "US5860011098,A3CUW0,\"MEMBERSH.COLL.GR.A DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "US0517741072,A3CY5C,AURORA INNOVATION INC.,Aktien USA,Aktien USA Select,,,,",
+    "CA23347H1064,A4205L,DRC GOLD CORP.    O.N.,Aktien International,Aktien International,,,,",
+    "CA7469601032,A421M7,QSCREEN AI INC.   O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
