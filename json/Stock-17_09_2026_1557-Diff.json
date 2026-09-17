@@ -1,0 +1,73 @@
+{
+  "Additions": [
+    "BE6252013725,A12CE2,CONDOR TECHNOLOGIES NV,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0006174496,764506,\"VERNEY-CARRON NOM. EO3, 20\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA23809L2075,A41081,DATAMETREX AI LIMITED,Aktien International,Aktien International,,,,",
+    "DE000A2YNT30,A2YNT3,ALZCHEM GROUP AG INH O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "ES0105376000,A2N7WN,ARIMA REAL EST.SOC. EO 1,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "ES0105376000,A2N7WN,ARIMA REAL EST.SOC. EO 10,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "FR0000130692,901535,\"COMPAGNIE CHARGEU.EO 12, -\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR0000130692,901535,\"CHARGEURS INH.  EO 0, 16\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "FR0004153930,A0M9ZU,\"ATON S.A.         EO -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR0004153930,A0M9ZU,\"HYBRIGENICS S.A.  EO -, 01\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "FR0005175080,913048,\"TRANSGENE SA   EO 0, 30\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR0005175080,913048,\"TRANSGENE SA   EO 0, 50\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "FR0013018124,A143G8,\"NICOX SA INH. EO 0, 01\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR0013018124,A143G8,NICOX SA INH.      EO 1,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "FR001400N2P2,A400E3,\"SPINEWAY      EO -, 002\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR001400N2P2,A400E3,\"SPINEWAY       EO 4, -\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "IT0004552359,A1CSQF,KME GROUP S.P.A.,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "IT0004552359,A1CSQF,INTEK GROUP S.P.A.,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "IT0004931058,A1W0E6,MAIRE SPA,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "IT0004931058,A1W0E6,MAIRE TECNIMONT SPA,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "PTIPR0AM0000,938906,\"IMPRESA SGPS SA EO 0, 5\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "PTIPR0AM0000,938906,\"IMPRESA SGPS SA NOM.EO0, 5\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "PTNBA0AM0006,501816,\"NOVABASE SGPS INH. EO0, 97\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "PTNBA0AM0006,501816,\"NOVABASE SGPS INH. EO0, 03\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "IL0006290147,906517,\"TEVA PHARMACEUT.   IS 0, 1\",Aktien International,Aktien International,,,,",
+    "US2893951051,A4274M,ELMET GROUP CO.        ON,Aktien USA,Aktien USA Select,,,,",
+    "DE000A41YHG1,A41YHG,ALZCHEM GROUP AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "CA74768Q1090,A42BWZ,QUANTA AI INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 13,
+    "Deletions": 4
+  }
+}
