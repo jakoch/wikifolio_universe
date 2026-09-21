@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "CA84841L5062,A420P2,SPHERE 3D CORP.,Aktien USA,Aktien USA Select,,,,",
+    "DE000A40ZVK3,A40ZVK,ACCENTRO R.EST.  ON KONV.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A41YD32,A41YD3,BIOXXMED AG INH KONV,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "PLR220000018,A2JAWM,\"CYBER FOLKS S.A.  ZY -, 02\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "PLR220000018,A2JAWM,\"R22 SA ZY -, 02\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA7270534075,A42MZF,PLANET VENTURES NEW,Aktien International,Aktien International,,,,",
+    "CA52637P2052,A42MZE,LEO.MNG.INC. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 2
+  }
+}
