@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "LU0251659180,A0JL00,AXA WLD-EURO 7-10 A T. EO,Fonds,Fonds Aktien,,,,",
+    "KYG8807B1068,A1137V,THERAVANCE BIOPHARMA,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 3,
+    "Deletions": 0
+  }
+}
