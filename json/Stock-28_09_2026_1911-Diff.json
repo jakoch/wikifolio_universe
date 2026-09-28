@@ -1,0 +1,26 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "LU0251659180,A0JL00,AXA WLD-EURO 7-10 A T. EO,Fonds,Fonds Aktien,,,,",
+    "AU0000473878,A42F0X,ALURION RESS LTD O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 3,
+    "Deletions": 2
+  }
+}
