@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "US30609A1097,A42MJQ,\"ONEOK INC.         DL-, 01\",Aktien USA,Aktien Dow Jones,,,,",
+    "BMG7403L1046,A12B6H,\"REALORD GRP HLDGS HD -, 10\",Aktien International,Aktien International,,,,",
+    "CA60686A4090,A2AL6Z,MKANGO RESOURCES LTD.,Aktien International,Aktien International,,,,",
+    "CA92837C1095,A2JG9P,VISION LITHIUM,Aktien International,Aktien International,,,,",
+    "LU0251659180,A0JL00,AXA WLD-EURO 7-10 A T. EO,Fonds,Fonds Aktien,,,,",
+    "US37892C1062,A3CPAL,\"BRIGHTLINE INTERACT.-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US45257L1089,A2H8YL,IMMUTEP LTD ADRS II/10,Aktien USA,Aktien USA Select,,,,",
+    "US92346X2062,A2P66U,VERIFYME INC.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA60701M1077,A42M4F,MKA.MAG.MAT. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
