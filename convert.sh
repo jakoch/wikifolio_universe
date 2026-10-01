@@ -173,7 +173,7 @@ install_wiuc() {
   version="$(get_latest_wiuc_version)"
   echo "Using WIUC Version: $version"
 
-  url="https://github.com/jakoch/wikifolio_universe_converter/releases/download/v$version/wiuc-$version-clang22-x64-linux.zip"
+  url="https://github.com/jakoch/wikifolio_universe_converter/releases/download/v$version/wiuc-$version-clang18-x64-linux.zip"
   echo "Download URL: $url"
 
   # --retry-all-errors only supported by curl v7.71.0+
