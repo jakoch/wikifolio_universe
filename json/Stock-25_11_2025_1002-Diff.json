@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "AU0000428138,A41HB0,AUSTRALIAN VANADIUM LTD,Aktien International,Aktien International,,,,",
+    "CA77584B1076,A2DPE2,QYOU MEDIA INC.,Aktien International,Aktien International,,,,",
+    "DE0005220909,522090,NEXUS AG O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "GB00BQHP5P93,A3E2AU,\"DIVERS.ENERGY COMP LS-, 2\",Aktien Europa,Aktien Europa Select,,,,",
+    "US5537453087,A40QA9,\"MSP REC.  CL.A  DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US62856X2018,A401XM,MYMD PHARMACEUT. INC NEW,Aktien USA,Aktien USA Select,,,,",
+    "VGG5214E1034,A408BD,KANDI TECHN.GRP INC. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "US74754R3012,A40THA,\"AIXCRYPTO HLDGS.  DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US74754R3012,A40THA,\"QUALIGEN THER.    DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "US62856X3008,A41E0S,\"Q/C TECHNOLOGIES DL-0, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US25520W1071,A41RVA,DIVERSIFIED ENER.CO. O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "CA77584B6026,A41TRH,QYOU MEDIA INC.,Aktien International,Aktien International,,,,",
+    "US5537454077,A41E4L,\"MSP RECOV. NEW   DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "AU000000AVL6,A2ABRH,AUSTRALIAN VANADIUM LTD,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 2,
+    "Deletions": 5
+  }
+}

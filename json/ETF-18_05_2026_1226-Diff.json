@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "LU2823898353,A40HNG,BNPPE-ESGENEOCOBD1227 EOA,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU2823898437,A40JH7,BNPPE-ESGENEOCOBD1227 EOD,ETFs,ETFs Sonstige Bonds,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US91917A7028,A421TF,VET2-BTC STR.E. NEW DLD,ETFs,sonstige ETFs,,,,",
+      "Current": "US91917A7028,A421TF,VET2-BTC STR.E. NEW DLD,ETFs,ETFs Nordamerika,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

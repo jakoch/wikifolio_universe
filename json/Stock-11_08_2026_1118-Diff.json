@@ -1,0 +1,37 @@
+{
+  "Additions": [
+    "CA29373A3038,A14V2B,ENTERPRISE GROUP INC.,Aktien International,Aktien International,,,,",
+    "CA30710P1027,157756,FANCAMP EXPLORATION LTD,Aktien International,Aktien International,,,,",
+    "CA45828F1018,A3EGAC,INTEGRATED CYBER SOLUT.,Aktien International,Aktien International,,,,",
+    "CA49752E1060,A41937,KIRKSTONE METALS CORP.,Aktien International,Aktien International,,,,",
+    "SG9999014716,A1436W,WAVE LIFE SCIENCES LTD.,Aktien USA,Aktien USA Select,,,,",
+    "US00808Y6041,A41NJ5,\"AETHL.MED. OCT.25 DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US90187B8046,A3DW5E,\"TWO HARBORS INV. DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA45836R1055,A423XJ,INTEGRATED QUANTUM TECH.,Aktien International,Aktien International,,,,",
+    "CA75026P1062,A3DPNW,RADIANT URANIUM CORP.,Aktien International,Aktien International,,,,",
+    "US00808Y7031,A42HQZ,\"AETHL.MED. JULY26 DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "CA2688481084,A42G35,ERDA RES.OPP.INC.,Aktien International,Aktien International,,,,",
+    "CA30055E1007,A42HT1,EVOLUTION POWERX,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 3,
+    "Deletions": 5
+  }
+}

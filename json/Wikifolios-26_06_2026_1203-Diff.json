@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "DE000LS9UEM0,LS9UEM,Commodities FX Interest Rates,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+    "DE000LS9UZV6,LS9UZV,JI-MARS-ALPHA-HEDGE-25,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+    "DE000LS9V0C5,LS9V0C,Balance System,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+    "DE000LS9L970,LS9L97,RisingMoney,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA25552L2012,A2PX0Y,DIXIE GOLD INC.,Aktien International,Aktien International,,,,",
+    "US00832E1038,A2QMWU,\"AFFINITY BANCSHS   DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "LU3433852426,A42J0D,\"CRITEO SA NAM.    EO-, 025\",Aktien USA,Aktien USA Select,,,,",
+    "CA80928K1066,A42HBV,SCOTIA METALS CORP.,Aktien International,Aktien International,,,,",
+    "CA7857138845,A42HJ5,SABLE RESOURCES LTD,Aktien International,Aktien International,,,,",
+    "KYG200801002,A42B3B,CBAK ENERGY TECHNOL.LTD,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}

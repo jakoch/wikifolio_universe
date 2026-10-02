@@ -1,0 +1,35 @@
+{
+  "Additions": [
+    "BMG8571C2494,A2P2HQ,\"SUNCORP TECHS    HD-, 006\",Aktien International,Aktien International,,,,",
+    "CA75671E1097,A2P5KA,RED LIGHT HOLLAND CORP.,Aktien International,Aktien International,,,,",
+    "CA89624B5009,A42AR9,TRILLION ENERGY INTERNAT.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "US87877F1030,A42CLL,TECNOGLASS HOLDINGS  O.N.,Aktien International,Aktien International,,,,",
+      "Current": "US87877F1030,A42CLL,TECNOGLASS INC.FLA O.N.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "US3371851029,A428R1,FIRST TRACKS BIOTHERAP.,Aktien USA,Aktien USA Select,,,,",
+    "CA76206T1084,A3DPNV,RHELION LIFE SCIENCES COR,Aktien International,Aktien International,,,,",
+    "CA2653421057,A3DPNU,TRILLION ENERGY INTERNAT.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 4,
+    "Deletions": 3
+  }
+}

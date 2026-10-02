@@ -1,0 +1,39 @@
+{
+  "Additions": [
+    "CA47200C1023,A2DWYY,JAXON MNG INC.,Aktien International,Aktien International,,,,",
+    "CA84841L4073,A3EJMR,SPHERE 3D CORP.,Aktien USA,Aktien USA Select,,,,",
+    "US2681582019,A12EV9,\"DYNAVAX TECHS     DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US4315711089,A0NHFB,HILLENBRAND IND.,Aktien USA,Aktien USA Select,,,,",
+    "US74735M1080,A1T8GB,\"QIWI B SP.ADRS 1/EO-, 0005\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "GB00B0305S97,A0D9NA,\"BTG CONSULTING    LS -, 05\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB00B0305S97,A0D9NA,\"BEGBIES TRAYNOR   LS -, 05\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "KYG3871A1004,A3C3E0,\"EDDING GE.GP.HL.DL-, 00002\",Aktien International,Aktien International,,,,",
+      "Current": "KYG3871A1004,A3C3E0,\"GENOR BIOPHARMA DL-, 00002\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US00183L2016,A4142Q,ANGI INC.            O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US00183L2016,A4142Q,ANGI INC. O.N.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US02071M5076,A2AAAX,\"ALPHA BANK ADR1/4/EO 3, 90\",Aktien International,Aktien International,,,,",
+      "Current": "US02071M5076,A2AAAX,\"ALPHA SE+H.ADR1/4/EO 3, 90\",Aktien International,Aktien International,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA84841L5062,A420P2,SPHERE 3D CORP.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 5,
+    "Deletions": 1
+  }
+}

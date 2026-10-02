@@ -1,0 +1,36 @@
+{
+  "Additions": [
+    "CA04364G7839,A41WU8,ASCOT RES LTD,Aktien International,Aktien International,,,,",
+    "CA56389K2074,A3EWMU,MANNING VENTURES INC.,Aktien International,Aktien International,,,,",
+    "FR0011052257,A1JBVH,\"GLOBAL BIOENERGIES EO-, 05\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BZ15CS02,A2JR3A,\"ARGO BLOCKCHAIN LS -, 001\",Aktien Europa,Aktien Europa Select,,,,",
+    "IE00BDGMC594,A2DJ5B,AVADEL PHARMACEUTICALS,Aktien USA,Aktien USA Select,,,,",
+    "PLBRN2400013,A2JC5C,\"BRAND 24 S.A. ZY-, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "SE0018768707,A3D4F9,SAMPO OYJ  (SDR)/1,Aktien Europa,Aktien Europa Select,,,,",
+    "US5504243032,A40R34,LUMINAR TECH.  CL.A NEW,Aktien USA,Aktien USA Select,,,,",
+    "US68162K1060,901092,OLYMPIC STEEL,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "SG9999014831,A2ACCC,GIGAMEDIA LTD       TA 10,Aktien USA,Aktien USA Select,,,,",
+      "Current": "SG9999014831,A2ACCC,GIGAMEDIA LTD       TA 10,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US69376K1060,A3C9W0,\"RIDGEPOST CAP. A  DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US69376K1060,A3C9W0,\"P10 INC. CL. A    DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA1320631080,A422L6,CAMBRIA GOLD MINES INC.,Aktien International,Aktien International,,,,",
+    "CA56389K3064,A42390,MANNING VENTURES O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 3,
+    "Deletions": 2
+  }
+}

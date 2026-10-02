@@ -1,0 +1,63 @@
+{
+  "Additions": [
+    "LU1012015118,A1XBPF,FLOSSB.V.ST.-GL.EM.M.EQ.R,Fonds,Fonds Aktien,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "CA64782A1075,A2QJD9,NEW PACIFIC METALS,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA64782A1075,A2QJD9,NEW PACIFIC METALS,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "LU2791994721,A408ST,\"AUNA S.A. A  DL 0, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "LU2791994721,A408ST,\"AUNA S.A. A  DL 0, 01\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US45685K1025,A0NA9V,\"INFUSYSTEMS HLDG.DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US45685K1025,A0NA9V,\"INFUSYSTEMS HLDG.DL-, 0001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US6289881079,A3ENR7,MYND AI INC. ADR,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US6289881079,A3ENR7,MYND AI INC. ADR,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US75025X1000,A1H7BU,\"RADIANT LOGISTICS DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US75025X1000,A1H7BU,\"RADIANT LOGISTICS DL-, 001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US10948W1036,A2PNW4,\"ACADIAN ASSET MAN.  -, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US10948W1036,A2PNW4,\"BRIGHTSPH. INV.GRP. -, 001\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US2316472073,A2P6KC,NXG NGEN INFRASTR.INC.SBI,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US2316472073,A2P6KC,CUSHING RENAISSANCE SBI,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US6680743050,A0DLGF,\"NORTHWEST.ENER.GRP.DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US6680743050,A0DLGF,\"NORTHWESTERN NEW   DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "US78137L1052,A3DRQQ,RUM GROUP INC. CL.A O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US78137L1052,A3DRQQ,RUMBLE INC.  CL.A O.N.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US75134P5017,A3D2B7,RAMACO RES INC. B,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 12,
+    "Deletions": 1
+  }
+}

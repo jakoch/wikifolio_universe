@@ -1,0 +1,40 @@
+{
+  "Additions": [
+    "AU000000BXN6,A1JWM6,BIOXYNE LTD,Aktien International,Aktien International,,,,",
+    "CA8193201024,A0YC7D,SHAMARAN PETROLEUM CORP.,Aktien International,Aktien International,,,,",
+    "KYG4289N1300,A426X2,\"PARANOVUS ENT.TECH.DL 1, -\",Aktien International,Aktien International,,,,",
+    "US2253101016,884343,CRED. ACC. CORP.,Aktien USA,Aktien USA Select,,,,",
+    "US74915M6057,A41BJX,\"QVC GROUP A       DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US81619Q1058,A0Q9RF,SELECT MEDIC.HLDGS CORP.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "SE0010662585,A2PQ08,VALUNO GROUP AB      O.N.,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "SE0010662585,A2PQ08,QUICKBIT EU AB  O.N.,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [
+    "BMG8080M1001,A42DZ3,SHAMARAN PETROLEUM O.N.,Aktien International,Aktien International,,,,",
+    "US78392B2060,A42D2T,SK HYNIX SP.ADR/1 SW 5000,Aktien International,Aktien International,,,,",
+    "KYG4289N1557,A41ZBT,\"PARANOVUS ENT.TECH.DL 1, -\",Aktien International,Aktien International,,,,",
+    "CA3564541082,A42D8M,FREEGOLD LTD.,Aktien International,Aktien International,,,,",
+    "CH0019867685,A42G6V,INFRACORE SA         SF 1,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 4,
+    "Deletions": 5
+  }
+}

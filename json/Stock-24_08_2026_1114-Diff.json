@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "BMG216341294,A3D61Y,\"CHINA ECOTO. SUB.HD 0, 50\",Aktien International,Aktien International,,,,",
+    "CA0976924047,A41PGU,BOLT METALS CORP.,Aktien International,Aktien International,,,,",
+    "CA62430M1014,A2P082,MOUNTAIN VALLEY MD HLDGS,Aktien International,Aktien International,,,,",
+    "US09073Q3039,A40DEH,SCINAI IMM.ADS/4000 IL-01,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA90140G1063,A42FVY,26 METALS INC. O.N.,Aktien International,Aktien International,,,,",
+    "CA6165361081,A42J37,MORE LIFE CORP. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "Additions": [
+    "CA3564552048,A1C4K0,FREEGOLD VENTURES LTD.,Aktien Hot Stocks,Aktien Hot Stocks,,,,",
+    "SE0015988100,A3CSCC,MOVEBYBIKE EUROPE AB,Aktien Europa,Aktien Europa Select,,,,",
+    "AU000000PEX5,A0MNW5,PEEL MINING LTD.,Aktien International,Aktien International,,,,",
+    "JP3829750003,A1W9Q7,V-CUBE INC.,Aktien International,Aktien International,,,,",
+    "US0977022039,A419U9,\"BOLT BIOTHE.NEW DL-, 00001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA23305P1080,A0JDUC,D-BOX TECHNOLOGIES INC.,Aktien International,Aktien International,,,,",
+    "CA0959221007,A416C0,BLUENERGIES LTD,Aktien International,Aktien International,,,,",
+    "US87877F1030,A42CLL,TECNOGLASS INC.FLA O.N.,Aktien International,Aktien International,,,,",
+    "SE0029530138,A41Z6M,MOVEBYBIKE EUROPE AB,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 5,
+    "Deletions": 4
+  }
+}

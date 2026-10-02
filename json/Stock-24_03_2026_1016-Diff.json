@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "AU0000151680,A3CPT9,SOUTH HARZ POTASH LTD.,Aktien International,Aktien International,,,,",
+    "AU0000294233,A3EUUM,SPARTAN RESOURCES LTD.,Aktien International,Aktien International,,,,",
+    "US98417P2048,A3DZ0Q,XINYUAN REAL ESTATE ADR20,Aktien International,Aktien International,,,,",
+    "US30063P1057,590273,\"EXACT SCIEN.       DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US7240781002,A0BLBX,\"PIPER SANDLER COS  DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US87901J1051,A14VMF,TEGNA INC.           DL 1,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "AU0000460404,A426YX,TURNSTONE RESOURCES LTD.,Aktien International,Aktien International,,,,",
+    "US70532Y4026,A425F0,\"PEDEVCO CORP. NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "NO0010405640,A0Q2FS,\"PCI BIOTECH ASA   NK 0, 03\",Aktien Europa,Aktien Europa Select,,,,",
+    "TH0438010Z10,A0CANQ,ITALIAN-THAI DEV.FGN  BA1,Aktien International,Aktien International,,,,",
+    "US25264R2076,792613,\"DIAMOND HILL       DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US68620A3023,A41083,\"ORGANOVO HLDGS    DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

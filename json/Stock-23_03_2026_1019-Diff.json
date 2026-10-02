@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA1375842079,A1H5K0,CANFOR PULP PRODUCTS INC.,Aktien International,Aktien International,,,,",
+    "CA58518J2002,A3EER1,MEGAWATT LITH.BATT.METALS,Aktien International,Aktien International,,,,",
+    "CA81752V2003,A40YSH,SERRA ENERGY METALS CORP.,Aktien International,Aktien International,,,,",
+    "US68622D1063,A3CTJR,\"ORIGIN MATER. A  DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA90356T1075,A422AJ,UBERDOC HEALTH T. O.N.,Aktien International,Aktien International,,,,",
+    "US68622D2053,A424KE,ORIGIN MATERIALS  O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA58518J3091,A426T1,MEGAWATT LITH.BATT.METALS,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}

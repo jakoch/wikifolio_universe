@@ -1,0 +1,40 @@
+{
+  "Additions": [
+    "ZAE000337051,A41NMZ,AFRICA BITCOIN CORP. LTD.,Aktien Europa,Aktien Europa Select,,,,",
+    "AU000000KAI5,A2AJ0B,KAIROS MINERALS LTD. REGISTERED SHARES O.N.,Aktien International,Aktien International,,,,",
+    "CA89624B3020,A3EVV5,TRILLION ENERGY INTERNAT.,Aktien International,Aktien International,,,,",
+    "US22978P1066,A2JAT5,\"CUE BIOPHARM.INC. DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US4525EP1011,A2PHD4,\"IMMUNIC INC.     DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "ZAE000358925,A42943,AFRICA BITCOIN CORP. LTD.,Aktien Europa,Aktien Europa Select,,,,",
+    "CA89624B5009,A42AR9,TRILLION ENERGY INTERNAT.,Aktien International,Aktien International,,,,",
+    "US3953306087,A4282M,GREENLANE H.  A NEW 2026,Aktien International,Aktien International,,,,",
+    "US4525EP2001,A428WY,IMMUNIC INC. NEW     O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US22978P2056,A426PN,CUE BIOPHARMA O.N.,Aktien USA,Aktien USA Select,,,,",
+    "AU0000466062,A42AXL,PILBARA GOLD LTD.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 4,
+    "Deletions": 6
+  }
+}

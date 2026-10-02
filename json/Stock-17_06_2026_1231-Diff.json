@@ -1,0 +1,64 @@
+{
+  "Additions": [
+    "IT0003497168,120470,TELECOM ITALIA,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0005962206,A2DVVT,PEPTONIC MEDICAL,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0011256312,A2JMSQ,ENIRO GROUP AB A,Aktien Europa,Aktien Europa Select,,,,",
+    "CA47208P1053,A3C36G,JAYDEN RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "CA66611D1033,662226,NORTHFIELD CAPITAL A,Aktien International,Aktien International,,,,",
+    "JP3460200003,A0DNGL,TAKARA BIO INC.,Aktien International,Aktien International,,,,",
+    "US20731J4094,A42CQ9,PRESURANCE HOLDINGS NEW,Aktien International,Aktien International,,,,",
+    "US91544A1097,A12EHS,\"UPLAND SOFTWARE  DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "BE0974409410,A3DMB0,HOME INVEST BELGIUM,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "BE0974409410,A3DMB0,HOME INVEST BELGIUM,Aktien Hot Stocks,Aktien Hot Stocks,,,,"
+    },
+    {
+      "Original": "GB0002341666,875658,\"POTTER + MOORE PLC LS-, 20\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB0002341666,875658,\"CREIGHTONS         LS-, 20\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "GB0034330679,A0B7QK,\"CELLBXHEALTH PLC LS-, 0005\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB0034330679,A0B7QK,\"ANGLE PLC          LS-, 10\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "GB00B1L5QH97,A0LGPG,\"RANK GRP   LS-, 1388888888\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB00B1L5QH97,A0LGPG,RANK GROUP PLCSHS,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "GB00B2NGPM57,A0NBD6,PARAGON BANKING GR.  LS 1,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB00B2NGPM57,A0NBD6,PARAGON GROUP OF COMPANIES PLC,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "GB00BM4NR742,A114T7,\"FLOWTECH FLUIDP. LS-, 05\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB00BM4NR742,A114T7,FLOWTECH FLUIDPOWER LS-50,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "GB00BPDX2041,A401UF,\"SORTED GR.HLDGS   LS-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB00BPDX2041,A401UF,\"SORTED GR.HLDGS   LS-, 625\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "IE00BWB8X525,A14P7U,\"PERMAN.TSB G.HLDG. EO-, 50\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "IE00BWB8X525,A14P7U,PERMANENT TSB GROUP HLDGS PLC,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "KYG739441031,A414WM,REAL ASSET ACQUISITION A,Aktien USA,Aktien USA Select,,,,",
+    "CA47208P2044,A42CSN,JAYDEN RESOURCES O.N.,Aktien International,Aktien International,,,,",
+    "US89977P2056,A427JD,\"TUNIU SP.ADR 30  DL-, 0001\",Aktien International,Aktien International,,,,",
+    "SE0029300995,A41Z56,ENIRO GROUP AB A,Aktien Europa,Aktien Europa Select,,,,",
+    "AU000000AIS8,A2AC1N,AERIS RESOURCES LTD.,Aktien International,Aktien International,,,,",
+    "IT0005712671,A42F4B,TELECOM ITALIA,Aktien Hot Stocks,Aktien Hot Stocks,,,,",
+    "CA4820451017,A42AAN,JUNO INTERNATIONAL CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 9,
+    "Deletions": 7
+  }
+}

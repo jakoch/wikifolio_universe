@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "GRS373173004,936403,\"AKRITAS S.A. INH   EO 1, -\",Aktien Europa,Aktien Europa Select,,,,",
+    "PTGPA0AP0007,872600,GRAO-PARA SA NAM. EO 5,Aktien Europa,Aktien Europa Select,,,,",
+    "US1850642018,A420V0,CLEARSIGN TECHNOLOG.  NEW,Aktien USA,Aktien USA Select,,,,",
+    "US20717M1036,A3CS43,\"CONFLUENT INC.A DL-, 00001\",Aktien USA,Aktien USA Select,,,,",
+    "US70532Y4026,A425F0,\"PEDEVCO CORP. NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A2GS625,A2GS62,CR ENERGY AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A2GS625,A2GS62,CR CAPITAL AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 4,
+    "Deletions": 0
+  }
+}

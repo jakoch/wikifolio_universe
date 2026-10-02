@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "DE000A0KFKB3,A0KFKB,ACCENTRO R.EST.AG  O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A3CNK42,A3CNK4,ABOUT YOU HOLDING SE,Aktien Deutschland,Aktien SDAX,,,,",
+    "IE00BJMZDW83,A1XE3D,\"DALATA HOTEL GROUP EO-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "US5290431015,907209,LEXINGTON REALTY TRUST,Aktien USA,Aktien USA Select,,,,",
+    "US6862752077,A41F1P,ORION ENERGY SYSTEMS NEW,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "DE000A40ZVK3,A40ZVK,ACCENTRO R.EST.  ON KONV.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US5290434084,A41S8C,LXP INDUSTRIAL TRUST,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}

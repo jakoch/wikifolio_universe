@@ -1,0 +1,23 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE000ZAJ6XQ2,A4171K,JPM-IND REI EQ UE UHDLA,ETFs,ETFs Emerging Markets,,,,",
+      "Current": "IE000ZAJ6XQ2,A4171K,JPM-IND REI EQ UE UHDLA,ETFs,sonstige ETFs,,,,"
+    }
+  ],
+  "Deletions": [
+    "XS3068775009,A4AN03,LEVERAGE SHARES PLTR ETP,ETFs,sonstige ETFs,,,,",
+    "XS3337164027,A4AU0M,LEVERAGE SHARES ETP 76,ETFs,sonstige ETFs,,,,",
+    "XS2901886445,A4A52T,LEVERAGE SHARES COIN ETP,ETFs,sonstige ETFs,,,,",
+    "XS3337192408,A4AU0R,LEVERAGE SHARES ETP 76,ETFs,sonstige ETFs,,,,",
+    "XS3068774887,A4AN0Z,LEVERAGE SHARES BABA ETP,ETFs,sonstige ETFs,,,,",
+    "XS3337373701,A4AU0V,LEVERAGE SHARES ETP 76,ETFs,sonstige ETFs,,,,",
+    "IE000SDZFVP4,A42DW8,HII-SUE DLA,ETFs,ETFs Branchen,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 7
+  }
+}

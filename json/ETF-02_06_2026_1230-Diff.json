@@ -1,0 +1,36 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE0000902GT6,A3EYCN,WI.IC.MEGATRENDS DL ACC.,ETFs,ETFs Sonstige Bonds,ETFs,sonstige ETFs,,",
+      "Current": "IE0000902GT6,A3EYCN,WI.IC.MEGATRENDS DL ACC.,ETFs,ETFs Sonstige Bonds,,,,"
+    }
+  ],
+  "Deletions": [
+    "IE000D3E0G47,A42118,GS EI-GS GI BOA HGD(Q)EOD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000J8RGOJ4,A41SAA,JHMXGBDDL1030YC DLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000DUSV4J5,A429NA,UNI.Q EQ.EM E. DLA,ETFs,ETFs Emerging Markets,,,,",
+    "IE0007W7MZL0,A41R37,JH USSDHYAC E. DLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000MNNJDT4,ETF322,AM.SP 500 FNCLS DLA,ETFs,ETFs Branchen,,,,",
+    "XS3343238971,A4AU00,LEVERAGE SHARES ETP 76,ETFs,sonstige ETFs,,,,",
+    "IE0006R681H8,A4211A,GS EI-GS GI BOA HGDEOA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000YMBL844,A40VN5,JH-DL M.B.S.A.C.ETF DLUA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000XIITCN5,A3DHN5,JH-H.AXJ.HYCDBSC ETF LSHD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000LSFKN16,A3EFLJ,JH-G.HY F.A.PACC ETF LSHD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE0008EMOWT3,A427LV,JPME-EMLOCUBDAC ETF HEOA,ETFs,ETFs Europa Bonds,,,,",
+    "IE000LJG9WK1,A3DTFY,JH-GCC S.DL BD C.ETF LSHA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE0008C3G0Y9,A41R3G,JH USSDHYAC E. HGDLSD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000GETKIK8,A3DHN4,JH-H.AXJ.HYCDBSC ETF LSHA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000RH1ZG27,A40VN6,JH-DL M.B.S.A.C.ETF DLUD,ETFs,ETFs Sonstige Bonds,,,,",
+    "XS3337374774,A4AU0Z,LEVERAGE SHARES ETP 76,ETFs,sonstige ETFs,,,,",
+    "LU3359622902,A42B34,IMGP-DBI MA.FU. R HPEOA,ETFs,sonstige ETFs,,,,",
+    "IE0002G3KSC2,A4211C,GS EI-GS GCPA HGDEOA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE0009ZTL4B5,A414NE,TA.IC.J.H.T. UNHHEDGEDDLA,ETFs,sonstige ETFs,,,,",
+    "IE000CWXN435,A4211E,GS EI-GS GCPA HGDEOD,ETFs,ETFs Sonstige Bonds,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 20
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "JP3921240002,A1153F,MEDPEER INC.,Aktien International,Aktien International,,,,",
+    "LU0328585541,A0M6N1,WALLRICH PRAEMIENSTR.P,Fonds,Fonds Aktien,,,,",
+    "NO0010694029,A2AQKM,MORROW BANK ASA      NK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "NO0010763550,A2AHND,TREASURE ASA         NK 1,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

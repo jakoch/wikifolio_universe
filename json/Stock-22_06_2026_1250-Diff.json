@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "US15234Q2075,903460,CENTRAIS EL.BR.EL. ADR 1,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "GB00BJL1ZF49,A2PK8A,\"ESSENSYS PLC     LS-, 0025\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

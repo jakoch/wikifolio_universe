@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "AU0000111395,A3EEY2,PROSPECH LIMITED,Aktien International,Aktien International,,,,",
+    "CA33583M2067,A41VME,FIRST NORDIC M. CORP.,Aktien International,Aktien International,,,,",
+    "US0070021086,A2QESQ,\"ADICET BIO INC. DL -, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "US7477981069,A2H5CY,HIGH TEMPLAR TECH   ADR/1,Aktien International,Aktien International,,,,",
+      "Current": "US7477981069,A2H5CY,QUDIAN INC. ADR/1,Aktien International,Aktien International,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA3814951008,A41XQ1,GOLDSKY RESOURCES CORP.,Aktien International,Aktien International,,,,",
+    "US0070022076,A41X5V,\"ADICET BIO NEW  DL -, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "KYG4790P1037,A41XT7,INSILICO MED.C. O.N.,Aktien International,Aktien International,,,,",
+    "AU0000448102,A41ZNN,EUROPEAN RESOURCES LTD.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}

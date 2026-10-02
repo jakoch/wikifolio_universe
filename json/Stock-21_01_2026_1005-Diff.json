@@ -1,0 +1,52 @@
+{
+  "Additions": [
+    "BE0003836534,A0JKZW,CRESCENT N.V. NOM.NOUV.,Aktien Europa,Aktien Europa Select,,,,",
+    "CA24874B1085,A3CYYR,DENTALC.HLD. (SUB.VTG.),Aktien International,Aktien International,,,,",
+    "CA50543R1091,A2JAFY,LABRADOR GOLD CORP.,Aktien International,Aktien International,,,,",
+    "CA57772U3073,A2PT41,MAX RESOURCE CORP.,Aktien International,Aktien International,,,,",
+    "CA91831M1059,A2DNQH,VR RESOURCES LTDO.N.,Aktien International,Aktien International,,,,",
+    "GB00BF8J3Z99,A2H7JM,\"BAKKAVOR GRP PLC LS -, 1\",Aktien Europa,Aktien Europa Select,,,,",
+    "JP3160300004,213712,FUJI OIL CO. LTD.,Aktien International,Aktien International,,,,",
+    "JP3545240008,A12F3Q,TECHNOPRO HOLDINGS INC.,Aktien International,Aktien International,,,,",
+    "US24869P1049,919416,\"DENNY'S CORP       DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US29415J1060,A3C4HE,\"ENVVENO MEDICAL DL-, 00001\",Aktien USA,Aktien USA Select,,,,",
+    "US81684M1045,A1XEZJ,\"SEMLER SCIENTIFIC DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CA64082X2032,A2QP3D,NERVGEN PHARMA CORP.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA64082X2032,A2QP3D,NERVGEN PHARMA CORP.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "US36870W1009,A3C9EK,GENENTA SCIENCE(SP.ADR)/1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US36870W1009,A3C9EK,GENENTA SCIENCE(SP.ADR)/1,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US4227041062,854693,\"HECLA MNG          DL-, 25\",Aktien USA,Aktien USA Select,Aktien Hot Stocks,Aktien Hot Stocks,,",
+      "Current": "US4227041062,854693,\"HECLA MNG          DL-, 25\",Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "US29415J2050,A42085,ENVVENO MED CORP.NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA57772U4063,A42031,MAX RESOURCE CORP.2025,Aktien International,Aktien International,,,,",
+    "BE0974496284,A4214Z,OPTION N.V. NOM.NOUV.,Aktien Hot Stocks,Aktien Hot Stocks,,,,",
+    "CA91831M2040,A41NPY,VR RESOURCES LTD NEW O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 11,
+    "Modifications": 6,
+    "Deletions": 4
+  }
+}

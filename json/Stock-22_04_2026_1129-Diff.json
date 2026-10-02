@@ -1,0 +1,35 @@
+{
+  "Additions": [
+    "GB00BP5X4Q29,A3C7TB,\"LIFE SCI.REIT PLC LS -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "IT0000784196,918561,BCA POP.DI SONDRIO   EO 3,Aktien Europa,Aktien Europa Select,,,,",
+    "GB00B8YZTJ80,A1W0Q1,\"VERSARIEN PLC     LS -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA01559C1068,A41QK7,ALGERNON HEALTH INC. A,Aktien International,Aktien International,,,,",
+    "CA76125Y6001,A407RP,ROBEX RES. INC.,Aktien International,Aktien International,,,,",
+    "US89977P1066,A1128G,\"TUNIU SP.ADR 1   DL-, 0001\",Aktien International,Aktien International,,,,",
+    "US04351P1012,A14M6X,ASCENDIS PH.SP.ADR 1 DK 1,Aktien USA,Aktien USA Select,,,,",
+    "US68339B1044,A2QMN0,\"ON24 INC.    DL -, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "DK0060606333,A14M8X,ASCENDIS PHARMA NAM. DK 1,Aktien USA,Aktien USA Select,,,,",
+    "CA3978841078,A429HD,GREY MATTERS HEALTH INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 3,
+    "Deletions": 2
+  }
+}

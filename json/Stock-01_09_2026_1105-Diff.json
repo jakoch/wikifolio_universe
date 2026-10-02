@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "AU0000157679,A3CWH9,ALMONTY INDUSTRIES CDIS/1,Aktien International,Aktien International,,,,",
+    "US34962G2084,A40MGA,FORTE BIOSCIENCES INC.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US75120L2097,A42087,RALLYBIO CORP. NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "KYG237451052,A42HBS,SHEIN GLOBAL HLDGS CL.B,Aktien International,Aktien International,,,,",
+    "CNE100007SR6,A42HLJ,ZHONGJI INNOLIGHT  H HD 1,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}

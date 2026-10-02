@@ -1,0 +1,15 @@
+{
+  "Additions": [
+    "IE000GLIXPP3,A4028A,AXA MSCI EM EQ. DLA,ETFs,ETFs Emerging Markets,,,,",
+    "IE000Y65F5C2,A40YRX,E.M.E-C.E.P.E. EOA,ETFs,ETFs Emerging Markets,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000DN0XQM1,A42C1G,TRCTQ EUR50EQE DLA,ETFs,ETFs Europa Gesamt,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 1
+  }
+}

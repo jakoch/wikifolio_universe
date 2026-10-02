@@ -1,0 +1,44 @@
+{
+  "Additions": [
+    "SE0000949331,662739,\"NOBIA AB         SK 0, 333\",Aktien Europa,Aktien Europa Select,,,,",
+    "AU0000036949,A2QKCE,AFRICAN GOLD LTD,Aktien International,Aktien International,,,,",
+    "CA70558T2048,A3D7AN,PEGASUS RESOURCES INC,Aktien International,Aktien International,,,,",
+    "JP3784600003,864341,HISAMITSU PHARMA.,Aktien International,Aktien International,,,,",
+    "KYG2751H1020,A2PLM7,\"DEXIN CHINA HLD. DL-, 0005\",Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "BE0003818359,A0EAT9,LAKEFRONT BIOTHERAPEUTICS,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "BE0003818359,A0EAT9,GALAPAGOS N.V.,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "US03815U6073,A418YA,\"BNB PLUS    5/25  DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US03815U6073,A418YA,\"APPLIED NEW 5/25  DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "SE0028900134,A42CFS,NOBIA AB    O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "US15675D1037,A40RUX,CEREBRAS SYS INC.,Aktien USA,Aktien NASDAQ 100 Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 6,
+    "Deletions": 2
+  }
+}

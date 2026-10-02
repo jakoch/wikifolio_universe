@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "CA36854R1010,A3C584,GELUM RESOURCES LTD.,Aktien International,Aktien International,,,,",
+    "HK0011000095,862271,HANG SENG BANK,Aktien International,Aktien International,,,,",
+    "SE0018040784,A3DXG3,CINIS FERTILIZER AB,Aktien Europa,Aktien Europa Select,,,,",
+    "US4661101034,A0Q68W,JBS S.A.       ADR/2O.N.,Aktien International,Aktien International,,,,",
+    "US91705J2042,A2DRLC,URBAN ONE INC. D N-VTG,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "AT100ASTA001,A4214T,ASTA ENERGY SOLUTIONS AG,Aktien Deutschland,Aktien Sonstige,,,,",
+    "CA05455R2081,A3DAD9,AWALE RESOURCES LTD.,Aktien International,Aktien International,,,,",
+    "US91705J4022,A41YNN,URBAN ONE INC. D N-VTG,Aktien USA,Aktien USA Select,,,,",
+    "ES0105521001,A3CSB0,\"ARTECHE LANT.ELK. EO -, 10\",Aktien Hot Stocks,Aktien Hot Stocks,,,,",
+    "ES0105449005,A2PV5A,\"IZERTIS S.A.      EO -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA36854R2000,A420P8,GELUM RES LTD NEW O.N.,Aktien International,Aktien International,,,,",
+    "CH1110760852,A3CNHV,\"POLYPEPTIDE GROUP SF -, 01\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 7
+  }
+}

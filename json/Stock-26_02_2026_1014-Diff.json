@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA24380K4028,A3EJMT,DEEPMARKIT CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US04650F1012,A41WEP,ATAIBECKLEY INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA74358V1040,A424D8,PROSPECT PREDICTI.MARKETS,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}

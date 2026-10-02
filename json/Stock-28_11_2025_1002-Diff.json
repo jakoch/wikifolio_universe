@@ -1,0 +1,41 @@
+{
+  "Additions": [
+    "AU000000VG15,A2QHTP,VGI PARTNERS GLOB.INV.LTD,Aktien International,Aktien International,,,,",
+    "CA74141E1043,A2DU8Q,PREVECEUTICAL MED.,Aktien International,Aktien International,,,,",
+    "CA74346M4065,A3DM9Q,PROMIS NEUROSCIENCES,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A0NK3W4,A0NK3W,BETA SYST.SOFTW. INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A0NK3W4,A0NK3W,SPARTA AG O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA74143C1068,A41QAA,PREVECEUTICAL MED. O.N.,Aktien International,Aktien International,,,,",
+    "US63001N1063,A3EQWM,NCR ATLEOS CORP.,Aktien USA,Aktien USA Select,,,,",
+    "US9509151083,A40KYH,WERIDE INC.   ADR O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US04626A1034,A404AF,ASTERA LABS INC.  O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US4931441095,868040,KEY TRONIC CORP.,Aktien USA,Aktien USA Select,,,,",
+    "US6288772014,A2QJPS,\"NCS MULTISTAGE HLD.DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "AU0000434920,A41VX8,REGAL PARTNERS GLOBAL INV,Aktien International,Aktien International,,,,",
+    "US6406714005,A2PNQ9,\"NEPHROS INC. NEW  DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US74743L1008,A41FSG,QNITY ELECTRONICS O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA74346M5054,A41MFQ,PROMIS NEUROSCIENCES,Aktien International,Aktien International,,,,",
+    "US6877931096,A2QQXK,\"OSCAR HEALTH CL.A -, 00001\",Aktien USA,Aktien USA Select,,,,",
+    "US4928541048,923130,\"KEWAUN.SCIENTIFIC  DL2, 50\",Aktien USA,Aktien USA Select,,,,",
+    "US0734633094,A3EYZC,\"BEACHB. CL.A NEW DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US03213A1043,A3C36H,\"AMPLITUDE  CL.A DL-, 00001\",Aktien USA,Aktien USA Select,,,,",
+    "US70451X1046,A3CTHF,\"PAYONEER GLOBAL  DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US02115D2080,A3D385,\"ALSET INC.        DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US68170A1088,A4193B,OMADA HEALTH INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US76655K1034,A3DE3J,\"RIGETTI COMPUTNG DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US4571521065,A40QY5,INGRAM MIC.HLDGS  O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US2288951088,923368,\"CRYO-CELL INTL     DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US6391931010,A41MYP,NAVAN INC. A,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 21
+  }
+}

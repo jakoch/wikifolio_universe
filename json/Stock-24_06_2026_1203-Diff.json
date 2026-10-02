@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "SE0016075063,A3CSVV,INTELLEGO TECHNOLOGIES AB,Aktien Europa,Aktien Europa Select,,,,",
+    "US26614N1028,A2PLC7,DUPONT DE NEMOURS INC. ON,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006062144,606214,COVESTRO AG  O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE0006062144,606214,COVESTRO AG  O.N.,Aktien Deutschland,Aktien DAX,,,,"
+    },
+    {
+      "Original": "DE000PAH0038,PAH003,PORSCHE AUTOM.HLDG VZO,Aktien Deutschland,Aktien MDAX,,,,",
+      "Current": "DE000PAH0038,PAH003,PORSCHE AUTOM.HLDG VZO,Aktien Deutschland,Aktien DAX,,,,"
+    },
+    {
+      "Original": "NL00150745D9,A42DTV,INNIO N.V. O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "NL00150745D9,A42DTV,INNIO HOLDING GMBH O.N.,Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "US26614N2018,A42BMN,DUPONT DE NEMO. NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA09345L1085,A3EHMB,BLAST RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "US43849R1059,A429HW,HONEYWELL AEROSPACE INC.,Aktien USA,Aktien Dow Jones,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 3,
+    "Deletions": 3
+  }
+}

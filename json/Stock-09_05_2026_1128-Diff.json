@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "GB0031215220,120071,\"CARNIVAL PLC      DL 1, 66\",Aktien Europa,Aktien Europa Select,,,,",
+    "IT0005200248,A2APNH,SOLUTIONS CAP.MAN.SIM SPA,Aktien Europa,Aktien Europa Select,,,,",
+    "US1270971039,881646,\"COTERRA ENERGY INC.DL-, 10\",Aktien USA,Aktien Dow Jones,,,,",
+    "US14216R1014,A3DZG2,CARISMA THERAPEUTICS INC.,Aktien USA,Aktien USA Select,,,,",
+    "US39818P7996,A3EDEU,\"PEAKSTONE RE.TR. DL -, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

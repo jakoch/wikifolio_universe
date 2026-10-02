@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "CA38018L2021,A3CRF0,GO METALS CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "US5504243032,A40R34,LUMINAR TECH.  CL.A NEW,Aktien USA,Aktien USA Select,,,,",
+    "FR0011052257,A1JBVH,\"GLOBAL BIOENERGIES EO-, 05\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA38018L3011,A423P1,GO METALS CORP. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}

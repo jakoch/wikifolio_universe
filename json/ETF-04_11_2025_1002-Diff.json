@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "IE000EKJRSZ3,A3DJRK,VA.F-V.ESG US C HGDEOA,ETFs,ETFs Sonstige Bonds,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000128BSS1,A41E0L,VAN.UT3-7Y BE DLD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000VZ8BBU9,A41E0M,VAN.UT3-7Y BE DLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000U882CN5,A41E0N,VAN.UT7-10Y BE DLD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000GU6MFI0,A41E0G,VAN.UT1-3Y BE DLD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000AON7ET1,A419N7,ARK S+DEF.INOV.ETF DLAETF,ETFs,ETFs Branchen,,,,",
+    "IE000TAV7246,A41E0J,VAN.UT1-3Y BE HGDEOA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000M6STPW4,A41E0K,VAN.UT1-3Y BE HGDEOD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000UXDT343,A41E0P,VAN.UT7-10Y BE DLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000WLR06P0,A41A3B,ISHS2-IBD35TCE EOD,ETFs,ETFs Sonstige Bonds,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 9
+  }
+}

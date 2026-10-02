@@ -1,0 +1,37 @@
+{
+  "Additions": [
+    "ES0109260531,870369,\"AMPER SA NOM.     EO 0, 05\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BD9G2S12,A2JCGV,\"GATES IND.CORP PLC DL-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA5928192056,A3D6U6,MEXICAN GOLD MINING,Aktien International,Aktien International,,,,",
+    "CNE100001TK2,A12GNE,SHENGJING BANK CO. LTD.,Aktien International,Aktien International,,,,",
+    "US67054R2031,A40SKF,T3 DEFENSE    NEW 24 O.N.,Aktien USA,Aktien USA Select,,,,",
+    "DE000A0JQ5U3,A0JQ5U,MANZ AG,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "ES0109260291,A42GZS,\"AMPER SA NOM.     EO 1, 25\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA7276321014,A42GR1,PLATAURO METALS   O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 4,
+    "Deletions": 2
+  }
+}

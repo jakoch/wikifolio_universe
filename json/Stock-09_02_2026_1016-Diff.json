@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA74167W1032,A40M0H,PRIMARY HYDROGEN CORP.,Aktien International,Aktien International,,,,",
+    "US82621A1043,A2QKK9,SIEMENS ENERGY AG ADR/1,Aktien Deutschland,Aktien DAX,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A40ZUV2,A40ZUV,ASCORY BANK AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A40ZUV2,A40ZUV,VARENGOLD BANK AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "FR0013333077,A3CRZT,CARVOLIX S.A.        EO 1,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR0013333077,A3CRZT,AFFLUENT MEDICAL SAS EO 1,Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "US82621A2033,A420WD,SIEMENS ENERGY AG ADR/1,Aktien Deutschland,Aktien DAX,,,,",
+    "CA74167W2022,A422R6,PRIMARY HYDROGEN CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}

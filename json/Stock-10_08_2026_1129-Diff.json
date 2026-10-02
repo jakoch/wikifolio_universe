@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "GB0000197722,592571,EURO.OPPOTU.TRUST  LS-01,Aktien Europa,Aktien Europa Select,,,,",
+    "DE0005118806,511880,11 88 0 SOLUTIONS AG,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [
+    "US90187B8046,A3DW5E,\"TWO HARBORS INV. DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "DE000A41YFQ4,A41YFQ,11 88 0 SOLUTIONS AG KONV,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}

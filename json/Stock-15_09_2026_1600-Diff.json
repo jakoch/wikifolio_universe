@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "FR0012596468,A14SVV,\"SENSORION         EO -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BF93WP34,A2DYRC,\"CYANCONNODE HLDGS  LS-, 02\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA84859H2072,A3DE2C,SPIRIT BLOCKCHAIN CAP.,Aktien International,Aktien International,,,,",
+    "US91864C1071,A3CN5Q,BARINTHUS BIO  (SP.ADR)/1,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA45258P1080,A42LPZ,IMPAUER TECHS INC. A O.N.,Aktien International,Aktien International,,,,",
+    "FR001401A9Z0,A41Z9F,\"SENSORION         EO 5, -\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}

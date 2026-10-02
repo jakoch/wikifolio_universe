@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "CH1184151731,A3GY1V,HASHDEX AG ETP OE,ETFs,sonstige ETFs,,,,",
+    "CH1218734544,A3G1MC,HASHDEX AG ETP OE,ETFs,sonstige ETFs,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US2987681028,A0HHKV,\"EUROPEAN FD INC.DL-,00001\",ETFs,ETFs Nordamerika,,,,",
+      "Current": "US2987681028,A0HHKV,\"EUROPEAN FD INC.DL-, 00001\",ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "US37954Y8637,A143H2,\"GLOBAL X GOLD EXP.DL0,001\",ETFs,ETFs Nordamerika,,,,",
+      "Current": "US37954Y8637,A143H2,\"GLOBAL X GOLD EXP.DL0, 001\",ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000LCKJ888,A41XGE,\"WT-PH.AI,HU.DR. I SYS.HDG\",ETFs,ETFs Branchen,,,,",
+      "Current": "IE000LCKJ888,A41XGE,\"WT-PH.AI, HU.DR. I SYS.HDG\",ETFs,ETFs Branchen,,,,"
+    },
+    {
+      "Original": "IE000IM4K4K2,A3DRF9,\"FT-AI,MTV.BLCH.EOA\",ETFs,ETFs Basic Resources,,,,",
+      "Current": "IE000IM4K4K2,A3DRF9,\"FT-AI, MTV.BLCH.EOA\",ETFs,ETFs Basic Resources,,,,"
+    }
+  ],
+  "Deletions": [
+    "XS3438606090,A4AXLF,HAN.MUL.ASS. ETC O.END,ETFs,sonstige ETFs,,,,",
+    "LU2446383254,A417G8,BNPPE-EO CB SP 1-3Y UEEOA,ETFs,ETFs Europa Bonds,,,,",
+    "IE0003FHAKK4,A42LW6,HEI-DESA13UE EOA,ETFs,ETFs Europa Bonds,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 4,
+    "Deletions": 3
+  }
+}

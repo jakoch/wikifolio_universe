@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "DE000LS9DSF0,LS9DSF,Derivate plus,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+    "DE000LS9PBR5,LS9PBR,MeineStrategie,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+    "DE000LS9PMA8,LS9PMA,Gold - Balance,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+    "DE000LS9RNW6,LS9RNW,LMS Trendhandel,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+    "DE000LS9VKV6,LS9VKV,YTD Kalenderjahr Champion,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

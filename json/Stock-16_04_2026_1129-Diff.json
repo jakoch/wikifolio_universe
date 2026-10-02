@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "AU0000053373,A2PPL5,HORIZON MINERALS LTD,Aktien International,Aktien International,,,,",
+    "CA28616D1087,A401HN,ELECTRUM DISC.CORP. O.N.,Aktien International,Aktien International,,,,",
+    "CA30042G1019,A3DW4W,EVERYBODY LOVES LANGUAGES,Aktien International,Aktien International,,,,",
+    "CA57532C1005,A3EWCM,MASON RES INC.,Aktien International,Aktien International,,,,",
+    "LU0073680380,987133,AXA WF-EURO SELECTION AA,Fonds,Fonds Aktien,,,,",
+    "LU0332822492,A0NBKM,OKOWORLD-WATER FOR LIFE C,Fonds,Fonds Aktien,,,,",
+    "US4869171078,A42788,KEEL INFRASTR.CORP. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US6103351010,A1WZD8,\"MONROE CAP.CORP. DL -, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "HK0001294401,A428WZ,CHINA OCEAN RSRCS CO.HD 1,Aktien International,Aktien International,,,,",
+    "CA8939761000,A42A6L,TRANSOCEANIC INVESTMENTS,Aktien International,Aktien International,,,,",
+    "AU0000464257,A42A9C,MARITANA MINERALS LTD.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}

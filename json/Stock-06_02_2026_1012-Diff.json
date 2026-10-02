@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "FR001400UT31,A40WHR,\"ADOMOS S.A.  EO 1, -\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BMWRZ071,A3D8XA,\"DOWLAIS GROUP PLC  LS-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "US23254L8761,A41CCR,\"BIO GR.ME.S.NEW25 DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0JL9W6,A0JL9W,VERBIO SE INH O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "DE000A0JL9W6,A0JL9W,VERBIO SE INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    }
+  ],
+  "Deletions": [
+    "FR00140153H3,A41YLY,\"ADOMOS S.A.   EO 1, -\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "Additions": [
+    "CA98956K1030,A41NVE,0749116 B C LTD.,Aktien International,Aktien International,,,,",
+    "MHY460021535,A40YYD,\"JX LUXVENT. NEW DL -, 0001\",Aktien International,Aktien International,,,,",
+    "NL0015000AG6,A2QSJY,\"LAVA THERAP. B.V. EO-, 12\",Aktien USA,Aktien USA Select,,,,",
+    "US5904791358,A2JSA9,MESA AIR GROUP INC,Aktien USA,Aktien USA Select,,,,",
+    "US92719V1008,A3CQ1L,\"VIMEO INC.         DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,,"
+    },
+    {
+      "Original": "DE000A3H2200,A3H220,NAGARRO SE  NA O.N.,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX,,",
+      "Current": "DE000A3H2200,A3H220,NAGARRO SE  NA O.N.,Aktien Deutschland,Aktien SDAX,,,,"
+    },
+    {
+      "Original": "GRS295003008,A1C4RV,\"Y/KNOT INVEST S.A. EO-, 60\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GRS295003008,A1C4RV,KIRIACOULIS MED. NA EO-60,Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "JP3379550001,724563,JX ADVANCED METALS CORP.,Aktien International,Aktien International,,,,",
+    "JP3399000003,868484,STAR MICRONICS,Aktien International,Aktien International,,,,",
+    "MHY460024018,A41TR7,\"JX LUX.GRP NEW  DL -, 0001\",Aktien International,Aktien International,,,,",
+    "JP3194650002,906406,OKINAWA CELL.TEL.,Aktien International,Aktien International,,,,",
+    "US5904794089,A41U68,MESA AIR GROUP INC,Aktien USA,Aktien USA Select,,,,",
+    "ZAE000337051,A41NMZ,AFRICA BITCOIN CORP. LTD.,Aktien Europa,Aktien Europa Select,,,,",
+    "JP3465000002,851498,TADANO LTD,Aktien International,Aktien International,,,,",
+    "JP3686200001,877821,NIPPON AVIONICS,Aktien International,Aktien International,,,,",
+    "JP3386890002,A3ENZQ,GENDA INC.,Aktien International,Aktien International,,,,",
+    "JP3142350002,916221,J TRUST CO. LTD.,Aktien International,Aktien International,,,,",
+    "JP3820400004,865508,FDK CORP.,Aktien International,Aktien International,,,,",
+    "JP3468810001,938434,TANAKA CHEMICAL,Aktien International,Aktien International,,,,",
+    "CA88104W1095,A41TG0,TERRA ROSSA GOLD NEW,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 4,
+    "Deletions": 13
+  }
+}

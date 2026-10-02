@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "CA60283L1058,A114CE,MINERA ALAMOS,Aktien Europa,Aktien Europa Select,,,,",
+    "ES0116920333,A0J36C,\"GRUPO CATALANA NOM.EO-, 30\",Aktien Europa,Aktien Europa Select,,,,",
+    "NL0011606264,A2AKFX,\"MERUS N.V.    EO -, 09\",Aktien USA,Aktien USA Select,,,,",
+    "NO0010694029,A2AQKM,MORROW BANK ASA      NK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "NO0010763550,A2AHND,TREASURE ASA         NK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "US1897631057,A2DU6V,\"CO-DIAGNOSTICS DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US38983D3008,A14Q7L,\"RITHM PROPERTY TR.DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US72346Q1040,634714,PINNACLE FINANCIAL   DL 1,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "US48662X1054,A40A8X,KAYNE ANDERSON BDC O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA60283L8087,A41XPQ,MINERA ALAMOS,Aktien International,Aktien International,,,,",
+    "US1897632048,A41UNJ,CO-DIAGNOSTICS   NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US72348N1090,A41TV7,PINNACLE FINL P. NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "KYG4602S1057,A40QBS,HORIZON ROBOTICS CL.B,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 1,
+    "Deletions": 5
+  }
+}

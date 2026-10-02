@@ -1,0 +1,39 @@
+{
+  "Additions": [
+    "CA05337L3048,A3CMVB,AVALON ADV. MAT. INC.,Aktien International,Aktien International,,,,",
+    "CA53567A1012,A40Y3E,LINEAR MINERALS  O.N.,Aktien International,Aktien International,,,,",
+    "US2053061030,575308,COMPUTER PROGRAMS + SYS,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "LU2358378979,A3CS4Z,ANCHORCORE SE         EO1,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "LU2358378979,A3CS4Z,LEARND SE             EO1,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "AU000000QUB5,A1C0DA,QUBE HOLDINGS LTD.,Aktien International,Aktien International,,,,",
+      "Current": "AU000000QUB5,A1C0DA,QUBE HOLDINGS,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "GG00BQ0H1P47,A41Z72,TAYLOR MARITIME LTD.,Aktien Europa,Aktien Europa Select,,,,",
+    "CA38141A6025,A42B46,GOLDGROUP MINING INC.,Aktien International,Aktien International,,,,",
+    "CA05337L5027,A42GGP,AVALON ADV. MAT. INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 5,
+    "Deletions": 3
+  }
+}

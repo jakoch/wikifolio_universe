@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA74971G4016,A3DHH4,RF CAPITAL GROUP INC.,Aktien International,Aktien International,,,,",
+    "SE0005851706,A113G4,IAR SYSTEMS GROUP AB SK10,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "US8679751045,A40B6Q,SUNRISE COMMUNIC. ADR/1 A,Aktien International,Aktien International,,,,",
+      "Current": "US8679751045,A40B6Q,SUNRISE COMMUNIC. ADR/1 A,Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

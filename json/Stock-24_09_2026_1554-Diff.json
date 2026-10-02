@@ -1,0 +1,62 @@
+{
+  "Additions": [
+    "BE0003463685,922406,CUMULEX N.V. B,Aktien Europa,Aktien Europa Select,,,,",
+    "BE0003723377,805813,BELUGA N.V.,Aktien Europa,Aktien Europa Select,,,,",
+    "BE0948608451,A2JB6Y,PHOTONIKE CAPITAL S.A.,Aktien Europa,Aktien Europa Select,,,,",
+    "BE0974502347,A41YQE,FLORIDIENNE SA,Aktien Europa,Aktien Europa Select,,,,",
+    "ES0105704003,A3D7S7,\"VIRTUALWARE      EO -, 035\",Aktien Europa,Aktien Europa Select,,,,",
+    "ES0105719001,A3EWMK,NORTEM BIOG S.A.  EO 2,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000062788,913428,\"BARBARA BUI INH.  EO 1, 60\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000065492,932525,SELCODIS SA,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0004034593,806303,\"FASHION B AIR NOM.EO 0, 18\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0006205019,805861,LOMBARD ET MEDOT NOM.EO 2,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0006859039,810751,STE IMM.PA.D.L.NOM. EO 39,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010447086,A0NFME,\"CHEOPS TECH.FRANCE EO-, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0011648971,A1XAEB,\"QUANTUM GENOMICS  EO -, 04\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0012336691,A3DY7D,HOME CONCEPT FRANCE  EO10,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0013230067,A2DLQK,\"FNP TECHNOLOGIES   EO-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0013284627,A2H5VB,\"ADEUNIS       EO -, 50\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0013310281,A2JGS9,\"OCTOPUS BIOSAFETY  EO 0, 5\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0014010DV3,A41BNU,\"ODIOT S.A.         EO 1, -\",Aktien Europa,Aktien Europa Select,,,,",
+    "GRS045003001,A0JEFA,\"SELECT.TEXT.I. NAM.EO-, 30\",Aktien Europa,Aktien Europa Select,,,,",
+    "GRS124153008,906916,\"VIS CONTAINER MANF.EO0, 80\",Aktien Europa,Aktien Europa Select,,,,",
+    "GRS135003002,A1C53F,\"BIOTER S.A. NA    EO 4, 16\",Aktien Europa,Aktien Europa Select,,,,",
+    "GRS156203002,931792,\"SATO S.A.         EO 0, 53\",Aktien Europa,Aktien Europa Select,,,,",
+    "GRS246003008,A3DSHM,LAVIPHARM S.A. NA  EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "GRS249003005,A2PWBN,\"YALCO CONST. NA EO -, 62\",Aktien Europa,Aktien Europa Select,,,,",
+    "IT0005460081,A3EXNG,REBIRTH              EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "LU2358378979,A3CS4Z,ANCHORCORE SE         EO1,Aktien Europa,Aktien Europa Select,,,,",
+    "NL0012191662,A2DPBF,\"LA PERLA FASH.HO. EO 0, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "PTCDU0AE0003,918611,CONDURIL-ENGENHAR.NAM.EO5,Aktien Europa,Aktien Europa Select,,,,",
+    "PTCPA0AP0006,918610,COPAM-CIA.P.AMID.NAM. E05,Aktien Europa,Aktien Europa Select,,,,",
+    "SI0031104019,A1JU91,SALONIT ANH.GRADB.M.,Aktien Europa,Aktien Europa Select,,,,",
+    "AU0000196206,A3C85Y,EV RESOURCES LTD.,Aktien International,Aktien International,,,,",
+    "US87260H1041,A0MRNP,TMM REAL EST.DEV.GDR S 1,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "AU0000490120,A41W9U,ANTIMONY RESOURCES LTD.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 32,
+    "Modifications": 4,
+    "Deletions": 1
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "Additions": [
+    "CA07135M2031,A40X9W,BATTERY X METALS INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "DE0005152623,515262,DEKA-TECHNOLOGIE CF,Fonds,Fonds Aktien,,,,",
+    "LU1863263346,DWS2W9,DWS IN.-AR.INT. LCEOA,Fonds,Fonds Aktien,,,,",
+    "LU0109392836,937446,F.TEM.INV-F.TECHN. A ACC,Fonds,Fonds Aktien,,,,",
+    "LU0107368036,930906,DEKA-ESG BASISSTR.REN. CF,Fonds,Fonds Aktien,,,,",
+    "DE000DK0ECU8,DK0ECU,DEKA-GLOBALCHAMPIONS CF,Fonds,Fonds Aktien,,,,",
+    "LU0159550077,164323,DJE-GOLD+RESS.INH.PA(EO),Fonds,Fonds Aktien,,,,",
+    "DE0009797258,979725,ALL.STRATEGIEFDS BALANCE,Fonds,Fonds Aktien,,,,",
+    "DE0009847343,984734,TERRASSISI AKT.I AMI P(A),Fonds,Fonds Aktien,,,,",
+    "DE000A1W1PH8,A1W1PH,PALADIN ONE AKTIENKL. F,Fonds,Fonds Aktien,,,,",
+    "LU0171305526,A0BMAL,BGF-WORLD GOLD N.A2 EO,Fonds,Fonds Aktien,,,,",
+    "LU0058720904,974522,AB S.I-INT.H.CARE PTF.ADL,Fonds,Fonds Aktien,,,,",
+    "LU1863263429,DWS2XA,DWS IN.-AR.INT. LDEOD,Fonds,Fonds Aktien,,,,",
+    "US8057001013,A41DVS,ELEVRA LITHIUM LTD. ADR'S,Aktien USA,Aktien USA Select,,,,",
+    "DE0005152482,515248,DWS SMART INDUST.TECH. LD,Fonds,Fonds Aktien,,,,",
+    "LU1279334210,A141RB,PICTET - ROBOTICS PCAPEO,Fonds,Fonds Aktien,,,,",
+    "DE000A0M0317,A0M031,PB VP 70 AK 4,Fonds,Fonds Aktien,,,,",
+    "LU0052864419,974035,IF-INV.GL.CON.TR. A,Fonds,Fonds Aktien,,,,",
+    "LU0210534227,A0DQQJ,JPM-GLOBAL FOCUS A ACC,Fonds,Fonds Aktien,,,,",
+    "DE0008474511,847451,ARIDEKA CF,Fonds,Fonds Aktien,,,,",
+    "LU0171289902,A0BL87,BGF-SUST.ENERGY NA.A2EO,Fonds,Fonds Aktien,,,,",
+    "DE0005152441,515244,DWS GLOBAL GROWTH LD,Fonds,Fonds Aktien,,,,",
+    "DE000DWS0UY5,DWS0UY,CAPITAL GROWTH FUND SD,Fonds,Fonds Aktien,,,,",
+    "US9016431069,A40MCC,TWIN HOSPITALITY GROUP,Aktien USA,Aktien USA Select,,,,",
+    "LU0224105477,A0F42G,BGF-CON.EU.FLEX.A.A2EO,Fonds,Fonds Aktien,,,,",
+    "DE0008474503,847450,DEKAFONDS CF,Fonds,Fonds Aktien,,,,",
+    "CA07135M3021,A41RJF,BATTERY X METALS INC.,Aktien International,Aktien International,,,,",
+    "LU1891311430,DWS2Y8,DWS-SDG GL.EQS LDEOD,Fonds,Fonds Aktien,,,,",
+    "LU1508359509,DK2J9F,DEKA-INDUSTRIE 4.0 CF,Fonds,Fonds Aktien,,,,",
+    "LU0321021072,A0M16R,VERMOEGENSMA.SUBSTAN.A EO,Fonds,Fonds Aktien,,,,",
+    "DE000A2AQ952,A2AQ95,SOLIT WERTEFONDS R,Fonds,Fonds Aktien,,,,",
+    "LU0097712045,989699,LBBW BALANCE CR40INH.,Fonds,Fonds Aktien,,,,",
+    "FR0010135103,A0DPW0,CARMIGN.PATRIMOI. AEO ACC,Fonds,Fonds Aktien,,,,",
+    "DE0009769851,976985,DWS WELLCARE NC,Fonds,Fonds Aktien,,,,",
+    "DE000DK0ECS2,DK0ECS,DEKA-UMWELTINVEST CF,Fonds,Fonds Aktien,,,,",
+    "LU0321021312,A0M16T,VERMOEGENSMA.WACHST. A EO,Fonds,Fonds Aktien,,,,",
+    "DE0008490897,849089,DWS US GROWTH LD,Fonds,Fonds Aktien,,,,",
+    "LU0044387529,972114,DWS ESG EURO BDS(LONG) LC,Fonds,Fonds Aktien,,,,",
+    "LU0119891520,941135,MEDICAL-MED.BIOHEALTH EO,Fonds,Fonds Aktien,,,,",
+    "DE0009766832,976683,LBBW GELDMARKTFONDS R,Fonds,Fonds Aktien,,,,",
+    "DE0008475120,847512,ALL.INFORMAT A (EUR),Fonds,Fonds Aktien,,,,",
+    "LU0275832706,A0LEXD,M + W PRIVAT,Fonds,Fonds Aktien,,,,",
+    "LU0052474979,971609,JPM-PACIF.EQU.JPMPE ADDL,Fonds,Fonds Aktien,,,,",
+    "LU0098860793,926095,F.TEM.INV.-FR.INC. A MDIS,Fonds,Fonds Aktien,,,,",
+    "LU0599946976,DWSK01,DWS CON.KALDEMORGEN LD,Fonds,Fonds Aktien,,,,",
+    "LU0399027613,A0RCKL,FLOSS.V ST.-BD OPPOR.R,Fonds,Fonds Aktien,,,,",
+    "US83443Q1031,A41NPA,\"SOLSTICE ADV.MTLS DL-, 001\",Aktien USA,Aktien Dow Jones,,,,",
+    "LU0075056555,986932,BGF-WORLD MINING NAM.A2,Fonds,Fonds Aktien,,,,",
+    "DE0008474230,847423,DWS EURO FLEXIZINS NC,Fonds,Fonds Aktien,,,,",
+    "DE000A0M03Y9,A0M03Y,PB VP 70 AK 1,Fonds,Fonds Aktien,,,,",
+    "LU0097711666,989698,LBBW BALANCE CR20  INH.,Fonds,Fonds Aktien,,,,",
+    "LU0168341575,343439,JPM-GLOBAL FOCUS A D.EO,Fonds,Fonds Aktien,,,,",
+    "LU0041580167,972167,DWS USD FL.RATE NO. USDLD,Fonds,Fonds Aktien,,,,",
+    "LU1213836080,A14RGB,FID.FDS-GL.TECHN.AACCEO,Fonds,Fonds Aktien,,,,",
+    "LU0171307068,A0BL36,BGF-WLD HEALTHSC.NA.A2EO,Fonds,Fonds Aktien,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 54
+  }
+}

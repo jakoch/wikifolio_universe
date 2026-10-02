@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "CA00208D4084,A1H5K1,ARC RES LTD,Aktien International,Aktien International,,,,",
+    "US29103W1045,A2PZ6B,\"EMERALD HLDG INC.  DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0005552004,555200,DHL AG,Aktien Deutschland,Aktien DAX,,,,",
+      "Current": "DE0005552004,555200,DEUTSCHE POST AG NA O.N.,Aktien Deutschland,Aktien DAX,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [
+    "IT0005730095,A42KMD,EPH INVEST S.P.A.,Aktien Europa,Aktien Europa Select,,,,",
+    "CNE100007QQ2,A42FWM,LUXSHARE PREC.INDS H HD 1,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 3,
+    "Deletions": 2
+  }
+}

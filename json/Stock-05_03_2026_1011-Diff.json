@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "FI4000153580,A2DTKJ,TALENOM OYJ,Aktien Europa,Aktien Europa Select,,,,",
+    "GB0030426455,693533,\"IRONVELD PLC    LS -, 0001\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00B0H2K534,A0HF9Y,\"PETROFAC LTD      DL-, 02\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00B0WD0R35,A0JDJ3,SOLGOLD PLC,Aktien Europa,Aktien Europa Select,,,,",
+    "CA3615692058,A14S7Q,GDI INTEGR. FAC. SVCS,Aktien International,Aktien International,,,,",
+    "US3736786068,A401UX,\"GEOVAX LABS NEW  DL -, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US75382E2081,A418SN,RAPT THERAP.INC. NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US87978U2078,A41556,TEMPEST THERAP.NEW O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007480204,748020,DEUTSCHE EUROSHOP NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "DE0007480204,748020,DEUTSCHE EUROSHOP NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE0008232125,823212,LUFTHANSA AG VNA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,,",
+      "Current": "DE0008232125,823212,LUFTHANSA AG VNA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "LU2333563281,A3CM2W,TONIES SE            EO 1,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "LU2333563281,A3CM2W,TONIES SE            EO 1,Aktien Deutschland,Aktien Sonstige,,,,"
+    }
+  ],
+  "Deletions": [
+    "FI4000598149,A425SL,TALENOM OYJ,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 4,
+    "Deletions": 1
+  }
+}

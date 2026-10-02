@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "CA00792K1075,A4007Y,AERO ENERGY LTD.,Aktien International,Aktien International,,,,",
+    "CA05478T2074,A3DHG5,AZINCOURT ENERGY,Aktien International,Aktien International,,,,",
+    "CA96810C1014,A2PXH0,WILDBRAIN LTD VAR VTG,Aktien International,Aktien International,,,,",
+    "DE000A1W1PH8,A1W1PH,PALADIN ONE AKTIENKL. F,Fonds,Fonds Aktien,,,,",
+    "US5309091008,A41U58,LIBERTY LIVE HOLDINGS A,Aktien USA,Aktien USA Select,,,,",
+    "US8761082002,A3DAPS,TARENA INTL ADR A5 DL-001,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "FR001400JXA2,A3EJH9,\"VERGNET S.A.  EO -, 0001\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR001400JXA2,A3EJH9,\"VERGNET S.A.  EO 2, 50\",Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "LU1618151879,A2DR54,LOGWIN AG NAM. O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "CA00792K2065,A41X6Y,AERO ENERGY LTD.NEW,Aktien International,Aktien International,,,,",
+    "CA96810C2004,A41X60,WILDBRAIN LTD     O.N.,Aktien International,Aktien International,,,,",
+    "US8761083091,A41WW4,VISIONSYS AI ADR NEW O.N.,Aktien International,Aktien International,,,,",
+    "CA05478T3064,A41WZY,AZINCOURT ENERGY,Aktien International,Aktien International,,,,",
+    "US35834F1049,A3E3UN,T1 ENERGY INC.       O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 2,
+    "Deletions": 6
+  }
+}

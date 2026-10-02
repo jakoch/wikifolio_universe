@@ -1,0 +1,30 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE000DOZYQJ7,A3C5NK,JH-H.AXJ.HYCDBSC ETF EOD,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE000DOZYQJ7,A3C5NK,T.HAEX-JPHYCBDSCR.UE EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000LZC9NM0,A3CU59,JH-H.AXJ.HYCDBSC ETF DLA,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE000LZC9NM0,A3CU59,T.HAEX-JPHYCBDSCR.UE DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BKX90X67,A2QDG1,JH-US E.I.CORE U.ETF EOHA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00BKX90X67,A2QDG1,TABUL.IC.-UEUE CL-HSFA,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "IE00BMQ5Y557,A2P58Y,JH-HMT G.IC C.CSC ETF EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BMQ5Y557,A2P58Y,TABULA-TGIGCCS EFT(EO)EOA,ETFs,ETFs Europa Bonds,,,,"
+    }
+  ],
+  "Deletions": [
+    "IE00BN0YSK89,A2QEDN,OSI-O.F.BIOD. 1AEOA,ETFs,ETFs Branchen,,,,",
+    "IE000MRIQ479,A41L71,LGE-GL.QU.DIV. DLA,ETFs,ETFs Welt,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 4,
+    "Deletions": 2
+  }
+}

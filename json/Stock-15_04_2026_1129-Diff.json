@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA05475P1099,A2QPFE,AYR WELLNESS INC.RES.VTG.,Aktien International,Aktien International,,,,",
+    "CA13765Y1034,A3EV8J,CANNABIST CO.HLDG.INC,Aktien International,Aktien International,,,,",
+    "CA00971M6018,A41ZNG,AKANDA CORP. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US81211K1007,913368,\"SEALED AIR CORP.   DL-, 10\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "LU0225880524,A0F426,DWS ESG EO MONEY MKT INH,Fonds,Fonds Aktien,Fonds,Fonds Geldmarkt,,",
+      "Current": "LU0225880524,A0F426,DWS ESG EO MONEY MKT INH,Fonds,Fonds Aktien,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA00971M7008,A425X9,AKANDA CORP. O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

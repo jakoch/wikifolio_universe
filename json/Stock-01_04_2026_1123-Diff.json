@@ -1,0 +1,285 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "GB00BMVP7Y09,A2P62D,ROYALTY PHARMA OA DL-0001,Aktien USA,Aktien USA Select,,,,",
+      "Current": "GB00BMVP7Y09,A2P62D,ROYALTY PHARMA OA DL-0001,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "US00215W1009,A2JH8Q,ASE TECHN.HLDG.CO.LTD.,Aktien International,Aktien International,Aktien USA,Aktien USA Select,,",
+      "Current": "US00215W1009,A2JH8Q,ASE TECHN.HLDG.CO.LTD.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US7416231022,A40STU,PRIMO BRANDS CORP.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7416231022,A40STU,PRIMO BRANDS CORP.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "VGG794831062,A3EGAN,\"SEALSQ CORP.     DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "VGG794831062,A3EGAN,\"SEALSQ CORP.     DL-, 01\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "LU0090784017,A0M00E,CHAHINE-EQ.EUROPE A,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0090784017,A0M00E,DIGITAL FDS-STARS EUR.ACC,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "GB00BQH8G337,A40GZT,\"REZOLVE AI PLC   LS-, 0001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "GB00BQH8G337,A40GZT,\"REZOLVE AI LTD   LS-, 0001\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US34385P1084,A0RADJ,\"STANDARD BIOT.   DL -, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US34385P1084,A0RADJ,\"FLUIDIGM CORP. REG.SHARES DL -, 001\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US69370C1009,A1H9GN,\"PTC INC.          DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US69370C1009,A1H9GN,PTC INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US6951271005,A1H68T,\"PACIRA BIOSCIENC. DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US6951271005,A1H68T,PACIRA PHARMACEUTICALS INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US6951561090,932483,PACKAGING CORP. OF AMER.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US6951561090,932483,PACKAGING CORP. OF AMERICA,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7005171050,A2AQ45,PARK HOTELS+RESORTS DL-01,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7005171050,A2AQ45,\"PARK HOTELS & RESORTS INC. REGISTERED SHARES DL -, \",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7055731035,901951,\"PEGASYSTEMS        DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7055731035,901951,\"PEGASYSTEMS INC. REGISTERED SHARES DL -, 01\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7310681025,893819,\"POLARIS INC.      DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7310681025,893819,POLARIS INDUSTRIES INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7374461041,A1JS25,\"POST HLDGS INC.    DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7374461041,A1JS25,POST HOLDINGS INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7496601060,869766,\"RPC INC.           DL-, 10\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7496601060,869766,RPC INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7496851038,863462,\"RPM INTERN. INC.   DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7496851038,863462,RPM INTERNATIONAL INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7502361014,885069,\"RADIAN GRP INC.   DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7502361014,885069,RADIAN GROUP INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7534221046,A14WK1,\"RAPID7 INC.       DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7534221046,A14WK1,RAPID7 INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7588491032,888499,\"REGENCY CENT       DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7588491032,888499,\"REGENCY CENTERS CORP. REGISTERED SHARES DL -, 01\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7665597024,A40EFY,\"RIGEL PHARMACEUT. DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7665597024,A40EFY,RIGEL PHARMACEUT.  DL-001,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7757111049,859002,ROLLINS INC.         DL 1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7757111049,859002,ROLLINS INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US7813863054,A2P426,\"RIDENOW GRP. CL.B DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US7813863054,A2P426,\"RUMBLEON CL.B     DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US78454L1008,A1CZW5,\"SM ENERGY CO.      DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US78454L1008,A1CZW5,SM ENERGY CO.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US78573M1045,A111QT,\"SABRE CORP.       DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US78573M1045,A111QT,SABRE CORP.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8010561020,A1JYVT,\"SANMINA CORP. NEW  DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8010561020,A1JYVT,SANMINA CORP.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8086251076,A1W5U2,SCIENCE APPL.INT.CORP.NEW,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8086251076,A1W5U2,SCIENCE APPLIC.INTL.CORP.NEW,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US81725T1007,864463,\"SENSIENT TEC       DL-, 10\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US81725T1007,864463,SENSIENT TECHNOLOGIES CORP.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8175651046,859232,SERVICE CORP. INTL   DL 1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8175651046,859232,SERVICE CORP. INTERNATIONAL,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US82312B1061,634816,SHENANDOAH TELECOM.CO.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US82312B1061,634816,SHENANDOAH TELECOMMUNI. CO.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8716071076,883703,\"SYNOPSYS INC.      DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8716071076,883703,SYNOPSYS INC.,Aktien USA,Aktien NASDAQ 100 Select,,,,"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "US83413U1007,A0RGYK,\"SLR INVESTMENT     DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US83413U1007,A0RGYK,\"SOLAR CAPITAL LTD  DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US85254J1025,A1C8BH,\"STAG INDUSTRI.INC. DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US85254J1025,A1C8BH,\"STAGINDUTRIAL INC. DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US85571B1052,A0N9JF,\"STARWOOD PPTY TRST DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US85571B1052,A0N9JF,STARWOOD PROPERTY TRUST INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8581191009,903772,\"STEEL DYNAMIC    DL-, 0025\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8581191009,903772,STEEL DYNAMICS INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8678921011,A0DK4W,SUNSTONE H.INV.(N.) DL-01,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8678921011,A0DK4W,SUNSTONE HOTEL INVEST.INC.(NEW,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US87162W1009,250815,\"TD SYNNEX CORP.  DL -, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US87162W1009,250815,\"SYNNEX CORP. REGISTERED SHARES DL -, 001\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US87612G1013,A1C9E3,\"TARGA RESOURCES DL -, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US87612G1013,A1C9E3,TARGA RESOURCES CORP.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8793601050,926932,\"TELEDYNE TECHS     DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8793601050,926932,TELEDYNE TECHNOLOGIES INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8793691069,855853,TELEFLEX INC.        DL 1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8793691069,855853,TELEFLEX INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8807701029,859892,\"TERADYNE INC.     DL-, 125\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8807701029,859892,TERADYNE INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US88162G1031,902888,\"TETRA TECH INC.    DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US88162G1031,902888,TETRA TECH INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US89400J1079,A14TUX,\"TRANSUNION        DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US89400J1079,A14TUX,TRANSUNION,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8962391004,882295,TRIMBLE INC.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8962391004,882295,TRIMBLE NAVIGATION LTD.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US8982021060,A117KY,\"TRUPANION INC.     DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8982021060,A117KY,\"TRUPANION INC. REGISTERED SHARES DL -, 01\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9022521051,917099,\"TYLER TECHS INC.   DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9022521051,917099,TYLER TECHNOLOGIES INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9113631090,911443,\"UNITED RENTALS INC.DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9113631090,911443,UNITED RENTALS INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US91307C1027,923818,\"UTD THERAP. (DEL.) DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US91307C1027,923818,UNITED THERAPEUTICS CORP.(DEL.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9139031002,866462,UNIV. HEALTH SERV.B DL-01,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9139031002,866462,UNIVERSAL HEALTH SERVICES INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US92047W1018,A2ARFC,\"VALVOLINE INC.    DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US92047W1018,A2ARFC,VALVOLINE INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US92214X1063,A2DKK2,\"VAREX IMAGING CORP DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US92214X1063,A2DKK2,\"VAREX IMAGING CORP REGISTERED SHARES DL -, 01\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9282981086,861320,\"VISHAY INTERTECH.  DL-, 10\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9282981086,861320,VISHAY INTERTECHNOLOGY INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US92839U2069,A1C6VY,\"VISTEON CORP.NEW   DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US92839U2069,A1C6VY,VISTEON CORP.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9297401088,896022,\"WESTINGH.AI.BR.T.  DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9297401088,896022,WABTEC CORP.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9426222009,885676,\"WATSCO INC. A      DL-, 50\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9426222009,885676,\"WATSCO INC. REG. SHARES CL.A DL -, 50\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9553061055,864330,\"WEST PHARM.SVCS    DL-, 25\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9553061055,864330,WEST PHARMACEUTIC.SERVICES INC REGISTERED SHARES D,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9604131022,A0B7ET,\"WESTLAKE CORP      DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9604131022,A0B7ET,WESTLAKE CHEMICAL CORP.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9694571004,855451,WILLIAMS COS INC.    DL 1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9694571004,855451,\"WILLIAMS COS.INC.,  THE\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9818111026,870882,WORTHINGTON ENTP,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9818111026,870882,WORTHINGTON INDUSTRIES INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US9837931008,A1JHUP,\"XPO INC.         DL -, 001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US9837931008,A1JHUP,XPO LOGISTICS INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US98419J2069,A2ATUH,\"XOMA ROYALTY    DL -, 0005\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US98419J2069,A2ATUH,\"XOMA CORP.      DL -, 0005\",Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "SE0010714287,A2JB4U,COREM PROPERTY GRP CL.B,Aktien Europa,Aktien Europa Select,,,,",
+    "FO0000000088,A0MVGW,FOROYA BANKI        DK 20,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0017831795,A3DRY7,NORION BANK AB,Aktien Europa,Aktien Europa Select,,,,",
+    "ES0166300212,877383,\"NICOLAS CORREA INH.EO 0, 8\",Aktien Europa,Aktien Europa Select,,,,",
+    "SE0017131337,A3C8CU,LOGISTEA AB B,Aktien Europa,Aktien Europa Select,,,,",
+    "FI0009014369,A0J3QL,ORION CORP. A,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0025011554,A41AS9,ENITY HOLDING AB     O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "ES0105376059,A41ZDQ,\"ARIMA REAL EST.CNT. EO1, 3\",Aktien Europa,Aktien Europa Select,,,,",
+    "DK0010201532,615238,LAN+SPAR BANK NAM. DK100,Aktien Europa,Aktien Europa Select,,,,",
+    "DK0060299063,A1JCX7,DANSKE ANDELSK.BANK  DK 2,Aktien Europa,Aktien Europa Select,,,,",
+    "DK0010255975,884014,HOEJGAARD HL.NAM. DK 20,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0005878543,A2H8U3,HANZA AB,Aktien Europa,Aktien Europa Select,,,,",
+    "DK0060136273,A0Q42C,DJURSLAND BANK NAM. DK 10,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0015661236,A3CMPL,CREADES AB,Aktien Europa,Aktien Europa Select,,,,",
+    "FI4000602172,A41YVG,EXEL COMPOSITES OYJ,Aktien Europa,Aktien Europa Select,,,,",
+    "DK0010295922,A0BKXW,SKJERN BANK NAM.    DK 20,Aktien Europa,Aktien Europa Select,,,,",
+    "MT0001000109,A2ACNF,\"CATENA MEDIA PLC EO-, 0015\",Aktien Europa,Aktien Europa Select,,,,",
+    "IT0005274094,A2DU6N,PHARMANUTRA S.P.A.,Aktien Europa,Aktien Europa Select,,,,",
+    "US36467X2062,A2PA3E,GENTOO MEDIA INC.    DL 1,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0011231158,A2JMYV,\"BOULE DIAGNOSTICS SK 0, 25\",ETFs,sonstige ETFs,,,,",
+    "CH1111227810,A3CRT5,\"TRIFORK GROUP AG   SF-, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "US31573L2043,A426UV,FIBROBIOLOG. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "MT0002400118,A3DSK1,UIE PLC           DL 1,Aktien Europa,Aktien Europa Select,,,,",
+    "DK0015202451,880442,H+H INTL NAM. B     DK 10,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0009161052,A2DGP1,AB SAGAX D,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 62,
+    "Deletions": 25
+  }
+}

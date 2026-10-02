@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "DE0005785604,578560,FRESENIUS SE & CO KGAA,Aktien Deutschland,Aktien DAX,,,,",
+    "GB00B1YKG049,A0MV91,\"INTL PERSONAL FIN. LS-, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "US83419H1032,A2QHRF,\"SOLARMAX TECH.    DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000KC01000,KC0100,KLOECKNER + CO SE NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000KC01000,KC0100,KLOECKNER + CO SE NA O.N.,Aktien Deutschland,Aktien SDAX,,,,"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "US83419H2022,A42HT3,VSEE HEALTH O.N.,Aktien USA,Aktien USA Select,,,,",
+    "DE000FRE5EN2,FRE5EN,FRESENIUS SE+CO.KGAA O.N.,Aktien Deutschland,Aktien DAX,,,,",
+    "US00827B1061,A2QL1G,\"AFFIRM HLDGS A  DL-, 00001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 3
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "EE3100096140,A3DK0C,\"ROBUS GROUP AS  EO -, 60\",Aktien Europa,Aktien Europa Select,,,,",
+    "NO0013637181,A41DJ4,KMC PROPERTIES ASA NK 2,Aktien Europa,Aktien Europa Select,,,,",
+    "US8669661048,A41N08,\"SUNBELT RNTL HLDGS DL-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA2435731021,A2QCTP,DECKLAR RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "US3810983003,A2P79L,\"GOLDEN MATRIX GRP DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "NO0013711721,A41YQB,KMC PROPERTIES ASA NK 12,Aktien Europa,Aktien Europa Select,,,,",
+    "US3810984092,A42353,\"GOLDEN MATR.GRP DL-, 00001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 3,
+    "Deletions": 2
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "Additions": [
+    "DE000LS9J6P0,LS9J6P,Trend Boutique L/S,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+    "DE000LS9QUC5,LS9QUC,Bulle Invest,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+    "DE000LS9SMU0,LS9SMU,Intelligent System,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+    "DE000LS9V292,LS9V29,Strategie-Mosaik,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+    "DE000LS9NFX9,LS9NFX,RRB Active Opportunity,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+    "DE000LS9TAP3,LS9TAP,REAL ESTATE AND PROPERTIES,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+    "DE000LS9TFW8,LS9TFW,VERSORGUNG UND TECHNOLOGIE,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+    "DE000LS9VZ82,LS9VZ8,Marcel Invest Strategy,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+    "DE000LS9UJY4,LS9UJY,LONG-SHORT KURZFRISTIG,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000LS9FGG8,LS9FGG,\"Trends & Wachstum, auch gehebelt\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+      "Current": "DE000LS9FGG8,LS9FGG,\"Trends & Wachstum,  auch gehebelt\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9HQR0,LS9HQR,\"PRESSInvest, Long-Short\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+      "Current": "DE000LS9HQR0,LS9HQR,\"PRESSInvest,  Long-Short\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9KP04,LS9KP0,\"Chart-/Markttechnik, LONG+SHORT\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+      "Current": "DE000LS9KP04,LS9KP0,\"Chart-/Markttechnik,  LONG+SHORT\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9LYE4,LS9LYE,\"antizyklisch, gegen die Masse!\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+      "Current": "DE000LS9LYE4,LS9LYE,\"antizyklisch,  gegen die Masse!\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9MPJ9,LS9MPJ,\"commodity, currency, values\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+      "Current": "DE000LS9MPJ9,LS9MPJ,\"commodity,  currency,  values\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9NHE5,LS9NHE,\"Einfach, zweifach, dreifach\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+      "Current": "DE000LS9NHE5,LS9NHE,\"Einfach,  zweifach,  dreifach\",sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,"
+    },
+    {
+      "Original": "DE000LS9AJF5,LS9AJF,\"Qualität, angelehnt an Susan Levermann\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9AJF5,LS9AJF,\"Qualität,  angelehnt an Susan Levermann\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9AKW8,LS9AKW,\"Nachhaltiges, krisensicheres Wachstum\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9AKW8,LS9AKW,\"Nachhaltiges,  krisensicheres Wachstum\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9ALF1,LS9ALF,\"DAX-WERTE, TECHNOLOGY AND TRENDS\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9ALF1,LS9ALF,\"DAX-WERTE,  TECHNOLOGY AND TRENDS\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9ASD1,LS9ASD,\"Agrar, Konsum, Saat\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9ASD1,LS9ASD,\"Agrar,  Konsum,  Saat\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9AZM7,LS9AZM,\"Wind,Solar,Glücksspiel\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9AZM7,LS9AZM,\"Wind, Solar, Glücksspiel\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9BBA1,LS9BBA,\"More risk, more fun\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9BBA1,LS9BBA,\"More risk,  more fun\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9BBE3,LS9BBE,\"Trending Chartsignale EMA(6,20) & Aroon\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9BBE3,LS9BBE,\"Trending Chartsignale EMA(6, 20) & Aroon\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9BDL4,LS9BDL,\"Zyklisch,Antizyklisch\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9BDL4,LS9BDL,\"Zyklisch, Antizyklisch\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9CDK4,LS9CDK,\"Grüne, nachhaltige Unternehmen\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9CDK4,LS9CDK,\"Grüne,  nachhaltige Unternehmen\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9CMW0,LS9CMW,\"PRESSINVEST, Trendfollowing\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9CMW0,LS9CMW,\"PRESSINVEST,  Trendfollowing\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9CPF8,LS9CPF,\"Lying on the floor, crying\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9CPF8,LS9CPF,\"Lying on the floor,  crying\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9EAG4,LS9EAG,\"Robotics, Automation, Smart Home\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9EAG4,LS9EAG,\"Robotics,  Automation,  Smart Home\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9ESQ5,LS9ESQ,\"Value, Growth and Dividends\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9ESQ5,LS9ESQ,\"Value,  Growth and Dividends\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9EUP3,LS9EUP,\"Top 20 aus USA, Europa\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9EUP3,LS9EUP,\"Top 20 aus USA,  Europa\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9EWC7,LS9EWC,\"Infrastruktur, Logistik, Wohnen\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9EWC7,LS9EWC,\"Infrastruktur,  Logistik,  Wohnen\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9FNJ8,LS9FNJ,\"Wachstum, weniger Vola.\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9FNJ8,LS9FNJ,\"Wachstum,  weniger Vola.\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9FPW6,LS9FPW,\"Biotech, Pharmazie und Generika \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9FPW6,LS9FPW,\"Biotech,  Pharmazie und Generika \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9FRZ5,LS9FRZ,\"Substanz, Dividenden u. Wachstum\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9FRZ5,LS9FRZ,\"Substanz,  Dividenden u. Wachstum\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9FZJ2,LS9FZJ,\"Ecology, Ethic & Sustainability\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9FZJ2,LS9FZJ,\"Ecology,  Ethic & Sustainability\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9GTC8,LS9GTC,\"Substanz, Dividende und Zukunft\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9GTC8,LS9GTC,\"Substanz,  Dividende und Zukunft\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9H4D3,LS9H4D,\"SP Agri, Food & Beverage\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9H4D3,LS9H4D,\"SP Agri,  Food & Beverage\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9H6W8,LS9H6W,\"Dividend-Wachstum US,DE\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9H6W8,LS9H6W,\"Dividend-Wachstum US, DE\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9H7B0,LS9H7B,\"Brand, Value & ETF-Werte\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9H7B0,LS9H7B,\"Brand,  Value & ETF-Werte\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9HHY5,LS9HHY,\"Div stark,intakte Story D Akt \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9HHY5,LS9HHY,\"Div stark, intakte Story D Akt \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9HM51,LS9HM5,\"IT, Software und eHealth\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9HM51,LS9HM5,\"IT,  Software und eHealth\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9HMF4,LS9HMF,\"Opportunity, Value & Growth\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9HMF4,LS9HMF,\"Opportunity,  Value & Growth\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9HV43,LS9HV4,\"DUFFOlio - Biotech, Dividende\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9HV43,LS9HV4,\"DUFFOlio - Biotech,  Dividende\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9HVY6,LS9HVY,\"DUFFOlio - modern, progressiv\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9HVY6,LS9HVY,\"DUFFOlio - modern,  progressiv\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9J4T7,LS9J4T,\"Die Auslese, Seitz Trading \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9J4T7,LS9J4T,\"Die Auslese,  Seitz Trading \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9J7R4,LS9J7R,\"Laster, Lust und Lobby \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9J7R4,LS9J7R,\"Laster,  Lust und Lobby \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9JCN5,LS9JCN,\"Dividende, Wachstum & Value\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9JCN5,LS9JCN,\"Dividende,  Wachstum & Value\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9JH49,LS9JH4,\"Solide, Langfristig & Dividenden\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9JH49,LS9JH4,\"Solide,  Langfristig & Dividenden\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9JSW2,LS9JSW,\"PRESSInvest, Mining&Processing\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9JSW2,LS9JSW,\"PRESSInvest,  Mining&Processing\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9K4B2,LS9K4B,\"DUFFOlio - Balance, konservativ\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9K4B2,LS9K4B,\"DUFFOlio - Balance,  konservativ\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9K8E7,LS9K8E,\"Deutschland ,US ,Europa\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9K8E7,LS9K8E,\"Deutschland , US , Europa\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9L921,LS9L92,\"Ökologisch, Nachhaltig, Rentabel\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9L921,LS9L92,\"Ökologisch,  Nachhaltig,  Rentabel\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9LAS4,LS9LAS,\"Wachstum, Value und Ethik\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9LAS4,LS9LAS,\"Wachstum,  Value und Ethik\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9LKG8,LS9LKG,\"Discount, Bonus & Co.\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9LKG8,LS9LKG,\"Discount,  Bonus & Co.\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9LL72,LS9LL7,\"Companies USA, Europe\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9LL72,LS9LL7,\"Companies USA,  Europe\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9LQJ9,LS9LQJ,\"DE, Aktien, Aussicht A++\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9LQJ9,LS9LQJ,\"DE,  Aktien,  Aussicht A++\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9M2X8,LS9M2X,\"TOP Bitcoin, Ether und die Welt\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9M2X8,LS9M2X,\"TOP Bitcoin,  Ether und die Welt\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9M499,LS9M49,\"Elektromobilität: Kobalt, Kupfer\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9M499,LS9M49,\"Elektromobilität: Kobalt,  Kupfer\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9M4K1,LS9M4K,\"Gaming, Virtual and Aug. Reality\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9M4K1,LS9M4K,\"Gaming,  Virtual and Aug. Reality\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9M4Y2,LS9M4Y,\"Bio(Tech),ECommerce,Cloud,Pharma\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9M4Y2,LS9M4Y,\"Bio(Tech), ECommerce, Cloud, Pharma\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9M820,LS9M82,\"Alkoholika, Tabak und Hanf\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9M820,LS9M82,\"Alkoholika,  Tabak und Hanf\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9M8V9,LS9M8V,\"Invest nach Buffet, Dividende\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9M8V9,LS9M8V,\"Invest nach Buffet,  Dividende\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9M8Z0,LS9M8Z,\"LT China, HK & Region - Growth\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9M8Z0,LS9M8Z,\"LT China,  HK & Region - Growth\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9M9N4,LS9M9N,\"Neben-, Kleine u. Mittlere Werte\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9M9N4,LS9M9N,\"Neben-,  Kleine u. Mittlere Werte\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9MB99,LS9MB9,\"Aktien-, ETF- & Fonds-Werte\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9MB99,LS9MB9,\"Aktien-,  ETF- & Fonds-Werte\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9MKQ5,LS9MKQ,\"Turn around, Tec!  \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9MKQ5,LS9MKQ,\"Turn around,  Tec!  \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9MMV1,LS9MMV,\"buy on bad news, sell on good\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9MMV1,LS9MMV,\"buy on bad news,  sell on good\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9MP28,LS9MP2,\"Lithium, Kobalt & Next Rohstoffe\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9MP28,LS9MP2,\"Lithium,  Kobalt & Next Rohstoffe\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9MR26,LS9MR2,\"Trend-Aktien-, ETF-, Fonds-werte\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9MR26,LS9MR2,\"Trend-Aktien-,  ETF-,  Fonds-werte\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9MTT0,LS9MTT,\"Casinos, Wettbüros und Ähnliche \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9MTT0,LS9MTT,\"Casinos,  Wettbüros und Ähnliche \",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9MTV6,LS9MTV,\"Trends, Nebenwerte & Hot Stocks\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9MTV6,LS9MTV,\"Trends,  Nebenwerte & Hot Stocks\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9MYZ7,LS9MYZ,\"Bitcoin, Crypto & Growth\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9MYZ7,LS9MYZ,\"Bitcoin,  Crypto & Growth\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9MZN0,LS9MZN,\"Lithium, Kobalt, Graphit & Co\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9MZN0,LS9MZN,\"Lithium,  Kobalt,  Graphit & Co\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9MZP5,LS9MZP,\"BITCOIN, ETHEREUM & GOLD\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9MZP5,LS9MZP,\"BITCOIN,  ETHEREUM & GOLD\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9NGJ6,LS9NGJ,\"IOT, SmartHome, Industrie 4.0\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9NGJ6,LS9NGJ,\"IOT,  SmartHome,  Industrie 4.0\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9VM20,LS9VM2,\"Robotics, Automation, Smart Home\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9VM20,LS9VM2,\"Robotics,  Automation,  Smart Home\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9VN29,LS9VN2,\"TOP Bitcoin, Ether und die Welt\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9VN29,LS9VN2,\"TOP Bitcoin,  Ether und die Welt\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    },
+    {
+      "Original": "DE000LS9ULP8,LS9ULP,\"Qualität, angelehnt an Susan Levermann\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+      "Current": "DE000LS9ULP8,LS9ULP,\"Qualität,  angelehnt an Susan Levermann\",sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 68,
+    "Deletions": 0
+  }
+}

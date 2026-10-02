@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA28619K2083,A41FML,ELEMENTAL ALTUS ROYALTIES,Aktien International,Aktien International,,,,",
+    "CA52737K2056,A3EWDH,LEVIATHAN GOLD LTD.,Aktien International,Aktien International,,,,",
+    "NL0015002AH0,A40UCX,\"HAVAS N.V.        EO -, 20\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CNE100001LY0,A1J9ME,ZCZL INDU. TECH.GRP.H YC1,Aktien International,Aktien International,,,,",
+      "Current": "CNE100001LY0,A1J9ME,ZHENGZHOU COAL M.+M.H YC1,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA78184E1034,A3EGYW,RUSH GOLD CORP.,Aktien International,Aktien International,,,,",
+    "NL0015002K83,A41H9X,\"HAVAS N.V.     EO - 2, 0\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA5273691025,A41F1U,LEVIATHAN METALS CORP.,Aktien International,Aktien International,,,,",
+    "CA28620K1066,A41MPU,ELEMENTAL ROYALTY CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}

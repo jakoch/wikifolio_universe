@@ -1,0 +1,300 @@
+{
+  "Additions": [
+    "CA5527041084,A1C2FB,MEG ENERGY CORP.,Aktien International,Aktien International,,,,",
+    "DE000A3CMGM5,A3CMGM,APONTIS PHARM. AG INH ON,Aktien Deutschland,Aktien Sonstige,,,,",
+    "NL0012015705,A2ASAC,\"JUST EAT TAKEAWAY. EO-, 04\",Aktien Europa,Aktien Europa Select,,,,",
+    "US48214T3059,A3CRD9,JUST EAT TAKEAW. SP.ADR,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AT0000745856,591730,RAIFF.-AS-OPP-ESG-AKT. RA,Fonds,Fonds Aktien,,,,",
+      "Current": "AT0000745856,591730,RAIFF.EURASIEN-AKT.RA ST.,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "AT0000785225,534049,RAIFF.-NACH.EUR.AKT.RVTA,Fonds,Fonds Aktien,,,,",
+      "Current": "AT0000785225,534049,RAIFF.-EUROPA-AKTIEN RVTA,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "AT0000859509,971129,RAIF.-NACHHAL.-RENT (R)A,Fonds,Fonds Aktien,,,,",
+      "Current": "AT0000859509,971129,RAIF.-NACHHAL.-RENT (R)A,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "AT0000913942,974145,SCHOELLERBANK ETH.AKT. A,Fonds,Fonds Aktien,,,,",
+      "Current": "AT0000913942,974145,SCHOELLERBK AKTIENF.VAL.A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "AT0000996681,926452,RAIFF.-ESG-EO-RENT R A ST,Fonds,Fonds Renten,,,,",
+      "Current": "AT0000996681,926452,RAIFF.-EURO-RENT R A ST.,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "DE0005316962,531696,R + P UNIVERSAL-FONDS I,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0005316962,531696,R + P UNIVERSAL-FONDS,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0005317127,531712,SARASIN-FAIRINVEST-UN.-I,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0005317127,531712,SARASIN-FAIRINVEST-UN.-I,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "DE0006791809,679180,KANAM GRUNDINVEST FDS,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0006791809,679180,KANAM GRUNDINVEST FDS,Fonds,Fonds Immobilien,,,,"
+    },
+    {
+      "Original": "DE0006791825,679182,LEADING CITIES INVEST,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0006791825,679182,LEADING CITIES INVEST,Fonds,Fonds Immobilien,,,,"
+    },
+    {
+      "Original": "DE0008023565,802356,FDS F. STIFT. INVESCO,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0008023565,802356,FDS F. STIFT. INVESCO,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "DE0008478058,847805,ODDO BHF GERM.EQUIT.DREO,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0008478058,847805,ODDO BHF FRANKF.-E.DR-EUR,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0008478116,847811,FMM-FONDS AKP(EUR),Fonds,Fonds Aktien,,,,",
+      "Current": "DE0008478116,847811,FMM-FONDS,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0008483983,848398,MERCK F.VERM.STR.DEF.UI A,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0008483983,848398,MERCK FINCK STIFTUNGSF.UI,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "DE0008491069,849106,UNIEURORENTA,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0008491069,849106,UNIEURORENTA,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "DE0009752220,975222,METZLER EUROP.EQUITIES A,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0009752220,975222,METZLER AKTIEN EUROPA AR,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0009752238,975223,METZ.GERM.SM.COMPANIES A,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0009752238,975223,METZLER AKT. DEUTSCHL. AR,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0009752253,975225,METZLER GL GROWTH SUSTAI.,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0009752253,975225,METZLER WACHSTUM INTERN.,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0009763201,976320,LA FR.SYS.EUR.EQUITIES R,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0009763201,976320,VE-RI EQUITIES EUROPE R,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0009774794,977479,LINGOHR-SYSTEMATIC-INV.A,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0009774794,977479,LINGOHR-SYSTEMATIC-INVEST,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0009780221,978022,LBBW AKTIEN EUROPA R,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0009780221,978022,LBBW AKTIEN EUROPA,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0009781997,978199,TBF GLOBAL INCOME I,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0009781997,978199,TBF GLOBAL INCOME I,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "DE0009790766,979076,HP+P EUROPE EQUITY A,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0009790766,979076,HP+P EURO SELECT UI FDS A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE0009805507,980550,UNIIMMO: DEUTSCHLAND,Fonds,Fonds Aktien,,,,",
+      "Current": "DE0009805507,980550,UNIIMMO: DEUTSCHLAND,Fonds,Fonds Immobilien,,,,"
+    },
+    {
+      "Original": "DE000A0KEXM6,A0KEXM,SIEMENS BALANCED AK A,Fonds,Fonds Aktien,,,,",
+      "Current": "DE000A0KEXM6,A0KEXM,SIEMENS BALANCED,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE000A0MKQK7,A0MKQK,LA FRANC.SYS.ETF PTF.GL.R,Fonds,Fonds Aktien,,,,",
+      "Current": "DE000A0MKQK7,A0MKQK,ETF-PORTFOLIO GLOBAL,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "DE000A0NAUN2,A0NAUN,LBBW GLOBAL DIVIDEND IT,Fonds,Fonds Aktien,,,,",
+      "Current": "DE000A0NAUN2,A0NAUN,LBBW DIVID.STRAT.EUROL.IT,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE000A0NAUP7,A0NAUP,LBBW AKTIEN EUROPA ESG R,Fonds,Fonds Aktien,,,,",
+      "Current": "DE000A0NAUP7,A0NAUP,LBBW NACHHALTIGKEIT AKT.R,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE000A1CUAY0,A1CUAY,WERTGRUND WOHNSELECT D,Fonds,Fonds Aktien,,,,",
+      "Current": "DE000A1CUAY0,A1CUAY,WERTGRUND WOHNSELECT D,Fonds,Fonds Immobilien,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000EASY306,EASY30,EASYFOLIO 30 I,Fonds,Fonds Aktien,,,,",
+      "Current": "DE000EASY306,EASY30,EASYFOLIO 30,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "DE000EASY504,EASY50,EASYFOLIO 50 I,Fonds,Fonds Aktien,,,,",
+      "Current": "DE000EASY504,EASY50,EASYFOLIO 50,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "DE000EASY702,EASY70,EASYFOLIO 70 I,Fonds,Fonds Aktien,,,,",
+      "Current": "DE000EASY702,EASY70,EASYFOLIO 70,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "IE0002921868,987736,MII-METZ.EUROP.GROWTH A,Fonds,Fonds Aktien,,,,",
+      "Current": "IE0002921868,987736,MET.-METZ.EUR.GROW.SUST.A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "IE0002921975,987735,MET.-METZ.EU.SM.COMP. A,Fonds,Fonds Aktien,,,,",
+      "Current": "IE0002921975,987735,METZLER-METZ.EUR.SM.COS.A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "IE0003723560,989439,MII-METZ.GLOB.EQU. A,Fonds,Fonds Aktien,,,,",
+      "Current": "IE0003723560,989439,MET.-METZ.GLO.EQ.SUST.AEO,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LI0274481113,A14VGZ,QUANTEX-QU.GL.VALUE EOR,Fonds,Fonds Aktien,,,,",
+      "Current": "LI0274481113,A14VGZ,Q FDS-GL.VALUE EOR,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0030165871,974743,SEB FD.1-NO.FUT.OPP. C,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0030165871,974743,SEB1-NORD.EQ.C,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0044747169,972580,GL AD-LI.MA.MA.VA.A,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0044747169,972580,GL ADV.-MAJO.MKTS H.VAL.A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0047906267,972996,GA-LI.EM.MA.VA.A,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0047906267,972996,GL.ADV.-EMERG.MKTS HI.V.A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0048584097,973269,FID.-GL THEM.OPP.AGL,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0048584097,973269,FID.FDS-INTL FD  A GL.,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0068578508,635297,F.EAGLE AMUNDI INTER.AU-C,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0068578508,635297,F.EAGLE AMUNDI INTER.AU-C,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "LU0069450319,986380,FID.FDS-EO50IDX FD A GL,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0069450319,986380,FID.FDS EU.STOXX50 A GL,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0069514817,986275,LILUX CONVERT,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0069514817,986275,LILUX CONVERT,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "LU0085953304,988083,UBS(L)EQ.-S.H.TRA.DL PACC,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0085953304,988083,UBS(L)EQ.-H.CARE DL P-ACC,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0086120648,988006,PEH EMPIRE INH. P,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0086120648,988006,PEH EMPIRE INH. P,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "LU0090707612,988475,UNIESG AKTIEN EUROPA,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0090707612,988475,UNIEUROSTOXX 50  INH.A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0095938881,989946,JPM INV-GL.MAC.OPP.A AEO,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0095938881,989946,JPM INV-GL.MAC.OPP.A AEO,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "LU0106280919,930921,SAUREN GLOB.OPPS A,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0106280919,930921,SAUREN GBL OPPORTUN. A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0110060430,939979,FID.FDS-EUR.HGH YLD A GL.,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0110060430,939979,FID.FDS-EUR.HGH YLD A GL.,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "LU0122113094,756512,SEB FD 1-SEB GL.CL.OPP.C,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0122113094,756512,SEB FUND 1-GL.CHA./RISK C,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0136335097,791695,SAUREN GL.STBL GROWTH CA,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0136335097,791695,SAUREN GBL STABLE GWTH CA,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0137341789,805785,STARCAP.-DYNYM.BDS AEO,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0137341789,805785,STARCAPITAL-ARGOS A EUR,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "LU0149719808,260621,BC GIF-EUROPE VALUE A D,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0149719808,260621,HSBC GIF-EUROP.EQ.A D,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0152980495,749655,F.TEM.INV-T.GL.BD.A AC.EO,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0152980495,749655,F.TEM.INV-T.GL.BD.A AC.EO,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "LU0163675910,214466,SAUREN GLOBAL DEFENSIV A,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0163675910,214466,SAUREN GLOBAL DEFENSIV A,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "LU0164906959,257158,BC GIF-EUROPE VALUE A C,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0164906959,257158,HSBC GIF-EUROP.EQ.A C,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0165251116,257546,RB LUXTOPIC-AKTIEN EURO A,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0165251116,257546,LUXTOPIC-AKT.EUROPA INH.A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0181454132,A0BKM9,APB GER.SEL R,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0181454132,A0BKM9,WALSER PTF-GERMAN SEL. R,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "LU0184391075,A0BL7N,VCH EXPERT NAT.RESOURC.B,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0184391075,A0BL7N,VCH EXPERT NAT.RESOURC.B,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "LU0187937411,A0B91Q,AV.GRD.STCK FD A,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0187937411,A0B91Q,FIDECUM-AVANT-GARDE S.A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0201075453,A0DNE8,JH-J.H.PAN EUROP. A2EO,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0201075453,A0DNE8,JH-J.H.PAN EUROP. RAEO,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0227384020,A0HF3W,NORDEA 1-STABLE RET.BP-EO,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0227384020,A0HF3W,NORDEA 1-STABLE RET.BP-EO,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "LU0279509144,A0LF5X,ETHNA-DEFENSIV INH. T,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0279509144,A0LF5X,ETHNA-DEFENSIV INH. T,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "LU0316494805,A0MZK6,FTIF-F.GL.FD.STRAT.AA EO,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0316494805,A0MZK6,FTIF-F.GL.FD.STRAT.AA EO,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "LU0318492419,A0MZ0U,SAUREN GL.STBL GROWTH CD,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0318492419,A0MZ0U,SAUREN GBL STABLE GWTH CD,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "LU0384381660,A0Q8T6,MSIF-QA GL.INFRASTR.ADLA,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0384381660,A0Q8T6,MSI-GL.INFRASTR.A A,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0384405600,A0RCVW,VONT.GL.ENV.CH BEO,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0384405600,A0RCVW,VONTOBEL-CLEAN TECHN.B EO,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0570870567,A1JJHG,CT(LU)GL.SMA.COMP. AE,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0570870567,A1JJHG,THR.L.-GL.SMALL.COMPAN.AE,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "LU0944781540,A1W0ND,PRIMA-KAP.TOT.RET.A,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0944781540,A1W0ND,STARS OFFENSIV A,Fonds,Fonds Misch,,,,"
+    },
+    {
+      "Original": "LU0952573136,A1W17W,FVS-BD DEF. R,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0952573136,A1W17W,FVS-DER ERSTE SCHRITT R,Fonds,Fonds Renten,,,,"
+    },
+    {
+      "Original": "US52187K2006,A3EMJP,CYPHERPUNK TECHNOLOGIES,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US52187K2006,A3EMJP,LEAP THERAPEUTICS INC.NEW,Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 71,
+    "Deletions": 0
+  }
+}

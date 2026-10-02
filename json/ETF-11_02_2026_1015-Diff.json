@@ -1,0 +1,19 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE000IM4K4K2,A3DRF9,\"FT-AI, MTV.BLCH.EOA\",ETFs,ETFs Basic Resources,,,,",
+      "Current": "IE000IM4K4K2,A3DRF9,FL-METAVERSE E. CL-EOA,ETFs,ETFs Basic Resources,,,,"
+    },
+    {
+      "Original": "IE000KDY10O3,A3DE9M,HANETF-ETC GRP WEB3.0 DLA,ETFs,ETFs Basic Resources,,,,",
+      "Current": "IE000KDY10O3,A3DE9M,HANETF-ETC GG MTVS ETFDLA,ETFs,ETFs Basic Resources,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

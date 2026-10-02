@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "US7598923008,A2PXAT,MOATABLE SP.ADRS A 45,Aktien USA,Aktien Dow Jones,,,,",
+    "KYG177661090,A2PLPT,\"CAMBIUM NETWORK DL -, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "KYG8651P1101,A2N9L8,SPI ENERGY CO. LTD,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "GRS395363005,941206,EURONEXT AT.HLD.      NA.,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GRS395363005,941206,HELLEN.EX.-ATHENS ST. NA.,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "DK0060615755,A42ANJ,ASCENDIS PHARMA      DK 1,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 1
+  }
+}

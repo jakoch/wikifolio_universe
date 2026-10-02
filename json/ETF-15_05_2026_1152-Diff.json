@@ -1,0 +1,23 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE00BD26N851,A2H80B,PFI ETF-A.USSTHY CBD EOAH,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE00BD26N851,A2H80B,PFI ETF-US ST HY.CBD EOAH,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "US91917A7028,A421TF,VET2-BTC STR.E. NEW DLD,ETFs,ETFs Nordamerika,,,,",
+      "Current": "US91917A7028,A421TF,VET2-BTC STR.E. NEW DLD,ETFs,sonstige ETFs,,,,"
+    }
+  ],
+  "Deletions": [
+    "IE0004YCLDW1,A423DA,ISH-STOX.EU 600 EOD,ETFs,ETFs Europa Gesamt,,,,",
+    "LU2994521073,A411QY,JHT-AAA DL CLO HGDEOA,ETFs,sonstige ETFs,,,,",
+    "IE00097WZHZ9,A423D7,ISH2-FTSE ALL-W DLA,ETFs,ETFs Welt,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}

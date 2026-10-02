@@ -1,0 +1,35 @@
+{
+  "Additions": [
+    "CA05335P1099,A2JNSX,AUXLY CANNABIS GRP,Aktien International,Aktien International,,,,",
+    "KYG216771363,A0QZ93,CHINA CONSTRUCTION,Aktien International,Aktien International,,,,",
+    "LU0944781540,A1W0ND,PRIMA-KAP.TOT.RET.A,Fonds,Fonds Aktien,,,,",
+    "US00676P1075,A3DRWP,ADEIA INC.,Aktien USA,Aktien USA Select,,,,",
+    "DE0005019004,501900,AGROB IMMOB.AG ST,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE0005019038,501903,AGROB IMMOB.AG VZO,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "SE0017134125,A2PEP0,CYNCA NORDIC AB (PUBL) AK,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "SE0017134125,A2PEP0,VESTUM AB AK,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "DE000A41YFV4,A41YFV,AGROB IMMOB.AG ST,Aktien Deutschland,Aktien Sonstige,,,,",
+    "CA05335P7039,A42HEK,AUXLY CANNABIS GRP,Aktien International,Aktien International,,,,",
+    "DE000A41YFW2,A41YFW,AGROB IMMOB.AG VZO,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000BGAG0J3,BGAG0J,BIO-GATE AG O.N. KONV.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 3,
+    "Deletions": 4
+  }
+}

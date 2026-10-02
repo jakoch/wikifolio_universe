@@ -1,0 +1,47 @@
+{
+  "Additions": [
+    "CA06683R1010,A2QQHE,BANXA HOLDINGS INC.,Aktien International,Aktien International,,,,",
+    "FI0009010854,898607,\"LASSILA + TIKANOJA EO-, 50\",Aktien Europa,Aktien Europa Select,,,,",
+    "KYG4790P1037,A41XT7,INSILICO MED.C. O.N.,Aktien International,Aktien International,,,,",
+    "NL0015436031,A2P71U,CUREVAC N.V.   O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US05501U1060,A14L9W,AZUL SA PFD ADR 1,Aktien International,Aktien International,,,,",
+    "US87161C5013,A114G1,SYNOVUS FINL CORP.   DL 1,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007074007,707400,KWS SAAT KGAA  INH O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "DE0007074007,707400,KWS SAAT KGAA  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A0Z1JH9,A0Z1JH,PSI SOFTWARE SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "DE000A0Z1JH9,A0Z1JH,PSI SOFTWARE SE NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000SHA0100,SHA010,SCHAEFFLER AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "DE000SHA0100,SHA010,SCHAEFFLER AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "US05580M1080,A12EVW,BRC GROUP HOLDINGS INC.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US05580M1080,A12EVW,B. RILEY FINANCIAL INC.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US25520W1071,A41RVA,DIVERSIFIED ENER.CO. O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US25520W1071,A41RVA,DIVERSIFIED ENER.CO. O.N.,Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "FI4000592464,A42051,\"LUOTEA PLC         EO-, 50\",Aktien Europa,Aktien Europa Select,,,,",
+    "US8313491057,A40MRG,SLIDE IN.HLDGS O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US31816X1063,A41ENY,FIREFLY AEROSPACE INC  ON,Aktien USA,Aktien USA Select,,,,",
+    "CA87170K1066,A41G8F,SYNTHOLENE ENERGY CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 6,
+    "Deletions": 4
+  }
+}

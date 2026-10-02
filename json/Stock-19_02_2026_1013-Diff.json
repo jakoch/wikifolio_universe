@@ -1,0 +1,81 @@
+{
+  "Additions": [
+    "DE000A31C3Y4,A31C3Y,ALTECH ADV.MAT. NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US9016431069,A40MCC,TWIN HOSPITALITY GROUP,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "BMG0750C1082,A12EDV,AXALTA COATING SYSTEM.DL1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "BMG0750C1082,A12EDV,AXALTA COATING SYSTEM.DL1,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "BMG812761002,A0Q9SE,\"SIGNET JEWELERS    DL-, 18\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "BMG812761002,A0Q9SE,\"SIGNET JEWELERS    DL-, 18\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "CA12532H1047,A2PDWM,CGI INC. A SV,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA12532H1047,A2PDWM,CGI GROUP INC. A SV,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "CA53229C1077,A3CWX3,LIGHTSPEED COMMERCE  INC.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA53229C1077,A3CWX3,LIGHTSPEED COMMERCE  INC.,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE000A2NB650,A2NB65,MUTARES KGAA  NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,,",
+      "Current": "DE000A2NB650,A2NB65,MUTARES KGAA  NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "KYG3323L1005,A0Q2S5,\"FABRINET          DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "KYG3323L1005,A0Q2S5,\"FABRINET          DL-, 01\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "KYG367381053,910307,FRESH DEL MONTE PROD.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "KYG367381053,910307,FRESH DEL MONTE PROD.,Aktien USA,Aktien Dow Jones,,,,"
+    },
+    {
+      "Original": "NL0010545661,A1W599,\"CNH INDUSTRIAL    EO -, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "NL0010545661,A1W599,\"CNH INDUSTRIAL    EO -, 01\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "US0191701095,A2PZLE,\"ALLIED GAMI.+ENT.DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US0191701095,A2PZLE,\"ALLIED ESP. ENT. DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "US42806J7000,A3CSN0,HERTZ GL. HOLD. INC. NEW,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US42806J7000,A3CSN0,HERTZ GL. HOLD. INC. NEW,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US52490G1022,A2P5AH,LEGEND BIOTECH SP.ADS/2,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US52490G1022,A2P5AH,LEGEND BIOTECH SP.ADS/2,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US62886E1082,919692,\"NCR VOYIX CORP.    DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US62886E1082,919692,\"NCR VOYIX CORP.    DL-, 01\",Aktien USA,Aktien Dow Jones,,,,"
+    },
+    {
+      "Original": "US8270481091,905418,\"SILGAN HLDGS INC.  DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8270481091,905418,\"SILGAN HLDGS INC.  DL-, 01\",Aktien USA,Aktien Dow Jones,,,,"
+    },
+    {
+      "Original": "US8910921084,861568,TORO CO               DL1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US8910921084,861568,TORO CO               DL1,Aktien USA,Aktien Dow Jones,,,,"
+    },
+    {
+      "Original": "US92552R4065,A0B6NE,\"PURSUIT ATT.+HOSP.DL 1, 50\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US92552R4065,A0B6NE,\"VIAD CORP. NEW    DL 1, 50\",Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "DE000A41YD99,A41YD9,ALTECH ADV.MAT. NA KONV.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US44916Y1064,A41S7H,HYPERLIQUID STRAT. O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 16,
+    "Deletions": 2
+  }
+}
