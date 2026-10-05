@@ -127,7 +127,7 @@ print_status() {
 # ---------------------------------------------------------
 
 isInstalled() {
-  if [ "$($1 2>&1 >/dev/null)" ]; then
+  if "$@" >/dev/null 2>&1; then
     print_status "Already installed. Skipping."
     return 0
   else
@@ -137,7 +137,7 @@ isInstalled() {
 
 install_csvdiff() {
   print_status "🔽 Installing CSVDiff"
-  isInstalled "$(csvdiff --version)" && return
+  isInstalled csvdiff --version && return
 
   url="https://github.com/aswinkarthik/csvdiff/releases/download/v1.4.0/csvdiff_1.4.0_linux_64-bit.deb";
   # --retry-all-errors only supported by curl v7.71.0+
@@ -146,38 +146,53 @@ install_csvdiff() {
 }
 
 get_latest_wiuc_version() {
-  # Fetch the latest version of Wikifolio Universe Converter from GitHub
+  # Fetch the latest version of Wikifolio Universe Converter from GitHub.
+  # Prints the version on stdout and returns 0, or prints nothing and returns 1.
+  # There is deliberately no fallback version: converter releases track the
+  # database schema, so silently installing an older wiuc would write a stale
+  # schema. Diagnostics go to stderr, since stdout is captured by the caller.
   local response
   local version
-  if response="$(curl -s --fail --retry 3 --retry-delay 1 https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest)"; then
-    version="$(echo "$response" | jq -r '.tag_name' | cut -c 2-)"
-    if [[ -n "$version" && "$version" != "null" ]]; then
-      echo "$version"
+  if response="$(curl -s --fail --retry 5 --retry-all-errors --retry-delay 1 https://api.github.com/repos/jakoch/wikifolio_universe_converter/releases/latest)"; then
+    # "// empty" yields an empty string (not the literal "null") when tag_name is
+    # absent, and ${version#v} strips only a leading "v" instead of chopping 2
+    # characters off unconditionally.
+    version="$(echo "$response" | jq -r '.tag_name // empty')"
+    if [[ -n "$version" ]]; then
+      echo "${version#v}"
       return 0
     fi
   fi
-  # If fetching the version fails, use a fallback version
-  local fallback_version="1.0.9"
-  echo "::warning ⚠️  Warning: Failed to fetch latest version from GitHub. Falling back to version $fallback_version"
-  echo "$fallback_version"
+  echo "Failed to query the latest WIUC release from GitHub." >&2
   return 1
 }
 
 install_wiuc() {
   print_status "🔽 Installing Wikifolio Universe Converter"
-  isInstalled "$(data/wiuc --version)" && return
+  isInstalled data/wiuc --version && return
 
   local version
   local url
 
-  version="$(get_latest_wiuc_version)"
+  if ! version="$(get_latest_wiuc_version)" || [[ -z "$version" ]]; then
+    print_error "❌ Could not determine the latest WIUC version. Aborting, as installing an outdated converter would produce an outdated database schema." 1
+    echo "::error ❌ Could not determine the latest WIUC version from GitHub."
+    return 1
+  fi
   echo "Using WIUC Version: $version"
 
   url="https://github.com/jakoch/wikifolio_universe_converter/releases/download/v$version/wiuc-$version-clang18-x64-linux.zip"
   echo "Download URL: $url"
 
   # --retry-all-errors only supported by curl v7.71.0+
-  curl --retry 3 -L --output ./wiuc.zip "$url"
+  # --fail is required: without it curl exits 0 on HTTP 4xx/5xx and writes the
+  # error response into wiuc.zip, which would pass a plain existence check.
+  if ! curl --fail --retry 5 --retry-all-errors -L --output ./wiuc.zip "$url" || [[ ! -s ./wiuc.zip ]]; then
+    print_error "❌ Download failed: ${url}" 1
+    rm -f ./wiuc.zip
+    return 1
+  fi
+
   mkdir -p data
   7z e ./wiuc.zip -odata
   rm ./wiuc.zip
@@ -186,32 +201,32 @@ install_wiuc() {
 
 install_7zip() {
   print_status "🔽 Installing 7zip"
-  isInstalled "$(7z --help)" && return
+  isInstalled 7z --help && return
   sudo apt-get install -y p7zip-full
 }
 
 install_jq() {
   print_status "🔽 Installing jq"
-  isInstalled "$(jq --help)" && return
+  isInstalled jq --help && return
   sudo apt-get install -y jq
 }
 
 install_sqlite() {
   print_status "🔽 Installing sqlite"
-  isInstalled "$(sqlite3 -version)" && return
+  isInstalled sqlite3 -version && return
   sudo apt-get install -y sqlite3
 }
 
 install_curl() {
   print_status "🔽 Installing curl"
-  isInstalled "$(curl --help)" && return
+  isInstalled curl --help && return
   sudo apt-get install -y curl
 }
 
 install() {
   install_curl
   install_sqlite
-  install_wiuc
+  install_wiuc || return 1
   install_7zip
   install_csvdiff
   install_jq
@@ -515,7 +530,7 @@ run() {
     checkout_ghpages
   fi
 
-  install
+  install || return 1
   show_infos
 
   prepare_data_folder
