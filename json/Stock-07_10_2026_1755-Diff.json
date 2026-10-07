@@ -1,0 +1,23 @@
+{
+  "Additions": [
+    "CA0422791099,A40V12,ARMORY MINING CORP. O.N.,Aktien International,Aktien International,,,,",
+    "CA17178G3026,A3E28S,CIELO WASTE SOLUT.A NEW,Aktien International,Aktien International,,,,",
+    "CA23256X4075,A40NJY,CYBIN INC.  O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US38741L1070,A2DXZE,\"GRANITE PT MTG TR. DL-,01\",Aktien USA,Aktien USA Select,,,,",
+    "US5270642086,A41GEG,LESLIE'S INC. NEW    O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US97727L4086,A3EN5P,\"WISEKEY INT.H.ADR NEW 0,5\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA4234921076,A42NG7,HELUS PHARMA INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA29643A1093,A42P4F,ESK.INF.COR. O.N.,Aktien International,Aktien International,,,,",
+    "CA0422792089,A42PNV,ARMORY MINING CORP. O.N.,Aktien International,Aktien International,,,,",
+    "VGG9724F1053,A42LSQ,WIS.INT.COR. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "AT0000A3VAD4,A42DTW,BIOGENA GOOD VIBES AG,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 5
+  }
+}
