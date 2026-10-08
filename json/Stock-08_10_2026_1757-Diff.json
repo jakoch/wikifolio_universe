@@ -1,0 +1,44 @@
+{
+  "Additions": [
+    "US9344231041,A3DJQZ,\"WB DISCOVERY SER.A DL-,01\",Aktien USA,Aktien Dow Jones,,,,",
+    "CA36942L1085,A3DH88,GENERAL COPPER GOLD CORP.,Aktien International,Aktien International,,,,",
+    "US09062W2044,A1XCF2,\"BIOLIFE SOLUTIONS DL-,001\",Aktien USA,Aktien USA Select,,,,",
+    "DE000FPH9000,FPH900,FRANCOTYP-POSTALIA HLDG,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000PFSE212,PFSE21,PFISTERER HLDG SE INH ON,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A1X3WX6,A1X3WX,ERWE IMMOB. AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "JP3389900006,887715,JAFCO CO. LTD.,Aktien International,Aktien International,,,,",
+      "Current": "JP3389900006,887715,JAFCO YN 50,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US45047B1052,A42EVR,ITG INC.,Aktien USA,Aktien USA Select,,,,",
+    "DE000PFSE253,PFSE25,PFISTERER HLDG SE NA ON,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US15746L1008,A40QNL,CHAIN BRIDGE BAN. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "DE000A41YHC0,A41YHC,ERWE IMMOB. AG INH KONV.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000FPH1007,FPH100,FRANCOTYP-POSTALIA HLDG,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 5,
+    "Deletions": 5
+  }
+}
