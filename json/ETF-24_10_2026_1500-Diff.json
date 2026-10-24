@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "XS3388190301,A4AU56,LEVERAGE SHARES ETP,ETFs,sonstige ETFs,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE00BFNM3D14,A2N48D,ISHSIV-MSCI EUR.SCREE.EOA,ETFs,sonstige ETFs,ETFs,ETFs Länder Sonstige,,",
+      "Current": "IE00BFNM3D14,A2N48D,ISHSIV-MSCI EUR.SCREE.EOA,ETFs,sonstige ETFs,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
