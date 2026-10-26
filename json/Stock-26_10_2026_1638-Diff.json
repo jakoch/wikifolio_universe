@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "FR0014011ND8,A41DGP,MONDO TV FRANCE NOM.EO100,Aktien Europa,Aktien Europa Select,,,,",
+    "CA07785T2011,A2QQTL,BELGRAVIA HARTFORD CAP.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA07785T3001,A426T6,BELGRA.HART. O.N.,Aktien International,Aktien International,,,,",
+    "NL0000488153,922344,PALM.CULT.MA.MOPOLI FL 50,Aktien Europa,Aktien Europa Select,,,,",
+    "US60855D5077,A42P30,\"MOLECULIN BIO.NEW DL-,001\",Aktien USA,Aktien USA Select,,,,",
+    "DE000A41YGH1,A41YGH,MEDONDO HLDG AG INH KONV.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}
