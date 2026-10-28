@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "IE0009WWNY77,A3E16M,UB.SP.CL.TR.E.E A HEDGEOA,ETFs,ETFs Nordamerika,,,,",
+    "IE000S4A5WE2,A3E16L,UB.SP.CL.TR.E.E ADLA,ETFs,ETFs Nordamerika,,,,",
+    "LU2095995895,A2PYAK,UBSJPMCNYCHGV1-10 DLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000WJCYGB4,A3EB23,UBS FDSO-CMCI CO.TR.ADLAC,ETFs,ETFs Branchen,,,,",
+    "IE000Z8BHG02,A3DHNN,AXA-ACT CL.EQ. TBCDLA,ETFs,ETFs Branchen,,,,",
+    "US91917A7028,A421TF,VET2-BTC STR.E. NEW DLD,ETFs,sonstige ETFs,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "IE00BMYDMC42,A2QK9V,LG-QEDVESGEXEM DLD,ETFs,ETFs Emerging Markets,ETFs,sonstige ETFs,,",
+      "Current": "IE00BMYDMC42,A2QK9V,LG-QEDVESGEXEM DLD,ETFs,ETFs Emerging Markets,,,,"
+    }
+  ],
+  "Deletions": [
+    "IE000GT6BRH3,A42P29,L+G-GL.EQ. (M)DLD,ETFs,ETFs Welt,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}
