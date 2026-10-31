@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "IE000BKMMHF9,A3DE9V,UBS-MSCIPAEXJAI A-DLA,ETFs,ETFs Asien,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0010424143,A0MNT7,MUF-AMU.EOSTXX50-2XINV.AC,ETFs,sonstige ETFs,ETFs,ETFs EuroStoxx,,",
+      "Current": "FR0010424143,A0MNT7,MUF-AMU.EOSTXX50-2XINV.AC,ETFs,sonstige ETFs,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}
