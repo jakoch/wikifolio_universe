@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "CA3060711015,A0EALA,FALCON OIL&GAS,Aktien Hot Stocks,Aktien Hot Stocks,,,,",
+    "CA09353K3073,A3DMEJ,BLENDER BITES LTD.,Aktien International,Aktien International,,,,",
+    "CA38065C1059,A2QBH1,GOLDN FUTURES MINERAL CO,Aktien International,Aktien International,,,,",
+    "JP3399000003,868484,STAR MICRONICS,Aktien International,Aktien International,,,,",
+    "JP3400400002,880446,SCSK CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "US03945R1023,A3C3BQ,\"ARCHER AVIATION  A -, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "CA38065C6009,A41ZQD,GOLDN FUTURES MINERAL NEW,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 3,
+    "Deletions": 2
+  }
+}

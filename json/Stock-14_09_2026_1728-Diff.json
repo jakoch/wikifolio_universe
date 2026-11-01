@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "IT0004053440,A0JMQC,\"DATALOGIC         EO -, 52\",Aktien Europa,Aktien Europa Select,,,,",
+    "IT0005037210,A119H6,TINEXTA S.P.A.,Aktien Europa,Aktien Europa Select,,,,",
+    "CA04952E2087,A3D36L,ATMOFIZER TECHNOL.INC. B,Aktien International,Aktien International,,,,",
+    "CA53620R1091,A3C8GP,LION COPPER AND GOLD CORP,Aktien International,Aktien International,,,,",
+    "US04650F1012,A41WEP,ATAIBECKLEY INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US6443931000,A2PDNK,NEW FORTRESS ENERGY CL.A,Aktien USA,Aktien USA Select,,,,",
+    "US6748705067,A2PFQU,\"OCEAN POWER TECH.  DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA7707671011,A42DWC,ROBINSON ENERGY LTD.,Aktien International,Aktien International,,,,",
+    "US30609A1097,A42MJQ,\"FAL.TOP.INC. DL-, 01\",Aktien USA,Aktien Dow Jones,,,,",
+    "CA03882B1022,A42HEJ,ARC.MIN.ROY. O.N.,Aktien International,Aktien International,,,,",
+    "CA73928U1093,A42LL2,POWER LEAVES HLDGS O.N.,Aktien International,Aktien International,,,,",
+    "US55025L3069,A42K7R,LUMENT FIN. TR.O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 1,
+    "Deletions": 5
+  }
+}

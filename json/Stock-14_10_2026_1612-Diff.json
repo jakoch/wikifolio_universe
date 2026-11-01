@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "CH1276062754,A3EP76,\"WISEKEY INTL B    SF 2,50\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA22888A2074,A40YSN,CRUZ BATTERY METALS CORP.,Aktien International,Aktien International,,,,",
+    "US0906557055,A42DVS,\"BIORES.TH.2026   DL-,0001\",Aktien USA,Aktien USA Select,,,,",
+    "US23283X3052,A42KBG,\"CYTOSORBENTS   DL -,001\",Aktien USA,Aktien USA Select,,,,",
+    "US38341P2011,A42M0V,GOSSAMER BIO INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US6443933089,A42EVS,NEW FORTRESS EN. CL.A NEW,Aktien USA,Aktien USA Select,,,,",
+    "US6748706057,A42JP6,\"OCE.P.T.NEW AUG26 DL-,001\",Aktien USA,Aktien USA Select,,,,",
+    "US88331L1089,A3CPDE,\"SKINHEALTH SY. A DL-,0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "FR0014019QW4,A42M4L,\"PASQAL HOLDING SA EO-,02\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 3,
+    "Deletions": 1
+  }
+}

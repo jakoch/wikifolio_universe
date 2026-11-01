@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "CA68828E8099,A3DK8G,OSISKO DEVELOPMENT CORP.,Aktien International,Aktien International,,,,",
+    "US38068T1051,A0LCTL,\"GOLD RES CORP.    DL-, 001\",Aktien International,Aktien International,,,,",
+    "US45783Q1004,A2QRE5,INOTIV INC.,Aktien USA,Aktien USA Select,,,,",
+    "US6378701063,A14VRL,NAT.STORAGE AFFIL.TR.SBI,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "ES0106043005,A42GWC,\"DIGI SPAIN TEL.SA EO-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA68827X1050,A42FUV,OSISKO GOLD GROUP    O.N.,Aktien International,Aktien International,,,,",
+    "GB00BTDN2T17,A42H0T,\"POTENTIALLY AI    LS-, 01\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 3,
+    "Deletions": 3
+  }
+}

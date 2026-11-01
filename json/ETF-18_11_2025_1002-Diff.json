@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "IE000B8M14I0,A3DCK4,JPM-BETAB.C.A.B JPETF HEO,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000TB7IEF3,A3CYEM,JPM-BETAB.C.A.B JPETFDLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU2365457410,A3C9H4,BNPP E-ECPIGEMT U.ETFEOA,ETFs,ETFs Branchen,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "LU3123443510,DBX0XH,X2 S.DL GL.A.S. 1DDLD,ETFs,sonstige ETFs,,,,",
+    "LU3086262709,A41NUT,BPE-JEEGBI7-10 U.ETFEOA,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU3086269894,A41NUW,BPE-MSCI JP U.ETFEOA,ETFs,ETFs Asien,,,,",
+    "LU3086268573,A41NUV,BPE-MSCI EUR. U.ETFEOA,ETFs,ETFs Europa Gesamt,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 4
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "AU000000EUR7,A2AR9A,EUROPEAN LITHIUM LTD,Aktien International,Aktien International,,,,",
+    "CA7766521099,A2H5PE,ROOTS CORP.,Aktien International,Aktien International,,,,",
+    "US0021202025,A2PM86,\"ATYR PHARMA INC. DL -,001\",Aktien USA,Aktien USA Select,,,,",
+    "US36467W1172,A4AQAG,GAMESTOP CORP. WTS26,Aktien USA,Aktien USA Select,,,,",
+    "US6323471002,887530,\"NATHAN'S FAMOUS    DL-,01\",Aktien USA,Aktien USA Select,,,,",
+    "US6761182012,A2AEZV,ODYSSEY MAR.EXPL. DL-0001,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0000130692,901535,\"BELGRANO S.A.     EO 12,-\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR0000130692,901535,\"COMPAGNIE CHARGEU.EO 12,-\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 5,
+    "Deletions": 0
+  }
+}

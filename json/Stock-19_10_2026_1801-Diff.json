@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA3794333037,A3CSRJ,GLOBAL UAV TECHS,Aktien International,Aktien International,,,,",
+    "CA38080W1023,A2DSQD,GOLDEN ARROW RESOURCES CORP. REGISTERED SHARES O.N,Aktien International,Aktien International,,,,",
+    "LU0251661087,A0JL03,AXA WF-EO LG DUR.BDS AEOA,Fonds,Fonds Aktien,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA3794334027,A42PUH,GLOBAL UAV TECHS,Aktien International,Aktien International,,,,",
+    "CA39819G1037,A42MVU,GRG RES. CORP. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

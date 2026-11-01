@@ -1,0 +1,1039 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE0000BQ75C2,A41BTQ,ISH DL SDHYCB EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0000BQ75C2,A41BTQ,ISH DL SDHYCB EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0000LTAD82,A41MLG,ROB-ROB DY HY EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0000LTAD82,A41MLG,ROB-ROB DY HY EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0000MR4GH9,A40MDA,ISHSVIBD32TEOC EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0000MR4GH9,A40MDA,ISHSVIBD32TEOC EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0000UJ3480,A3D8E5,ISHSV IBD28TDLC DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0000UJ3480,A3D8E5,ISHSV IBD28TDLC DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0000VITHT2,A3D8E4,ISHSV IBD28TDLC DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0000VITHT2,A3D8E4,ISHSV IBD28TDLC DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0000VKUF67,A40CRA,FID2-EO C.BD RE PAB EO A,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0000VKUF67,A40CRA,FID2-EO C.BD RE PAB EO A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00019EG7X4,A40MD2,ISHSVIBD31TDLC DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00019EG7X4,A40MD2,ISHSVIBD31TDLC DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0001DM7O60,A3ERTJ,FID2-DL C.BD RE PAB HGEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0001DM7O60,A3ERTJ,FID2-DL C.BD RE PAB HGEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0001KPAXU3,A419KK,I.EOIGC.B.Y.PL. EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0001KPAXU3,A419KK,I.EOIGC.B.Y.PL. EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0001PY6688,A425B3,FT I.F.E.I.C.E EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0001PY6688,A425B3,FT I.F.E.I.C.E EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0001XIQ4D9,A3E2UN,IM2-I.BS27 DLCB DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0001XIQ4D9,A3E2UN,IM2-I.BS27 DLCB DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000264WWY0,A3D8E7,ISHSV IBD28TEOC EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000264WWY0,A3D8E7,ISHSV IBD28TEOC EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0002H3JQ66,A41AT2,SB1-5 YUSCBE DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0002H3JQ66,A41AT2,SB1-5 YUSCBE DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00032L0R44,A41A8Q,B.D.35 T.H.Y.C. DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00032L0R44,A41A8Q,B.D.35 T.H.Y.C. DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00034XRBU1,A3E2UR,IM2-I.BS30 DLCB DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00034XRBU1,A3E2UR,IM2-I.BS30 DLCB DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0003B9KF87,A425UW,IM IV-EO IG CBS EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0003B9KF87,A425UW,IM IV-EO IG CBS EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0003HV7CS6,A41A36,ISHS2-IBD28TCCE EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0003HV7CS6,A41A36,ISHS2-IBD28TCCE EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00049LEBV0,A40MD8,ISHSVIBD32TDLC DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00049LEBV0,A40MD8,ISHSVIBD32TDLC DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0004HMINW0,A41H40,BEII EOAGBDOP EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0004HMINW0,A41H40,BEII EOAGBDOP EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00053HJRU7,A40LLH,BEII EOCRPBOPP EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00053HJRU7,A40LLH,AXAIM-EO CR.PAB EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0005F2R613,A419KJ,I.EOIGC.B.Y.PL. EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0005F2R613,A419KJ,I.EOIGC.B.Y.PL. EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0005QL4147,A3C3CQ,ISHSIV-DLUSBESG DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0005QL4147,A3C3CQ,ISHSIV-DLUSBESG DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00069MGEE1,A40PRN,BNPPE2 US HY OPPS UE DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00069MGEE1,A40PRN,AX.I.U.H.OP.E 100000DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0006B9CPY7,A40UC2,GS-DL HY BD AC ()DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0006B9CPY7,A40UC2,GS-DL HY BD AC ()DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0006YM7D84,DBX0SF,XTR.-USD HYCB S.ETF 1CDLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0006YM7D84,DBX0SF,XTR.-USD HYCB S.ETF 1CDLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0007SRI1C7,A424JP,IS.IBD D37 T.EO EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0007SRI1C7,A424JP,IS.IBD D37 T.EO EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0007UPSEA3,A3D8E0,ISHSV IBD26TDLC DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0007UPSEA3,A3D8E0,ISHSV IBD26TDLC DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0007YBWBE5,A40MD7,ISHSVIBD32TDLC DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0007YBWBE5,A40MD7,ISHSVIBD32TDLC DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0008GO35B5,A40VVQ,IM 2-I.DL AAA C DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0008GO35B5,A40VVQ,IM 2-I.DL AAA C DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0008LRGGP4,A41D30,HANE2-INCAPRIN DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0008LRGGP4,A41D30,HANE2-INCAPRIN DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0008TDJ461,A406PY,ISH.D.30 T.DL DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0008TDJ461,A406PY,ISH.D.30 T.DL DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0008UEVOE0,A3EHAK,ISHSV IBD28TEOC ()EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0008UEVOE0,A3EHAK,ISHSV IBD28TEOC ()EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00094AECT1,A41H41,BEII EOAGBDOP EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00094AECT1,A41H41,BEII EOAGBDOP EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00098ZGGO6,A3C3CR,ISHS2-DCB03YESRI ETF DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00098ZGGO6,A3C3CR,ISHS2-DCB03YESRI ETF DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0009EDBBS3,A40UC1,GS-EOIGCOBDAC ()EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0009EDBBS3,A40UC1,GS-EOIGCOBDAC ()EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0009EQZP90,A40MD3,ISHSVIBD31TDLC DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0009EQZP90,A40MD3,ISHSVIBD31TDLC DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000A0RC215,A3E2UU,IM2-I.BS28 DLCB DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000A0RC215,A3E2UU,IM2-I.BS28 DLCB DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000ARLR807,A3ERTP,FID2-DL HY CBDREPAB DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000ARLR807,A3ERTP,FID2-DL HY CBDREPAB DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000AWT6D61,A3EWHP,ISHS IV.D.C.BD HGDEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000AWT6D61,A3EWHP,ISHS IV.D.C.BD HGDEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000B4EDHL6,A3E2UQ,IM2-I.BS29 DLCB DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000B4EDHL6,A3E2UQ,IM2-I.BS29 DLCB DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000BMDG046,A3E2UT,IM2-I.BS27 DLCB DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000BMDG046,A3E2UT,IM2-I.BS27 DLCB DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000BUIVY49,A40XDD,IS3EOCBENACTETF EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000BUIVY49,A40XDD,IS3EOCBENACTETF EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000BUSGFL9,A41A39,ISHS2-IBD29TCCE EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000BUSGFL9,A41A39,ISHS2-IBD29TCCE EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000BWITBP9,A3D8E1,ISHSV IBD26TDLC DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000BWITBP9,A3D8E1,ISHSV IBD26TDLC DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000BZXJJ24,A3EK6C,ISH.D.30 T.DL DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000BZXJJ24,A3EK6C,ISH.D.30 T.DL DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000C5Q64P6,A3E2UV,IM2-I.BS29 DLCB DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000C5Q64P6,A3E2UV,IM2-I.BS29 DLCB DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000CQMYME2,A41RS6,JPM-USD HY BD UE EOHA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000CQMYME2,A41RS6,JPM-USD HY BD UE EOHA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000CWS09Q9,A40E7P,LG-CBEBHR02Y DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000CWS09Q9,A40E7P,LG-CBEBHR02Y DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000CZJPCH1,A41FME,ISHS3-EOHYCBDEA EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000CZJPCH1,A41FME,ISHS3-EOHYCBDEA EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000D1DAPO5,A419ZT,R.C.E.G.BD EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000D1DAPO5,A419ZT,R.C.E.G.BD EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000D9WMGF0,A40MD4,ISHSVIBD31TEOC EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000D9WMGF0,A40MD4,ISHSVIBD31TEOC EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000E0NL9T3,A40MDF,ISHSVIBD33TEOC EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000E0NL9T3,A40MDF,ISHSVIBD33TEOC EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000EEJLWG1,A401SL,IS US MBS HGD(EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000EEJLWG1,A401SL,IS US MBS HGD(EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000EVUY6K9,A41GW2,ISHSIII-BRDL HGDEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000EVUY6K9,A41GW2,ISHSIII-BRDL HGDEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000FK14CA5,A3ERTM,FID2-DL HY CBDREPAB HGEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000FK14CA5,A3ERTM,FID2-DL HY CBDREPAB HGEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000FZ1S3M3,A41F45,IS2-DL CBESU HGDEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000FZ1S3M3,A41F45,IS2-DL CBESU HGDEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000GB2EQ90,A3E2UW,IM2-I.BS30 DLCB DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000GB2EQ90,A3E2UW,IM2-I.BS30 DLCB DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000GE4QIR1,A2PEPR,IM2-USTB10+YETF DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000GE4QIR1,A2PEPR,IM2-USTB10+YETF DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000GMRDSZ7,A3E2UP,IM2-I.BS28 DLCB DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000GMRDSZ7,A3E2UP,IM2-I.BS28 DLCB DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000H5X52W8,A3EFXB,IV-IB1227TEEOCO ()EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000H5X52W8,A3EFXB,IV-IB1227TEEOCO ()EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000HDEYKM3,A3ERTU,FID2-EO HY CBDREPAB EO D,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000HDEYKM3,A3ERTU,FID2-EO HY CBDREPAB EO D,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000I1D7D10,A3EHAL,ISHSV-IBO27TDLC ()DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000I1D7D10,A3EHAL,ISHSV-IBO27TDLC ()DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000I1Q42S9,A3EHAM,ISHSV-IBO27TDLC ()DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000I1Q42S9,A3EHAM,ISHSV-IBO27TDLC ()DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000I2WYEU9,A40MD5,ISHSVIBD31TEOC EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000I2WYEU9,A40MD5,ISHSVIBD31TEOC EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000I660ZF8,A40MD9,ISHSVIBD32TEOC EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000I660ZF8,A40MD9,ISHSVIBD32TEOC EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000IAPH329,A3EXR0,BNPPE2 US HY OPPS UE DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000IAPH329,A3EXR0,AX.I.U.H.OP.E DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000IEOQSJ3,A40MLS,JPM-EUR HY BD UE EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000IEOQSJ3,A40MLS,JPMETFEOHYBAETF JPETFEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000IHURBR0,A3EK6B,ISH.D.29 T.EO EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000IHURBR0,A3EK6B,ISH.D.29 T.EO EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000IUNJSL2,A3EX86,ST.STR.BB 0.3 Y EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000IUNJSL2,A3EX86,SPDR B0-3ECB EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000J6CHW80,A3EEYM,VANECKUSFAHYB ADLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000J6CHW80,A3EEYM,VANECKUSFAHYB ADLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000JBB8CR7,A3EG2R,BEII EOCRPBOPP EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000JBB8CR7,A3EG2R,AXAIM-EO CR.PAB EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000JJQ6248,A3ERTL,FID2-DL C.BD RE PAB DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000JJQ6248,A3ERTL,FID2-DL C.BD RE PAB DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000K44CW70,A40MDC,ISHSVIBD33TDLC DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000K44CW70,A40MDC,ISHSVIBD33TDLC DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000LETV955,A40MDD,ISHSVIBD33TDLC DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000LETV955,A40MDD,ISHSVIBD33TDLC DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000LX17BP9,A3EK6D,ISH.D.30 T.EO EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000LX17BP9,A3EK6D,ISH.D.30 T.EO EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000LZI2UH4,A40MLY,JPM-USD HY BD UE DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000LZI2UH4,A40MLY,JPMETFDLHYBAETF JPETFDLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000M02BVY5,A40UC3,GS-EO HY BD AC ()EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000M02BVY5,A40UC3,GS-EO HY BD AC ()EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000M284BG0,A425UX,IM IV-EO IG CBA EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000M284BG0,A425UX,IM IV-EO IG CBA EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000N0TTJQ9,A3EWV3,BNPPE2 DL CR.PABOPP.UEDLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000N0TTJQ9,A3EWV3,AXA IM.D.C.P.E 100000DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000N4E8XZ6,A419YW,B.D.29 T.H.Y.C. DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000N4E8XZ6,A419YW,B.D.29 T.H.Y.C. DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000NA8E2W0,A40F8U,LG DL CB SCR.ETF EOHAETF,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000NA8E2W0,A40F8U,LG DL CB SCR.ETF EOHAETF,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000NBRE3P7,A3EEYV,ISIV-EO UL.BD ESG SRI EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000NBRE3P7,A3EEYV,ISIV-EO UL.BD ESG SRI EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000O1FWAW6,A41A3A,ISHS2-IBD35TCE EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000O1FWAW6,A41A3A,ISHS2-IBD35TCE EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000O36LOH8,A3E2US,IM2-I.BS26 DLCB DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000O36LOH8,A3E2US,IM2-I.BS26 DLCB DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000PUAKZP8,A41MLE,ROB-3D EN.I.CRE EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000PUAKZP8,A41MLE,ROB-3D EN.I.CRE EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000PWSK6H1,A424JV,IS.IBD D37 T.EO EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000PWSK6H1,A424JV,IS.IBD D37 T.EO EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000Q0UH3Y7,A41A37,ISHS2-IBD28TCCE EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000Q0UH3Y7,A41A37,ISHS2-IBD28TCCE EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000QJMYB29,A406PW,ISH.D.29 T.DL ()DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000QJMYB29,A406PW,ISH.D.29 T.DL ()DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000R7DCW45,A40MLW,JPM-USD HY BD UE HEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000R7DCW45,A40MLW,JPM-USD HY BD UE HEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000R7KKFN3,A41MY3,IS3-EOFIBDA EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000R7KKFN3,A41MY3,IS3-EOFIBDA EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000R88UVN6,A40MLZ,JPM-USD HY BD UE DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000R88UVN6,A40MLZ,JPMETFDLHYBAETF JPETFDLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000RC18FG8,A40MDH,ISHSVIBD34TDLC DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000RC18FG8,A40MDH,ISHSVIBD34TDLC DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000RJL5A30,A40XDC,IS3DLCBENACTETF DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000RJL5A30,A40XDC,IS3DLCBENACTETF DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000RQJBQI6,A424JS,IS.IBD D36 T.EO EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000RQJBQI6,A424JS,IS.IBD D36 T.EO EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000RW7V8Q4,A401NL,SH.BD ESG E. (A)EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000RW7V8Q4,A401NL,SH.BD ESG E. (A)EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000SBJO6L2,A40MDL,ISHSVIBD34TEOC EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000SBJO6L2,A40MDL,ISHSVIBD34TEOC EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000SCAG5Q1,A41FKE,F2-F.DL C.B.R. HGDEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000SCAG5Q1,A41FKE,F2-F.DL C.B.R. HGDEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000SIZJ2B2,A3D8E3,ISHSV IBD26TEOC EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000SIZJ2B2,A3D8E3,ISHSV IBD26TEOC EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000SNLFDR7,A40KHR,ISH.D.29 T.EO EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000SNLFDR7,A40KHR,ISH.D.29 T.EO EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000UJSC3C9,A41A38,ISHS2-IBD29TCCE EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000UJSC3C9,A41A38,ISHS2-IBD29TCCE EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000UY6XF65,A40MDK,ISHSVIBD34TEOC EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000UY6XF65,A40MDK,ISHSVIBD34TEOC EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000VNGJFV0,A40SRA,ISHS DUR B HGDEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000VNGJFV0,A40SRA,ISHS DUR B HGDEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000VSFIC94,A3D8N2,ISHSIII-BRDL HGDEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000VSFIC94,A3D8N2,ISHSIII-BRDL HGDEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000VVBM1F6,A40MDJ,ISHSVIBD34TDLC DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000VVBM1F6,A40MDJ,ISHSVIBD34TDLC DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000W24OG76,A41FKH,F2-F.DL C.B.R. DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000W24OG76,A41FKH,F2-F.DL C.B.R. DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000WA6L436,A3EHAJ,ISHSV IBD26TEOC ()EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000WA6L436,A3EHAJ,ISHSV IBD26TEOC ()EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000WAKWCV7,A40JGA,JPM-EUR IGCP BD A UE EDEO,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000WAKWCV7,A40JGA,JPM EO IG COR.BD AC. EDEO,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000WLR06P0,A41A3B,ISHS2-IBD35TCE EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000WLR06P0,A41A3B,ISHS2-IBD35TCE EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000WXLHR76,A3ET83,JH-EUSIGBPACC ETF EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000WXLHR76,A3ET83,TI-JH EO UIG BD PACC EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000XE5BZ07,A425UY,IM IV-EO IG CBS EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000XE5BZ07,A425UY,IM IV-EO IG CBS EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000Y247W99,A3EK6A,ISH.D.29 T.DL DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000Y247W99,A3EK6A,ISH.D.29 T.DL DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000Y2BJVK9,A40KHS,ISH.D.30 T.EO EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000Y2BJVK9,A40KHS,ISH.D.30 T.EO EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000Y2JPPS4,A40V0V,IM2-EO AAA CLO EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000Y2JPPS4,A40V0V,IM2-EO AAA CLO EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000YMQ2SC9,A40E7Q,LG-CBEBHR02Y HDG ACEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000YMQ2SC9,A40E7Q,LG-CBEBHR02Y HDG ACEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000YSJPNV8,A40MLT,JPM-EUR HY BD UE EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000YSJPNV8,A40MLT,JPMETFEOHYBAETF JPETFEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000Z6C4D62,A425UV,IM IV-EO IG CBA EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000Z6C4D62,A425UV,IM IV-EO IG CBA EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000ZBGZQM8,A40MDE,ISHSVIBD33TEOC EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000ZBGZQM8,A40MDE,ISHSVIBD33TEOC EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000ZH72RF4,A40JUX,ISHSIII-BRDL HGD SFA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000ZH72RF4,A40JUX,ISHSIII-BRDL HGD SFA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000ZOI8OK5,A3EGGM,IV-IB1227TEEOCO ()EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000ZOI8OK5,A3EGGM,IV-IB1227TEEOCO ()EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000ZUAJ6B7,A3E2UM,IM2-I.BS26 DLCB DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000ZUAJ6B7,A3E2UM,IM2-I.BS26 DLCB DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE0032895942,911950,IS DL CORP BD U.ETF DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE0032895942,911950,IS DL CORP BD U.ETF DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00B4PY7Y77,A1H5UN,ISHSII-DLHY CORP BD DLDIS,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00B4PY7Y77,A1H5UN,ISHSII-DLHY CORP BD DLDIS,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00B99FL386,A1W3VZ,SPDR BLUSHGHYLDCSCOR.UETF,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00B99FL386,A1W3VZ,SPDR BLUSHGHYLDCSCOR.UETF,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BC7GZX26,A1W3V2,ST.S.SPDR B0-3Y.US C.B.UE,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BC7GZX26,A1W3V2,ST.S.SPDR B0-3Y.US C.B.UE,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BCLWRB83,A1W37Y,IS DL C.B.I.R.H.U.ETF DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BCLWRB83,A1W37Y,IS DL C.B.I.R.H.U.ETF DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BCRY5Y77,A1W372,ISIV-DL S.D.C.B U.ETF DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BCRY5Y77,A1W372,ISIV-DL S.D.C.B U.ETF DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BCRY6003,A1W373,ISHSIV-DL S.D.H.Y.BD DL D,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BCRY6003,A1W373,ISHSIV-DL S.D.H.Y.BD DL D,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BCRY6227,A1W374,ISHSIV-DL ULTRASH.BD DL D,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BCRY6227,A1W374,ISHSIV-DL ULTRASH.BD DL D,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BD0Q9673,A2AN8T,INVESCOM3-US FALLENG DIS,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BD0Q9673,A2AN8T,INVESCOM3-US FALLENG DIS,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BD9MMF62,A2JG3C,JPM-EUR ULT INC UE A,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BD9MMF62,A2JG3C,JPM-EO USIACT A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BDFC6Q91,A2JBL6,JPM-USD ULT INC UE DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BDFC6Q91,A2JBL6,JPM-DL U-SH.INC.AUE DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BDFJYL11,A2JE30,ISHSII-DLHY CORP BD LSHDD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BDFJYL11,A2JE30,ISHSII-DLHY CORP BD LSHDD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BDFJYP58,A2JE36,ISHSIV-FALL.A.H.Y.C.BDDLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BDFJYP58,A2JE36,ISHSIV-FALL.A.H.Y.C.BDDLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BDFK3736,A2JE38,ISHS DL COR.BD UC.ETF LHD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BDFK3736,A2JE38,ISHS DL COR.BD UC.ETF LHD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BDR5HM97,A2DXQ6,X(IE)-USD HIGH YLD C.B.1D,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BDR5HM97,A2DXQ6,X(IE)-USD HIGH YLD C.B.1D,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BDT8V027,A2JEE2,INVESCOM2 PREFSH EURHD A,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BDT8V027,A2JEE2,INVESCOM2 PREFSH EURHD A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BDVJF675,A2DVWJ,INVESCOM2 PREF SHARES A,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BDVJF675,A2DVWJ,INVESCOM2 PREF SHARES A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BF2FN752,A2PEPQ,IMII-US T.B7-10 DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BF2FN752,A2PEPQ,IMII-US T.B7-10 DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BF2FNH52,A2PEPP,IMII-US T.B.1-3 DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BF2FNH52,A2PEPP,IMII-US T.B.1-3 DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BF2FNR50,A2PEPS,INVESCO MKTS II DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BF2FNR50,A2PEPS,INVESCO MKTS II DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BF3N6Y61,A2DUCY,ISHS DL COR.BD UC.ETF EHD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BF3N6Y61,A2DUCY,ISHS DL COR.BD UC.ETF EHD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BF3N7102,A2DUCX,ISHSII-DLHY CORP BD EOHDD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BF3N7102,A2DUCX,ISHSII-DLHY CORP BD EOHDD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BF4TW784,A28DSR,WITR MU.AS.I. ETP 2062,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BF4TW784,A28DSR,WITR MU.AS.I. ETP 2062,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BF51K025,A2DX8R,INVESCOM2-DLIGCOBDESGCT A,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BF51K025,A2DX8R,INVESCOM2-DLIGCOBDESGCT A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BF8J5974,A2H5F5,XT.-DLCOBDDUSRIPAB 1D,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BF8J5974,A2H5F5,XT.-DLCOBDDUSRIPAB 1D,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BFWXDX52,A2JKUW,FT ICAV-F.DL IGCB ETF DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BFWXDX52,A2JKUW,FT ICAV-F.DL IGCB ETF DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BFZPF439,A2JK9Y,IM2-INV.DL AT1 COCOBD EHA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BFZPF439,A2JK9Y,INVESCOM3 AT1 CAP B EH A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BG04LT92,A2JDYP,X(IE)-USD H.Y.C.BD 2CEOHD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BG04LT92,A2JDYP,X(IE)-USD H.Y.C.BD 2CEOHD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BG0J4957,A2JMGF,ISHSIII-BR.DL HY C.BD DD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BG0J4957,A2JMGF,ISHSIII-BR.DL HY C.BD DD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BG5QQ390,A2N9ZM,ISHS2-DCB03YESRI ETF EOHD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BG5QQ390,A2N9ZM,ISHS2-DCB03YESRI ETF EOHD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BG8BCY43,A2N8HQ,JPM-USD ULT INC UE DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BG8BCY43,A2N8HQ,JPM-DL U-SH.INC.AUE DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BGCSB447,A2JNLJ,ISHS IV DL USB USDDLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BGCSB447,A2JNLJ,ISHS IV DL USB USDDLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BGYWFK87,A2PCCH,VAN.USD CORP.BD DL ACC,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BGYWFK87,A2PCCH,VAN.USD CORP.BD DL ACC,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BGYWFL94,A2P743,VAN.USD CORP.BD HGDEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BGYWFL94,A2P743,VAN.USD CORP.BD HGDEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BH4G7D40,A2PSB1,ISH2-DL C.BD E.S.U.HGDEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BH4G7D40,A2PSB1,ISH2-DL C.BD E.S.U.HGDEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BJK55B31,A2PNZL,IS2-DLHYCBESGSRI ETF  EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BJK55B31,A2PNZL,IS2-DLHYCBESGSRI ETF  EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BJP26C72,A2PW6R,ISIV-DL UL.BD EU.E.TF DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BJP26C72,A2PW6R,ISIV-DL UL.BD EU.E.TF DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BK4W7N32,A2PSEQ,ISH2-DL C.BD E.S.U.DL DIS,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BK4W7N32,A2PSEQ,ISH2-DL C.BD E.S.U.DL DIS,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BKF09C98,A2PNJM,IS2-DLHYCBESGSRI ETF  DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BKF09C98,A2PNJM,IS2-DLHYCBESGSRI ETF  DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BKKKWJ26,A2PY8F,ISH2-DL C.BD E.S.U.DL ACC,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BKKKWJ26,A2PY8F,ISH2-DL C.BD E.S.U.DL ACC,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BKP5L409,A2PU3R,ISHSIV-US MO.B.SE. EOHEAC,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BKP5L409,A2PU3R,ISHSIV-US MO.B.SE. EOHEAC,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BKRWN659,A2PSPZ,ISH3-DL DBB ETF DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BKRWN659,A2PSPZ,ISH3-DL DBB ETF DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BKS8QT65,A1VF93,WITR MU.AS.I.TREAS.Z14/62,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BKS8QT65,A1VF93,WITR MU.AS.I.TREAS.Z14/62,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BKT09032,A14HU4,WITR MU.AS.I. ETP 2062,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BKT09032,A14HU4,WITR MU.AS.I. ETP 2062,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BL58LJ19,A2P5C7,X(IE)-DLCOBDSRIPAB 1CDL,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BL58LJ19,A2P5C7,X(IE)-DLCOBDSRIPAB 1CDL,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BL58LL31,A2P5C9,X(IE)-DLCOBDSRIPAB SCEOHD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BL58LL31,A2P5C9,X(IE)-DLCOBDSRIPAB SCEOHD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BLF7VX27,A2QB0R,SSEEI-SBSUCSC. UNHDLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BLF7VX27,A2QB0R,SSEEI-SBSUCSC. UNHDLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BLRPRD67,A2QFQ4,LG DL CB SCR.ETF DLDETF,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BLRPRD67,A2QFQ4,LG DL CB SCR.ETF DLDETF,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BMCZLH06,A2QA0V,ISH3-DL DBB ETF CL-HDGEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BMCZLH06,A2QA0V,ISH3-DL DBB ETF CL-HDGEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BMDFDY08,A2QA0U,IS2-DLHYCBESGSRI ETF EOHA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BMDFDY08,A2QA0U,IS2-EOHYCBESGSRI ETF EOHA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BN4GXL63,A2QJ93,JH-EUSIGBPACC ETF EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BN4GXL63,A2QJ93,TI-JH EO UIG BD PACC EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BNH72088,A12CZS,STSEE2-SFGCB D,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BNH72088,A12CZS,SSEEII-S.FTSE GL.CON.BD D,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BYM31M36,A2AFCX,ISHSIV-FALL.A.H.Y.C.BDDLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BYM31M36,A2AFCX,ISHSIV-FALL.A.H.Y.C.BDDLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BYNXPJ70,A3GMCH,WITR MU.AS.I. ETP 2062,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BYNXPJ70,A3GMCH,WITR MU.AS.I. ETP 2062,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BYTH5602,A3DESY,SPDR BLUSHGHYLDCSCO.HDGEO,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BYTH5602,A3DESY,SPDR BLUSHGHYLDCSCO.HDGEO,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BYV12Y75,A2ACRD,S.S BB 1-10 Y.US CB UHDLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BYV12Y75,A2ACRD,SPDR B.1-10Y.USCB.DLUD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BYVTMZ20,A2DT9W,INVESCOM3-US FALLENG EUR,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BYVTMZ20,A2DT9W,INVESCOM3-US FALLENG EUR,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BYXYYJ35,A2DN9X,ISHS DL COR.BD UC.ETF DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BYXYYJ35,A2DN9X,ISHS DL COR.BD UC.ETF DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BYXYYL56,A2DN9Y,ISHSII-DL HY COR.BD USD A,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BYXYYL56,A2DN9Y,ISHSII-DL HY COR.BD USD A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BYXYYN70,A2DN9T,ISHSIV-US MO.B.SE.ETF DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BYXYYN70,A2DN9T,ISHSIV-US MO.B.SE.ETF DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BYXYYP94,A2DN9V,ISHSIV-DL SD C.BD ETF DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BYXYYP94,A2DN9V,ISHSIV-DL SD C.BD ETF DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BZ036H21,A14XH5,X(IE)-USD CORP.BD 1DDL,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BZ036H21,A14XH5,X(IE)-USD CORP.BD 1DDL,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BZ036J45,A14XH4,X(IE)-USD CORP.BD 2DEOH,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BZ036J45,A14XH4,X(IE)-USD CORP.BD 2DEOH,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BZ048579,A2DS7Y,ISHS2-DCB03YESRI ETF DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BZ048579,A2DS7Y,ISHS2-DCB03YESRI ETF DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BZ0G8860,A14071,ST.S BB 1.Y U,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BZ0G8860,A14071,SPDR B.10+Y.US C.B.UETF,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BZ0XVG69,A2JKH5,WISDOMTREE AT1 COCO BD DA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BZ0XVG69,A2JKH5,WISDOMTREE AT1 COCO BD DA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BZ163K21,A143JM,VANG.USD CORP.B.U.ETF DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BZ163K21,A143JM,VANG.USD CORP.B.U.ETF DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BZ173W74,A2JNLG,ISHS USD CBIRH USDDLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BZ173W74,A2JNLG,ISHS USD CBIRH USDDLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BZ17CN18,A2JNLH,ISH DL SDHYCB USDDLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BZ17CN18,A2JNLH,ISH DL SDHYCB USDDLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BZ6V7883,A2AGYT,ISIV-US MO.B.SE.U.ETF DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00BZ6V7883,A2AGYT,ISIV-US MO.B.SE.U.ETF DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU0321465469,DBX0A0,XTR.II USD OV.RATE SW. 1C,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU0321465469,DBX0A0,XTR.II USD OV.RATE SW. 1C,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1048314949,A110QP,UBSBBGUSLQC1-5 ADL,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1048314949,A110QP,UBSBBGUSLQC1-5 ADL,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1048315243,A110QS,UBSBBGUSLQC1-5 HEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1048315243,A110QS,UBSBBGUSLQC1-5 HEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1048316647,A110Q5,UBS C.BBG USL.CORP.UE DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1048316647,A110Q5,UBS C.BBG USL.CORP.UE DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1048317025,A110Q8,UBS C.BBG USL.CRP.UE HEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1048317025,A110Q8,UBS C.BBG USL.CRP.UE HEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1215415214,LYX0TM,AIS-AM.EO H.Y.CO.BD ESG A,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1215415214,LYX0TM,AIS-AM.EO H.Y.CO.BD ESG A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1215461325,A14YV6,UBS BBGMSCI USLCSUE HEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1215461325,A14YV6,UBS BBGMSCI USLCSUE HEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1285959703,LYX0T6,AIS-AM USD CORP BD CPA D,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1285959703,LYX0T6,AIS-AM USD CORP BD CPA D,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1285959885,LYX9ZN,AIS-AM USD CORP BD CPA A,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1285959885,LYX9ZN,AIS-AM USD CORP BD CPA A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1285960032,LYX0VD,AIS-AM USD CO.BD CPA EOHD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1285960032,LYX0VD,AIS-AM USD CO.BD CPA EOHD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1390062831,LYX0U5,MUL AMUN US INFLEX ETF A,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1390062831,LYX0U5,MUL AMUN US INFLEX ETF A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1407890547,LYX9ZS,MUL-AMUN US TREAS ETF ACC,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1407890547,LYX9ZS,MUL-AMUN US TREAS ETF ACC,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1407890620,LYX0Z9,MUL-AMUN US TREAS ETF DIS,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1407890620,LYX0Z9,MUL-AMUN US TREAS ETF DIS,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1407890976,LYX00A,MUL-AM US TREAS ETF EOH,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1407890976,LYX00A,MUL-AM US TREAS ETF EOH,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1435356065,LYX9ZP,AIS-AMU USD HY COB ESG,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1435356065,LYX9ZP,AIS-AMU USD HY COB ESG,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1435356149,LYX0V1,AIS-AMU USD HY COB ESG,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1435356149,LYX0V1,AIS-AMU USD HY COB ESG,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1435356495,LYX0V0,AIS-AMU USD HY COB ESG,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1435356495,LYX0V0,AIS-AMU USD HY COB ESG,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1459799943,A2APEA,UBS CORE BBG US TREAS.DLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1459799943,A2APEA,UBS CORE BBG US TREAS.DLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1459800030,A2APAG,UBS CORE BBG US TREAS.DLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1459800030,A2APAG,UBS CORE BBG US TREAS.DLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1681040900,A2H59C,AIS-AM.USD FR C.BD.ESG DR,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1681040900,A2H59C,AIS-AM.USD FR C.BD.ESG DR,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1681041031,A2H59D,AIS-AM.USD FR C.BD.ESG DR,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1681041031,A2H59D,AIS-AM.USD FR C.BD.ESG DR,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1806495575,A2JH17,AIS-A.DL CRP.BD ESG UEDRC,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1806495575,A2JH17,AIS-A.DL CRP.BD ESG UEDRC,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1852211215,A2JQW7,UBSSUSTDEVBKBDS ADLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1852211215,A2JQW7,UBSSUSTDEVBKBDS ADLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1852211645,A2JQXB,UBSSUSTDEVBKBDS AHEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1852211645,A2JQXB,UBSSUSTDEVBKBDS AHEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1852211991,A2JQXC,UBSSUSTDEVBKBDS AHEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1852211991,A2JQXC,UBSSUSTDEVBKBDS AHEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1852212965,A2JQW6,UBSSUSTDEVBKBDS ADLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1852212965,A2JQW6,UBSSUSTDEVBKBDS ADLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2018762653,LYX00G,MUL AMUN US C STE2-10 ETF,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2018762653,LYX00G,MUL AMUN US C STE2-10 ETF,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2037749152,A2PP4C,AIS-AM.C.USD CO.BD UELSHD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2037749152,A2PP4C,AIS-AM.C.USD CO.BD UELSHD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2089239276,A2PWMS,AIS-AM.C.USD CO.BD UEDLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2089239276,A2PWMS,AIS-AM.C.USD CO.BD UEDLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2178481649,A2P4XG,XII-EOCOBDSHDUSRIPAB1CEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2178481649,A2P4XG,XII-EOCOBDSHDUSRIPAB1CEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2297533809,A2QN4F,AIS-A.DL C.BD ESGUEDRHEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2297533809,A2QN4F,AIS-A.DL C.BD ESGUEDRHEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2408468291,A3C84J,UBSBBGMSCIUSLC1-5SUE HEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2408468291,A3C84J,UBSBBGMSCIUSLC1-5SUE HEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2533811910,A3D4LH,BNPPEEOCBSRIFFUSD UETFEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2533811910,A3D4LH,B.P.E.C.B U.ETFEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2616776444,A3D4LG,B.P.E.C.BO.S U.ETFDLD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2616776444,A3D4LG,B.P.E.C.BO.S U.ETFDLD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2673522830,DBX0U6,X.IIT.M.S.27EO 1 CEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2673522830,DBX0U6,X.IIT.M.S.27EO 1 CEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2673522913,DBX0U7,X.IIT.M.S.29EO 1 CEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2673522913,DBX0U7,X.IIT.M.S.29EO 1 CEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2673523051,DBX0U9,X.IIT.M.S.33EO 1 CEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2673523051,DBX0U9,X.IIT.M.S.33EO 1 CEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2673523135,DBX0U8,X.IIT.M.S.31EO 1 CEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2673523135,DBX0U8,X.IIT.M.S.31EO 1 CEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2673523218,DBX0VA,X.IIT.M.S.27EO 1DEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2673523218,DBX0VA,X.IIT.M.S.27EO 1DEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2673523309,DBX0VB,X.IIT.M.S.29EO 1DEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2673523309,DBX0VB,X.IIT.M.S.29EO 1DEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2673523481,DBX0VC,X.IIT.M.S.31EO 1DEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2673523481,DBX0VC,X.IIT.M.S.31EO 1DEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2673523564,DBX0VD,X.IIT.M.S.33EO 1DEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2673523564,DBX0VD,X.IIT.M.S.33EO 1DEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2697596745,A4004T,BNPPE-ESG E.EO COBD UEEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2697596745,A4004T,BNPPE-ESG E.EO COBD UEEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2697596828,A400LP,BNPPE-ESG E.EO COBD UEEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2697596828,A400LP,BNPPE-ESG E.EO COBD UEEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2742532745,A40B4F,BNPPE-EO CBD SP 7-10Y EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2742532745,A40B4F,BPE-EOCOBDSRIPAB7-10 EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2742532828,A40B4D,BNPPE-EO CBD SP 7-10Y EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2742532828,A40B4D,BPE-EOCOBDSRIPAB7-10 EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2785470191,A40E6R,ALPHA-FAIR OAKS AAA EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2785470191,A40E6R,ALPHA-FAIR OAKS AAA EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2809864296,DBX0VZ,XTR2TMS30ECBETF 1DEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2809864296,DBX0VZ,XTR2TMS30ECBETF 1DEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2809864452,DBX0V1,XTR2TMS32ECBETF 1DEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2809864452,DBX0V1,XTR2TMS32ECBETF 1DEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2809864619,DBX0V3,XTR2TMS34ECBETF 1DEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2809864619,DBX0V3,XTR2TMS34ECBETF 1DEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2810185665,DBX0V6,XTR.2-T.M.SE.28 1DEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2810185665,DBX0V6,XTR.2-T.M.SE.28 1DEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2823895763,A40JH9,BNPPE-ESG E.EO CB1232 EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2823895763,A40JH9,BNPPE-ESGENEOCOBD1232 EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2823895847,A40HNF,BNPPE-ESG E.EO CB1232 EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2823895847,A40HNF,BNPPE-ESGENEOCOBD1232 EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2823896738,A40JH8,BNPPE-ESG E.EO CB1229 EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2823896738,A40JH8,BNPPE-ESGENEOCOBD1229 EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2823896811,A40HNE,BNPPE-ESG E.EO CB1229 EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2823896811,A40HNE,BNPPE-ESGENEOCOBD1229 EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2825556892,A411DK,ALPHA-FOACFD UCITSETFEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2825556892,A411DK,ALPHA-FOACFD UCITSETFEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2941599081,A40VNF,JH EUR AAA CLO ACORE EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2941599081,A40VNF,JH EUR AAA CLO ACORE EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2941599164,A40VNG,JH EUR AAA CLO ACORE EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2941599164,A40VNG,JH EUR AAA CLO ACORE EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2977997381,ETF244,AIS-AM.C.USD CO.BD HGDEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2977997381,ETF244,AIS-AM.C.USD CO.BD HGDEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2993397939,A41ASP,BNPPE-A.E.DL C.BD UETFDLA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2993397939,A41ASP,BNPPEALENDLCOBD U.ETFDLA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU3028243122,A415BV,UBSEOAAACLOETF AEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU3028243122,A415BV,UBSEOAAACLOETF AEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU3152892546,DBX0XS,XT2TAMA0935EOCB 1DEOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU3152892546,DBX0XS,XT2TAMA0935EOCB 1DEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU3281688807,A422BH,OM MSCI EO IG UN.CO. EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU3281688807,A422BH,OML-MSCI EU IG U.ETFEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "XS2595671657,A3G4XL,LEVERAGE SHARES -5TIPSETP,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "XS2595671657,A3G4XL,LEVERAGE SHARES -5TIPSETP,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "XS2595672036,A3G4XP,LEVERAGE SHARES 5X20T ETP,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "XS2595672036,A3G4XP,LEVERAGE SHARES 5X20T ETP,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "XS2595672382,A3G4XQ,LEVERAGE SHARES -5X20TETP,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "XS2595672382,A3G4XQ,LEVERAGE SHARES -5X20TETP,ETFs,ETFs Sonstige Bonds,,,,"
+    }
+  ],
+  "Deletions": [
+    "XS3068790065,A4AP15,LEVERAGE SHA ETP 2075,ETFs,sonstige ETFs,,,,",
+    "XS3068790222,A4AP16,LEVERAGE SHA ETP 2075,ETFs,sonstige ETFs,,,,",
+    "XS3299463128,A4ARXT,LEVERAGE SHARES ADI ETP,ETFs,sonstige ETFs,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 256,
+    "Deletions": 3
+  }
+}

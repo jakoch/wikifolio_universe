@@ -1,0 +1,64 @@
+{
+  "Additions": [
+    "GB00BKS7YK08,A112AM,\"TREATT PLC        LS-, 02\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA22112H1010,A40J1L,COSCIENS BIOPHARMA CORP.,Aktien International,Aktien International,,,,",
+    "CA60283L8087,A41XPQ,MINERA ALAMOS,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "FR0010820274,A12CFW,\"UNIFY GROUP S.A.  EO -, 02\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR0010820274,A12CFW,\"REWORLD MEDIA     EO -, 02\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "ID1000106602,A0MW2K,ANEKA TAM.PERSERO  RP 100,Aktien International,Aktien International,,,,",
+      "Current": "ID1000106602,A0MW2K,PT ANEKA TAMBANG TBK REGISTERED SHARES RP 100,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE000A2AQ952,A2AQ95,AXIA WERTEFONDS R,Fonds,Fonds Aktien,,,,",
+      "Current": "DE000A2AQ952,A2AQ95,SOLIT WERTEFONDS R,Fonds,Fonds Aktien,,,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "US9675902095,A2QEMU,WIDEPOINT,Aktien USA,Aktien USA Select,,,,",
+    "US37364X1090,A1J5K9,\"GEOSPACE TECHS     DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "AU0000158594,A3CY5D,PEXA GROUP LTD,Aktien International,Aktien International,,,,",
+    "US64125S1042,A42CJ9,NEUTRON HOLDINGS INC.,Aktien USA,Aktien USA Select,,,,",
+    "US09075A1088,A2APNA,BIOVENTUS INC. A  DL -001,Aktien USA,Aktien USA Select,,,,",
+    "US74623V1035,A2QPLB,PURECYCLE TECHNOLOGIES,Aktien USA,Aktien USA Select,,,,",
+    "SE0029278985,A42DWW,TANGEN INDUSTRIKAPITAL B,Aktien Europa,Aktien Europa Select,,,,",
+    "JP3860340003,A3DNHG,MICROWAVE CHEMICAL CO.LTD,Aktien International,Aktien International,,,,",
+    "US3742751056,A3DH6V,GETTY IMAGES HLDGS DL-01,Aktien USA,Aktien USA Select,,,,",
+    "DK0064982565,A42EFP,INSTALLATOERGRUPPEN  DK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "CA60365B1085,A42FBY,MINING AMERS INC.,Aktien International,Aktien International,,,,",
+    "CA76091C1032,A41L3H,RZOLV TECHNOLOGIES INC.,Aktien International,Aktien International,,,,",
+    "US8678661054,A42CZ3,SUNSHINE S.M.+R. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "JP3771800004,893998,HAMAMATSU PHOTONICS KK,Aktien International,Aktien International,,,,",
+    "DK0064867972,A42CV2,\"BIOMAR GROUP A/S  DK 2, 50\",Aktien Europa,Aktien Europa Select,,,,",
+    "SE0028329433,A42ABA,OCTAVE INT.SDRS O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "DE0005031801,503180,ZOOL.GART.BLN. NA EO 520,Aktien Deutschland,Aktien Sonstige,,,,",
+    "IT0005717696,A42FFQ,BENDING SPOONS S.P.A.,Aktien USA,Aktien USA Select,,,,",
+    "AU000000PDI8,A1C7ZF,PREDICTIVE DISCOVERY LTD.,Aktien International,Aktien International,,,,",
+    "JP3161330000,A3C9AY,EXAWIZARDS INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 7,
+    "Deletions": 20
+  }
+}

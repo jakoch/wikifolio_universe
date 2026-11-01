@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "NO0010895568,A2QHM2,\"AIRTHINGS AS  NK -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "SE0010521153,A2JADJ,SCOUT GAMING GROUP,Aktien Europa,Aktien Europa Select,,,,",
+    "CA0037352063,A42EJQ,ABOUND ENERGY INC.  O.N.,Aktien International,Aktien International,,,,",
+    "CA15956X1096,A3DKKD,CHARBONE HYDROGEN CORP.,Aktien International,Aktien International,,,,",
+    "US15235A1025,A41ZXN,AXIA ENERGIA ADRB,Aktien International,Aktien International,,,,",
+    "US5747951003,578074,MASIMO CORP.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA1599161058,A42DFZ,CHARBONE CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

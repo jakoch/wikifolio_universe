@@ -1,0 +1,17 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "XS2399364152,A3GWCW,LEVERAGE SHARES 5XQQQ ETP,ETFs,sonstige ETFs,,,,",
+      "Current": "XS2399364152,A3GWCW,LEVERAGE SHA ETP 2071,ETFs,sonstige ETFs,,,,"
+    }
+  ],
+  "Deletions": [
+    "IE000SNMGYT5,A4195Z,FTVSP500DIARTAI BDLD,ETFs,sonstige ETFs,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

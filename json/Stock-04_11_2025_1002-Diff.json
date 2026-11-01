@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "CA9814482027,A3CRGE,WORLD COPPER LTD,Aktien International,Aktien International,,,,",
+    "JP3635510005,A3EN5N,TRYT INC.,Aktien International,Aktien International,,,,",
+    "US1693731077,884475,\"CHINA FD INC.      DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "NO0013251173,A40CZ2,ONCOINVENT ASA,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "NO0013251173,A40CZ2,BERGENBIO ASA,Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "GB00BV9DPV21,A41R44,\"SHAWBROOK GROUP LS-, 005\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA98144X1087,A41NGX,WORLD COPPER LTD NEW,Aktien International,Aktien International,,,,",
+    "US8173234050,A41HLS,SEQUANS COMMNUN.S.ADR/100,Aktien USA,Aktien USA Select,,,,",
+    "LU0346389348,A0NGW1,FID.FDS-GL.TECHN.YACCEO,Fonds,Fonds Aktien,,,,",
+    "DE000A3EKR38,A3EKR3,BIT DEFENSIVE GROWTH R-II,Fonds,Fonds Aktien,,,,",
+    "GB00BTWSXB68,A41MEH,\"BEAUTY TECH GROUP LS -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "CNE1000075S4,A41QK2,SANY HEAVY IND.CO. H HD 1,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 7
+  }
+}

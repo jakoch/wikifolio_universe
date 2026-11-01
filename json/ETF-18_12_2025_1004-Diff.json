@@ -1,0 +1,23 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE000ETFL540,ETFL54,DEKA MSCI G.CL.CH.ESG CTB,ETFs,ETFs Deutschland,,,,",
+      "Current": "DE000ETFL540,ETFL54,DEKA MSCI GERM.CL.CH.ESG,ETFs,ETFs Deutschland,,,,"
+    },
+    {
+      "Original": "DE000ETFL557,ETFL55,DEKA MSCI EMU C.CH.CTB UE,ETFs,ETFs Europa Gesamt,,,,",
+      "Current": "DE000ETFL557,ETFL55,DEKA MSCI EMU CLI.CH.ESG,ETFs,ETFs Europa Gesamt,,,,"
+    },
+    {
+      "Original": "DE000ETFL573,ETFL57,DEKA MS.USA CL.CH.CTB ESG,ETFs,ETFs Nordamerika,,,,",
+      "Current": "DE000ETFL573,ETFL57,DEKA MSCI USA CLI.CH.ESG,ETFs,ETFs Nordamerika,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 3,
+    "Deletions": 0
+  }
+}

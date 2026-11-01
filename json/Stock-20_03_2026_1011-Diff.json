@@ -1,0 +1,43 @@
+{
+  "Additions": [
+    "NO0011008971,A3CSFU,\"SMARTCRAFT    CL.A NK-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "PTGMC0AM0003,A0B9WT,GRUPO MEDIA CAPITAL INH.,Aktien Europa,Aktien Europa Select,,,,",
+    "KYG5223X1759,A41YTS,\"KAIXIN HLDGS    DL 20, 25\",Aktien International,Aktien International,,,,",
+    "KYG6082P1211,A41YTM,MICROPORT CARDIO.MEDTECH.,Aktien International,Aktien International,,,,",
+    "US4169062043,A423J5,HARVARD BIOSCIENCE O.N.,Aktien USA,Aktien USA Select,,,,",
+    "DE000A40ZWM7,A40ZWM,PYRAMID AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US8200144058,A417JK,\"SHARPLINK    NEW DL-, 0001\",Aktien International,Aktien International,,,,",
+      "Current": "US8200144058,A417JK,\"SHARPL.GAM. NEW  DL-, 0001\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "SE0027597691,A4273S,SMARTCRAFT GRP AB O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "DE000VNC0014,VNC001,VINCORION SE INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US8669661048,A41N08,\"SUNBELT RNTL HLDGS DL-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "DE000A41YDL0,A41YDL,PYRAMID AG NA KONV.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 5,
+    "Deletions": 4
+  }
+}

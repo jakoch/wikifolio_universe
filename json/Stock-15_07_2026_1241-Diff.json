@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "LV0000100741,A0M206,\"LATVIJAS JUR. MED.EO 1, 40\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA40281L1094,A116WL,GUNGNIR RES INC.,Aktien International,Aktien International,,,,",
+    "NL0010556684,A1W3ZG,\"EXPRO GRP.HOLD.NV EO -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US29664W1053,A1W1SJ,ESPER.THERAP.(NEW) DL-001,Aktien USA,Aktien USA Select,,,,",
+    "DE000A0HMWM7,A0HMWM,PSI SOFTWARE SE NA ON.ZV.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA8859331016,A42CLN,THR.CRWNS CRIT.MTLS,Aktien International,Aktien International,,,,",
+    "CA53567A2002,A426T5,LINEAR MINER O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}

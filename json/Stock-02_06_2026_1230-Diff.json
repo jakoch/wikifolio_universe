@@ -1,0 +1,48 @@
+{
+  "Additions": [
+    "CA29408C1005,A3CU5T,ENVIROGOLD GLOBAL LTD.,Aktien International,Aktien International,,,,",
+    "CA37895W1095,A412UK,GLOBAL TACT.MET.CORP.O.N.,Aktien International,Aktien International,,,,",
+    "FR0012300424,A2PVJN,\"FD                  EO-, 1\",Aktien International,Aktien International,,,,",
+    "JP3634600005,863567,TOYOTA INDS,Aktien International,Aktien International,,,,",
+    "US8112922005,A2P9T4,\"SCYNEXIS INC.     DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "IT0003411417,A2PMLW,ITALIAN EXHIB. GRP,Aktien Europa,Aktien Europa Select,,,,",
+    "CA98390R1029,A426Z7,XAN.QUA.TEC. O.N.,Aktien International,Aktien International,,,,",
+    "CA37895W2085,A42D7F,GLOBAL TACT.MET.CORP.O.N.,Aktien International,Aktien International,,,,",
+    "AU0000180499,A3C52T,GQG PARTNERS CDI/1/1,Aktien International,Aktien International,,,,",
+    "ID1000124001,A1J2F1,BFI FINANCE INDON. RP 25,Aktien International,Aktien International,,,,",
+    "PLTRNSP00013,A0RDDE,\"TRANS POLONIA S.A.ZY -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "PLBMECH00012,A0RLNL,BUMECH S.A.         ZY 11,Aktien Europa,Aktien Europa Select,,,,",
+    "JP3244720003,A2QNL7,QD LASER INC.,Aktien International,Aktien International,,,,",
+    "IT0005607715,A40LMY,ADV.S.P.  EO0,Aktien Europa,Aktien Europa Select,,,,",
+    "ID1000127202,A1WZJE,MITRA PINASTH.MUST.RP 500,Aktien International,Aktien International,,,,",
+    "AU000000MEI3,A0CBAZ,METEORIC RESOURCES N.L.,Aktien International,Aktien International,,,,",
+    "ID1000156706,A2QGG4,SUMBER GLOB. ENERGY  RP50,Aktien International,Aktien International,,,,",
+    "SE0028354936,A41YZV,KJELL GROUP AB,Aktien Europa,Aktien Europa Select,,,,",
+    "CA74767F1045,A429HH,QUANTUMCORE LTD.,Aktien International,Aktien International,,,,",
+    "US5000811043,A41JAC,KODIAK AI INC.    O.N.,Aktien USA,Aktien USA Select,,,,",
+    "JP3236730002,A1JMX4,KIKUCHI SEISAKUSHO CO.LTD,Aktien International,Aktien International,,,,",
+    "DE000A0LE3J1,A0LE3J,READCREST CAPITAL AG O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "CA62958A1093,A42D5X,NVRO METALS LTD.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 3,
+    "Deletions": 18
+  }
+}

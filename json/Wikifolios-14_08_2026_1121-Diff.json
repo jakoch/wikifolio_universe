@@ -1,0 +1,17 @@
+{
+  "Additions": [
+    "DE000LS9PBV7,LS9PBV,German Stock Momentum Selection,sonstige Anlagezertifikate,wikifolio-Zertifikate mit Hebelprodukten,,,,",
+    "DE000LS9PZD4,LS9PZD,Value Protect,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+    "DE000LS9RMD8,LS9RMD,Global Stock Momentum,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+    "DE000LS9RWV9,LS9RWV,MHEQ Superstock Trading,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+    "DE000LS9SUP3,LS9SUP,Carbon Neutrality,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,",
+    "DE000LS9VDY5,LS9VDY,MAGIC RETURN,sonstige Anlagezertifikate,wikifolio-Zertifikate ohne Hebelprodukte,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

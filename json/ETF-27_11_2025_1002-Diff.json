@@ -1,0 +1,19 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "CH1130675676,A3GWD4,21SHARES CRYPTO MIDCAP INDEX,ETFs,sonstige ETFs,,,,",
+      "Current": "CH1130675676,A3GWD4,21SHARES HODL BSK ETP OE,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "IE00BNTVVR89,A3CPAP,HAN.GLDMNRSSCRD DLA,ETFs,ETFs Basic Resources,,,,",
+      "Current": "IE00BNTVVR89,A3CPAP,HANETF-AUAG ESG DLA,ETFs,ETFs Basic Resources,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

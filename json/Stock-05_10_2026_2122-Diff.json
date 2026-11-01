@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "GG00BGJYPP46,A2N806,CHRYSALIS INVESTMENTS LTD,Aktien Europa,Aktien Europa Select,,,,",
+    "CA86332K4000,A40N32,STRIKEPOINT GOLD INC.,Aktien International,Aktien International,,,,",
+    "SE0018538068,A3D3A1,VERVE GROUP SE A,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US74754R3012,A40THA,\"FF EAI ROBO. ECO. DL-,001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US74754R3012,A40THA,\"AIXCRYPTO HLDGS.  DL-,001\",Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "NO0010886625,A2P701,AKER BIOMARINE ASA   NK 6,Aktien Europa,Aktien Europa Select,,,,",
+    "IE000ZVY0237,A42NLV,\"VERVE GROUP ME SE AEO-,01\",Aktien Deutschland,Aktien Sonstige,,,,",
+    "GB00BYQ0JC66,A2AF7G,\"BEAZLEY PLC       LS -,05\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BP9LHF23,A3DRRR,\"SCHRODERS PLC   LS -,20\",Aktien Europa,Aktien Europa Select,,,,",
+    "GG00C0GC7Q38,A42PS7,CHRYSALIS INV. LTDO.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "US3499321038,A425VX,FORWARD INDS INC. O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 6
+  }
+}

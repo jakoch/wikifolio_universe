@@ -1,0 +1,18 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "IE0000902GT6,A3EYCN,WI.IC.MEGATRENDS DL ACC.,ETFs,ETFs DAX,ETFs,sonstige ETFs,,",
+      "Current": "IE0000902GT6,A3EYCN,WI.IC.MEGATRENDS DL ACC.,ETFs,ETFs Sonstige Bonds,ETFs,sonstige ETFs,,"
+    }
+  ],
+  "Deletions": [
+    "JE00B6RV6N28,A1N90D,WITR H.COM.SEC.Z12/UN.IDX,ETFs,ETFs DAX,,,,",
+    "LU2951555585,A41CVG,IMGP-DBI MA.FU.RETFDLD,ETFs,sonstige ETFs,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

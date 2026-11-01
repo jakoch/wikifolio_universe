@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "CA34660G1046,A0ETPA,FORSYS METALS CORP.,Aktien Hot Stocks,Aktien Hot Stocks,,,,",
+    "CA37958W3012,A3DMEH,GLOB.HEALTH CLINICS  O.N.,Aktien International,Aktien International,,,,",
+    "KYG7415M1327,A403TR,\"RECON TECHNOLOGY  DL -, 01\",Aktien International,Aktien International,,,,",
+    "US0534841012,914867,\"AVALONBAY COMM.    DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA37958W4002,A42JHK,GLOBAL HEALTH C. NEW O.N.,Aktien International,Aktien International,,,,",
+    "CA04342X1069,A42HR2,ASARIAN ENERGY LTD.,Aktien International,Aktien International,,,,",
+    "KYG7415M1400,A42H24,\"RECON T. NEW A DL-, 0001\",Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}

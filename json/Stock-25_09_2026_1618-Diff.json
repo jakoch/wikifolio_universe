@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "SE0017134125,A2PEP0,CYNCA NORDIC AB (PUBL) AK,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CA05223F1062,A3C8QA,AUSTIN GOLD CORP.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "CA05223F1062,A3C8QA,AUSTIN GOLD CORP.,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "US30609A1097,A42MJQ,\"ONEOK INC.         DL-, 01\",Aktien USA,Aktien Dow Jones,,,,",
+      "Current": "US30609A1097,A42MJQ,\"FAL.TOP.INC. DL-, 01\",Aktien USA,Aktien Dow Jones,,,,"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "SE0030587176,A42P3L,CYNCA NORDIC AB (PUBL) AK,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 4,
+    "Deletions": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Additions": [
+    "GB00BP9LHF23,A3DRRR,\"SCHRODERS PLC   LS -,20\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BYQ0JC66,A2AF7G,\"BEAZLEY PLC       LS -,05\",Aktien Europa,Aktien Europa Select,,,,",
+    "NO0010886625,A2P701,AKER BIOMARINE ASA   NK 6,Aktien Europa,Aktien Europa Select,,,,",
+    "PLENERG00022,A1W95U,\"ENERGA SA AA     ZY 10,92\",Aktien Europa,Aktien Europa Select,,,,",
+    "JP3246400000,856180,KYUSHU EL. PWR,Aktien International,Aktien International,,,,",
+    "US74736K1016,A12CY9,\"QORVO INC.DL -,0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A3H2135,A3H213,MAXX26 AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A3H2135,A3H213,BINECT AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA86332K5098,A42M01,STRIKEPOINT GOLD AUG26,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 4,
+    "Deletions": 1
+  }
+}

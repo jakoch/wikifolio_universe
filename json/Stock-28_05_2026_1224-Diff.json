@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "CH0010675863,938312,\"SWISSQUOTE GRP HLDG SF0, 2\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA37956H1082,A2DUV6,GLOBAL LI-ION GRAPH.,Aktien International,Aktien International,,,,",
+    "DE000A0JC8S7,A0JC8S,DATAGROUP SE  INH. O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "DE000A41YEV7,A41YEV,DATAGROUP SE NA. O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "CH1548235246,A41ZCW,\"SWISSQUOTE GRP HLD SF0, 02\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA8468111072,A41C56,SPARTAN METALS CORP.,Aktien International,Aktien International,,,,",
+    "CA03066Y1007,A42AGP,AMERICAS URANIUM CORP.,Aktien International,Aktien International,,,,",
+    "CA5362151063,A42CEZ,LION CRITICAL MINERALS CO,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 5
+  }
+}

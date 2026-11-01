@@ -1,0 +1,18 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "CA50543R1091,A2JAFY,LABRADOR GOLD CORP.,Aktien International,Aktien International,,,,",
+    "CA7579221093,A422EZ,REDWOOD AI CORP.  O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 2
+  }
+}

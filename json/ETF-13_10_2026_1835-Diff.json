@@ -1,0 +1,94 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "CH1390861222,A4D5D3,LEON.SEC(GG).O.END ETP Z.,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "CH1390861222,A4D5D3,LEON.SEC(GG).O.END ETP Z.,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "CH1390861305,A4D5D6,LEON.SEC(GG).O.END ETP Z.,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "CH1390861305,A4D5D6,LEON.SEC(GG).O.END ETP Z.,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000AD2AYN2,A424JN,IS.IBD D36 T.EO EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000AD2AYN2,A424JN,IS.IBD D36 T.EO EOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE000VVC8KW9,A41NPM,IM4-E.T1 C.B.E. EOD,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE000VVC8KW9,A41NPM,IM4-E.T1 C.B.E. EOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00B43QJJ40,A1JJTK,STST SPDR BBG GABDDLHUE D,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE00B43QJJ40,A1JJTK,SPDR BL.BA.GL.AG.BD U.ETF,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00B6YX5M31,A1JKSU,SPDR BL.EO H.Y.B.U.ETF,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "IE00B6YX5M31,A1JKSU,SPDR BL.EO H.Y.B.U.ETF,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BP46NG52,A119P6,SSSPDR I.B.0-5YEM DL GB D,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE00BP46NG52,A119P6,SPDR BofA 0-5 Yr. EM USD Gov. Bd,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00BZ163L38,A143JQ,VANG.USD EM G.BD UETF DLD,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE00BZ163L38,A143JQ,VANG USD EME MA GOV BOND UCITS,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU0321464652,DBX0A1,XTR.II GBP OV.RATE SW. 1D,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU0321464652,DBX0A1,XTR.II GBP OV.RATE SW. 1D,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU0321465469,DBX0A0,XTR.II USD OV.RATE SW. 1C,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU0321465469,DBX0A0,XTR.II USD OV.RATE SW. 1C,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU1233598447,LYX0T3,MUL-AM.DL FED F.RATE UE A,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU1233598447,LYX0T3,MUL-AM.DL FED F.RATE UE A,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2090062352,LYX038,MUL-AM.DL FED F.RATE UE D,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU2090062352,LYX038,MUL-AM.DL FED F.RATE UE D,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU2361257269,DBX0QY,XTK2 DL JPM EM BD 1DHEOD,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "LU2361257269,DBX0QY,XTK2 $ E.M.BOND 1DHEOD,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "LU3322521785,A42721,AB I-EO C.B.P. U.ETFEOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "LU3322521785,A42721,AB I-EO C.B.P. U.ETFEOA,ETFs,ETFs Sonstige Bonds,,,,"
+    },
+    {
+      "Original": "IE00069MGEE1,A40PRN,BNPPE2 US HY OPPS UE DLD,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE00069MGEE1,A40PRN,BNPPE2 US HY OPPS UE DLD,ETFs,ETFs Europa Bonds,,,,"
+    },
+    {
+      "Original": "IE000BS9KP42,A40ZH1,JPM-EM LOC BOND UE UHDLD,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE000BS9KP42,A40ZH1,JPM-EM LOC BOND UE UHDLD,ETFs,ETFs Europa Bonds,,,,"
+    },
+    {
+      "Original": "IE000TY854T9,A40DM6,ISH.JP GO.B.E EOHA,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE000TY854T9,A40DM6,ISH.JP GO.B.E EOHA,ETFs,ETFs Europa Bonds,,,,"
+    },
+    {
+      "Original": "LU2484583138,A3DUF2,UBSGGBESG1-10 ADLA,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "LU2484583138,A3DUF2,UBSGGBESG1-10 ADLA,ETFs,ETFs Europa Bonds,,,,"
+    },
+    {
+      "Original": "LU2993397939,A41ASP,BNPPE-A.E.DL C.BD UETFDLA,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "LU2993397939,A41ASP,BNPPE-A.E.DL C.BD UETFDLA,ETFs,ETFs Europa Bonds,,,,"
+    },
+    {
+      "Original": "NL0009272764,A1JPFV,VANECK MULT.A CONS.UC.ETF,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "NL0009272764,A1JPFV,VANECK MULT.A CONS.UC.ETF,ETFs,ETFs Europa Bonds,,,,"
+    }
+  ],
+  "Deletions": [
+    "LU3332966160,ETF358,AIS-ACMUS U.ETF HGDEOA,ETFs,ETFs Nordamerika,,,,",
+    "IE000XSFZL82,A423D9,ISH-STOX.EU 600 EOA,ETFs,ETFs Europa Gesamt,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 20,
+    "Deletions": 2
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "Additions": [
+    "GB00BGHPT808,A1XA9S,\"BENCHMARK HLDGS   LS-, 001\",Aktien Europa,Aktien Europa Select,,,,",
+    "SE0023287339,A40P64,AIKE MEDIA AB   B,Aktien Europa,Aktien Europa Select,,,,",
+    "DE0008489808,848980,HSBC GERMAN EQUITY AC,Fonds,Fonds Aktien,,,,",
+    "DE0009751651,975165,UBS(D)EQ.FD-SM.GERM.COS,Fonds,Fonds Aktien,,,,",
+    "US0191701095,A2PZLE,\"ALLIED GAMI.+ENT.DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US3444374058,A0MQFC,\"FONAR CORP. NEW  DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US4158641070,851271,\"ENVIRI CORP.      DL 1, 25\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "CA0548271000,A2DRF0,AZTECH MINERALS CORP.,Aktien International,Aktien International,,,,",
+      "Current": "CA0548271000,A2DRF0,AZTECH MINERALS CORP.,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "CA03835T4081,A40YEP,APTOSE BIOSCI.JAN 2025,Aktien International,Aktien International,,,,",
+      "Current": "CA03835T4081,A40YEP,APTOSE BIOSCI.JAN 2025,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA7613251098,A410MR,REV EXPL. CORP. O.N.,Aktien International,Aktien International,,,,",
+    "US6979471090,A40RA6,PALVELLA THERAPEUTICS NEW,Aktien USA,Aktien USA Select,,,,",
+    "US29390K1025,A427W3,ENVIRI II CORP.   O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA48301P1099,A40U4K,KAIROS GOLD INC.,Aktien International,Aktien International,,,,",
+    "US84615Q1031,A42D4F,SPACE EXPL.TECHS. CL.A,Aktien USA,Aktien NASDAQ 100 Select,,,,",
+    "CA55067G1081,A41JQW,LUX.MET.COR. O.N.,Aktien International,Aktien International,,,,",
+    "CA6870801017,A41B0X,OROGEN ROYALTIES INC. NEW,Aktien International,Aktien International,,,,",
+    "CA2798521076,A41M8G,EDGE COPPER CORP.O.N.,Aktien International,Aktien International,,,,",
+    "US0191702085,A42DCT,ALL IN FUTURET.ALL. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA8841213025,A4177C,THINKIFIC LABS INC. O.N.,Aktien International,Aktien International,,,,",
+    "US34631F1021,A4224U,FOR.PWR.SOL.INC. O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 5,
+    "Deletions": 11
+  }
+}

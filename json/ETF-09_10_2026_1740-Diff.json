@@ -1,0 +1,55 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU0274208692,DBX1MW,XTR.MSCI WORLD SWAP 1C,ETFs,sonstige ETFs,ETFs,ETFs Welt,,",
+      "Current": "LU0274208692,DBX1MW,XTR.MSCI WORLD SWAP 1C,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "LU0340285161,A0NCFR,UBS MSCI WLD DLD,ETFs,sonstige ETFs,ETFs,ETFs Welt,,",
+      "Current": "LU0340285161,A0NCFR,UBS MSCI WLD DLD,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "LU1829220216,LYX00C,MUL AMUN ACWLD ETF E ACC,ETFs,sonstige ETFs,ETFs,ETFs Welt,,",
+      "Current": "LU1829220216,LYX00C,MUL AMUN ACWLD ETF E ACC,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "LU2572257124,ETF018,AIS-A.C.MSCI W.S. ETF DIS,ETFs,sonstige ETFs,ETFs,ETFs Welt,,",
+      "Current": "LU2572257124,ETF018,AIS-A.C.MSCI W.S. ETF DIS,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "DE000ETFL508,ETFL50,DEKA MSCI WORLD UCITS ETF,ETFs,sonstige ETFs,ETFs,ETFs Welt,,",
+      "Current": "DE000ETFL508,ETFL50,DEKA MSCI WORLD UCITS ETF,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "IE00B14X4M10,A0J201,ISHS-MSCI NTH AMERICA DLD,ETFs,sonstige ETFs,ETFs,ETFs Nordamerika,,",
+      "Current": "IE00B14X4M10,A0J201,ISHS-MSCI NTH AMERICA DLD,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "IE00B6R52259,A1JMDF,ISHS V M.A.C.W.DL A,ETFs,sonstige ETFs,ETFs,ETFs Welt,,",
+      "Current": "IE00B6R52259,A1JMDF,ISHS V M.A.C.W.DL A,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "IE00BCHWNQ94,A1W3F6,XTR.(IE)-MSCI WORLD SC.1D,ETFs,sonstige ETFs,ETFs,ETFs Welt,,",
+      "Current": "IE00BCHWNQ94,A1W3F6,XTR.(IE)-MSCI WORLD SC.1D,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "IE00BJ0KDR00,A1XB5V,X(IE) - MSCI USA 1C,ETFs,sonstige ETFs,ETFs,ETFs Nordamerika,,",
+      "Current": "IE00BJ0KDR00,A1XB5V,X(IE) - MSCI USA 1C,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "IE00BK5BQW10,A2PLBJ,VANG.FTSE N.AME.U.ETF DLA,ETFs,sonstige ETFs,ETFs,ETFs Nordamerika,,",
+      "Current": "IE00BK5BQW10,A2PLBJ,VANG.FTSE N.AME.U.ETF DLA,ETFs,sonstige ETFs,,,,"
+    },
+    {
+      "Original": "IE00BKBF6H24,A2PKSQ,ISHSIII-CORE MSCI WLD EHD,ETFs,sonstige ETFs,ETFs,ETFs Welt,,",
+      "Current": "IE00BKBF6H24,A2PKSQ,ISHSIII-CORE MSCI WLD EHD,ETFs,sonstige ETFs,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 11,
+    "Deletions": 0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Additions": [
+    "CH0012032048,855167,ROCHE HOLDING GS,Aktien Europa,Aktien Europa Select,,,,",
+    "CA96041W2076,A2PWF6,WESTKAM GOLD,Aktien International,Aktien International,,,,",
+    "KYG1329V1225,A425ZC,\"BLUE HAT INT.E.TE. DL 1, -\",Aktien International,Aktien International,,,,",
+    "KYG5223X1676,A41TS6,\"KAIXIN HLDGS     DL 1, 35\",Aktien International,Aktien International,,,,",
+    "KYG6082P1054,A2QML9,MICROPORT CARDIO.MEDTECH.,Aktien International,Aktien International,,,,",
+    "IE00045C7B38,A41DDS,FUSION FUEL GREEN CL.A,Aktien USA,Aktien USA Select,,,,",
+    "US4169061052,578107,\"HARVARD BIOSCIENCE DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US65441V1017,A2JBN9,\"NINE ENERGY SVC   DL -, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CH1499059983,A424UK,\"ROCHE HOLDING PS SF -, 001\",Aktien Europa,Aktien Europa Select,,,,",
+    "US6294442099,A4091K,NRX PHARM.INC. NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA0889361097,A422S9,BIG BEAR GOLD CORP. O.N.,Aktien International,Aktien International,,,,",
+    "US4169062043,A423J5,HARVARD BIOSCIENCE O.N.,Aktien USA,Aktien USA Select,,,,",
+    "KYG5223X1759,A41YTS,\"KAIXIN HLDGS    DL 20, 25\",Aktien International,Aktien International,,,,",
+    "KYG6082P1211,A41YTM,MICROPORT CARDIO.MEDTECH.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 2,
+    "Deletions": 6
+  }
+}

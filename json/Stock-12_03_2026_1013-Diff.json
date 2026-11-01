@@ -1,0 +1,39 @@
+{
+  "Additions": [
+    "CA0212641066,A3EE56,ALTA COPPER CORP.,Aktien International,Aktien International,,,,",
+    "CA53680W1059,A3D76R,LITHIUM ROYALTY CORP.,Aktien International,Aktien International,,,,",
+    "CA89239Q2071,A40PNG,TRACTION URANIUM CORP.,Aktien International,Aktien International,,,,",
+    "US63008J8844,A41DDH,\"NANOVIBRONIX NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "DE0005137004,513700,Q.BEYOND AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "FR0013467479,A2PWZL,\"CONSTELLIUM SE     EO-, 02\",Aktien Europa,Aktien Europa Select,Aktien USA,Aktien USA Select,,",
+      "Current": "FR0013467479,A2PWZL,\"CONSTELLIUM SE     EO-, 02\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "DE000A41YDG0,A41YDG,Q.BEYOND AG NA O.N. KONV.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 5,
+    "Deletions": 1
+  }
+}

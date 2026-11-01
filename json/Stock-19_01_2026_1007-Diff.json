@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "CA2302663067,A3ETCX,CULT FOOD SCIENCE CORP.,Aktien International,Aktien International,,,,",
+    "NO0012595950,A3DXSR,DOLPHIN DRILL. A.S.  NK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "NO0013251173,A40CZ2,ONCOINVENT ASA,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "FR001400OS22,A403R1,\"BOOSTHEAT SAS EO -, 0001\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR001400OS22,A403R1,\"BOOSTHEAT SAS EO 1, -\",Aktien Europa,Aktien Europa Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "NO0013711739,A420G0,DOLPHIN DRILL. A.S.  NK 3,Aktien Europa,Aktien Europa Select,,,,",
+    "CA13551Y1016,A3DNWN,CANADIAN COPPER INC.,Aktien International,Aktien International,,,,",
+    "CA2302664057,A41FPQ,CULT FOOD SCIENCE NEW,Aktien International,Aktien International,,,,",
+    "JP3468810001,938434,TANAKA CHEMICAL,Aktien International,Aktien International,,,,",
+    "NO0013711713,A41YN5,ONCOINVENT ASA,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 5
+  }
+}

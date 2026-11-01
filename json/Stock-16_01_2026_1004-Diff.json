@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "IT0005446700,A3CVQ9,A.L.A. S.P.A.   O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "LU1789205884,A2JE7W,\"B+S GROUP SA   INH EO-, 06\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AT0000KTMI02,A2JKHY,BAJAJ MOBILITY AG,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "AT0000KTMI02,A2JKHY,PIERER MOBILITY AG,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "US31572Q8814,A419WK,KYNTRA BIO INC.  NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US31572Q8814,A419WK,FIBROGEN INC.   NEW O.N.,Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Additions": [
+    "IE000G5IRVY3,A40YRW,E.M.E-C.E.P.E. DLD,ETFs,ETFs Emerging Markets,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000MJ79846,A42AKM,LGUEP-LGLAGBUUE ADD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE0009OCO2W4,A4211N,JPM-GLB EQ AC UE DLA,ETFs,ETFs Welt,,,,",
+    "IE000MTYM4K8,A4211Q,JPM-GLB EQ AC UE EOA,ETFs,ETFs Welt,,,,",
+    "IE000BHH6TY7,A4211R,JPM-GLB EQ AC UE EOHA,ETFs,ETFs Welt,,,,",
+    "IE000QC2YB58,A4211M,JPM-GLB EXUS REI UE DLD,ETFs,ETFs Welt,,,,",
+    "IE000245C884,A4211P,JPM-GLB EQ AC UE DLD,ETFs,ETFs Welt,,,,",
+    "IE0006FBEDB6,A4211K,JPM-GLB EXUS REI UE DLA,ETFs,ETFs Welt,,,,",
+    "IE0008DO91F6,A4211L,JPM-GLB EXUS REI UE EOHA,ETFs,ETFs Welt,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 8
+  }
+}

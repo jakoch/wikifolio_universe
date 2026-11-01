@@ -1,0 +1,40 @@
+{
+  "Additions": [
+    "BE0003593044,914421,COFINIMMO,Aktien Europa,Aktien Europa Select,,,,",
+    "US30231G1022,852549,EXXON MOBIL CORP.,Aktien USA,Aktien Dow Jones,,,,",
+    "US57142B1044,A3CQSL,\"MARQETA INC.CL.A DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US74267C1062,676103,\"PROASSURANCE CORP. DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US7743743004,A3DL8F,ROCKWELL MEDICAL INC.,Aktien USA,Aktien USA Select,,,,",
+    "US89055F1030,A14UY4,\"TOPBUILD CORP.    DL -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "DE000A3CRRN9,A3CRRN,CHERRY SE  O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE0005190037,519003,BAY.MOTOREN WERKE  VZO,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US7789203061,A41ZGZ,SHA.HO.INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA89472Y1079,A42D8P,TREKOR METALS LTD.,Aktien USA,Aktien USA Select,,,,",
+    "JE00BT7JKP71,A42B5D,PHOENIX SPREE DTLD PRS LS,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 4,
+    "Deletions": 3
+  }
+}

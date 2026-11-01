@@ -1,0 +1,47 @@
+{
+  "Additions": [
+    "GB00B01QGH57,A0DK4Z,\"SUNDA ENERGY   LS -, 00025\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA0211551068,A40M0J,ALSET AI VENTURES INC.,Aktien International,Aktien International,,,,",
+    "CA26829L1076,A2ASKH,ECN CAPITAL CORP.,Aktien International,Aktien International,,,,",
+    "CA53680X1033,A3EQSS,LITIUM ION ENERGY LTD.,Aktien International,Aktien International,,,,",
+    "CA73689L2075,A2PBJT,PORTOFINO RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "CA7481197084,A4004Q,QUEBEC NICKEL CORP NEW,Aktien International,Aktien International,,,,",
+    "CA89620A5061,A40EPA,TRIGON METALS INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "NO0013711721,A41YQB,BEWI INVEST ASA     NK 12,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "NO0013711721,A41YQB,KMC PROPERTIES ASA NK 12,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "US88331L1089,A3CPDE,\"SKINHEALTH SY. A DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US88331L1089,A3CPDE,\"BEAUTY HEALTH CO.A -, 0001\",Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "JE00BS6SC522,A426T9,COINSHARES,Aktien USA,Aktien USA Select,,,,",
+    "CA0515341059,A4243W,AURBIS RES.CORP. O.N.,Aktien International,Aktien International,,,,",
+    "CA68827W1077,A42629,OSI.ONE.MET. O.N.,Aktien International,Aktien International,,,,",
+    "GB00BSHSGY88,A41YWM,\"SUNDA ENERGY   LS -, 001\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA78657T1084,A4282J,SAFI SILVER CORP.,Aktien International,Aktien International,,,,",
+    "CA5179531051,A42AVY,PORTOFINO RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "CA0211552058,A428RQ,ALSET AI VENTURES O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 5,
+    "Deletions": 7
+  }
+}

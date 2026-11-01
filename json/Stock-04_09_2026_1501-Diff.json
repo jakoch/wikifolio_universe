@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "NO0010911902,A2QLA1,\"ELEKTROIMPORTOREN NK -, 05\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA05351M2040,A14SVX,AVARONE METALS,Aktien International,Aktien International,,,,",
+    "CA8139211038,A40PE6,SECURE WASTE INFRASTRUCT.,Aktien International,Aktien International,,,,",
+    "US6288772014,A2QJPS,\"NCS MULTISTAGE HLD.DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [
+    "ES0105394003,A42BTE,TSK ELECTRONICA Y E. O.N.,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 1,
+    "Deletions": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA1348083025,A3D38F,CANACOL ENERGY LTD,Aktien International,Aktien International,,,,",
+    "CA67072Q1046,813977,NUVISTA ENERGY LTD.,Aktien International,Aktien International,,,,",
+    "US3722791098,A2PFG5,\"GENFIT S.A.  ADR/1 EO-, 25\",Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

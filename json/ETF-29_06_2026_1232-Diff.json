@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "IE0000VX9GN7,A3D572,BNPPSP500SASETF DLA,ETFs,ETFs Nordamerika,,,,",
+    "IE000LT3MQE9,A41RS9,JPM-USD HY BD UE HDGSK,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000PYFQ9I0,A41RS8,JPM-GLB GOV BD UE SKHA,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU2606055775,ETF085,AIS-A.GL.A.BD1-5YE.UEHSFC,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU2868143954,A40KQS,BNPPE-J.S.E.GDC UETF HSFA,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU2868144093,A40KQT,BNPPE-J.S.E.GDC UETF HLSA,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU2929405640,A40V2E,BNPPE-J.S.E.GDC UETF HADA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000EH3AL25,A427HK,JPMEI-ACREIEPAA JPETFACSE,ETFs,ETFs Welt,,,,",
+    "IE000WQ5O293,A40944,BNPP-M.A.MIN TE U.ETF DLA,ETFs,ETFs Welt,,,,",
+    "IE0001A541Y3,A3DQMS,JPM-JP REI EQ AUE YNA,ETFs,ETFs Asien,,,,",
+    "LU1646360039,A2JFJT,AIS-AMJSCPAUE DRHSFC,ETFs,ETFs Asien,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 11,
+    "Modifications": 0,
+    "Deletions": 0
+  }
+}

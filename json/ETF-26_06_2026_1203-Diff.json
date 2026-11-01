@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "IE000RE0WX27,A3CYEJ,JPMIRMBUSIEETF JPETFDLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU2451511526,A3DHM8,AIS-A.US T.BD0-1ETFDRHSDA,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU2469335538,A3DKJ7,AIS-AM.CO.GL.GO.BD UDRUH,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU2924149862,ETF209,AIS-AM.GL.TR.BD U.ETF HGD,ETFs,ETFs Sonstige Bonds,,,,",
+    "LU2996613266,ETF261,AIS-AM.GL.C.B. HGDDLD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000SBHVL31,A3DHNP,AXA-ACT BIO.EQ. TBCDLA,ETFs,ETFs Branchen,,,,",
+    "LU2533813296,A3D4V2,BNP PAR.E-EGEBE U.ETFDLA,ETFs,ETFs Branchen,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE00098YDEH5,ETF371,AETF-A.MUEBT EOA,ETFs,ETFs Nordamerika,,,,",
+    "IE000Q5CPXZ1,ETF372,A.MSCI W.SCR.E. EOA,ETFs,ETFs Welt,,,,",
+    "IE000MC1J5C5,ETF369,AETF-A.MUEBT EOD,ETFs,ETFs Nordamerika,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}

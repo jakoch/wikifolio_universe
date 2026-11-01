@@ -1,0 +1,55 @@
+{
+  "Additions": [
+    "CA0555031065,A41NGV,BLOK DIGITAL LTD. O.N.,Aktien International,Aktien International,,,,",
+    "CA08772W2076,A3D8PP,BETTERMOOD FOOD CORP.,Aktien International,Aktien International,,,,",
+    "CA5368071000,A3DKWE,LITHIUM ONE METALS INC.,Aktien International,Aktien International,,,,",
+    "CA55067G1081,A41JQW,LUX.MET.COR. O.N.,Aktien International,Aktien International,,,,",
+    "CA83410N1096,A415SV,SOKOMAN MIN.CORP. NEW,Aktien International,Aktien International,,,,",
+    "CA92858X2068,A3DZZR,VIZSLA COPPER CORP.,Aktien International,Aktien International,,,,",
+    "KYG1611B1077,A2PYJJ,\"BROOGE ENERGY    DL-, 0001\",Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "AU000000IVR6,A1CV9J,INVESTIGATOR SILVER LTD.,Aktien International,Aktien International,,,,",
+      "Current": "AU000000IVR6,A1CV9J,INVESTIGATOR RESOURC. LTD,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A3E5A34,A3E5A3,PARTEC AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A3E5A34,A3E5A3,PARTEC AG  VNA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "FR0000120669,851011,\"NORTH ATLANTIC E. EO 7, 65\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "FR0000120669,851011,\"ESSO INH.         EO 7, 65\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "US00181T1079,A1XEER,GOLD.COM INC.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US00181T1079,A1XEER,A-MARK PRECIOUS MET.,Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "US92864V6083,A418PW,\"EMPERY DIGITAL  DL-, 00001\",Aktien USA,Aktien USA Select,,,,",
+    "NGSEPLAT0008,A11059,\"SEPLAT ENERGY (DI) NA-, 50\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA09225Q1028,A41VGK,BLACK SPRUCE EXPL.,Aktien International,Aktien International,,,,",
+    "PAP169941328,884869,BCO LATINOAMER.D.COM.EX.E,Aktien International,Aktien International,,,,",
+    "GB00BF2P1260,A2DUBR,\"SILVER BEAR RES   LS-, 001\",Aktien International,Aktien International,,,,",
+    "CA7242551041,A41UER,PIRATE GOLD CORP. O.N.,Aktien International,Aktien International,,,,",
+    "CA8265991023,A3CTYQ,SIGMA LITHIUM CORP. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA08772W3066,A41TT6,BETTERMOOD FOOD CORP.,Aktien International,Aktien International,,,,",
+    "CA92858X7018,A41VS3,VIZSLA COPPER CORP.,Aktien International,Aktien International,,,,",
+    "MYA004433001,A0JEKA,STEPPE CEMENT LTD,Aktien Europa,Aktien Europa Select,,,,",
+    "GI000A2P2W41,A2P2W4,\"VALEREUM PLC       LS-0, 1\",Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 6,
+    "Deletions": 11
+  }
+}

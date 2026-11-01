@@ -1,0 +1,15 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "SE0020541639,A3G8J8,VIRTUNE AB O.END ETP ETH,ETFs,sonstige ETFs,,,,",
+      "Current": "SE0020541639,A3G8J8,VIRTUNE AB O.E.,ETFs,sonstige ETFs,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

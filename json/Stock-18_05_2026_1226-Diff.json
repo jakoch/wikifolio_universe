@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "NO0010904923,A2QKGG,\"HEXAGON PURUS ASA  NK-, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "AU0000182628,A3C6BV,WINSOME RESOURCES LIMITED,Aktien International,Aktien International,,,,",
+    "CA01176C1095,A415SW,ALASKA SILVER CORP. O.N.,Aktien International,Aktien International,,,,",
+    "US8666831057,A2QRFX,\"SUN COUNTRY AIRL.HLD.-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US87265H1095,A1H9GR,\"TRI POINTE HOMES   DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "DE000A12UMB1,A12UMB,POB AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "CA01176C2085,A42C1C,ALASKA SILVER CORP. O.N.,Aktien International,Aktien International,,,,",
+    "DE000A3MQRK6,A3MQRK,ROSTRA AGC INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A2LQUV1,A2LQUV,WEGROW AG  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A40ZVU2,A40ZVU,UMT UTD MOB.TECHN. INH ON,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A3CQ5L6,A3CQ5L,STAIGE ONE AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A1A6WB2,A1A6WB,PATH2 HYDR. AG INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A1RFMZ1,A1RFMZ,SM WIRTSCHAFTSBER.NA.O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "DE000A161N22,A161N2,LIBERO FOOTB.FIN.INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "CH1129911108,A3DGHJ,REALUNIT SCHWEIZ AG  SF 1,Aktien Deutschland,Aktien Sonstige,,,,",
+    "NO0013751966,A41Z0W,\"HEXAGON PURUS ASA  NK 1, -\",Aktien Europa,Aktien Europa Select,,,,",
+    "DE000A161N14,A161N1,YOUR FAMILY ENTER.AG NA,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 12
+  }
+}

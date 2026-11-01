@@ -1,0 +1,18 @@
+{
+  "Additions": [
+    "US8761083091,A41WW4,VISIONSYS AI ADR NEW O.N.,Aktien International,Aktien International,,,,",
+    "US14427M1071,A2QAJC,\"CARPARTS.COM INC. DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US29350E2037,A41K8P,LUNAI BIOWO. O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US14427M2061,A429H5,CARPARTS.COM INC. NEW,Aktien USA,Aktien USA Select,,,,",
+    "US8761084081,A42CBN,VISIONSYS AI ADR NEW O.N.,Aktien International,Aktien International,,,,",
+    "US29350E3027,A42CL6,\"LUNAI BIOWORKS   DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}

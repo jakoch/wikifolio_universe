@@ -1,0 +1,54 @@
+{
+  "Additions": [
+    "AU0000009771,A2JMXJ,\"URW (STAPL.SHS CDI)EO-, 05\",Aktien International,Aktien International,,,,",
+    "CA1850534027,A3E2CG,CLEARMIND MEDI.INC.O.N.,Aktien USA,Aktien USA Select,,,,",
+    "DE000A161NR7,A161NR,THE NAGA GROUP AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "FR0004175099,A14NX8,TRONICS MICROSYSTEMS EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BR3SVZ18,A3EUQY,MERIDIAN MINING SE,Aktien International,Aktien International,,,,",
+    "IM00BPLZ1D89,A40H71,\"CHALL.ENERGY GR. LS-, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "NL0010949392,A12FH2,\"CNOVA NV          EO -, 05\",Aktien Europa,Aktien Europa Select,,,,",
+    "US00773U2078,A404YL,ADVERUM BIO.INC.,Aktien USA,Aktien USA Select,,,,",
+    "US0185223007,A0DJ2T,ALLETE INC. NEW,Aktien USA,Aktien USA Select,,,,",
+    "US02919L6048,A414N4,\"AMERICAN R.H. NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US23254L8845,A418C5,CYCLACEL P.  NEW25 DL-001,Aktien USA,Aktien USA Select,,,,",
+    "US8003631038,919567,SANDY SPRING BANCORP. DL1,Aktien USA,Aktien USA Select,,,,",
+    "US80512Q4029,A3EWC8,\"SAVE FOODS INC. DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US81374A1051,A2AC5U,\"SECUREWORKS C. A   DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US8883147055,A400D1,\"TITAN PHARM.(DEL) DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "JP3651120002,A0NCX4,NANO HOLDINGS INC.,Aktien International,Aktien International,,,,",
+      "Current": "JP3651120002,A0NCX4,NANO MRNA CO. LTD.,Aktien International,Aktien International,,,,"
+    }
+  ],
+  "Deletions": [
+    "JP3337600005,864537,SANYO CHEMICAL IND.,Aktien International,Aktien International,,,,",
+    "JP3169600008,554168,ENDO LIGHTING CORP.,Aktien International,Aktien International,,,,",
+    "GB00BVPND783,A41XLB,MERIDIAN MINING PLC,Aktien International,Aktien International,,,,",
+    "US80512Q5018,A41HQ7,\"N2OFF INC. NEW   DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "JP3592600005,858646,SHIBAURA MACHINE CO. LTD.,Aktien International,Aktien International,,,,",
+    "JP3414700009,851288,SEIKO GROUP CORP.,Aktien International,Aktien International,,,,",
+    "JP3192400004,857732,OKAMURA CORP.,Aktien International,Aktien International,,,,",
+    "DE000A41YCM0,A41YCM,THE NAGA GROUP AG NA KONV,Aktien Deutschland,Aktien Sonstige,,,,",
+    "JP3791800000,864156,MAXELL LTD.,Aktien International,Aktien International,,,,",
+    "JP3357200009,854673,SHIMADZU CORP.,Aktien International,Aktien International,,,,",
+    "JP3960000002,894638,YONEX CO.,Aktien International,Aktien International,,,,",
+    "NL0015002Q12,A41MS2,\"TER.INN.GLBL EO -, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US02462A1043,A41FAE,AMERICAN BITCOIN CORP. A,Aktien USA,Aktien USA Select,,,,",
+    "JP3580200008,857768,TOKYO SEIMITSU,Aktien International,Aktien International,,,,",
+    "JP3880800002,868893,MIURA CO.LTD,Aktien International,Aktien International,,,,",
+    "US02919L7038,A41JEM,AME.REB.HLD.INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "JP3355000005,880677,SHIBAURA MECHATRON.,Aktien International,Aktien International,,,,",
+    "JP3896000001,858674,MITSUBISHI KAKOKI,Aktien International,Aktien International,,,,",
+    "CA1850535016,A41YK5,CLEARMIND MEDI.INC.O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US23254L8761,A41CCR,\"BIO GR.ME.S.NEW25 DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "JP3821000001,888293,ZACROS CORP.,Aktien International,Aktien International,,,,",
+    "JP3975800008,864317,RYOBI LTD,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 15,
+    "Modifications": 1,
+    "Deletions": 22
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "FR0013258399,A2DSXQ,\"BALYO S.A.        EO -, 08\",Aktien Europa,Aktien Europa Select,,,,",
+    "IT0005373417,A2PME7,ELES SEMICO.EQUIPM. S.P.A,Aktien Europa,Aktien Europa Select,,,,",
+    "CA3442041024,A2QA4S,FOKUS MINING CORP.,Aktien International,Aktien International,,,,",
+    "CA37452L1085,A409DM,GIANT MINING CORP. O.N.,Aktien International,Aktien International,,,,",
+    "CA9219661076,A413AZ,VANGUARD MINING CORP.,Aktien International,Aktien International,,,,",
+    "KYG286871044,A40PU6,DIGINEX LTD       O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US03152W1099,A0MSMZ,AMICUS THERAPEUTICS INC.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "HK0001294401,A428WZ,APAC RESOURCES LTD. ON,Aktien International,Aktien International,,,,",
+      "Current": "HK0001294401,A428WZ,CHINA OCEAN RSRCS CO.HD 1,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA9169271066,A42ABL,URANIUM ONE MINING,Aktien International,Aktien International,,,,",
+    "KYG286871127,A41YYC,DIGINEX LTD       O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA21751T1030,A42AGR,COPPER ONE RESOURCES CORP,Aktien International,Aktien International,,,,",
+    "US0207641061,A2QNUN,ALPHA METALLURGICAL RESO.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}

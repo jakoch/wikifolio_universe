@@ -1,0 +1,19 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU0292097234,DBX1F1,XTR.BL.UK 100 UE 1D,ETFs,ETFs Europa Gesamt,,,,",
+      "Current": "LU0292097234,DBX1F1,XTR.FTSE 100 INCOME 1D,ETFs,ETFs Europa Gesamt,,,,"
+    },
+    {
+      "Original": "LU0292097317,DBX1F2,XTR.BL.UK 350 ID,ETFs,ETFs Europa Gesamt,,,,",
+      "Current": "LU0292097317,DBX1F2,XTR.FTSE 250 1D,ETFs,ETFs Europa Gesamt,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

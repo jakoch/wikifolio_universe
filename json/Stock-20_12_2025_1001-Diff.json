@@ -1,0 +1,22 @@
+{
+  "Additions": [
+    "CA85859H1055,A2DQ5R,STEP ENERGY SERVICES LTD.,Aktien International,Aktien International,,,,",
+    "GB00BNDRMJ14,A3CPH7,ALPHAWAVE IP GROUP LS 1,Aktien Europa,Aktien Europa Select,,,,",
+    "US08579X1019,A2JDNZ,\"BERRY PETROLEUM  DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US1091992081,A3DR54,BR.SCH.ED.HLD.SP.ADR CL.A,Aktien International,Aktien International,,,,",
+    "US69924R1086,A1W9NU,PARAMOUNT GROUP INC.,Aktien USA,Aktien USA Select,,,,",
+    "US8581552036,912283,STEELCASE INC. A,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

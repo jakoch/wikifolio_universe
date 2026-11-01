@@ -1,0 +1,35 @@
+{
+  "Additions": [
+    "GB00BMD6PM55,A2P3LN,\"GUNSYND PLC    LS -,00085\",Aktien Europa,Aktien Europa Select,,,,",
+    "NO0013464750,A40ZYD,ATLANTIC SAPPHIRE NK 10,Aktien Europa,Aktien Europa Select,,,,",
+    "CA18066R1038,A3D3LG,CLARITY METALS CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "US47759T1007,A0Q87R,JINKO HOLD.ADR/4 DL-00002,Aktien International,Aktien International,,,,",
+      "Current": "US47759T1007,A0Q87R,JINKOSOLAR ADR/4 DL-00002,Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "US55825T1034,A140F0,\"MSG KNICKERBOCK. A DL-,01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US55825T1034,A140F0,MADISON SQUARE GAR.SP. A,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "DE000TKMS001,TKMS00,TKMS AG + CO. KGAA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,,",
+      "Current": "DE000TKMS001,TKMS00,TKMS AG + CO. KGAA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 5,
+    "Deletions": 0
+  }
+}

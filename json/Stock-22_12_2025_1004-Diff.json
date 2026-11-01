@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "CA56658A4019,A3EHL9,MARGARET LAKE DIAMONDS,Aktien International,Aktien International,,,,",
+    "DE000A3E5C40,A3E5C4,4SC AG INH. O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "GB00BL9ZF303,A3C308,\"PETERSHILL PARTNERS -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "KYG4289N2050,A3DWUX,\"HAPPINESS DEV. GRP -, 01\",Aktien International,Aktien International,,,,",
+    "LU1618151879,A2DR54,LOGWIN AG NAM. O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US5309093087,A41XQX,LIBERTY LIVE HOLDINGS C,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "KYG4289N1227,A41YKL,\"PARANOVUS ENT.TECH.DL 1, -\",Aktien International,Aktien International,,,,",
+    "US02155X2053,A3D4GD,ALTERITY THERAP.ADR/600,Aktien USA,Aktien USA Select,,,,",
+    "CA92243U1075,A41WE4,VAULT STRATEGIC MNG O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}

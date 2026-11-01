@@ -1,0 +1,21 @@
+{
+  "Additions": [],
+  "Modifications": [],
+  "Deletions": [
+    "IE0005AJA0P1,A41L70,LGE-GL.QU.DIV. DLD,ETFs,ETFs Welt,,,,",
+    "LU3086265710,A41GDL,BNPPE-MSCI ACWI U.ETFDLA,ETFs,ETFs Welt,,,,",
+    "LU3243907741,A41XQA,BNPPE-MSCI ACWI U.ETFEOA,ETFs,ETFs Welt,,,,",
+    "LU3250315499,A41XQB,GL.A.B.SRI F.F. U.ETFEOA,ETFs,ETFs Sonstige Bonds,,,,",
+    "CH1480821375,A4APVJ,21SHARES (AFET) ETP O.END,ETFs,sonstige ETFs,,,,",
+    "US4642866325,A0NJ9Y,ISHS-MSCI ISRAEL ETF,ETFs,ETFs Nordamerika,,,,",
+    "CH1495416997,A4AQC7,21SHARES PENDLE ETP O.END,ETFs,sonstige ETFs,,,,",
+    "CH1480821391,A4APVK,21SHARES RAYDIUM ETPO.END,ETFs,sonstige ETFs,,,,",
+    "CH1495416971,A4AQC6,21SHARES BITTENSOR O.END,ETFs,sonstige ETFs,,,,",
+    "CH1480821383,A4APVL,21SHARES JUPITER ETPO.END,ETFs,sonstige ETFs,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 0,
+    "Deletions": 10
+  }
+}

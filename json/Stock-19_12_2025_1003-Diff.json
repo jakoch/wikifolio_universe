@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "CA04364G1063,906170,ASCOT RES LTD,Aktien International,Aktien International,,,,",
+    "CA09237D1078,A3EEZK,BLACKHAWK GROWTH CORP.NEW,Aktien International,Aktien International,,,,",
+    "CA21948L1040,A2QAAH,CORNISH METALS INC.,Aktien International,Aktien International,,,,",
+    "CA57808L1076,A3CPBK,MYFAIR GOLD CORP.,Aktien International,Aktien International,,,,",
+    "FR0011884378,A117T7,LUCIBEL S.A.  EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "US5312297485,A3ERLV,LIBERTY MEDIA A LIVE,Aktien USA,Aktien USA Select,,,,",
+    "US75971T3014,A2DLEP,EMEREN GROUP ADR 10,Aktien USA,Aktien Dow Jones,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA04364G7839,A41WU8,ASCOT RES LTD,Aktien International,Aktien International,,,,",
+    "CA57808L3056,A41X3D,MAYFAIR GOLD CORP. O.N.,Aktien International,Aktien International,,,,",
+    "GB00BSLNG492,A41THH,\"CORNISH METALS   LS-, 0005\",Aktien International,Aktien International,,,,",
+    "US5309091008,A41U58,LIBERTY LIVE HOLDINGS A,Aktien USA,Aktien USA Select,,,,",
+    "FR0014013HG9,A41TQH,\"LUCIBEL S.A.  EO 28, 2368\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA09237D2068,A41X7C,BLACKHAWK GROWTH CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 6
+  }
+}

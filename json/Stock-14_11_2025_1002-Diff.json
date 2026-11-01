@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "CA26873J1075,A2DU32,EMX ROYALTY CORP.,Aktien USA,Aktien USA Select,,,,",
+    "DE000A12BS94,A12BS9,HMT EURO AKTIEN SOLVENCY,Fonds,Fonds Aktien,,,,",
+    "DE000A254W52,A254W5,PYRAMID AG,Aktien Deutschland,Aktien Sonstige,,,,",
+    "LU0811899946,A1J2X1,OSSIAM EUR.ESG M.LEARN.2C,Fonds,Fonds Aktien,,,,",
+    "US41165Y1001,A2PPTS,\"HARBORONE BANCORP DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US8679751045,A40B6Q,SUNRISE COMMUNIC. ADR/1 A,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2E4LE9,A2E4LE,VOLTATRON AG INH. O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+      "Current": "DE000A2E4LE9,A2E4LE,VOLTABOX AG  INH. O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "DE000A40ZWM7,A40ZWM,PYRAMID AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Additions": [
+    "CA74290F1009,A3DT8L,PROBE GOLD INC.,Aktien International,Aktien International,,,,",
+    "US4016171054,902204,\"GUESS ? INC.       DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US89785L1070,A1132L,\"TRUECAR INC.    DL -, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 1,
+    "Deletions": 0
+  }
+}

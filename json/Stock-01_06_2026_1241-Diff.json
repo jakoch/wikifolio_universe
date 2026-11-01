@@ -1,0 +1,46 @@
+{
+  "Additions": [
+    "US02919L7038,A41JEM,AME.REB.HLD.INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US68237Q2030,A41A5A,ONCONETIX INC.,Aktien USA,Aktien USA Select,,,,",
+    "US85513Q3011,A40EUG,\"STAR EQ.HLDG.NEW DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "US98138J5039,A41V25,\"WORKHORSE GRP NEW DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US45579U1097,A42086,INDIVIOR PHARMAC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US77106T1079,A41MQ2,ROBOSTRATEGY INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US29333R1077,A427H4,ENHANCED GRP INC. A O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US50186A1088,A0J3YM,LGL GROUP INC.,Aktien USA,Aktien USA Select,,,,",
+    "US4859241048,A411WA,\"KARMAN HLDGS INC. DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "CNE100007DX6,A420CD,MONTAGE TECHN.CO. H HD 1,Aktien International,Aktien International,,,,",
+    "US80401C1009,A415FE,SATELLOGIC    O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US67079U3068,A40GEB,NUTEX HEALTH INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "AU0000138869,A2QSJR,ISLAND PHARMACEUT.LTD,Aktien International,Aktien International,,,,",
+    "US6707031075,A3CWDU,\"NUVALENT IN.CL.A DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "CA8274271052,A422L7,SILVER BOW M. CORP. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US75776W1036,A3D013,\"REDWIRE CORP.  DL -, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US98423J1016,A3DTYN,XPERI INC,Aktien USA,Aktien USA Select,,,,",
+    "JP3160060004,A40MUT,AI ROBOTICS INC.,Aktien International,Aktien International,,,,",
+    "US80004C2008,A411ZM,\"SANDISK CORP.     DL -, 01\",Aktien USA,Aktien NASDAQ 100 Select,,,,",
+    "US0959241060,A419Q6,BLUE OWL TECH.FIN O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA5609251098,A40X6P,MAKENITA RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "US71531U1025,A42701,PER.SQU.INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US86989Y1091,A425M9,SWARMER INC.      O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US82982T1060,A2PUK4,\"SITIME CORP.  DL -, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "KYG386441037,A3DQWV,GIGACLOUD TECH.INC. CL.A,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 22
+  }
+}

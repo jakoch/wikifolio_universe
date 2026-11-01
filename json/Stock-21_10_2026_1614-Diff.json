@@ -1,0 +1,24 @@
+{
+  "Additions": [
+    "IL0006290147,906517,\"TEVA PHARMACEUT.   IS 0,1\",Aktien International,Aktien International,,,,",
+    "US0476491081,A2ALP3,\"ATKORE             DL-,01\",Aktien USA,Aktien USA Select,,,,",
+    "US07556Q8814,A1J51W,\"BEAZER HOMES USA   DL-,01\",Aktien USA,Aktien USA Select,,,,",
+    "DE000A3CM708,A3CM70,SDM SE  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

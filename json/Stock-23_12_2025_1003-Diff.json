@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "CA49836K1021,A3DE20,KIWETINOHK ENERGY,Aktien International,Aktien International,,,,",
+    "SE0000215493,A0JM5W,DORO INH.            SK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "SE0009663834,A2DREX,BAMBUSER AB,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "CH1251125998,A3EFB5,\"MINDMAZE THER.NA.ST.SF0, 1\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "CH1251125998,A3EFB5,\"RELIEF THER.H.NA.ST.SF0, 1\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "DE000A0HMWM7,A0HMWM,PSI SOFTWARE SE NA ON.ZV.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US44862P2083,A3EUR0,\"HYCROFT MNG HLD  DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "SE0027099326,A41YKP,BAMBUSER AB,Aktien Europa,Aktien Europa Select,,,,",
+    "CA7472695047,A2JBXB,Q-GOLD RES,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 4
+  }
+}

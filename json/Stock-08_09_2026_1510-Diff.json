@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "FR0011053636,A1JG36,\"CAPITAL B S.A.     EO-, 04\",Aktien Europa,Aktien Europa Select,,,,",
+    "KYG3311L1041,A0YDC6,FANTASIA H.G.C.REGS HD-10,Aktien International,Aktien International,,,,",
+    "US0906556065,A3C9XF,\"BIORESTORAT.THERAP.DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US23283X2062,A12GDU,\"CYTOSORBENTS CORP. DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US55025L1089,A2QLX2,\"LUMENT FINANCE TR. DL-, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "FR0014019Y19,A41Z80,\"CAPITAL B S.A.     EO-, 80\",Aktien Europa,Aktien Europa Select,,,,",
+    "KYG3311L1124,A42KLA,\"FANTASIA H.G.C.REGS HD-, 5\",Aktien International,Aktien International,,,,",
+    "US1241551027,A2QK02,BUTTERFLY NETWORK CL.A,Aktien USA,Aktien USA Select,,,,",
+    "KYG9TY5A1016,A3D7LY,ZURA BIO LTD  CL.A,Aktien USA,Aktien USA Select,,,,",
+    "AU000000PNN7,A0D8ZZ,POWER MINERALS LTD.,Aktien International,Aktien International,,,,",
+    "US0869211039,A41PQV,\"BETA TEC. INC. DL-, 0001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 1,
+    "Deletions": 6
+  }
+}

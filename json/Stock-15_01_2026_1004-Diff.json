@@ -1,0 +1,37 @@
+{
+  "Additions": [
+    "CA29877A2056,A2QEPQ,EUROPEAN ELECTR. METALS,Aktien International,Aktien International,,,,",
+    "CA4598201065,A1JAZU,INTERNATIONAL LITHIUM,Aktien International,Aktien International,,,,",
+    "CA78471G1000,A2N8GW,SOL GLOBAL INVESTM. CORP,Aktien International,Aktien International,,,,",
+    "DE000A3MQR65,A3MQR6,VIROMED MEDICAL  INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "JP3674400001,864325,NISSIN CORP.,Aktien International,Aktien International,,,,",
+    "JP3889200006,857236,SUMITOMO MITSUI CONSTR.,Aktien International,Aktien International,,,,",
+    "US1785871013,A12E4P,\"CITY OFFICE REIT  DL -, 01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "US88557W1018,A2PDLQ,QFIN HOLDINGS   SP.ADR/2,Aktien USA,Aktien USA Select,,,,",
+    "CA04681A1057,A2PD5V,ATEX RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "CA1358711010,A41X5U,CDN GLDSFLDS DISC.O.N.,Aktien International,Aktien International,,,,",
+    "CNE1000076P8,A41SW2,CNGR ADVANCED MAT. H YC 1,Aktien International,Aktien International,,,,",
+    "KYG370481080,A3DFAW,\"FWD GROUP HLD.A DL-, 0001\",Aktien International,Aktien International,,,,",
+    "KYG8123S1066,A41MMQ,\"JST GROUP CORP.  DL-, 0001\",Aktien International,Aktien International,,,,",
+    "CNE100007C18,A41Y0G,NANHUA FUTURES A     YC 1,Aktien International,Aktien International,,,,",
+    "CNE1000076H5,A41RUZ,SERES GROUP CO.LTD H YC 1,Aktien International,Aktien International,,,,",
+    "DE000A40ZVN7,A40ZVN,VIROMED MEDICAL NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "SE0001057910,A0MMF4,SOTKAMO SILVER AB NAM.,Aktien Europa,Aktien Europa Select,,,,",
+    "CNE1000073Z4,A41K7X,CHERY AUTOMOBILE YC 1,Aktien International,Aktien International,,,,",
+    "CA74174A1021,A3E4QS,PRINCE SILVER CORP.,Aktien International,Aktien International,,,,",
+    "US40090E1064,A418RZ,GRUPO CIBEST S.A. ADR/4,Aktien International,Aktien International,,,,",
+    "CA44967J1075,A41XLC,ILC CRITICAL MIN. O.N.,Aktien International,Aktien International,,,,",
+    "HK0001200002,A41KPF,ZIJIN GOLD INT.CO. O.N.,Aktien International,Aktien International,,,,",
+    "CA78471G4079,A41X79,SOL GLOBAL INVESTM. NEW,Aktien International,Aktien International,,,,",
+    "HK0001188587,A41GHK,JIAXIN INTL RESS I. O.N.,Aktien International,Aktien International,,,,",
+    "KYG7171B1068,A41SBP,PONY AI INC. A O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 0,
+    "Deletions": 18
+  }
+}

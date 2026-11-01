@@ -1,0 +1,35 @@
+{
+  "Additions": [
+    "CA39115A1075,A3EQ9X,GREAT PAC GOLD      CL. A,Aktien International,Aktien International,,,,",
+    "CA60250V1022,A14ZP7,MINAEAN SP CONSTRUCTION,Aktien International,Aktien International,,,,",
+    "GB00BF2G3L29,A2JP7M,\"ANEXO GROUP PLC  LS-, 0005\",Aktien Europa,Aktien Europa Select,,,,",
+    "GRS323003012,A2ABD1,\"EUROBANK ERGASIAS  EO-, 22\",Aktien Europa,Aktien Europa Select,,,,",
+    "LU0137341789,805785,STARCAP.-DYNYM.BDS AEO,Fonds,Fonds Aktien,,,,",
+    "US0587791098,A2PM4C,BALOISE HLDG AG  ADR/1/10,Aktien International,Aktien International,,,,",
+    "US29873D1046,A2P25Z,EUROBK ERGAS.ADR 1/2 NEW,Aktien International,Aktien International,,,,",
+    "US5168062058,A2P57T,\"VITAL ENERGY INC.  DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US5312297220,A3ERLT,LIBERTY MEDIA C LIVE,Aktien USA,Aktien USA Select,,,,",
+    "US88677Q1094,A1J294,\"TILE SHOP HLDGS  DL-, 0001\",Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA37893J1003,A41W87,GLOBAL POWER SOL. CORP.,Aktien International,Aktien International,,,,",
+    "US5309093087,A41XQX,LIBERTY LIVE HOLDINGS C,Aktien USA,Aktien USA Select,,,,",
+    "GRS829003003,A41XCJ,\"EUROBANK S.A. EO -, 22\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA46125N1024,A4123T,INTURAI VENT.CORP. O.N.,Aktien International,Aktien International,,,,",
+    "CA09175N1096,A41L3A,BITZERO HOLDINGS  O.N.,Aktien International,Aktien International,,,,",
+    "CA39115B1058,A41XBB,GRE.PAC.GOL.COR.NEW. O.N.,Aktien International,Aktien International,,,,",
+    "US88677Q2084,A41PGW,TILE SHOP H. O.N.,Aktien International,Aktien International,,,,",
+    "SE0026599557,A41SV6,COFFEE STAIN GRP B O.N.,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 10,
+    "Modifications": 1,
+    "Deletions": 8
+  }
+}

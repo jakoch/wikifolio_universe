@@ -1,0 +1,26 @@
+{
+  "Additions": [
+    "AU000000GBZ5,A0MYQB,GBM RESOURCES LTD,Aktien International,Aktien International,,,,",
+    "AU0000327504,A40ACU,THUNDERBIRD RESOURCES,Aktien International,Aktien International,,,,",
+    "CA8968871068,A2JA0J,TROILUS GOLD CORP. NEW,Aktien International,Aktien International,,,,",
+    "US0401261047,A3CWMJ,ARGO BLOCKCHAIN SP.ADR/10,Aktien USA,Aktien USA Select,,,,",
+    "US75973T1016,A2P9A5,RENALYTIX     SP.ADS/2,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA67059X3040,A41V2P,NURAN WIRELESS INC.,Aktien International,Aktien International,,,,",
+    "AU0000009771,A2JMXJ,\"URW (STAPL.SHS CDI)EO-, 05\",Aktien International,Aktien International,,,,",
+    "AU0000443905,A41XFY,GBM RESOURCES LTD,Aktien International,Aktien International,,,,",
+    "CA33583M2067,A41VME,FIRST NORDIC M. CORP.,Aktien International,Aktien International,,,,",
+    "CA89688V1031,A41VGG,TROILUS MINING CORP.,Aktien International,Aktien International,,,,",
+    "CA80280U2056,A41S50,SANTACRUZ SILVER MNG O.N.,Aktien International,Aktien International,,,,",
+    "US0401263027,A41VWR,ARGO BLOCKCH. SP.ADR/2160,Aktien USA,Aktien USA Select,,,,",
+    "AU0000442931,A41XB3,XPEDRA RESOURCES LTD.,Aktien International,Aktien International,,,,",
+    "CA74767B1031,A41WE3,QUANTUM SECURE ENCR. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 9
+  }
+}

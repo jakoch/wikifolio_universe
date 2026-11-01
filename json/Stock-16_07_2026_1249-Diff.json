@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "EE3100016965,A0MNR0,\"AS EKSPRESS GRUPP EO 0, 60\",Aktien Europa,Aktien Europa Select,,,,",
+    "SE0026141665,A41H5C,FINGERPRINT CARDS  O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "US14161W3034,A42D32,CARDLYTICS INC. NEW  O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US14888U1016,A0LCUL,CATALYST PHARM.INC.DL-001,Aktien USA,Aktien USA Select,,,,",
+    "US92971A1097,A3CR8W,\"WM TECHNOLOGY A DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US98419J2069,A2ATUH,\"XOMA ROYALTY    DL -, 0005\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "SE0009242654,A2DGQ3,NEEMS HILL AB CL.B,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "SE0009242654,A2DGQ3,SCANDINAV.CHEMOTECH CL.B,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 4,
+    "Deletions": 0
+  }
+}

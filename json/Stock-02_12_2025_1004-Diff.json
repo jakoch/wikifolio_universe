@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "CA38940L2057,A3EWZU,GRAYCLIFF EXPLORATION NEW,Aktien International,Aktien International,,,,",
+    "GB00BFZ4N465,A2JRTA,\"CUSHMAN WAKEF. DL, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US33939J3032,A2ATWV,\"FLEXSHOPPER NEW   DL-, 001\",Aktien USA,Aktien USA Select,,,,",
+    "US4606901001,851781,\"INTERPUBL.GR. COS. DL-, 10\",Aktien USA,Aktien USA Select,,,,",
+    "US88688T1007,A2JQSC,\"TILRAY INC. CL.2 DL-, 0001\",Aktien USA,Aktien USA Select,,,,",
+    "US92343X1000,541561,VERINT SYSTEMS INC.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "FR0014012K95,A41TS2,EUTELSAT COMMS      ANR.,Aktien Europa,Aktien Europa Select,,,,",
+    "US88688T2096,A41VMJ,TILRAY BRANDS  NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "CA38940L3048,A41TSD,GRAYCLIFF EXPLOR. LTD.,Aktien International,Aktien International,,,,",
+    "BMG2717C1064,A41GZE,CUSHMAN + WAKEFIELD O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}

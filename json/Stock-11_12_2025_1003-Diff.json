@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "CA33583M1077,A4081Q,FIRST NORDIC M. CORP.,Aktien International,Aktien International,,,,",
+    "CA67059X2059,A2QEX0,NURAN WIRELESS INC.,Aktien International,Aktien International,,,,",
+    "CA80280U1066,A1JWYC,SANTACRUZ SILVER MINING,Aktien International,Aktien International,,,,",
+    "CA80917B1094,A40AT5,SCOPE TECHNOLOGIES   O.N.,Aktien International,Aktien International,,,,",
+    "US2620771004,A2DJKS,\"DRIVE SHACK        DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US8485741099,A0LEXG,SPIRIT AERO.HLDGS A DL-01,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "GB00BVZK7T90,A41NM1,\"UNILEVER PLCLS -, 035\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB00BVZK7T90,A41NM1,UNILEVER PLC,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "LU0260085492,A0J317,JUP.GL.FD.-J.EU.SE.LEOA,Fonds,Fonds Aktien,,,,",
+      "Current": "LU0260085492,A0J317,JUP.GL.FD.-J.EU.GR.LEOA,Fonds,Fonds Aktien,,,,"
+    }
+  ],
+  "Deletions": [
+    "US2620775062,A41U16,GOLF ENTERT. GRP. NEW O.N,Aktien International,Aktien International,,,,",
+    "CA74767B1031,A41WE3,QUANTUM SECURE ENCR. O.N.,Aktien International,Aktien International,,,,",
+    "CA67059X3040,A41V2P,NURAN WIRELESS INC.,Aktien International,Aktien International,,,,",
+    "CA33583M2067,A41VME,FIRST NORDIC M. CORP.,Aktien International,Aktien International,,,,",
+    "CA80280U2056,A41S50,SANTACRUZ SILVER MNG O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 2,
+    "Deletions": 5
+  }
+}

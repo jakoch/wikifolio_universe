@@ -1,0 +1,16 @@
+{
+  "Additions": [
+    "IE00BJXRT706,A2PM4R,S.S BB 1.3 M HMN,ETFs,ETFs Sonstige Bonds,,,,",
+    "DE000PR5RHU7,PR5RHU,BNP PAR.ISS. O.E. ETC,ETFs,ETFs DAX,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE00BL0L0H60,A2PZBP,F.TR.NYSE ARC.BTECH.UEADL,ETFs,ETFs Branchen,,,,",
+    "IE000TMA3NX9,A42LT6,HSBC CN ROB.E. DLA,ETFs,ETFs Asien,,,,"
+  ],
+  "Summary": {
+    "Additions": 2,
+    "Modifications": 0,
+    "Deletions": 2
+  }
+}

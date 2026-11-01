@@ -1,0 +1,25 @@
+{
+  "Additions": [
+    "IT0003497176,120471,TELECOM ITALIA RNC,Aktien Hot Stocks,Aktien Hot Stocks,,,,",
+    "NO0012548819,A3DMCE,\"SIKRI GROUP ASA    NK-, 02\",Aktien Europa,Aktien Europa Select,,,,",
+    "LU1637618155,A2DVP7,BERENBERG EUROP.FOCUS RA,Fonds,Fonds Aktien,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    }
+  ],
+  "Deletions": [
+    "DE000A40ZVV0,A40ZVV,CECONOMY AG ON Z.VERK.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

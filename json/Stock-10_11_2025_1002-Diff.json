@@ -1,0 +1,24 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "NL0015000DX5,A3CSB4,ATAI BECKLEY N.V.     EO1,Aktien USA,Aktien USA Select,,,,",
+      "Current": "NL0015000DX5,A3CSB4,ATAI LIFE SCIENCES BV EO1,Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "CA59132M1086,A4021B,METALS. MINING INC.O.N.,Aktien International,Aktien International,,,,",
+    "KYG8917X1473,A41H9Y,\"TONGDA GROUP HLDGS HD-, 5\",Aktien International,Aktien International,,,,",
+    "DE000A3CNK42,A3CNK4,ABOUT YOU HOLDING SE,Aktien Deutschland,Aktien SDAX,,,,",
+    "CA38074C1041,A41K84,GOL.STR.RES.COR. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 4
+  }
+}

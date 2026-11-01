@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "AU0000109910,A2QFH5,CYCLONE METALS LTD.,Aktien International,Aktien International,,,,",
+    "CA04315L1058,A0MK8P,ARTIS REAL EST.INV.TR.UTS,Aktien International,Aktien International,,,,",
+    "CA23003L1022,A3DJ8V,CULLINAN METALS CORP.,Aktien International,Aktien International,,,,",
+    "CA62849F4087,A41MZP,MYDECINE INNOVAT.GRP NEW,Aktien International,Aktien International,,,,",
+    "US15677J1088,A2JHZH,DAYFORCE INC.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "CA23003L2012,A421FF,CULLINAN METALS CORP.,Aktien International,Aktien International,,,,",
+    "CA66990B1085,A42208,NOVERIS HEALTH SCI.,Aktien International,Aktien International,,,,",
+    "CA26871G1054,A3C8EG,EMP METALS CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 0,
+    "Deletions": 3
+  }
+}

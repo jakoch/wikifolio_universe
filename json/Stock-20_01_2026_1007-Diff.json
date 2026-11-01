@@ -1,0 +1,58 @@
+{
+  "Additions": [
+    "CA91822J2020,A3D9SJ,VBI VACCINES INC.,Aktien USA,Aktien USA Select,,,,",
+    "JP3481300006,A1XFA9,DAIKYONISHIKAWA CORP.,Aktien International,Aktien International,,,,",
+    "JP3805010000,A0MMJH,FUKUOKA FINL GROUP,Aktien International,Aktien International,,,,",
+    "LU0188151095,A0B9EH,FTIF-TEMP.EUR.SMC NAC,Fonds,Fonds Aktien,,,,",
+    "US04650F1012,A41WEP,ATAIBECKLEY INC. O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "GRS343313003,928980,\"BALLYS INTRALOT   EO 0, 30\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GRS343313003,928980,\"INTRALOT NOM.     EO 0, 30\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "GB0006449366,871733,\"ECORA ROYALTIES    LS-, 02\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB0006449366,871733,\"ANGLO PACIFIC GRP  LS-, 02\",Aktien International,Aktien International,,,,"
+    },
+    {
+      "Original": "GB00B0WJ3L68,A0JDJP,\"GANA MEDIA GROUP LS-, 0001\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "GB00B0WJ3L68,A0JDJP,\"MOBILE STREAMS   LS-, 0001\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "SE0000201253,A3DDL9,SILJANSVIK AB        CL.A,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "SE0000201253,A3DDL9,DALA ENERGI AB  CL.A,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "SE0000407991,909952,\"SVEDBERGS GROUP B SK 1, 25\",Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "SE0000407991,909952,\"SVEDBERGS DALS. B SK 1, 25\",Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "SE0008374383,A2AMJE,MAHA CAPITAL AB,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "SE0008374383,A2AMJE,MAHA ENERGY AB,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "US20337X1090,A1W5SD,\"VISTANCE NETW.INC.DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+      "Current": "US20337X1090,A1W5SD,COMMSCOPE HLDG CO. INC.,Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "ROSNPPACNOR9,766152,\"OMV PETROM S.A.NAM.LN-, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "US9252831030,A41RUQ,VERSANT MEDIA GRP A O.N.,Aktien USA,Aktien USA Select,,,,",
+    "DE000A3C91C5,A3C91C,COIQ COLL.INTELLIGENCE R,Fonds,Fonds Aktien,,,,",
+    "CA8280611010,A3ESA1,SILVER NORTH RESOURCES,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 9,
+    "Deletions": 4
+  }
+}

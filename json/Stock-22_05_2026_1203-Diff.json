@@ -1,0 +1,33 @@
+{
+  "Additions": [
+    "FI4000260583,A2JFPK,BBS-BIOACTIVE BONE SUB.,Aktien Europa,Aktien Europa Select,,,,",
+    "FI4000496328,A3C68H,FIFAX ABP   EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "IT0005359192,A2PFBF,ILLIMITY BANK,Aktien Europa,Aktien Europa Select,,,,",
+    "PTINA0AP0008,872598,INAPA NAM.,Aktien Europa,Aktien Europa Select,,,,",
+    "SI0031107673,A0EACF,ELEKTRO GORENJSKA,Aktien Europa,Aktien Europa Select,,,,",
+    "CA68405H1001,A2QQEL,OPTIMI HEALTH CORP.,Aktien International,Aktien International,,,,",
+    "US8695876008,A3CSDZ,SVENSKA CEL.A. UNSP.ADR/1,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA68405H3080,A411WC,OPTIMI HEALTH CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 3,
+    "Deletions": 1
+  }
+}

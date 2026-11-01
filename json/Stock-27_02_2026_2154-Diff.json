@@ -1,0 +1,32 @@
+{
+  "Additions": [
+    "GB0000536739,894565,\"ASHTEAD GROUP PLC REGISTERED SHARES LS -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "NO0010307135,A0NBAT,\"AQUA BIO TECHNOL. NK -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA4622024095,A2QQNT,IONIC BRANDS CORP.,Aktien International,Aktien International,,,,",
+    "IL0010823123,885455,\"MAGIC SOFTWARE ENT.IS-, 01\",Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "NO0013735894,A41YS7,\"AQUA BIO TECHNOL.  NK 5, -\",Aktien Europa,Aktien Europa Select,,,,",
+    "NL0015002AM0,A40WHV,\"SONO GROUP NV     EO -, 06\",Aktien Europa,Aktien Europa Select,,,,",
+    "US8669661048,A41N08,\"SUNBELT RNTL HLDGS DL-, 01\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 4,
+    "Modifications": 3,
+    "Deletions": 3
+  }
+}

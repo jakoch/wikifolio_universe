@@ -1,0 +1,83 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE0006289382,628938,ISHS DJ GL.T50 U.ETF EOD,ETFs,ETFs Welt,,,,",
+      "Current": "DE0006289382,628938,IS.DJ GLOB.TITAN.50 U.ETF,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "DE000A2QP4C4,A2QP4C,ISHS DJ GL.T50 U.ETF EOA,ETFs,ETFs Welt,,,,",
+      "Current": "DE000A2QP4C4,A2QP4C,ISHS DJ GL.T50 U.ETF EOA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000LEIJUY9,ETF360,AEI-SP AW.H.DY DLD,ETFs,ETFs Welt,,,,",
+      "Current": "IE000LEIJUY9,ETF360,AEI-SP AW.H.DY DLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000RW7V8Q4,A401NL,SH.BD ESG E. (A)EOA,ETFs,ETFs Sonstige Bonds,,,,",
+      "Current": "IE000RW7V8Q4,A401NL,SH.BD ESG E. (A)EOA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000UFAX9L6,A41357,GSAENH W.EQ.AC DLA,ETFs,ETFs Welt,,,,",
+      "Current": "IE000UFAX9L6,A41357,GSAENH W.EQ.AC DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000UOXRAM8,A3C6Z0,IM 2-I.DJ I.GDM DLA,ETFs,ETFs Welt,,,,",
+      "Current": "IE000UOXRAM8,A3C6Z0,IM 2-I.DJ I.GDM DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000UZCJS58,DBX0RU,XTWLDNET ZPPA 1CDLA,ETFs,ETFs Welt,,,,",
+      "Current": "IE000UZCJS58,DBX0RU,XTWLDNET ZPPA 1CDLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000XC6EVL9,A3EDC8,HSBCETF-NGLCLIT DLA,ETFs,ETFs Welt,,,,",
+      "Current": "IE000XC6EVL9,A3EDC8,HSBCETF-NGLCLIT DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000XOQ9TK4,DBX0R3,XTRI-M.N.G.I.I. 1CDLA,ETFs,ETFs Welt,,,,",
+      "Current": "IE000XOQ9TK4,DBX0R3,XTRI-M.N.G.I.I. 1CDLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000YUTMIU2,A40NTL,FID QUA IN DLA,ETFs,ETFs Welt,,,,",
+      "Current": "IE000YUTMIU2,A40NTL,FID QUA IN DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BDR55927,A2H5CB,UBS(I)-U.M.A.S.R.ETF HEOA,ETFs,ETFs Welt,,,,",
+      "Current": "IE00BDR55927,A2H5CB,UBS(IRL)ETF-MS.AC.S.EOAAH,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BMDWYZ92,A2P4WJ,JPM-CTB GLB EQ UE A,ETFs,ETFs Welt,,,,",
+      "Current": "IE00BMDWYZ92,A2P4WJ,JPME-CB.TR.G.E..E.I.E.DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BYTH5S21,A3CNJH,PDR GL.DI.ARI.SCR. DLD,ETFs,ETFs Welt,,,,",
+      "Current": "IE00BYTH5S21,A3CNJH,SPDR GL.DI.ARI. DLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BYTH6121,A14X87,FTGF.-FT G.E.I.U.ETF AADL,ETFs,ETFs Welt,,,,",
+      "Current": "IE00BYTH6121,A14X87,FTGF.-FT G.E.I.U.ETF AADL,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BYV1YH46,A2DWQ2,FIDELITY GL.QUAL.IN.EOHI,ETFs,ETFs Welt,,,,",
+      "Current": "IE00BYV1YH46,A2DWQ2,FIDELITY GL.QUAL.IN.EOHI,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BYXVGZ48,A2DL7E,FIDELITY GL.QUAL.INC. INC,ETFs,ETFs Welt,,,,",
+      "Current": "IE00BYXVGZ48,A2DL7E,FIDELITY GL.QUAL.INC. INC,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BZ56RN96,A2AG1D,WISDOMTR.GL.QUAL.DV.GR.DL,ETFs,ETFs Welt,,,,",
+      "Current": "IE00BZ56RN96,A2AG1D,WISDOMTR.GL.QUAL.DV.GR.DL,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU2491211004,A3DPYD,OSS.LU-O.B.QE.N U.ETF 1CE,ETFs,ETFs Welt,,,,",
+      "Current": "LU2491211004,A3DPYD,OSS.LU-O.B.QE.N U.ETF 1CE,ETFs,ETFs Nordamerika,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 18,
+    "Deletions": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "Additions": [
+    "GB0003466074,874698,\"F+C INVESTMENT TR  LS-, 25\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00B95L0551,A1KA04,\"REABOLD RESOURCES LS-, 001\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BL9YR756,A3CTVY,\"WISE PLC       LS -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "PA1436583006,120100,CARNIVAL PAIRED CTF,Aktien USA,Aktien Dow Jones,,,,",
+    "CA00792K2065,A41X6Y,AERO ENERGY LTD.NEW,Aktien International,Aktien International,,,,",
+    "CA21750Y1034,A12CEW,COPPER LAKE RES LTD,Aktien International,Aktien International,,,,",
+    "CA89712R2019,A3DBDE,TROUBADOUR RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "US4831192020,A3DWPS,\"KALA BIO INC.     DL-, 001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien Sonstige",
+      "Current": "DE0007165631,716563,SARTORIUS AG VZO O.N.,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0005550636,555063,DRAEGERWERK VZO O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "US39818P7996,A3EDEU,\"PEAKSTONE RE.TR. DL -, 001\",Aktien USA,Aktien USA Select,,,,",
+    "JE00BQKY0816,A429D3,\"WISE GROUP PLC    DL -, 01\",Aktien Europa,Aktien Europa Select,,,,",
+    "US14216R1014,A3DZG2,CARISMA THERAPEUTICS INC.,Aktien USA,Aktien USA Select,,,,",
+    "IT0005678104,A41VB8,KALEON S.P.A.     O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "CA21750Y2024,A41C59,COPPER LAKE RES LTD,Aktien International,Aktien International,,,,",
+    "BMG2004J1036,A42BYX,\"CARNIVAL CORP. LTD DL-, 01\",Aktien USA,Aktien USA Select,,,,",
+    "US4831193010,A4243T,KALA BIO INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "GB00BS88V647,A42BTG,\"CT UK C.+I.I.TR.LS-, 0625\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA5629131031,A42AD4,MANHATTAN URANIUM D. O.N.,Aktien International,Aktien International,,,,",
+    "CA89712R3009,A428NX,TROUBADOUR RES.INC. O.N.,Aktien International,Aktien International,,,,",
+    "IT0005200248,A2APNH,SOLUTIONS CAP.MAN.SIM SPA,Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 5,
+    "Deletions": 11
+  }
+}

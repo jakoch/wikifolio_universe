@@ -1,0 +1,31 @@
+{
+  "Additions": [
+    "GB00BFZ45C84,A2NB01,\"1SPATIAL PLC      LS -, 10\",Aktien Europa,Aktien Europa Select,,,,",
+    "BMG0403V2062,A2DYZS,APAC RES LTD       HD 1,Aktien International,Aktien International,,,,",
+    "CA98873A1057,A3DBDT,YUMY CANDY COMPANY INC.,Aktien International,Aktien International,,,,",
+    "CA98956B1031,A4054V,ZEUS NORTH AMER.MINING C.,Aktien International,Aktien International,,,,",
+    "US75607T1051,A3EC6X,REALPHA TECH CORP,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA98873A2048,A42AGV,YUMY CANDY COMPANY NEW,Aktien International,Aktien International,,,,",
+    "CA98956B2021,A42ARB,ZEUS NORTH AMER.MINING C.,Aktien International,Aktien International,,,,",
+    "US98423K4058,A40S33,XTI AEROSPACE INC. NEW,Aktien USA,Aktien USA Select,,,,",
+    "DE000A420ZL4,A420ZL,ELECTROVAC AG,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US75607T2042,A428X6,REALPHA TECH CORP. NEW ON,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 5
+  }
+}

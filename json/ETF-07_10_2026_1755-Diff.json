@@ -1,0 +1,245 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE000ETFL623,ETFL62,DEKA NASDAQ-100 UCITS ETF,ETFs,sonstige ETFs,,,,",
+      "Current": "DE000ETFL623,ETFL62,DEKA NASDAQ-100 UCITS ETF,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "DE000ETFL631,ETFL63,DEKA S+P 500 UCITS ETF,ETFs,sonstige ETFs,,,,",
+      "Current": "DE000ETFL631,ETFL63,DEKA S+P 500 UCITS ETF,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "FR0011550177,A1W4DQ,BNPPEFR-S+P 500 UETF DLC,ETFs,sonstige ETFs,,,,",
+      "Current": "FR0011550177,A1W4DQ,BNPPEFR-S+P 500 UETF DLC,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "FR0011550185,A1W4DP,BNPPEFR-S+P 500 UETF EOC,ETFs,sonstige ETFs,,,,",
+      "Current": "FR0011550185,A1W4DP,BNP PARIBAS EASY S&P 500 UCITS ETF,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "FR0011871110,LYX0UF,AM.PEA NASDAQ-100 UETF AC,ETFs,sonstige ETFs,,,,",
+      "Current": "FR0011871110,LYX0UF,L.PEA NASDAQ-100 UETF CEO,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "FR0011871128,LYX0UG,AM.PEA S+P 500 U.ETF ACC.,ETFs,sonstige ETFs,,,,",
+      "Current": "FR0011871128,LYX0UG,AM.PEA S+P 500 U.ETF ACC.,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "FR0013041530,A14Z68,BNPPEFR-S+P 500 UETF EOH,ETFs,sonstige ETFs,,,,",
+      "Current": "FR0013041530,A14Z68,BNPPEFR-S+P 500 UETF EOH,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "FR001400ZGR7,ETF271,AM.PEA NA100 SEOA,ETFs,sonstige ETFs,,,,",
+      "Current": "FR001400ZGR7,ETF271,AM.PEA NA100 SEOA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE0001OGLP52,A40PJR,ISH.SP500S.U.E. HGDLSD,ETFs,sonstige ETFs,,,,",
+      "Current": "IE0001OGLP52,A40PJR,ISH.SP500S.U.E. HGDLSD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE0003RQ9F90,A40ZLX,UBS(I)ETF-NASDAQ-100 ADLD,ETFs,sonstige ETFs,,,,",
+      "Current": "IE0003RQ9F90,A40ZLX,UBS(I)ETF-NASDAQ-100 ADLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000A2YGZU5,ETF306,AEI-A.C.N.100E. DLA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000A2YGZU5,ETF306,AEI-A.C.N.100E. DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000D3BWBR2,A3DA9Y,ISH.SP500S.U.E. DLD,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000D3BWBR2,A3DA9Y,ISH.SP500S.U.E. DLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000DN1DKF8,A420V3,HE2-DZB SP500UE DLA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000DN1DKF8,A420V3,HE2-DZB SP5E. DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000DQLYVB9,A412X8,IS6-SP500 SWPEA ()EOA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000DQLYVB9,A412X8,IS6-SP500 SWPEA ()EOA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000EXUE0G2,DBX0W7,X.IEX.NDQ100SW 1DDLD,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000EXUE0G2,DBX0W7,X.IEX.NDQ100SW 1DDLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000FO05UG4,DBX0W5,X.IEX.SP500SW2 1DDLD,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000FO05UG4,DBX0W5,X.IEX.SP500SW2 1DDLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000HY30YW6,DBX0W4,X.IEX.SP500SW2 1CDLA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000HY30YW6,DBX0W4,X.IEX.SP500SW2 1CDLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000JZ473P7,A3DN5D,HSBC ETFS-SP500 DLA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000JZ473P7,A3DN5D,HSBC ETFS-SP500 DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000QDFFK00,A3DXEB,BNPEII NSDQ100 DLA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000QDFFK00,A3DXEB,AXA-NASDAQ 100 DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000RUF4QN8,A3CPL4,IVSC-ND.100SW DL DIS.,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000RUF4QN8,A3CPL4,IVSC-ND.100SW DL DIS.,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000SB4G4I4,A412XA,UBS(I)ETF-NAS100 DLA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000SB4G4I4,A412XA,UBS(I)ETFNAS100 (A)DLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000UBAW7M3,ETF238,AME-CORE SP 500 DLA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000UBAW7M3,ETF238,AME-CORE SP 500 DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000UP2BIZ9,DBX0XP,XT.-S+P500 4DDLD,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000UP2BIZ9,DBX0XP,XT.-S+P500 4DDLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000Y7V5EW2,A41U0P,ISH.CO.S&P500UE HGDSFA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000Y7V5EW2,A41U0P,ISH.CO.S&P500UE HGDSFA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000Z3S26J2,A40PJS,ISH.SP500S.U.E. HGDEOA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000Z3S26J2,A40PJS,ISH.SP500S.U.E. HGDEOA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE000Z9SJA06,DBX0SV,XT.-S+P500 4CDLCAP,ETFs,sonstige ETFs,,,,",
+      "Current": "IE000Z9SJA06,DBX0SV,XT.-S+P500 4CDLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00B3ZW0K18,A1C5E9,ISHSV-S+P500 EUR HGD ACC,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00B3ZW0K18,A1C5E9,ISHSV-S+P500 EUR HGD ACC,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00B7K93397,A1JVB5,UBS-U.CORE SP500 ETF DLD,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00B7K93397,A1JVB5,UBS S&P 500,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00B88DZ566,A1J780,ISHSVI-S+P500 SF H. ACC,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00B88DZ566,A1J780,ISHSVI-S+P500 SF H. ACC,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00B8KMSQ34,A1J7W9,X(IE)-S+P 500 3CSFH,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00B8KMSQ34,A1J7W9,X(IE)-S+P 500 3CSFH,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BD34DK07,A2AMYQ,UBS-U.CORE SP500 ETF HEOA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00BD34DK07,A2AMYQ,UBS(IRL)ETF - S&P 500 U.ETF,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BD4TXW66,A41DL0,UBS-CSP500UETF DLA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00BD4TXW66,A41DL0,UBS-CSP500UETF DLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BGJWX091,A2N4YV,X(IE)-S+P 500 1DEOH,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00BGJWX091,A2N4YV,X(IE)-S+P 500 1DEOH,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BM67HW99,A113FP,X(IE)-S+P 500 1CEOH,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00BM67HW99,A113FP,DBX S&P 500 3C,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BRKWGL70,A12DYR,INVESCOMI S+P500 EUR HDG,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00BRKWGL70,A12DYR,I.M.-I.S+P 500 UETF AEOH,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BYML9W36,A1405W,INVESCOMI S+P 500 DIST A,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00BYML9W36,A1405W,I.M.-I.S+P 500 UETF D,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BYVQ9F29,A2N34W,ISHSVII-NASDAQ 100 EOHACC,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00BYVQ9F29,A2N34W,ISHSVII-NASDAQ 100 EOHACC,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BYVTMS52,A2DT9V,INVESCOM3 NA 100 EURH A,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00BYVTMS52,A2DT9V,INVESCOM3 NA 100 EURH A,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE00BYYW2V44,A2AGXP,STS SP5 UE HEOA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE00BYYW2V44,A2AGXP,SPDR S+P 500 U.ETF EOHA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU0490618542,DBX0F2,XTRACK.S+P 500 SWAP UE 1C,ETFs,sonstige ETFs,,,,",
+      "Current": "LU0490618542,DBX0F2,DB X-TRACKERS S&P 500 ETF,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU0496786574,LYX0FS,MULACSPP500 E DIS,ETFs,sonstige ETFs,,,,",
+      "Current": "LU0496786574,LYX0FS,MUL AMUN S+P500 ETF E DIS,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU0496786657,LYX0FZ,MULACSPP500 U DIS,ETFs,sonstige ETFs,,,,",
+      "Current": "LU0496786657,LYX0FZ,MUL AMUN S+P500 ETF U DIS,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU0959211243,LYX0RE,MULACSPP500 EH D,ETFs,sonstige ETFs,,,,",
+      "Current": "LU0959211243,LYX0RE,MUL AMUN S+P500 ETF EH D,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU0959211326,LYX0RX,MULACSPP500 EH A,ETFs,sonstige ETFs,,,,",
+      "Current": "LU0959211326,LYX0RX,MUL AMUN S+P500 ETF EH A,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU1135865084,LYX0Q9,MULACSPP500 E ACC,ETFs,sonstige ETFs,,,,",
+      "Current": "LU1135865084,LYX0Q9,MULACSPP500 E ACC,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU1681038599,A2H579,AIS-AM.NAS.-100 SW.UEEOCD,ETFs,sonstige ETFs,,,,",
+      "Current": "LU1681038599,A2H579,AIS-AM.MSCI NDQ100 EOCDH,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU1681048804,A2H573,AIS-AM.S+P500 SW.UETF EOC,ETFs,sonstige ETFs,,,,",
+      "Current": "LU1681048804,A2H573,AIS-A.IND.S+P500UETF EOC,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU1681049109,A2H576,AIS-AM.S+P500 SW.UETFEOCD,ETFs,sonstige ETFs,,,,",
+      "Current": "LU1681049109,A2H576,AIS-A.I.S+P500UETF EOCDH,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU1954152853,LYX02Z,MUL AMUN CN100SW.UE.EOHDA,ETFs,sonstige ETFs,,,,",
+      "Current": "LU1954152853,LYX02Z,MUL-LYX.NASDAQ DAHEOA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU2009147757,DBX00S,XTR.S+P500SUETF 1DDLD,ETFs,sonstige ETFs,,,,",
+      "Current": "LU2009147757,DBX00S,XTR.S+P500SUETF 1DDLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU2196472984,A2P7NV,XTR.S+P500SUETF 5CEOH,ETFs,sonstige ETFs,,,,",
+      "Current": "LU2196472984,A2P7NV,XTR.S+P500SUETF 5CEOH,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU2993390504,A4171F,BNPP E.SP500 2 U.ETFDLA,ETFs,sonstige ETFs,,,,",
+      "Current": "LU2993390504,A4171F,BNPP E.SP500 2 U.ETFDLA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU2993390686,A4171D,BNPP E.SP500 2 U.ETFDLD,ETFs,sonstige ETFs,,,,",
+      "Current": "LU2993390686,A4171D,BNPP E.SP500 2 U.ETFDLD,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU2993390769,A4171E,BNPP E.SP500 2 U.ETF HEOA,ETFs,sonstige ETFs,,,,",
+      "Current": "LU2993390769,A4171E,BNPP E.SP500 2 U.ETF HEOA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU2993390843,A4171B,BNPP E.SP500 2 U.ETFEOA,ETFs,sonstige ETFs,,,,",
+      "Current": "LU2993390843,A4171B,BNPP E.SP500 2 U.ETFEOA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "LU2997383372,A411U8,OSS LUX-O.SP500 1C EOA,ETFs,sonstige ETFs,,,,",
+      "Current": "LU2997383372,A411U8,OSS LUX-O.SP500 1C EOA,ETFs,ETFs Nordamerika,,,,"
+    },
+    {
+      "Original": "IE0001ZFMLN7,A40HWB,ISHS6NAS100SWAP DLA,ETFs,sonstige ETFs,,,,",
+      "Current": "IE0001ZFMLN7,A40HWB,ISHS6NAS100SWAP DLA,Aktien USA,Aktien NASDAQ 100 Select,,,,"
+    },
+    {
+      "Original": "FR0011550680,A1W6FE,BNPPEFR-S+P 500 UE DLCD,ETFs,sonstige ETFs,,,,",
+      "Current": "FR0011550680,A1W6FE,BNPPEFR-S+P 500 UE DLCD,ETFs,ETFs Europa Gesamt,,,,"
+    }
+  ],
+  "Deletions": [
+    "IE000NKC01D0,A41XNN,IM IV-I.GL.G.BD DLD,ETFs,ETFs Sonstige Bonds,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 58,
+    "Deletions": 1
+  }
+}

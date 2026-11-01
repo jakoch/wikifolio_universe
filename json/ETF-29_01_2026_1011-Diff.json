@@ -1,0 +1,19 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "LU1437015735,A2ATYJ,AIS-AC MSCI EUR.UETFDREOA,ETFs,ETFs Europa Gesamt,,,,",
+      "Current": "LU1437015735,A2ATYJ,AIS-A.I.MSCI EUR.UC.ETFDR,ETFs,ETFs Europa Gesamt,,,,"
+    },
+    {
+      "Original": "LU2573967036,ETF028,MUL AMUN MSCI EM ETF ACC,ETFs,ETFs Emerging Markets,,,,",
+      "Current": "LU2573967036,ETF028,MUL-AM.MSCI EM2 DLA,ETFs,ETFs Emerging Markets,,,,"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Additions": [
+    "KYG7006A1094,A3DQJA,PERFECT CORP. CL.A,Aktien International,Aktien International,,,,",
+    "US0396531008,A2N62P,\"ARCOSA INC.       DL -,01\",Aktien USA,Aktien USA Select,,,,",
+    "DE0006097108,609710,INFAS HLDG AG  O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "BMG730931091,A40F4S,VENTURA OFFSHORE HLDGS,Aktien Europa,Aktien Europa Select,,,,",
+    "FI4000609672,A42P34,SENSOFUSION OY    EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "US30609A1097,A42MJQ,\"ONEOK INC.         DL-,01\",Aktien USA,Aktien Dow Jones,,,,",
+    "FR001401B312,A42RHA,MONDO TV FRANCE NOM.EO100,Aktien Europa,Aktien Europa Select,,,,",
+    "CNE1000075T2,A41PQU,CIG SHANGHAI O.N.,Aktien International,Aktien International,,,,",
+    "NO0013757500,A42NGD,OUTLET GROUP HOLDING O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "CA00809Q1054,A42QTU,AETHERION TECHN.INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "DE000TKCC1S8,TKCC1S,TK ACCELIS GROUP INH.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US49876K2024,A41A0Y,GREENLAND MINES  NEW O.N.,Aktien USA,Aktien USA Select,,,,",
+    "AU0000252645,A3D2VG,VICTORY METALS LTD.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 10
+  }
+}
