@@ -1,0 +1,27 @@
+{
+  "Additions": [
+    "US1248051021,A0F5F5,\"CBIZ INC.          DL-,01\",Aktien USA,Aktien USA Select,,,,",
+    "US49177J1025,A3EEHU,\"KENVUE INC.      DL -,001\",Aktien USA,Aktien USA Select,,,,",
+    "US53815P1084,A2N63A,\"LIVERAMP HLDGS     DL-,10\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [],
+  "Summary": {
+    "Additions": 3,
+    "Modifications": 3,
+    "Deletions": 0
+  }
+}
