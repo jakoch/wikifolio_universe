@@ -1,0 +1,21 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "FR0010655712,A0REJQ,AMUNDI DAX EOA,ETFs,sonstige ETFs,,,,",
+      "Current": "FR0010655712,A0REJQ,AMUNDI ETF DAX U.ETF DR,ETFs,ETFs Deutschland,,,,"
+    },
+    {
+      "Original": "FR0010754200,A0RNWC,AM.EO GV BD0-6M C EOA,ETFs,ETFs Europa Bonds,,,,",
+      "Current": "FR0010754200,A0RNWC,AMUNDI ETF-GOV.0-6M EO IG,ETFs,ETFs Europa Bonds,,,,"
+    }
+  ],
+  "Deletions": [
+    "IE0006N52L45,A42N8B,I.P.I.-L.U.E.AI DLA,ETFs,ETFs Nordamerika,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 1
+  }
+}

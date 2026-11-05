@@ -1,0 +1,106 @@
+{
+  "Additions": [
+    "BE0003847648,A0KEVY,FLOWSPARKS NV,Aktien Europa,Aktien Europa Select,,,,",
+    "BE0003893139,A0Q5BZ,IMMO MOURY SCA,Aktien Europa,Aktien Europa Select,,,,",
+    "BE0172505399,931553,BNP PARIBAS FORTIS S.A.,Aktien Europa,Aktien Europa Select,,,,",
+    "BE0974370026,A3CRQ4,CHOICE N.V.,Aktien Europa,Aktien Europa Select,,,,",
+    "BE0974404361,A3DHQJ,MAZARO,Aktien Europa,Aktien Europa Select,,,,",
+    "CH0008175645,792675,\"TELEVERBIER IA SF 13,5\",Aktien Europa,Aktien Europa Select,,,,",
+    "CH0120879058,A1H4B1,\"FIRSTCAUTION NAM. SF 1,37\",Aktien Europa,Aktien Europa Select,,,,",
+    "ES0105536009,A3CYXJ,KTESIOS REAL EST.SOC.EO10,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000031106,811738,\"TROC DE L'ILE NOM. EO 2,5\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000035719,901770,ELECTRICITE MADAGAS. EO 5,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000039216,862747,\"ALTAREIT S.A. INH. EO1,50\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000052755,806277,EDITIONS DU SIGNE NM.EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000054215,896470,\"UNIBEL S.A. INH.  EO 0,75\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000054421,901467,BOURRELIER GR.SA INH.EO 5,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000060428,811001,CIE MONT-BLANC NOM.,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000060824,541814,\"FINANC.MARJOS INH.EO 0,10\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000060907,798633,\"LA CHAUSSERIA INH.EO 3,81\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000061418,792666,FIDUCIAL OFFICE SOLUTIONS,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000061475,890865,\"EURASI.FONC.INV.EO 0,01\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000064735,806344,HYDRAULIQUE PB NOM. EO 22,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000064958,541846,\"INTEXA S.A. INH.   EO 1,6\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000065773,810752,\"IMPRIMERIE CHIR.NOM.EO0,8\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000074775,811688,STRADIM ESP.FIN.NOM.,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000076952,855625,ARTOIS NOM.         EO 20,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000076960,806321,\"GRP. CARNIVOR NOM.EO 3,81\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000079691,A0B55V,\"IDS S.A. NAM.      EO 0,5\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0000185464,A0B552,NOVATECH INDUSTRIES  EO 2,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0004165801,631391,LES HOTELS DE PARIS  O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0007200100,806273,EAUX DE ROYAN NOM.  EO 10,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010086371,A0BM3E,IMALLIANCE INH. O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010204453,A0F5JW,\"MG INTERNAT.SA INH.EO-,10\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010209809,A0ETF5,\"SOC.FRANC.CASINOS EO 2,31\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010328302,A0LEPJ,\"MADE S.A.INH.      EO-,20\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010500363,A0MXUH,\"NICOLAS MIGUET    EO -,12\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010827741,A12CFY,MAGILLEM DESIGN SERV.EO 1,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010882886,A12CF0,\"EDUFORM'ACTION  EO-,04277\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0010972091,A3DY7A,\"SOC.CONSEIL EXT.   EO-,22\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0011092089,A2PVJR,\"MAISON CLIO BLUE EO-,7859\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0011158823,A12CGL,\"INFOCLIP           EO-,30\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0013253812,A2DXYX,\"ALVEEN EO -,10\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR0013371507,A2PE81,PYRATZ CORP.,Aktien Europa,Aktien Europa Select,,,,",
+    "FR0013406881,A2PN6S,\"CMG CLEANTECH S.A. EO-,20\",Aktien Europa,Aktien Europa Select,,,,",
+    "FR001400QW73,A40LF4,\"MACOMPTA.FR S.A. EO-,30\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00B06KBB18,A0EQ18,\"ALBA MINERAL RES LS-,0001\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00B8GJBS16,A1W0G8,SUMO RESOURCES PLC  LS-10,Aktien Europa,Aktien Europa Select,,,,",
+    "GRS092103001,541755,\"BITROS HLDGS NA   EO 1,51\",Aktien Europa,Aktien Europa Select,,,,",
+    "GRS184003002,A0MWR5,PROODEFTIKH TECH.NA,Aktien Europa,Aktien Europa Select,,,,",
+    "GRS284183001,603339,\"SPYROU AGRIC.   NA EO 0,3\",Aktien Europa,Aktien Europa Select,,,,",
+    "GRS474003001,A0MLZE,\"EVROPI HOLDINGS   EO -,26\",Aktien Europa,Aktien Europa Select,,,,",
+    "GRS528003007,A3D2J1,THE AZUR SELECTION SA EO1,Aktien Europa,Aktien Europa Select,,,,",
+    "IT0005324105,A2JG84,\"MEDIA LAB S.P.A.   EO-,31\",Aktien Europa,Aktien Europa Select,,,,",
+    "IT0005336521,A2PD8M,ITALY INNOVAZIONI     EO1,Aktien Europa,Aktien Europa Select,,,,",
+    "NL0000488153,922344,PALM.CULT.MA.MOPOLI FL 50,Aktien Europa,Aktien Europa Select,,,,",
+    "NL0010623518,A1XAX0,SEQUA PETROLEUM N.V.,Aktien Europa,Aktien Europa Select,,,,",
+    "NL0015000F41,A3CYXP,\"LILIUM N.V.  CL.A  EO0,01\",Aktien Europa,Aktien Europa Select,,,,",
+    "PTAZR0AM0006,A12BD8,\"AZOREAN-AQUAT.TECH.EO-,05\",Aktien Europa,Aktien Europa Select,,,,",
+    "PTFNV1AM0002,A1JDAX,FARMINVESTE S.G.P.S. EO 5,Aktien Europa,Aktien Europa Select,,,,",
+    "PTRIZ0AM0009,A2JPAN,RAIZE-INST.DE.PAGA. EO115,Aktien Europa,Aktien Europa Select,,,,",
+    "PTSCT0AP0018,A0MS9A,TOYOTA CAETANO PO.NAM.EO1,Aktien Europa,Aktien Europa Select,,,,",
+    "AU0000046203,A2PKRC,CARNABY RESOURCES LTD.,Aktien International,Aktien International,,,,",
+    "AU0000153256,A3C4K8,ASKARI METALS LIMITED,Aktien International,Aktien International,,,,",
+    "CA51925D1069,910216,LAURENTIAN BK OF CDA,Aktien International,Aktien International,,,,",
+    "CA87039X1179,A40X9X,SWEET EARTH HOLD. CORP.,Aktien International,Aktien International,,,,",
+    "CA8910546032,A2AMAJ,TOREX GOLD RES INC.,Aktien International,Aktien International,,,,",
+    "FR0000054371,811689,\"SPEED RABB.PIZ.NOM.EO-,76\",Aktien International,Aktien International,,,,",
+    "FR0013340973,A2PB3Y,\"BLUE SHARK PWR SYS. EO-,2\",Aktien International,Aktien International,,,,",
+    "NL0012650535,A2JLZW,\"PARX MATERIALS N.V. EO-,1\",Aktien International,Aktien International,,,,",
+    "US63938C1080,A11132,\"NAVIENT CORP.      DL-,01\",Aktien USA,Aktien USA Select,,,,",
+    "US8684591089,A1JX3U,\"SUPERNUS PHARMAC.DL -,001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006602006,660200,GEA GROUP AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA89105F1036,A3DPPV,TOREX RESOURCES INC.,Aktien International,Aktien International,,,,",
+    "GB00BVK4HD05,A42KSB,\"ARKAD.STR.METALS LS-,015\",Aktien Europa,Aktien Europa Select,,,,",
+    "AU0000498503,A3DPPU,HIGHLAND METALS LTD.,Aktien International,Aktien International,,,,",
+    "US63943R1086,A42RF6,\"NAVIENT HLDGS INC DL-,01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 69,
+    "Modifications": 5,
+    "Deletions": 4
+  }
+}
