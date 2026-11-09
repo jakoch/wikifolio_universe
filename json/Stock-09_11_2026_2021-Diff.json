@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "CA75865L1094,A41NVD,REEXPLORATION INC.,Aktien International,Aktien International,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "HK0345001611,890411,VITASOY INTL HLDGS,Aktien International,Aktien International,,,,",
+    "IE0031069275,692189,AXA ROSEN.E.A.-US EQ.B(EO,Fonds,Fonds Aktien,,,,",
+    "IE0004354209,691319,AXA IM ET-JAPAN EQU. B YN,Fonds,Fonds Aktien,,,,",
+    "CA75865L2084,A42PXT,REEXPLORATION O.N.,Aktien International,Aktien International,,,,",
+    "CA4820441042,A42NRU,JUNO INDUSTRIES O.N.,Aktien International,Aktien International,,,,",
+    "IE0004345025,691296,AXA-USEQAL BDL,Fonds,Fonds Aktien,,,,",
+    "IE0031069382,692191,AXA-PAEXJEQI BEO,Fonds,Fonds Aktien,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 2,
+    "Deletions": 7
+  }
+}
