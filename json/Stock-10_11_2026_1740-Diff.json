@@ -1,0 +1,67 @@
+{
+  "Additions": [
+    "DK0061412772,A2QG5D,CADELER A/S         DK 1,Aktien Europa,Aktien Europa Select,,,,",
+    "GB00BVDPPV41,A14QAH,\"REVEL COLLECT.   LS -,001\",Aktien Europa,Aktien Europa Select,,,,",
+    "IM00B2R3RX72,A0Q24Z,OPG POWER VENTURES PLC,Aktien Europa,Aktien Europa Select,,,,",
+    "NO0010815673,A2JGNR,ELMERA GROUP ASA,Aktien Europa,Aktien Europa Select,,,,",
+    "US7496552057,A1H8S8,ROS AGRO PLC GDR REG S 1,Aktien Europa,Aktien Europa Select,,,,",
+    "AU000000AKP0,A1H5Q8,AUDIO PIXELS HOLDINGS LTD,Aktien International,Aktien International,,,,",
+    "CA1926671035,A0YKF0,COLABOR GROUP,Aktien International,Aktien International,,,,",
+    "CA24689E1079,A3C4LT,DELIC HOLDINGS CORP.,Aktien International,Aktien International,,,,",
+    "CA27786T1093,A3C14J,EAT WELL INVESTMENT GROUP,Aktien International,Aktien International,,,,",
+    "CA36468X1069,A3CQXA,GAMEON ENTERTAINM. TECHS,Aktien International,Aktien International,,,,",
+    "CA38065L1058,A2QLZC,GOLD MOUNTAIN MINING CORP,Aktien International,Aktien International,,,,",
+    "CA44864F1099,A418KV,HYDAWAY DIGITAL CORP.,Aktien International,Aktien International,,,,",
+    "CA57767U1066,A2JQSQ,MAV BEAUTY BRANDS INC.,Aktien International,Aktien International,,,,",
+    "CA69938P2052,A407FF,PARCELPAL LOGIS.INC. O.N.,Aktien International,Aktien International,,,,",
+    "CA78029L1067,A41QM5,ROYAL HELIUM A NEW,Aktien International,Aktien International,,,,",
+    "CA7900141044,A2QFH4,ST.JAMES GOLD CORP.,Aktien International,Aktien International,,,,",
+    "CA86882X1096,A2QQ2P,SURGE BATTERY METALS INC.,Aktien International,Aktien International,,,,",
+    "CA98980T1049,A3EKSC,ZODIAC GOLD INC. O.N.,Aktien International,Aktien International,,,,",
+    "US69269L1044,A2QHKZ,OZON HOLDINGS (SP.ADS)/1,Aktien International,Aktien International,,,,",
+    "IE0004345025,691296,AXA-USEQAL BDL,Fonds,Fonds Aktien,,,,",
+    "IE0004354209,691319,AXA IM ET-JAPAN EQU. B YN,Fonds,Fonds Aktien,,,,",
+    "IE0031069275,692189,AXA ROSEN.E.A.-US EQ.B(EO,Fonds,Fonds Aktien,,,,",
+    "IE0031069382,692191,AXA-PAEXJEQI BEO,Fonds,Fonds Aktien,,,,",
+    "SGXZ57724486,A40P1Y,MAXEON SOLAR TECHS,Aktien USA,Aktien USA Select,,,,",
+    "US0043971052,A0MKWM,\"ACCURAY INC.     DL -,001\",Aktien USA,Aktien USA Select,,,,",
+    "US2682111099,A2QCDH,\"DZS INC           DL-,001\",Aktien USA,Aktien USA Select,,,,",
+    "US6544052086,A3DWPZ,\"9 METERS BIOPHARM.DL-,001\",Aktien USA,Aktien USA Select,,,,",
+    "US68234L4059,A3D1RU,\"ONCOSEC MEDICAL   DL-,001\",Aktien USA,Aktien USA Select,,,,",
+    "US72942A1079,A2DMUN,\"PLX PHARMA INC.  DL -,001\",Aktien USA,Aktien USA Select,,,,",
+    "DE000WNDL300,WNDL30,NAKIKI SE INH O.N.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "IT0000062072,850312,GENERALI S.P.A.,Aktien Europa,Aktien Europa Select,,,,",
+      "Current": "IT0000062072,850312,GENERAL ASIC,Aktien Europa,Aktien Europa Select,,,,"
+    },
+    {
+      "Original": "US71385M1071,A40PUQ,PERIMETER GROUP INC. O.N.,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US71385M1071,A40PUQ,PERIMETER SOLUT.INC. O.N.,Aktien USA,Aktien USA Select,,,,"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "CA00856T1012,A3DPPX,AGRION INTERNATIONAL LTD.,Aktien International,Aktien International,,,,",
+    "CA7900147082,A41WUE,ST.JAMES GOLD CORP O.N.,Aktien International,Aktien International,,,,",
+    "SE0030252599,A42NH6,SVEA MINING AB,Aktien Europa,Aktien Europa Select,,,,",
+    "CA74767U1012,A42QTP,QUANTEX DIGITAL CORP.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 30,
+    "Modifications": 5,
+    "Deletions": 4
+  }
+}
