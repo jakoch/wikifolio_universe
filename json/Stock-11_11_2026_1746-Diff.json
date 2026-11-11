@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "FR0014011O84,A41DG7,\"ACHETER-LOUER  EO 112,-\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA8277191059,A408EQ,SILVER47 EXPL. CORP. O.N.,Aktien International,Aktien International,,,,",
+    "DE000A2P0U90,A2P0U9,HANSEMERKUR STR. AUSG.ESG,Fonds,Fonds Aktien,,,,",
+    "US36165A1025,A2P8CL,GEE GROUP INC.,Aktien USA,Aktien USA Select,,,,",
+    "US77543R1023,A2DW4X,\"ROKU INC   CL. A DL-,0001\",Aktien USA,Aktien USA Select,,,,",
+    "DE000A40ZVV0,A40ZVV,CECONOMY AG ON Z.VERK.,Aktien Deutschland,Aktien Sonstige,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000A3E00M1,A3E00M,IONOS GROUP SE NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "FR001401B5X2,A42KPS,\"ACHETER-LOUER  EO 2,-\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA9899631035,A42PS1,ZOD.RES.INC. O.N.,Aktien International,Aktien International,,,,",
+    "CA53681Q1072,A42R82,LITHIUM X2 MIN. INC. O.N.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 3,
+    "Deletions": 3
+  }
+}
