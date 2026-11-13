@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "IT0005528069,A3D88U,REWAY GROUP S.P.A.,Aktien Europa,Aktien Europa Select,,,,",
+    "AU000000SXL4,A0PEF6,SOUTHERN CROSS MEDIA GRP,Aktien International,Aktien International,,,,",
+    "CA65345K1021,A3DM5Z,NFT TECHNOLOGIES INC.,Aktien International,Aktien International,,,,",
+    "AT0000810650,589994,ALLSTARS OPPORT. T,Fonds,Fonds Aktien,,,,",
+    "LU0044387529,972114,DWS ESG EURO BDS(LONG) LC,Fonds,Fonds Aktien,,,,",
+    "LU0153585137,724771,VONTOBEL-EUR.EQU.B-EO,Fonds,Fonds Aktien,,,,",
+    "LU0154397342,725246,SAPHIR GLOBAL-DEFENSIV B,Fonds,Fonds Aktien,,,,",
+    "US2214133058,A3DZZN,\"COSMOS HEALTH      DL-,01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "DE000A41YG13,A41YG1,NAKIKI SE INH O.N. KONV.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "AU0000500100,A42T2U,SEVEN MEDIA GROUP LTD.,Aktien International,Aktien International,,,,",
+    "US81517B1017,A42EKC,\"SECURITIZE CORP.  DL-,001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 1,
+    "Deletions": 3
+  }
+}
