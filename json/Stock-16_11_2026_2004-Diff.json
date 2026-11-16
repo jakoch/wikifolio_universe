@@ -1,0 +1,23 @@
+{
+  "Additions": [],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "US81761L2016,A42FDT,SERVICE PROPERT.TR. NEW,Aktien USA,Aktien USA Select,,,,",
+      "Current": "US81761L2016,A42FDT,SSERVICE PROPERT.TR. NEW,Aktien USA,Aktien USA Select,,,,"
+    }
+  ],
+  "Deletions": [
+    "AU0000355588,A40R9Y,VAULT MINERALS LTD.,Aktien International,Aktien International,,,,",
+    "GB00BLH32M40,A3CQX3,\"DIANOMI PLC   LS -,002\",Aktien Europa,Aktien Europa Select,,,,",
+    "AU000000HMX5,A112GR,HAMMER METALS,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 0,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}
