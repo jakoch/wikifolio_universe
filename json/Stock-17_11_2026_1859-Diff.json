@@ -1,0 +1,34 @@
+{
+  "Additions": [
+    "GB00BLH32M40,A3CQX3,\"DIANOMI PLC   LS -,002\",Aktien Europa,Aktien Europa Select,,,,",
+    "SE0007100342,A2AQCM,NILORNGRUPPEN AB B,Aktien Europa,Aktien Europa Select,,,,",
+    "AU000000HMX5,A112GR,HAMMER METALS,Aktien International,Aktien International,,,,",
+    "AU0000355588,A40R9Y,VAULT MINERALS LTD.,Aktien International,Aktien International,,,,",
+    "CA2447781063,A41BTD,DEFSEC TECHNOLOGIES INC.,Aktien International,Aktien International,,,,",
+    "CA62930A1021,A41KP9,NGEX MINERALS LTD NEW,Aktien International,Aktien International,,,,",
+    "DE0005315121,531512,RSI INTERNATIONAL UI,Fonds,Fonds Aktien,,,,",
+    "IE00BLNN3691,A116P6,\"WEATHERFORD INTL DL -,001\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA2447782053,A42RRG,DEFSEC TECHNOLOGIES INC.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 8,
+    "Modifications": 3,
+    "Deletions": 1
+  }
+}
