@@ -1,0 +1,40 @@
+{
+  "Additions": [
+    "FR00140062B9,A3C9C9,\"TOOSLA SA       EO-,08125\",Aktien Europa,Aktien Europa Select,,,,",
+    "GB00B06QFB75,A0EARV,IG GROUP HOLDINGS PLC,Aktien Europa,Aktien Europa Select,,,,",
+    "CA3144602057,A41EBX,FENDX TECHNOLOGIES NEW.,Aktien International,Aktien International,,,,",
+    "KYG3940K1058,A0YA2K,GLORIOUS PROPERTY HLDGS LTD. REGISTERED SHS REG S,Aktien International,Aktien International,,,,",
+    "KYG4134L1077,A2DRU6,GRAND BAOXIN AUTO GRP LTD,Aktien International,Aktien International,,,,",
+    "LU0161942635,216519,UBS L KEY-GL.EQ.EO P-ACC,Fonds,Fonds Aktien,,,,",
+    "US31573L2043,A426UV,FIBROBIOLOG. O.N.,Aktien USA,Aktien USA Select,,,,",
+    "US6680743050,A0DLGF,\"NORTHWEST.ENER.GRP.DL-,01\",Aktien USA,Aktien USA Select,,,,",
+    "US8163073005,A2P41W,\"SELECTQUOTE INC.  DL -,01\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX"
+    }
+  ],
+  "Deletions": [
+    "FR001401B9V8,A42PBW,TOOSLA SA RGPT26 O.N.,Aktien Europa,Aktien Europa Select,,,,",
+    "US8163074094,A42SH3,\"SELECTQUOTE INC.  DL -,01\",Aktien USA,Aktien USA Select,,,,",
+    "CA62930A2011,A42Q2D,NGEX MINL LDT. O.N.,Aktien International,Aktien International,,,,",
+    "CA5709141017,A42S4Q,MARLIN HEALTH INC.,Aktien International,Aktien International,,,,",
+    "DE000A161Z44,A161Z4,PLENUM AG NA O.N.,Aktien Deutschland,Aktien Sonstige,,,,",
+    "US29333R2067,A42PWQ,ENHANCED GRP NEW A O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 9,
+    "Modifications": 3,
+    "Deletions": 6
+  }
+}
