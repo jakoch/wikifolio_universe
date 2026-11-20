@@ -1,0 +1,29 @@
+{
+  "Additions": [
+    "IT0005439085,A3CQXD,ITALIAN SEA GROUP,Aktien Europa,Aktien Europa Select,,,,",
+    "AU000000CMW8,A0ESJ6,CROMWELL PTY GP STPLD SEC,Aktien International,Aktien International,,,,",
+    "AU0000443905,A41XFY,GBM RESOURCES LTD,Aktien International,Aktien International,,,,",
+    "US00912N4034,A3DWJ1,\"AIR INDUSTRIES GR.DL-,001\",Aktien USA,Aktien USA Select,,,,",
+    "US45826H1095,A2AMZW,\"INTEGER HLDGS     DL-,001\",Aktien USA,Aktien USA Select,,,,",
+    "US6951271005,A1H68T,\"PACIRA BIOSCIENC. DL-,001\",Aktien USA,Aktien USA Select,,,,",
+    "US82536T1079,A2DSDS,\"SOUNDTHINKING INC.DL-,005\",Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006305006,630500,DEUTZ AG O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA4859231066,A4030D,KARUS MINING INC.,Aktien International,Aktien International,,,,",
+    "CA9860001077,A429ND,YOCALE AI INC. A,Aktien International,Aktien International,,,,",
+    "US94708K1034,A429H4,WEATHERFORD INTERNATIONAL,Aktien USA,Aktien USA Select,,,,",
+    "AU0000175838,A3C8WJ,AUSTRAL RESOURCES AUSTR.,Aktien International,Aktien International,,,,",
+    "AU000000IMU9,891460,IMUGENE LTD.,Aktien International,Aktien International,,,,"
+  ],
+  "Summary": {
+    "Additions": 7,
+    "Modifications": 1,
+    "Deletions": 5
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "Additions": [
+    "IE000Y65F5C2,A40YRX,BEII MEMEXCPAB EOA,ETFs,ETFs Emerging Markets,,,,"
+  ],
+  "Modifications": [],
+  "Deletions": [
+    "IE000HQXNLP9,A42M40,BEI-G.C.B.A.E. DLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE00037LD484,A42M3Y,BEI-GL.HY A.E. DLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE00BDF16007,A2DHPT,WISDOMTREE EUR.EQ.ETF ACC,ETFs,ETFs Europa Gesamt,,,,",
+    "IE0009EB8850,A42M3X,BEI-U.HY AC.E. DLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000CZZKFP4,A42M3Z,BEI-G.A.B.A.E. DLA,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000S0PSP47,A3C8S2,VANG.USD TR. HGDLSD,ETFs,ETFs Sonstige Bonds,,,,",
+    "IE000O91W7C7,A42M41,BEI-E.C.B.A.E. EOA,ETFs,ETFs Sonstige Bonds,,,,"
+  ],
+  "Summary": {
+    "Additions": 1,
+    "Modifications": 0,
+    "Deletions": 7
+  }
+}
