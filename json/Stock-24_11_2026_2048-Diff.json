@@ -1,0 +1,28 @@
+{
+  "Additions": [
+    "FR0010641449,A1CTQQ,\"AGROGENERATION INH.EO-,05\",Aktien Europa,Aktien Europa Select,,,,",
+    "CA11276H1064,A40WAH,BROOKFIELD INFR.EX.SUB.A,Aktien International,Aktien International,,,,",
+    "CA92512J1066,A2DLL7,VERSABANK,Aktien International,Aktien International,,,,",
+    "US1280583022,A3DWGC,\"LISATA THERAP.INC.DL-,001\",Aktien USA,Aktien USA Select,,,,",
+    "US75120L2097,A42087,RALLYBIO CORP. NEW O.N.,Aktien USA,Aktien USA Select,,,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien DAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE0006070006,607000,HOCHTIEF AG,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien DAX"
+    },
+    {
+      "Original": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A0Z2ZZ5,A0Z2ZZ,FREENET AG NA O.N.,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    }
+  ],
+  "Deletions": [
+    "US1280584012,A42SLD,LISATA THERA O.N.,Aktien USA,Aktien USA Select,,,,",
+    "FR001401BA75,A42KRK,\"AGROGENERATION IN.EO-,55\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 5,
+    "Modifications": 2,
+    "Deletions": 2
+  }
+}
