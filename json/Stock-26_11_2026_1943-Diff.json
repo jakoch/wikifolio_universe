@@ -1,0 +1,30 @@
+{
+  "Additions": [
+    "FR0014011QJ8,A41HNM,\"EUROPLASMA      EO 2,5\",Aktien Europa,Aktien Europa Select,,,,",
+    "IE00BLP58571,A112M8,IRISH CONTINENTAL GRP UTS,Aktien Europa,Aktien Europa Select,,,,",
+    "CA18452Y1007,A2P5AD,CLEAN AIR METALS INC.,Aktien International,Aktien International,,,,",
+    "CA87505Y4094,A1J1D0,TAMARACK VALLEY ENERGY,Aktien International,Aktien International,,,,",
+    "LU1683285164,A2H661,CSIF2-CS L DIG.H.EQU. BDL,Fonds,Fonds Aktien,,,,",
+    "DE000A0S8488,A0S848,HAMBURG.HAFEN LOG.A-SP NA,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,,"
+  ],
+  "Modifications": [
+    {
+      "Original": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000A2NB601,A2NB60,JENOPTIK AG  NA O.N.,Aktien Deutschland,Aktien TECDAX,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien TECDAX"
+    },
+    {
+      "Original": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien SDAX,Aktien Deutschland,Aktien MDAX",
+      "Current": "DE000DWS1007,DWS100,DWS GROUP GMBH+CO.KGAA ON,Aktien Deutschland,Aktien Sonstige,Aktien Deutschland,Aktien MDAX,Aktien Deutschland,Aktien SDAX"
+    }
+  ],
+  "Deletions": [
+    "CA87505Y8889,A42S4N,TAMARACK VALLEY EN. O.N.,Aktien International,Aktien International,,,,",
+    "CA5504271084,A4269V,LUNR AEROSPACE CORP. O.N.,Aktien International,Aktien International,,,,",
+    "FR001401BHQ6,A42KS0,\"EUROPLASMA      EO 1,-\",Aktien Europa,Aktien Europa Select,,,,"
+  ],
+  "Summary": {
+    "Additions": 6,
+    "Modifications": 2,
+    "Deletions": 3
+  }
+}
